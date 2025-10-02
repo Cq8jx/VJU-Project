@@ -1,4 +1,4 @@
-# Professional Manner and Workstyle Guide (Academic & General Affairs)
+# Professional Manner and Workstyle Guide
 
 ## Table of Contents
 - Preface: Building Trust as a University Professional
@@ -135,7 +135,14 @@ Prioritising another call during a vendor meeting disrupted discussions; institu
 - Block focus time and mute notifications.
 - Deploy pre-send checklists to avoid missing attachments or wrong recipients.
 
-Example matrix (urgent/important, etc.) and five-point email checklist follow the Japanese edition.
+#### 5-4. Meeting Design and Facilitation
+- **Clarify objectives and outputs**: Specify whether the meeting—executive sessions included—must reach a decision, escalate a risk, or agree on next steps. Share agenda and materials at least 24 hours in advance.
+- **Assign roles to protect time**: Separate chair, timekeeper, and note-taker; display timers for each topic. When discussion overruns, park items or route them to a smaller task force instead of extending the meeting indefinitely.
+- **Shift information sharing offline**: Circulate summaries or short recordings beforehand so the live meeting focuses on questions, trade-offs, and decisions.
+- **Confirm decisions, owners, and deadlines**: Reserve the final five minutes to recap outcomes, open issues, and responsible persons. Distribute minutes the same day and nominate a follow-up contact (e.g., executive assistant) for leadership meetings.
+- **Review cadence regularly**: If meetings consistently run long, reassess purpose, attendees, and frequency each quarter; consider redesigning portions as workshops, async updates, or 1-on-1s.
+
+Matrix templates and the five-point email checklist mirror the Japanese edition.
 
 #### Case Example
 Submitting the course catalogue early gave IT time to test, enabling a zero-defect release; delays in another year caused late-night publication and student complaints.
