@@ -80,6 +80,7 @@ Buổi gặp phụ huynh với trang phục quá thoải mái nhận phản hồ
 - **Đặt câu hỏi**: Chuẩn bị để thể hiện sự quan tâm; nhắc lại sự tôn trọng trong trao đổi dài.
 - **Keep in touch**: Kết thúc bằng lời duy trì liên hệ.
 - **Dự đoán phản ứng**: Nghĩ trước câu hỏi và lịch của đối phương để chuẩn bị dữ kiện, liên kết tài liệu và phương án trả lời, giảm trao đổi vòng vo.
+- **Xác định người ra quyết định**: Luôn biết ai là người phê duyệt cuối. Nếu chính bạn quyết định, phản hồi sớm để không làm các bên chờ đợi; khi người khác quyết, hãy đưa ra các phương án kèm quan điểm đề xuất để thúc đẩy quyết định.
 
 #### 3-2. Quy tắc email/tin nhắn
 1. **Trả lời trong 24 giờ**, cho dù đang kiểm tra.

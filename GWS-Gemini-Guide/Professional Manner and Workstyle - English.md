@@ -80,6 +80,7 @@ At a parent briefing, casual attire led to feedback that “the university feels
 - **Questioning**: Prepare questions to show interest; restate respect during long exchanges.
 - **Keep in touch**: Close conversations or emails with a phrase signalling ongoing commitment.
 - **Anticipation**: Plan messages with the recipient’s likely reactions in mind, attach clarifications or data in advance, and reduce avoidable back-and-forth.
+- **Track decision makers**: Identify who owns the decision. If you are the decision maker, respond quickly so stakeholders are not left waiting; if someone else decides, offer viable options alongside your recommendation to speed approval.
 
 #### 3-2. Email and Messaging Rules
 1. **Reply within 24 hours** and acknowledge even when checking details.
