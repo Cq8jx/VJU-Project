@@ -205,7 +205,18 @@ Submitting the course catalogue early gave IT time to test, enabling a zero-defe
 
 ### Section 10: Action Declarations and Follow-up
 
-(As in Japanese edition: declaration, review, mentoring.)
+1. **Create Quarterly Action Declarations**
+   - Each staff member lists three items at the start of the quarter: behaviour to improve, skill to learn, and a measurable indicator.
+   - Store the sheet in the shared drive and review brief progress updates during morning huddles or monthly meetings.
+
+2. **Embed Follow-up Loops**
+   - Use monthly 1-on-1 sessions to check progress, identify blockers, and adjust goals or resources where needed.
+   - In team meetings, summarise successes, key learnings, and unmet goals with next steps so the whole group benefits from the experience.
+
+3. **Run a Mentoring Programme**
+   - Pair newcomers or priority talent with experienced mentors; schedule monthly check-ins and provide a day-to-day contact channel.
+   - Mentors review process as well as outcomes, recommending training or tools to close gaps.
+   - Conduct semi-annual reflections to capture mentoring insights and share them across the team.
 
 ---
 

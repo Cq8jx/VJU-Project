@@ -205,7 +205,18 @@ Một nhân viên trả lời điện thoại khác khi đang tiếp khách khi�
 
 ### Mục 10 – Tuyên bố hành động và theo dõi
 
-(Nội dung tuyên bố hành động, theo dõi, mentor giống bản tiếng Nhật.)
+1. **Lập tuyên bố hành động theo quý**
+   - Đầu mỗi quý, từng thành viên điền ba mục: hành vi muốn cải thiện, kỹ năng cần học, chỉ số đo lường cụ thể.
+   - Lưu biểu mẫu trong thư mục chung và cập nhật tiến độ ngắn trong họp sáng hoặc họp phòng hằng tháng.
+
+2. **Thiết lập vòng lặp theo dõi**
+   - 1on1 hằng tháng để kiểm tra tiến độ, phân tích khó khăn và điều chỉnh mục tiêu/nguồn lực khi cần.
+   - Trong họp nhóm, tóm tắt “điểm thành công – bài học – mục tiêu chưa đạt và bước tiếp” để chia sẻ cho cả phòng.
+
+3. **Vận hành chương trình mentor**
+   - Giao mentor cho nhân sự mới hoặc đối tượng ưu tiên; duy trì điểm hẹn tối thiểu mỗi tháng và kênh trao đổi thường xuyên.
+   - Mentor theo dõi cả quy trình (chuẩn bị, giao tiếp, tổng kết) và giới thiệu khoá học/công cụ phù hợp.
+   - Cuối mỗi nửa năm, thực hiện phiên tổng kết để ghi nhận bài học và điều chỉnh cách thức mentor.
 
 ---
 
