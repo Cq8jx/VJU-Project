@@ -137,10 +137,10 @@ Một nhân viên trả lời điện thoại khác khi đang tiếp khách khi�
 
 #### 5-4. Thiết kế và điều phối cuộc họp
 - **Nêu rõ mục tiêu và kết quả mong đợi**: Ngay cả cuộc họp lãnh đạo cũng cần xác định mục đích (ra quyết định, cảnh báo rủi ro, thống nhất hành động). Gửi trước agenda và tài liệu tối thiểu 24 giờ.
+- **Chia sẻ thông tin theo hình thức phi đồng bộ**: Những phần chỉ mang tính cập nhật có thể gửi tóm tắt hoặc video trước; thời gian họp tập trung vào câu hỏi và quyết định. Chỉ báo cáo nội dung thực sự cần cho quyết định hoặc quản trị rủi ro; phần còn lại để ở tài liệu tham khảo.
 - **Phân vai để kiểm soát thời gian**: Tách bạch chủ trì, quản lý thời gian và ghi biên bản; hiển thị bộ đếm cho từng nội dung. Nếu trao đổi vượt khung, chuyển sang phiên làm việc nhỏ hoặc đưa vào danh sách xử lý sau.
-- **Chia sẻ thông tin theo hình thức phi đồng bộ**: Những phần chỉ mang tính cập nhật có thể gửi tóm tắt hoặc video trước; thời gian họp tập trung vào câu hỏi và quyết định.
 - **Khẳng định quyết định và người chịu trách nhiệm**: 5 phút cuối rà soát quyết định, việc còn treo và người/ hạn xử lý. Biên bản gửi trong ngày, chỉ định đầu mối (ví dụ trợ lý điều hành) để tiếp nhận câu hỏi.
-- **Đánh giá định kỳ**: Nếu cuộc họp kéo dài thường xuyên, mỗi quý nên xem lại mục tiêu, thành phần, tần suất; cân nhắc đổi sang workshop, bản cập nhật không đồng bộ hoặc 1on1 khi phù hợp.
+- **Đánh giá định kỳ**: Nếu cuộc họp kéo dài thường xuyên, mỗi quý nên xem lại mục tiêu, thành phần, tần suất; cân nhắc đổi sang workshop, bản cập nhật không đồng bộ hoặc 1on1 khi phù hợp. Ghi nhớ rằng thời gian của lãnh đạo và quản lý cấp trung có chi phí rất cao nên luôn tự hỏi “có thể rút gọn cuộc họp này không?”.
 
 (Mẫu ma trận và checklist email 5 điểm giống bản tiếng Nhật.)
 
