@@ -1,3 +1,5 @@
+This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
+
 **Appendix 2: Thesis and graduation project layout**
 
 **[Appendix 2.1]{.underline} : Sample cover of thesis with** ~A4~ size

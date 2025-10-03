@@ -1,3 +1,5 @@
+This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
+
 **Annex 2: Format of Undergraduate thesis**
 
 **[Annex 2.1]{.underline} :** Template for the outer cover, size A4

@@ -1,3 +1,5 @@
+Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
+
 # CÔNG BÁO/Số 809 + 810/Ngày 19-9-2021
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO**

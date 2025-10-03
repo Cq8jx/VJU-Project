@@ -1,3 +1,5 @@
+This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
+
 Number: 259/HD-DHVN Signing time: November 18, 2024 11:53:40 +07:00
 
 # APPENDIX 2

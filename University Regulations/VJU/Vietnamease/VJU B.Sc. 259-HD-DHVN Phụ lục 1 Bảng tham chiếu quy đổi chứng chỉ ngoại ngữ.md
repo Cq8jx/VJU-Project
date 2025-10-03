@@ -1,3 +1,5 @@
+Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
+
 Số: 259/HD-ĐHVN
 Thời gian ký: 18/11/2024 11:52:53 +07:00
 

@@ -1,3 +1,5 @@
+Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
+
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**
 **TRƯỜNG ĐẠI HỌC NGOẠI NGỮ**
 

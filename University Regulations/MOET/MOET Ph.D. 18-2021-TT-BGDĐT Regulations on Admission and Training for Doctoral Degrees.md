@@ -1,3 +1,5 @@
+This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
+
 # OFFICIAL GAZETTE/No. 669 + 670/July 16, 2021
 
 **MINISTRY OF EDUCATION AND TRAINING**
