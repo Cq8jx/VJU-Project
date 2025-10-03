@@ -1,4 +1,4 @@
-This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
+This file is a text transcription of the information published at https://vju.vnu.edu.vn/dam-bao-chat-luong/thuc-hien-cong-khai-doi-voi-csgd-dai-hoc/dieu-kien-dam-bao-chat-luong/, and the authoritative content is the version available there.
 
 HANOI NATIONAL UNIVERSITY VIETNAM- **JAPAN UNIVERSITY** No: 826
 /VNU-KT&DBCL
