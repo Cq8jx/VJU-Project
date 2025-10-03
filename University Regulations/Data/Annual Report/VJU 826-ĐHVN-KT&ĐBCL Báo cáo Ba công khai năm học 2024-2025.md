@@ -322,15 +322,14 @@ Các mốc chính trong lịch sử hình thành và phát triển trường Đ�
 
 **2. Diện tích đất và diện tích sàn xây dựng phục vụ đào tạo**
 | TT | Địa điểm | Địa chỉ | Diện tích đất (m²) | Diện tích sàn (m²) |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | Cơ sở Hòa Lạc | Khu QGHN04, Khu đô thị Đại học Quốc gia Hà Nội tại Hòa Lạc, Xã Hòa Lạc, Thành phố Hà Nội | 190.000 | 8.559,4 |
-| | | Cơ sở tại Hòa Lạc: Xã Hòa Lạc, Thành phố Hà Nội | 750.000 | |
-| 2 | Cơ sở Mỹ Đình | Đường Lưu Hữu Phước, phường Từ Liêm, thành phố Hà Nội | | 2.457 |
-| | **Tổng cộng** | | **940.000** | **11.016,4** |
+| :--- | :--- | :--- | ---: | ---: |
+| 1 | Cơ sở Hòa Lạc | Khu QGHN04, Khu đô thị Đại học Quốc gia Hà Nội tại Hòa Lạc, Xã Hòa Lạc, Thành phố Hà Nội<br>Cơ sở tại Hòa Lạc: Xã Hòa Lạc, Thành phố Hà Nội | 190.000 | 8.559,4 |
+| 2 | Cơ sở Mỹ Đình | Đường Lưu Hữu Phước, phường Từ Liêm, thành phố Hà Nội | 750.000 | 2.457 |
+| **Tổng cộng** |  |  | **940.000** | **11.016,4** |
 
 **3. Các hạng mục cơ sở vật chất được đầu tư mới trong năm**
 | TT | Hạng mục đầu tư | Địa điểm | Kinh phí (triệu đồng) |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | ---: |
 | 1 | PTN Công nghệ Sinh học và Thực phẩm/ Biology and Food Technology Laboratory | QGHN 04 | 1.766,82 |
 | 2 | PTN quan sát sinh học/Biology Imaging Lab | QGHN 04 | 482,58 |
 | 3 | PTN Sinh học phân tử/Laboratory of Molecular Biology | QGHN 04 | 3.255,86 |
@@ -342,7 +341,7 @@ Các mốc chính trong lịch sử hình thành và phát triển trường Đ�
 | 9 | PTN phân tích 1/Analytical Laboratory 1 | QGHN 04 | 4.181,82 |
 | 10 | Phòng chuẩn bị mẫu/Sample Preparation Laboratory | QGHN 04 | 608,33 |
 | 11 | PTN Kỹ thuật Hóa học và Môi trường/Chemical and Environmental Engineering Laboratory | QGHN 04 | 259,60 |
-| | **Tổng cộng** | | **16.841,93** |
+| **Tổng cộng** |  |  | **16.841,93** |
 
 ### IV. KIỂM ĐỊNH CHẤT LƯỢNG GIÁO DỤC
 
@@ -411,13 +410,13 @@ Các mốc chính trong lịch sử hình thành và phát triển trường Đ�
 **2. Các đề tài nghiên cứu khoa học thực hiện trong năm**
 
 | TT | Đề tài nghiên cứu khoa học | Số lượng | Kinh phí thực hiện trong năm |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :-: | ---: |
 | 1 | Đề tài cấp Nhà nước | 3 | 1.417 triệu đồng |
 | 2 | Đề tài cấp bộ, tỉnh | 2 | 400 triệu đồng |
 | 3 | Đề tài cấp cơ sở | 13 | 3.380 triệu đồng |
 | 4 | Đề tài hợp tác doanh nghiệp (trong nước) | 0 | 0 |
 | 5 | Đề tài hợp tác quốc tế | 0 | 0 |
-| | **Tổng số** | | **5.197 triệu đồng** |
+| **Tổng số** |  |  | **5.197 triệu đồng** |
 
 **3. Kết quả công bố khoa học, công nghệ**
 | TT | Công trình công bố | 2025 | 2024 |

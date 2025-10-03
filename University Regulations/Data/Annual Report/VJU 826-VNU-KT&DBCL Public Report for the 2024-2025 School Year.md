@@ -456,49 +456,54 @@ participate in training courses in different training fields, so the
 total number of full-time lecturers in the fields is greater than the
 total number of full-time lecturers.*
 
-**3. Statistics on management staff and administrative and support
-staff** *Data updated to June 30, 2025* \| TT \| Index \| 2025 \| 2024
-\| \| :— \| :— \| :— \| :— \| \| 1 \| Number of administrative and
-support staff \| 15 \| 15 \| \| 2 \| Number of administrative and
-support staff \| 42 \| Not available \| \| 3 \| Ratio of administrative
-and support staff and managers to total full-time lecturers \| 74% \|
-Not available \|
+**3. Statistics on management staff and administrative and support staff**  *Data updated to June 30, 2025*
+
+| No. | Indicator | 2025 | 2024 |
+| :--- | :--- | ---: | :--- |
+| 1 | Number of administrative and support managers | 15 | 15 |
+| 2 | Number of administrative and support staff | 42 | Not reported |
+| 3 | Ratio of administrative/support managers and staff to total full-time lecturers | 74% | Not reported |
 
 ### III. FACILITIES
 
-**1. Evaluation indicators of facilities** \| TT \| Evaluation index \|
-2025 \| 2024 \| \| :— \| :— \| :— \| :— \| \| 1 \| Land area/student
-(m2) \| 908.21m²/student \| 1,492m²/student \| \| 2 \| Floor
-area/student (m2) \| 10.64m²/student \| 14.0m²/student \| \| 3 \|
-Percentage of lecturers with separate workplaces \| 100% \| 100% \| \| 4
-\| Number of books/training major \| 95 \| \| \| 5 \| Number of
-books/student \| - \| \| \| 6 \| Percentage of courses ready to teach
-online \| 30% \| \| \| 7 \| Internet speed/1,000 learners (Mbps) \|
-393Mbps \| \| *\* The number of books per student cannot be counted
-because the rate of digitization of books and textbooks is high.*
+**1. Evaluation indicators of facilities**
 
-**2. Land area and construction floor area for training** \| TT \|
-Location \| Address \| Land area (m²) \| Floor area (m²) \| \| :— \| :—
-\| :— \| :— \| :— \| \| 1 \| Hoa Lac Campus \| QGHN04 Area, Hanoi
-National University Urban Area in Hoa Lac, Hoa Lac Commune, Hanoi City
-\| 190,000 \| 8,559.4 \| \| \| \| Hoa Lac Campus: Hoa Lac Commune, Hanoi
-City \| 750,000 \| \| \| 2 \| My Dinh Campus \| Luu Huu Phuoc Street, Tu
-Liem Ward, Hanoi City \| \| 2,457 \| \| \| **Total** \| \| **940,000**
-\| **11,016.4** \|
+| No. | Evaluation indicator | 2025 | 2024 |
+| :--- | :--- | :--- | :--- |
+| 1 | Land area per learner (m²) | 908.21 m²/learner | 1,492 m²/learner |
+| 2 | Floor area per learner (m²) | 10.64 m²/learner | 14.0 m²/learner |
+| 3 | Percentage of lecturers with dedicated workspaces | 100% | 100% |
+| 4 | Number of book titles per training program | 95 |  |
+| 5 | Number of book copies per learner | - |  |
+| 6 | Percentage of courses ready for online delivery | 30% |  |
+| 7 | Internet speed per 1,000 learners (Mbps) | 393 Mbps |  |
 
-**3. Newly invested facilities in the year** \| No. \| Investment items
-\| Location \| Budget (million VND) \| \| :— \| :— \| :— \| :— \| \| 1
-\| Biology and Food Technology Laboratory \| QGHN 04 \| 1,766.82 \| \| 2
-\| Biology Imaging Lab \| QGHN 04 \| 482.58 \| \| 3 \| Molecular Biology
-Laboratory \| QGHN 04 \| 3,255.86 \| \| 4 \| Microbiology Laboratory \|
-QGHN 04 \| 3,889.43 \| \| 5 \| Tissue Culture Laboratory \| QGHN 04 \|
-1,808.05 \| \| 6 \| Sample and Chemical Preservation Laboratory \| QGHN
-04 \| 420.64 \| \| 7 \| Analytical Laboratory 3 \| QGHN 04 \| 52.80 \|
-\| 8 \| Analytical Laboratory 2 \| QGHN 04 \| 116.00 \| \| 9 \|
-Analytical Laboratory 1 \| QGHN 04 \| 4,181.82 \| \| 10 \| Sample
-Preparation Laboratory \| QGHN 04 \| 608.33 \| \| 11 \| Chemical and
-Environmental Engineering Laboratory \| QGHN 04 \| 259.60 \| \| \|
-**Total** \| \| **16,841.93** \|
+*\* The number of books per learner cannot be counted because most books and textbooks are digitized.*
+
+**2. Land area and construction floor area for training**
+
+| No. | Location | Address | Land area (m²) | Floor area (m²) |
+| :--- | :--- | :--- | ---: | ---: |
+| 1 | Hoa Lac Campus | QGHN04 Area, Hanoi National University Urban Area in Hoa Lac, Hoa Lac Commune, Hanoi City<br>Hoa Lac Campus: Hoa Lac Commune, Hanoi City | 190,000 | 8,559.4 |
+| 2 | My Dinh Campus | Luu Huu Phuoc Street, Tu Liem Ward, Hanoi City | 750,000 | 2,457 |
+| **Total** |  |  | **940,000** | **11,016.4** |
+
+**3. Newly invested facilities in the year**
+
+| No. | Investment item | Location | Budget (million VND) |
+| :--- | :--- | :--- | ---: |
+| 1 | Biology and Food Technology Laboratory | QGHN 04 | 1,766.82 |
+| 2 | Biology Imaging Lab | QGHN 04 | 482.58 |
+| 3 | Molecular Biology Laboratory | QGHN 04 | 3,255.86 |
+| 4 | Microbiology Laboratory | QGHN 04 | 3,889.43 |
+| 5 | Tissue Culture Laboratory | QGHN 04 | 1,808.05 |
+| 6 | Sample and Chemical Preservation Laboratory | QGHN 04 | 420.64 |
+| 7 | Analytical Laboratory 3 | QGHN 04 | 52.80 |
+| 8 | Analytical Laboratory 2 | QGHN 04 | 116.00 |
+| 9 | Analytical Laboratory 1 | QGHN 04 | 4,181.82 |
+| 10 | Sample Preparation Laboratory | QGHN 04 | 608.33 |
+| 11 | Chemical and Environmental Engineering Laboratory | QGHN 04 | 259.60 |
+| **Total** |  |  | **16,841.93** |
 
 ### IV. EDUCATION QUALITY ASSESSMENT
 
@@ -508,15 +513,17 @@ Accreditation Association (JUAA) - Accreditation standards applied:
 International Joint Accreditation standards (iJAS) - Accreditation
 level: Passed - Effective period: from May 27, 2025 to May 26, 2031.
 
-**2. List of accredited training programs** \| No. \| Major code \|
-Major name \| Program name \| Accreditation organization name \|
-Effective period \| \| :— \| :— \| :— \| :— \| :— \| \| 1 \| 8520320 \|
-Environmental Engineering \| Master of Environmental Engineering \|
-AUN-QA \| 8/11/2021-7/11/2026 \| \| 2 \| 8340402 \| Public Policy \|
-Master of Public Policy \| AUN-QA \| 25/3/2022-24/3/2027 \| \| 3 \|
-8580201 \| Civil Engineering \| Master of Civil Engineering \| AUN-QA \|
-30/9/2023-29/9/2028 \| *Note: AUN-QA: ASEAN University Network on
-Quality Assurance*
+**2. List of accredited training programs**
+
+| No. | Major code | Major name | Program name | Accreditation organization | Effective period |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 8520320 | Environmental Engineering | Master of Environmental Engineering | AUN-QA | 8/11/2021-7/11/2026 |
+| 2 | 8340402 | Public Policy | Master of Public Policy | AUN-QA | 25/3/2022-24/3/2027 |
+| 3 | 8580201 | Civil Engineering | Master of Civil Engineering | AUN-QA | 30/9/2023-29/9/2028 |
+
+*Note: AUN-QA: ASEAN University Network on Quality Assurance*
+
+### V. ADMISSION AND TRAINING RESULTS
 
 ### V. ADMISSION AND TRAINING RESULTS
 
@@ -588,14 +595,14 @@ lecturers paid by VJU is 35 lecturers.*
 
 **2. Scientific research topics carried out during the year**
 
-| TT | Scientific research topics | Quantity | Implementation budget for the year |
-|:---|:---|:---|:---|
+| No. | Scientific research topic | Quantity | Annual budget |
+| :--- | :--- | :-: | ---: |
 | 1 | State-level topics | 3 | 1,417 million VND |
 | 2 | Ministry and provincial level topics | 2 | 400 million VND |
 | 3 | Grassroots level topics | 13 | 3,380 million VND |
 | 4 | Business cooperation topic (domestic) | 0 | 0 |
 | 5 | International cooperation topics | 0 | 0 |
-|  | **Total** |  | **5,197 million VND** |
+| **Total** |  |  | **5,197 million VND** |
 
 **3. Results of scientific and technological publications**
 
