@@ -141,7 +141,7 @@ University**
 | July 21, 2014 | The Prime Minister decided to establish the Vietnam-Japan University. |
 | July 30, 2014 | The Management Board of Vietnam-Japan University was established under Decision No. 2589/QD-VNU of the Director of VNU to prepare conditions for organization, personnel, training, scientific research, finance, facilities, equipment, international cooperation, and other issues for Vietnam-Japan University to come into operation, organize enrollment and training according to plan. |
 | 2015 | VNU and JICA signed a cooperation agreement to implement the "Technical cooperation project to build and deploy master training programs at VJU 2015-2020" (Project TC1) |
-| 2015 | \- The Project Management Board of Vietnam - Japan University with the support of TC1 Project has established a Working Group consisting of experienced professors from VNU and Japanese partner universities to develop a project to open new training programs for the first 6 master's programs including Environmental Engineering, Infrastructure Engineering, Nanotechnology, Area Studies, Business Administration and Public Policy. |
+| 2015 | - The Project Management Board of Vietnam - Japan University with the support of TC1 Project has established a Working Group consisting of experienced professors from VNU and Japanese partner universities to develop a project to open new training programs for the first 6 master's programs including Environmental Engineering, Infrastructure Engineering, Nanotechnology, Area Studies, Business Administration and Public Policy. |
 | October 30, 2015 | Issued 6 master's training programs: Environmental Engineering, Infrastructure Engineering, Nanotechnology, Area Studies, Business Administration and Public Policy |
 | April 29, 2016 | The Director of VNU issued a decision to appoint the Board of Directors of Vietnam-Japan University. |
 | July 15, 2016 | The Board of Directors of Vietnam-Japan University issued a decision to assign tasks to the Directors of Training Programs and promulgated the Regulations on the powers, functions and duties of the Directors of Training Programs. |
@@ -155,10 +155,10 @@ University**
 | 2019 | Approval of the project proposal to build Vietnam-Japan University in Hoa Lac |
 | 2020 | VNU and JICA signed a cooperation agreement to implement the "Project to Improve Education Level, Research Capacity and University Management at VJU" (Project TC2) |
 | 2020 | Open Japanese Studies Bachelor's Program |
-| 2021 | \- Open the Bachelor of Computer Science and Engineering training program - Adjust the Master of Science training programs |
+| 2021 | - Open the Bachelor of Computer Science and Engineering training program - Adjust the Master of Science training programs |
 | 2022 | Opening of training programs in Civil Engineering and Smart and Sustainable Agriculture Engineering |
-| 2023 | \- Open the training program of Smart Mechatronics and Japanese-style manufacturing and the training program of Food Technology and Health Engineering - Adjust the training programs |
-| 2023 | \- Bring students to study at QGHN04 area - Adjust training programs according to instruction 1144 of VNU |
+| 2023 | - Open the training program of Smart Mechatronics and Japanese-style manufacturing and the training program of Food Technology and Health Engineering - Adjust the training programs |
+| 2023 | - Bring students to study at QGHN04 area - Adjust training programs according to instruction 1144 of VNU |
 | 2024 | The Prime Minister approved the pre-feasibility report on the construction of the Vietnam-Japan University in Hoa Lac. |
 
 **6. Information of legal representative:** 6.1. Full name: Furuta Motoo
@@ -186,47 +186,35 @@ June 30, 2025 is shown in Table 2 below.
 **Table 2. List of members of the Vietnam-Japan University Council**
 **Term 2021 - 2026 (As of June 30, 2025)**
 
-**JAPANESE SIDE** \| No. \| Full name \| Work unit \| Title \| Note \|
-\| :— \| :— \| :— \| :— \| :— \| \| 1 \| Mr. TAKEBE Tsutomu \| Special
-Advisor to the Japan-Vietnam Friendship Parliamentary Alliance \| Member
-\| \| \| 2 \| Mr. Ito Naoki \| Ambassador Extraordinary and
-Plenipotentiary of Japan to Vietnam \| Member \| Replacing Mr. YAMADA
-Takio according to Decision No. 4090/QD-VNU \| \| 3 \| Mr. AIZAWA Masuo
-\| Advisor to the President of the Japan Science and Technology Agency
-(JST) \| Member \| \| \| 4 \| Mr. Ozasa Haruhiko \| Chief
-Representative, Japan External Trade Organization \| Member \| Replacing
-Mr. NAKAJIMA Takeo according to Decision No. 5522/QD-VNU \| \| 5 \| Mr.
-UCHIDA Katsuichi \| Professor Emeritus, Senior Advisor to Waseda
-University \| Vice President \| \| \| 6 \| Mr. CASSIM Monte \| Board
-Member of Ritsumeikan Trust, Director of Graduate School of Leadership
-and Innovation, Shizenkan University \| Member \| \| \| 7 \| Mr.
-TAKEUCHI Kazuhiko \| Institute for Future Initiatives, University of
-Tokyo \| Member \| \| \| 8 \| Mr. MORITA Kiyotaka \| Director General,
-Department of International Cooperation, Keidanren (Japan Business
-Federation) \| Member \| In place of Mr. Takehara Reiji according to
-Decision No. 4090/QD-VNU \| \| 9 \| Mr. MATSUOKA Tetsuya \| Director of
-International Division, Japan Chamber of Commerce and Industry \| Member
-\| In place of Mr. Sasaki Kazuto according to Decision No. 4090/QD-VNU
-\| \| 10 \| Mr. FURUTA Motoo \| President of Vietnam-Japan University,
-VNU \| Member \| \|
+**Japanese Side**
 
-**VIETNAM SIDE** \| No. \| Full name \| Work unit \| Title \| Note \| \|
-:— \| :— \| :— \| :— \| :— \| \| 1 \| Mr. Le Quan \| Director of VNU \|
-Chairman \| \| \| 2 \| Mr. To Huy Rua \| Chairman of Vietnam - Japan
-Friendship AssociationHonorary President of Vietnam - Japan University
-\| Member \| \| \| 3 \| Mr. Pham Dai Duong \| Chairman of Phu Yen
-Province \| Member \| \| \| 4 \| Mr. Vu Minh Giang \| Chairman of the
-Council of Science and Training, VNU \| Member \| \| \| 5 \| Mr. Nguyen
-Hieu (2) \| Head of the Organization and Personnel Department, VNU \|
-Member, Head of the Supervisory Board \| \| \| 6 \| Mr. Nguyen Dinh Duc
-\| Chairman of the Council of the University of Technology, VNU \|
-Member \| Title change according to Decision No. 2932/QD-VNU \| \| 7 \|
-Mr. Nguyen Anh Tuan \| Head of Training Department, VNU \| Member,
-Secretary \| Newly added according to Decision No. 2932/QD-VNU \| \| 8
-\| Mr. Dao Hong Tuyen \| Chairman of the Board of Directors of Tuan Chau
-Group \| Member \| \| \| 9 \| Mr. Pham Dinh Doan \| Chairman of Phu Thai
-Holdings Group \| Member \| \| \| 10 \| Mr. Nguyen Hoang Oanh \| Vice
-Principal of Vietnam-Japan University \| Member \| \|
+| No. | Full name | Work unit | Title | Note |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Mr. TAKEBE Tsutomu | Special Advisor to the Japan-Vietnam Friendship Parliamentary Alliance | Member | |
+| 2 | Mr. Ito Naoki | Ambassador Extraordinary and Plenipotentiary of Japan to Vietnam | Member | Replacing Mr. YAMADA Takio according to Decision No. 4090/QD-VNU |
+| 3 | Mr. AIZAWA Masuo | Advisor to the President of the Japan Science and Technology Agency (JST) | Member | |
+| 4 | Mr. Ozasa Haruhiko | Chief Representative, Japan External Trade Organization (JETRO) | Member | Replacing Mr. NAKAJIMA Takeo according to Decision No. 5522/QD-VNU |
+| 5 | Mr. UCHIDA Katsuichi | Professor Emeritus, Senior Advisor to Waseda University | Vice President | |
+| 6 | Mr. CASSIM Monte | Board Member of Ritsumeikan Trust; Director, Graduate School of Leadership and Innovation, Shizenkan University | Member | |
+| 7 | Mr. TAKEUCHI Kazuhiko | Institute for Future Initiatives, University of Tokyo | Member | |
+| 8 | Mr. MORITA Kiyotaka | Director General, Department of International Cooperation, Keidanren (Japan Business Federation) | Member | In place of Mr. Takehara Reiji according to Decision No. 4090/QD-VNU |
+| 9 | Mr. MATSUOKA Tetsuya | Director of International Division, Japan Chamber of Commerce and Industry | Member | In place of Mr. Sasaki Kazuto according to Decision No. 4090/QD-VNU |
+| 10 | Mr. FURUTA Motoo | President of Vietnam-Japan University (VNU) | Member | |
+
+**Vietnam Side**
+
+| No. | Full name | Work unit | Title | Note |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Mr. Le Quan | Director of VNU | Chairman | |
+| 2 | Mr. To Huy Rua | Chairman of Vietnam - Japan Friendship Association; Honorary President of Vietnam-Japan University | Member | |
+| 3 | Mr. Pham Dai Duong | Chairman of Phu Yen Province | Member | |
+| 4 | Mr. Vu Minh Giang | Chairman of the Council of Science and Training, VNU | Member | |
+| 5 | Mr. Nguyen Hieu (2) | Head of the Organization and Personnel Department, VNU | Member, Head of the Supervisory Board | |
+| 6 | Mr. Nguyen Dinh Duc | Chairman of the Council of the University of Technology, VNU | Member | Title change according to Decision No. 2932/QD-VNU |
+| 7 | Mr. Nguyen Anh Tuan | Head of Training Department, VNU | Member, Secretary | Newly added according to Decision No. 2932/QD-VNU |
+| 8 | Mr. Dao Hong Tuyen | Chairman of the Board of Directors of Tuan Chau Group | Member | |
+| 9 | Mr. Pham Dinh Doan | Chairman of Phu Thai Holdings Group | Member | |
+| 10 | Mr. Nguyen Hoang Oanh | Vice Principal of Vietnam-Japan University | Member | |
 
 **7.3. Decision on transfer, appointment, recognition of principal and
 vice principal:** - Mr. Furuta Motoo was recognized as principal of
@@ -355,31 +343,27 @@ activities related to the Consortium and exploit Japanese partners.
 **7.6.4. Information on the leaders of the units under Vietnam-Japan
 University is summarized in Table 3 below.**
 
-**Table 3. List of leaders of units** \| No. \| Full name \| Unit \|
-Position \| Email \| \| :— \| :— \| :— \| :— \| :— \| \| 1 \| Dang Thanh
-Tu \| Office \| Chief of Office \| dt.tu@vju.ac.vn \| \| 2 \| Nguyen Thu
-Phuong \| Department of Planning and Finance \| Head of Department \|
-nt.phuong@vju.ac.vn \| \| 3 \| Nguyen Ngoc Huong \| \| Deputy Head of
-Department \| nn.huong@vju.ac.vn \| \| 4 \| Nguyen Thi Thuy Hang \|
-Department of Training and Student Affairs \| Head of Department \|
-ntt.hang2@vju.ac.vn \| \| 5 \| Nguyen Thi Ha Phuong \| \| Deputy Head of
-Department \| nth.phuong@vju.ac.vn \| \| 6 \| Nguyen Minh Phuong \| \|
-Deputy Head of Department \| nm.phuong@vju.ac.vn \| \| 7 \| Do Ngoc Ha
-\| Department of Research Promotion, Cooperation and Development \|
-Deputy Head of Department \| dn.ha@vju.ac.vn \| \| 8 \| Nguyen Thuy
-Duong \| Department of Testing and Quality Assurance \| Head of
-Department \| nt.duong@vju.ac.vn \| \| 9 \| Furuta Motoo \| Faculty of
-Interdisciplinary Social Sciences \| Dean \| m.furuta@vju.ac.vn \| \| 10
-\| Nguyen Hoang Oanh \| Faculty of Advanced Technology and Engineering
-\| Dean \| nguyenoh@vju.ac.vn \| \| 11 \| Pham Tien Thanh \| \| Deputy
-Dean \| pt.thanh@vju.ac.vn \| \| 12 \| Nguyen Thi An Hang \| \| Deputy
-Dean \| nta.hang@vju.ac.vn \| \| 13 \| Inui Eiji \| \| Chief Project
-Advisor \| inui.e@vju.ac.vn \| \| 14 \| Michiyo Morohashi \| Technical
-Support Project (TC2) \| Deputy Chief Project Advisor \|
-morohashi.m@vju.ac.vn \| \| 15 \| HAYASHIDA Takayuki \| \| Project
-Coordinator \| hayashida.t@vju.ac.vn \| *\* Note: Positions 14 and 15
-are respectively held by KUMAGAI Masato (m.kumagai@vju.ac.vn) and
-TSUJIMOTO Atsushi (tsujimoto.a@vju.ac.vn) from June 2024 to May 2025.*
+**Table 3. List of leaders of units**
+
+| No. | Full name | Unit | Position | Email |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Dang Thanh Tu | Office | Chief of Office | dt.tu@vju.ac.vn |
+| 2 | Nguyen Thu Phuong | Department of Planning and Finance | Head of Department | nt.phuong@vju.ac.vn |
+| 3 | Nguyen Ngoc Huong |  | Deputy Head of Department | nn.huong@vju.ac.vn |
+| 4 | Nguyen Thi Thuy Hang | Department of Training and Student Affairs | Head of Department | ntt.hang2@vju.ac.vn |
+| 5 | Nguyen Thi Ha Phuong |  | Deputy Head of Department | nth.phuong@vju.ac.vn |
+| 6 | Nguyen Minh Phuong |  | Deputy Head of Department | nm.phuong@vju.ac.vn |
+| 7 | Do Ngoc Ha | Department of Research Promotion, Cooperation and Development | Deputy Head of Department | dn.ha@vju.ac.vn |
+| 8 | Nguyen Thuy Duong | Department of Testing and Quality Assurance | Head of Department | nt.duong@vju.ac.vn |
+| 9 | Furuta Motoo | Faculty of Interdisciplinary Social Sciences | Dean | m.furuta@vju.ac.vn |
+| 10 | Nguyen Hoang Oanh | Faculty of Advanced Technology and Engineering | Dean | nguyenoh@vju.ac.vn |
+| 11 | Pham Tien Thanh |  | Deputy Dean | pt.thanh@vju.ac.vn |
+| 12 | Nguyen Thi An Hang |  | Deputy Dean | nta.hang@vju.ac.vn |
+| 13 | Inui Eiji |  | Chief Project Advisor | inui.e@vju.ac.vn |
+| 14 | Michiyo Morohashi | Technical Support Project (TC2) | Deputy Chief Project Advisor | morohashi.m@vju.ac.vn |
+| 15 | HAYASHIDA Takayuki | Technical Support Project (TC2) | Project Coordinator | hayashida.t@vju.ac.vn |
+
+*Note: Positions 14 and 15 are held by KUMAGAI Masato (m.kumagai@vju.ac.vn) and TSUJIMOTO Atsushi (tsujimoto.a@vju.ac.vn) from June 2024 to May 2025.*
 
 **8. Other documents of the educational institution:** 8.1. Development
 strategy of the educational institution: Vietnam-Japan University has
@@ -563,7 +547,7 @@ QHJ2022 and QHJ2021 courses.*
 | TT | Number of students | Studying | New recruitment | Graduate | Employment rate |
 |:---|:---|:---|:---|:---|----|
 | **I** | **University** | **521** | **500** | **57** |  |
-| 1 | Social and behavioral sciences | 252 | 152 | 41 | \- |
+| 1 | Social and behavioral sciences | 252 | 152 | 41 | - |
 | 2 | Computers and information technology | 215 | 130 | 16 | The first class will graduate in 2025. |
 | 3 | Production and processing | 22 | 67 | 0 | No graduation yet |
 | 4 | Agriculture, forestry and fisheries | 3 | 18 | 0 | No graduation yet |
@@ -611,15 +595,15 @@ lecturers paid by VJU is 35 lecturers.*
 | 5 | International cooperation topics | 0 | 0 |
 |  | **Total** |  | **5,197 million VND** |
 
-**3. Results of scientific and technological publications** \| TT \|
-Published works \| 2025 \| 2024 \| \| :— \| :— \| :— \| :— \| \| 1 \|
-Total number of scientific articles recognized by the State Council of
-Professors that are not in the WoS, Scopus and utility solution patent
-categories \| 9 \| \| \| 2 \| Total number of WoS and Scopus
-publications in all fields \| 55 \| \| \| 3 \| Total number of
-monographs, works of art and sports achievements that have won national
-and international awards \| 4 \| \| \| 4 \| Total number of patents \| 0
-\| \| \| 5 \| Total number of utility solution patents \| 0 \| \|
+**3. Results of scientific and technological publications**
+
+| TT | Published works | 2025 | 2024 |
+| :--- | :--- | :--- | :--- |
+| 1 | Total number of scientific articles recognized by the State Council of Professors that are not in the WoS, Scopus and utility solution patent categories | 9 | |
+| 2 | Total number of WoS and Scopus publications in all fields | 55 | |
+| 3 | Total number of monographs, works of art and sports achievements that have won national and international awards | 4 | |
+| 4 | Total number of patents | 0 | |
+| 5 | Total number of utility solution patents | 0 | |
 
 ### VII. FINANCIAL RESULTS
 
@@ -630,33 +614,38 @@ and international awards \| 4 \| \| \| 4 \| Total number of patents \| 0
 | 1 | Average operating margin for 3 years | 24% | 28% |
 | 2 | Sustainable growth index | 1.85 | 1.92 |
 
-**2. Operating income and expenditure results** *Unit: million VND* \|
-No. \| Statistical index \| Reporting year \| Previous year to the
-reporting year \| \| :— \| :— \| :— \| :— \| \| **A** \| **TOTAL
-OPERATING REVENUE** \| **56,293** \| **39,442** \| \| **I** \| **Regular
-expenditure support from the State/investors** \| **7,558** \| **7,165**
-\| \| **II** \| **Education and training revenue** \| **47,874** \|
-**29,577** \| \| 1 \| Tuition and fees from learners \| 46,824 \| 28,868
-\| \| 2 \| Contracts and sponsorships from the State budget \| \| \| \|
-3 \| Contracts and sponsorships from outside \| 766 \| 242 \| \| 4 \|
-Other revenue \| 284 \| 467 \| \| **III** \| **Science and technology
-revenue** \| **861** \| **2,701** \| \| 1 \| Contracts and sponsorship
-from the State budget \| 400 \| 990 \| \| 2 \| Contracts and sponsorship
-from outside \| 461 \| 1,711 \| \| 3 \| Other revenue \| \| \| \| **IV**
-\| **Other revenue (net income)** \| \| \| \| **B** \| **TOTAL OPERATING
-EXPENSES** \| **46,122** \| **30,449** \| \| **I** \| **Salaries and
-income** \| **20,581** \| **10,924** \| \| 1 \| Salaries and income of
-lecturers \| 12,349 \| 6,554 \| \| 2 \| Salaries and income for other
-staff \| 8,232 \| 4,370 \| \| **II** \| **Expenses for facilities and
-services** \| **23,231** \| **18,169** \| \| 1 \| Expenses for training
-\| 15,383 \| 11,873 \| \| 2 \| Expenses for research \| 861 \| 2,701 \|
-\| 3 \| Expenses for staff development \| 5,609 \| \| \| 4 \| General
-and other expenses \| 1,378 \| 3,595 \| \| **III** \| **Expenses for
-supporting learners** \| **2,310** \| **1,356** \| \| 1 \| Expenses for
-scholarships and learning support \| 2,116 \| 1,261 \| \| 2 \| Expenses
-for research activities \| 194 \| 95 \| \| 3 \| Other expenses \| \| \|
-\| **IV** \| **Other expenses** \| \| \| \| **C** \| **DIFFERENCE
-BETWEEN REVENUE AND EXPENDITURE** \| **10,171** \| **8,994** \|
+**2. Operating income and expenditure results**
+*Unit: million VND*
+
+| No. | Statistical index | Reporting year | Previous year |
+| :--- | :--- | :--- | :--- |
+| **A** | **TOTAL OPERATING REVENUE** | **56,293** | **39,442** |
+| **I** | **Regular expenditure support from the State/investors** | **7,558** | **7,165** |
+| **II** | **Education and training revenue** | **47,874** | **29,577** |
+| 1 | Tuition and fees from learners | 46,824 | 28,868 |
+| 2 | Contracts and sponsorships from the State budget |  |  |
+| 3 | Contracts and sponsorships from outside | 766 | 242 |
+| 4 | Other revenue | 284 | 467 |
+| **III** | **Science and technology revenue** | **861** | **2,701** |
+| 1 | Contracts and sponsorships from the State budget | 400 | 990 |
+| 2 | Contracts and sponsorships from outside | 461 | 1,711 |
+| 3 | Other revenue |  |  |
+| **IV** | **Other revenue (net income)** |  |  |
+| **B** | **TOTAL OPERATING EXPENDITURE** | **46,122** | **30,449** |
+| **I** | **Salary and income expenses** | **20,581** | **10,924** |
+| 1 | Salaries and income of lecturers | 12,349 | 6,554 |
+| 2 | Salaries and income of other staff | 8,232 | 4,370 |
+| **II** | **Facility and service expenses** | **23,231** | **18,169** |
+| 1 | Training-related expenses | 15,383 | 11,873 |
+| 2 | Research-related expenses | 861 | 2,701 |
+| 3 | Staff development expenses | 5,609 |  |
+| 4 | General and other expenses | 1,378 | 3,595 |
+| **III** | **Learner support expenses** | **2,310** | **1,356** |
+| 1 | Scholarships and study support expenses | 2,116 | 1,261 |
+| 2 | Research activity expenses | 194 | 95 |
+| 3 | Other expenses |  |  |
+| **IV** | **Other expenses** |  |  |
+| **C** | **Surplus of revenue over expenditure** | **10,171** | **8,994** |
 
 ### VIII. RESULTS OF IMPLEMENTING OTHER KEY TASKS
 
