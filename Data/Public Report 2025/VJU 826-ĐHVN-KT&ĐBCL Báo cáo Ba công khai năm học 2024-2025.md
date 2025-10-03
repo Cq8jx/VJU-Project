@@ -2,7 +2,7 @@ Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/dam-bao-cha
 
 ĐẠI HỌC QUỐC GIA HÀ NỘI
 **TRƯỜNG ĐẠI HỌC VIỆT NHẬT**
-Số: 826 /ĐHVN-KT&ĐBCL
+Số: 826 /VJU-KT&ĐBCL
 
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập – Tự do – Hạnh phúc**
