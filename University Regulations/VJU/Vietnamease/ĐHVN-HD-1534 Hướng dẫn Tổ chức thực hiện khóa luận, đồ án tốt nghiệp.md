@@ -192,4 +192,328 @@ Bước 11: Thư ký Hội đồng đọc công khai kết luận (bao gồm đi
 **Nguyễn Hoàng Oanh**
 
 ---
-*(Các Phụ lục từ 1 đến 3.7 được trình bày chi tiết)*
+## Phụ lục
+
+### Phụ lục 2: Bố cục khóa luận, đồ án tốt nghiệp
+
+#### Phụ lục 2.1: Mẫu bìa ngoài khóa luận có in chữ nhũ khổ A4 (210 x 297 mm)
+```
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC VIỆT NHẬT
+KHOA ............................... (chữ Times New Roman, 13pt)
+
+Họ và tên sinh viên (chữ Times New Roman, 14pt, bold)
+TÊN ĐỀ TÀI KHÓA LUẬN/ĐỒ ÁN (chữ Times New Roman, 18pt, bold)
+(chữ Times New Roman, 14pt)
+Khóa luận/ Đồ án tốt nghiệp đại học hệ chính quy
+Ngành ..................      (Chương trình đào tạo chất lượng cao)
+(ngành: ghi đúng tên ngành học) (chữ Times New Roman, 14pt, bold)
+
+Hà Nội – 202..
+```
+
+#### Phụ lục 2.2: Mẫu trang phụ bìa khóa luận, khổ A4 (210 x 297 mm)
+```
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC VIỆT NHẬT
+KHOA ............................... (chữ Times New Roman, 13pt)
+
+Họ và tên sinh viên (chữ Times New Roman, 14pt, bold)
+TÊN ĐỀ TÀI KHÓA LUẬN/ĐỒ ÁN (chữ Times New Roman, 18pt, bold)
+(chữ Times New Roman, 14pt)
+Khóa luận/ Đồ án tốt nghiệp đại học hệ chính quy
+Ngành ..................      (Chương trình đào tạo ...)
+(ngành: ghi đúng tên ngành học; chương trình đào tạo: tài năng, chất lượng cao, tiên tiến, đạt chuẩn quốc tế)
+
+Cán bộ hướng dẫn: .......................... (chữ Times New Roman, 14pt, bold)
+
+Hà Nội – 202..
+```
+
+#### Phụ lục 2.3: Hướng dẫn sắp xếp tài liệu tham khảo
+
+**Lưu ý:** Hướng dẫn dưới đây tối ưu trong trường hợp có tài liệu tham khảo bằng nhiều ngôn ngữ khác nhau. Tùy thuộc vào đặc thù của ngành đào tạo có thể sử dụng các cách sắp xếp phù hợp khác.
+
+**HƯỚNG DẪN XẾP TÀI LIỆU THAM KHẢO**
+
+1. Tài liệu tham khảo được xếp riêng theo từng ngôn ngữ (Việt, Anh, Pháp, Đức, Nga, Trung, Nhật, ...). Các tài liệu bằng tiếng nước ngoài phải giữ nguyên văn, không phiên âm, không dịch, kể cả tài liệu bằng tiếng Trung Quốc, Nhật Bản, ... (đối với những tài liệu bằng ngôn ngữ còn ít người biết có thể thêm phần dịch tiếng Việt đi kèm mỗi tài liệu).
+2. Tài liệu tham khảo được xếp theo thứ tự ABC họ tên tác giả theo thông lệ từng nước:
+   - Tác giả là người nước ngoài được xếp thứ tự ABC theo họ:
+     + Có một tác giả (theo ví dụ tài liệu số 28);
+     + Có hai tác giả (theo ví dụ tài liệu số 29);
+     + Có ba tác giả trở lên: từ tác giả thứ hai trở đi viết tắt tên trước, tên họ sau; tên các tác giả được ngăn cách bởi dấu phẩy, trước tên của tác giả cuối cùng thay dấu phẩy bằng "and" (theo ví dụ tài liệu số 30).
+   - Tác giả là người Việt Nam: xếp thứ tự ABC theo tên nhưng vẫn giữ nguyên thứ tự thông thường của tên người Việt Nam, không đảo tên lên trước họ.
+   - Tài liệu không có tên tác giả thì xếp theo thứ tự ABC của tên cơ quan ban hành báo cáo hay ấn phẩm, ví dụ: Tổng cục Thống kê xếp theo vần T, Bộ Giáo dục và Đào tạo xếp theo vần B, ...
+3. Tài liệu tham khảo là sách, luận văn, luận án, báo cáo phải ghi đầy đủ các thông tin sau:
+   - Tên tác giả hoặc cơ quan ban hành (không có dấu ngăn cách).
+   - (năm xuất bản), (đặt trong ngoặc đơn, dấu phẩy sau ngoặc đơn).
+   - *Tên sách, luận án hoặc báo cáo* (in nghiêng, dấu phẩy ở cuối tên).
+   - Nhà xuất bản (dấu phẩy ở cuối tên nhà xuất bản).
+   - Nơi xuất bản (dấu chấm kết thúc tài liệu tham khảo). (Xem ví dụ tài liệu số 2, 3, 4, 23, 31, 33, 34, 35).
+4. Tài liệu tham khảo là bài báo trong tạp chí, bài trong sách... phải ghi đầy đủ các thông tin sau:
+   - Tên tác giả (không có dấu ngăn cách).
+   - (năm công bố), (đặt trong ngoặc đơn, dấu phẩy sau ngoặc đơn).
+   - "Tên bài báo" (đặt trong ngoặc kép, không in nghiêng, dấu phẩy ở cuối tên).
+   - *Tên tạp chí hoặc sách* (in nghiêng, dấu phẩy ở cuối tên).
+   - Tập (không có dấu ngăn cách).
+   - (Số), (đặt trong ngoặc đơn, dấu phẩy sau ngoặc đơn).
+   - Các trang (dấu gạch nối giữa hai số, dấu chấm ở cuối).
+
+Chú ý cách trình bày trên. Nếu tài liệu dài hơn một dòng, dòng thứ hai cần thụt vào 1 cm so với dòng thứ nhất để tài liệu rõ ràng và dễ theo dõi.
+
+**Ví dụ trình bày tài liệu tham khảo:**
+
+**Tiếng Việt**
+
+1. Quách Ngọc Ân (1992), "Nhìn lại hai năm triển khai lúa lai", *Di truyền ứng dụng*, 98(1), tr. 10-16.
+2. Bộ Nông nghiệp và Phát triển Nông thôn (1996), *Báo cáo tổng kết 5 năm (1992-1996) triển khai lúa lai*, Hà Nội.
+3. Nguyễn Hữu Đồng, Đào Thanh Bằng, Lâm Quang Du, Phan Đức Trực (1997), *Đột biến – Cơ sở lý thuyết và ứng dụng*, NXB Nông nghiệp, Hà Nội.
+4. Nguyễn Thị Gấm (1996), *Phát hiện và đánh giá một số dòng đực bất dục cảm ứng nhiệt độ*, Luận văn Thạc sĩ Khoa học Nông nghiệp, Viện Khoa học và Công nghệ Nông nghiệp Việt Nam, Hà Nội.
+...
+...
+23. Võ Thị Kim Huệ (2000), *Nghiên cứu chẩn đoán và điều trị một số bệnh...*, Luận án Bác sĩ chuyên khoa, Trường Đại học Y Hà Nội.
+...
+...
+
+**Tiếng Anh**
+
+28. Anderson J.E. (2005), "The Relative Inefficiency of Quota, The Cheese Case", *American Economic Review*, 175(1), tr. 178-190.
+29. Borkakati R.P. & S.S. Virmani (2007), "Genetics of thermosensitive genic male sterility in Rice", *Euphytica*, 188, tr. 1-7.
+30. Borkakati R.P., S.S. Virmani & J.E. Anderson (2009), "Genetics of thermosensitive genic male sterility in Rice", *Euphytica*, 201, tr. 81-97.
+31. Boulding K.E. (2005), *Economics Analysis*, Hamish Hamilton, London.
+32. Burton G.W. (2008), "Cytoplasmic male-sterility in pearl millet (*Pennisetum glaucum L.*)", *Agronomic Journal*, 50, tr. 230-231.
+33. Central Statistical Organization (2005), *Statistical Year Book*, Beijing.
+34. FAO (2011), *Agricultural Commodity Projection (1970-1980)*, Vol. II, Rome.
+35. Institute of Economics (2016), *Analysis of Expenditure Pattern of Urban Households in Vietnam*, Department of Economics, Economic Research Report, Hanoi.
+
+#### Phụ lục 2.4: Mẫu tóm tắt khóa luận, đồ án tốt nghiệp
+
+**TÓM TẮT**
+
+Tóm tắt nội dung khóa luận, đồ án tốt nghiệp:
+
+- Đối với khóa luận, đồ án viết bằng tiếng Anh hoặc tiếng Nhật: trình bày tóm tắt bằng tiếng Anh hoặc tiếng Nhật, khoảng 300 từ.
+
+**TÓM TẮT (ABSTRACT)**
+
+Nowadays, water pollution caused by arsenic is social issues of concern. The removal of arsenic and ammonium ions in water is essential and urgent. Therefore this thesis studied the preparation of nano titanium dioxide coated on activated carbon- a good adsorbent for the removal of arsenic water environment. Starting materials for the preparation of nano titanium dioxide coated on activated carbon (AC-TiO2) are nano titanium dioxide solution of 400 ppm synthesized by neutralizing TiCl4/HCl by diluted ammonia solution to pH = 6-7, and rinse activated carbon with the nano titanium dioxide solutions for 4 hours. The most important factor affecting the efficiency of synthesize process is the rate of TiCl4/HCl neutralization and the concentration of nano titanium dioxide solution. The optimal concentration of nano titanium dioxide solution is 400 ppm. The resulting product was washed by distilled water to remove chloride ions and dehydrated at 80 oC for 24 hours to converse TiO(OH)2 to TiO2. Experiments were conducted to investigate the adsorption capacity of AC-TiO2 for arsenic removal in water: such as determining optimal pH, adsorption equilibrium time, maximum adsorption capacity and influence of interference ions on adsorption capacity. Results show that arsenic is adsorbed onto the surface of AC-TiO2 best at near-neutral pH (pH 6-7). Time to reach adsorption equilibrium of AC-TiO2 with arsenic is 5-6 hours minutes with arsenic. Maximum adsorption capacity of AC-TiO2 with arsenic, ammonium is 12.51 mg/g and it obeys the Langmuir adsorption isotherm.
+
+**Keywords:** nano-titanium dioxide coated on activated carbon, adsorption, adsorption capacity.
+
+- Đối với khóa luận, đồ án viết bằng tiếng Việt: tóm tắt được trình bày bằng tiếng Anh hoặc tiếng Nhật, khoảng 2 trang A4, đảm bảo các nội dung sau:
+
+**TÓM TẮT (ABSTRACT)**
+
+**I. Introduction**
+
+- Reason for choosing the topic
+- Research objectives
+- Research objects
+- Scope of research
+- Research methods
+
+**II. Main content**
+
+- Presenting the main research contents
+- Presenting and research results achieved
+
+**III. Conclusion and recommendations**
+
+- Summarizing research results
+- Proposing some solutions
+
+### Phụ lục 3: Các biểu mẫu dành cho Khoa, CTĐT, Giảng viên hướng dẫn, sinh viên
+
+#### Phụ lục 3.1: Nhật ký khóa luận/đồ án tốt nghiệp
+
+##### 3.1.1. Mẫu bìa Nhật ký khóa luận/đồ án tốt nghiệp
+```
+TRƯỜNG ĐẠI HỌC VIỆT NHẬT
+KHOA: ………………………………………
+
+NHẬT KÝ KHÓA LUẬN/ĐỒ ÁN TỐT NGHIỆP
+Ngành: ………………………….
+
+Họ và tên: …………………………………
+Ngày sinh: ……………………………….
+Mã số sinh viên: …………………………
+
+Tên đề tài khóa luận/đồ án: ………………
+Thời gian thực hiện khóa luận/đồ án: ………
+Giảng viên hướng dẫn: …………………..
+
+Năm 202….
+```
+
+##### 3.1.2. Quá trình hướng dẫn khóa luận, đồ án tốt nghiệp
+
+**GHI CHÉP QUÁ TRÌNH HƯỚNG DẪN KHÓA LUẬN/ĐỒ ÁN TỐT NGHIỆP***
+
+| TT | Thời gian¹ | Ngày tháng năm làm việc² | Nội dung trao đổi³ | Ý kiến của GVHD⁴ | Xác nhận của GVHD⁵ | Ý kiến phản hồi của SV⁶ | Xác nhận của SV⁷ |
+| :-- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | | | | | | | |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+| ... | | | | | | | |
+
+*SV ghi chi tiết quá trình hướng dẫn khóa luận/đồ án tốt nghiệp. Các buổi seminar, hội thảo liên quan đến đề tài KL, ĐA mà GVHD cùng SV tham gia cũng được tính là các buổi làm việc phục vụ cho quá trình hướng dẫn KL, ĐA.*
+
+¹ Ghi rõ giờ giấc làm việc. ² Ghi rõ ngày tháng năm làm việc theo định dạng dd/mm/yyyy. ³ Ghi rõ mục đích buổi làm việc. ⁴ Ghi rõ các ý kiến của GVHD liên quan đến nội dung trao đổi của buổi làm việc. ⁵ GVHD ký xác nhận và ghi rõ họ tên sau khi kết thúc buổi làm việc. ⁶ Ghi rõ các ý kiến phản hồi của SV căn cứ theo các ý kiến của GVHD; có thể bổ sung các ý kiến khác (nếu có) liên quan đến KL, ĐA. ⁷ SV ký và ghi rõ họ tên sau khi kết thúc buổi làm việc.
+
+#### Phụ lục 3.2: Phiếu nhận xét về khóa luận, đồ án tốt nghiệp của phản biện
+```
+PHIẾU NHẬN XÉT VỀ KHÓA LUẬN/ĐỒ ÁN TỐT NGHIỆP CỦA PHẢN BIỆN
+
+Sinh viên: .................................................................
+Mã sinh viên: .............................................................
+Đề tài: ...........................................................................
+Ủy viên phản biện (ghi đầy đủ học hàm, học vị, họ và tên): ...............
+Đơn vị công tác: ..........................................................
+
+I. Phần nhận xét
+1. Tính cấp thiết, tính khoa học và thực tiễn của đề tài
+........................................................................................
+........................................................................................
+
+2. Độ tin cậy và tính liên quan của đề tài (Đề tài không trùng lặp với các nghiên cứu trước đó, mối tương quan giữa đề tài và nội dung nghiên cứu, giữa nội dung nghiên cứu và chuyên ngành đào tạo, độ tin cậy và tính hiện đại của phương pháp nghiên cứu...)
+........................................................................................
+........................................................................................
+
+3. Ưu điểm và nhược điểm của cấu trúc, nội dung và hình thức
+3.1. Ưu điểm
+........................................................................................
+........................................................................................
+3.2. Nhược điểm
+........................................................................................
+........................................................................................
+
+II. Phần câu hỏi (mỗi phản biện đặt ít nhất 2 câu hỏi cho mỗi sinh viên)
+........................................................................................
+........................................................................................
+
+III. Phần kết luận (ghi rõ mức độ đồng ý hay không đồng ý nội dung đề tài)
+........................................................................................
+........................................................................................
+
+Hà Nội, ngày ... tháng ... năm 202...
+ỦY VIÊN PHẢN BIỆN
+(ký và ghi rõ họ tên)
+```
+
+#### Phụ lục 3.3: Phiếu chấm điểm đánh giá khóa luận, đồ án tốt nghiệp *(các Khoa có thể xây dựng thang đánh giá phù hợp với chương trình đào tạo)*
+
+```
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC VIỆT NHẬT
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+PHIẾU CHẤM ĐIỂM ĐÁNH GIÁ KHÓA LUẬN, ĐỒ ÁN TỐT NGHIỆP
+
+Hội đồng chấm khóa luận, đồ án tốt nghiệp chương trình đào tạo: .................................
+Họ và tên sinh viên: ...................................   Mã số sinh viên: ..............................
+Tên đề tài: ...........................................................................................................
+
+Phần đánh giá và cho điểm của Hội đồng:
+```
+
+| TT | Tiêu chí đánh giá | Điểm tối đa | Điểm số |
+| :-- | :--- | :--- | :--- |
+| 1 | **Nội dung:**<br>- Trình bày được những nội dung, kết quả nghiên cứu/tính mới và những đóng góp quan trọng nhất của khóa luận/đồ án.<br>- Khả năng ứng dụng trong thực tiễn và mở ra hướng nghiên cứu mới. | 6,0 | |
+| 2 | **Hình thức:**<br>- Trình bày các phần, chương, mục, hình vẽ, bảng biểu... khoa học, hợp lý và logic.<br>- Sắp xếp và trích dẫn tài liệu khoa học chuẩn xác. | 2,0 | |
+| 3 | **Kỹ năng thuyết trình:**<br>- Trình bày kết quả nghiên cứu.<br>- Trả lời tốt các câu hỏi của Hội đồng đánh giá. | 1,5 | |
+| 4 | **Thành tích nghiên cứu khoa học:**<br>- Có ít nhất 01 bài báo liên quan công bố trên tạp chí khoa học chuyên ngành hoặc có kết quả ứng dụng được nơi ứng dụng đồng ý bằng văn bản về việc chuyển giao, triển khai kết quả nghiên cứu. | 0,5 | |
+| **Tổng cộng** *(có thể chấm lẻ tới 0,1 điểm)* | | **10** | |
+
+```
+Điểm số: ..........................................................................................
+Bằng chữ: .........................................................................................
+
+Hà Nội, ngày ... tháng ... năm 202...
+ỦY VIÊN ĐÁNH GIÁ
+(ký và ghi rõ họ tên)
+```
+
+#### Phụ lục 3.4: Bảng tổng hợp điểm đánh giá khóa luận, đồ án tốt nghiệp
+
+```
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC VIỆT NHẬT
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+BẢNG TỔNG HỢP ĐIỂM ĐÁNH GIÁ KHÓA LUẬN, ĐỒ ÁN TỐT NGHIỆP
+```
+
+| TT | Mã sinh viên | Họ và tên sinh viên | Chủ tịch | Thư ký | Phản biện | Giảng viên hướng dẫn | Ủy viên | Điểm trung bình |
+| :-- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | | | | | |
+| | | | | | | | | |
+
+```
+Danh sách gồm .... sinh viên./.
+
+Hà Nội, ngày ... tháng ... năm 20...
+Chủ tịch                                           Thư ký
+(ký và ghi rõ họ tên)                             (ký và ghi rõ họ tên)
+```
+
+#### Phụ lục 3.5: Biên bản đánh giá khóa luận, đồ án tốt nghiệp
+```
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC VIỆT NHẬT
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+BIÊN BẢN ĐÁNH GIÁ KHÓA LUẬN, ĐỒ ÁN TỐT NGHIỆP
+
+1. Thời gian: ..........................................................
+2. Địa điểm: ..........................................................
+3. Thành phần tham gia: Các thành viên theo Quyết định số ...../QĐ-ĐHVN ngày ..... tháng ..... năm ..... của Hiệu trưởng Trường Đại học Việt Nhật về việc thành lập Hội đồng đánh giá khóa luận/đồ án tốt nghiệp.
+   3.1. Thành viên có mặt:
+   - ...................................................................
+   3.2. Thành viên vắng mặt:
+   - ...................................................................
+4. Nội dung làm việc:
+   4.1. Sinh viên bảo vệ theo Quyết định số .../QĐ-ĐHVN ngày ..... tháng ..... năm ..... của Hiệu trưởng Trường Đại học Việt Nhật về danh sách sinh viên thực hiện khóa luận, đồ án tốt nghiệp, cụ thể: Có mặt: .../... (tỷ lệ: ...%); Vắng mặt: .../... (tỷ lệ: ...%).
+   4.2. Quá trình bảo vệ:
+   - Sinh viên báo cáo khóa luận/đồ án tốt nghiệp theo thứ tự gọi tên;
+   - 02 phản biện đọc nhận xét về khóa luận/đồ án tốt nghiệp của từng sinh viên sau khi kết thúc thuyết trình;
+   - Các thành viên Hội đồng đánh giá đặt câu hỏi cho sinh viên;
+   - Sinh viên trả lời theo số lượng câu hỏi đã được đặt ra;
+   - Hội đồng đánh giá thảo luận và chấm điểm đối với từng sinh viên;
+   - Thư ký Hội đồng đọc kết quả bảo vệ cho sinh viên (chi tiết về số lượng khóa luận, đồ án tốt nghiệp, điểm bảo vệ, xếp loại của từng sinh viên).
+   4.3. Kết luận của Hội đồng: ..........................................................
+
+Cuộc họp kết thúc vào lúc ... giờ ... phút cùng ngày.
+
+Hà Nội, ngày ... tháng ... năm 20...
+Chủ tịch                                         Thư ký
+(ký và ghi rõ họ tên)                           (ký và ghi rõ họ tên)
+```
+
+#### Phụ lục 3.7: Mẫu giấy xác nhận về việc chỉnh sửa khóa luận, đồ án tốt nghiệp
+```
+ĐẠI HỌC QUỐC GIA HÀ NỘI
+TRƯỜNG ĐẠI HỌC VIỆT NHẬT
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+Hà Nội, ngày ... tháng ... năm 20...
+
+GIẤY XÁC NHẬN
+
+Họ và tên: .........................................................
+Mã số sinh viên: ..................................................
+Ngày sinh: ....../....../..............      Nơi sinh: ................
+Chương trình đào tạo: ...........................................
+Tên đề tài khóa luận/đồ án tốt nghiệp: ............................
+Ngày bảo vệ: ....................................................
+
+Căn cứ trên kết luận của Hội đồng đánh giá khóa luận/đồ án tốt nghiệp, tôi đã thực hiện việc chỉnh sửa như sau:
+1. ................................................................................
+2. ................................................................................
+3. ................................................................................
+
+XÁC NHẬN CỦA GVHD            CHỮ KÝ CỦA SINH VIÊN            XÁC NHẬN CỦA CHỦ TỊCH HỘI ĐỒNG
+```
