@@ -1,4 +1,7 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/dam-bao-chat-luong/thuc-hien-cong-khai-doi-voi-csgd-dai-hoc/dieu-kien-dam-bao-chat-luong/, and the authoritative content is the version available there.
+Table recognition encountered technical difficulties, so the layout and contents of tables may not be completely accurate.
+---
+
 
 HANOI NATIONAL UNIVERSITY VIETNAM- **JAPAN UNIVERSITY** No: 826
 /VNU-KT&DBCL
