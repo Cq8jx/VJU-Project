@@ -4,7 +4,7 @@
 
 | Artifact | Current file name |
 | --- | --- |
-| Original PDF | `DHVN-Report-826 Quality Assurance Conditions 2024-2025.pdf` |
+| Original PDF | `DHVN-Report-826 Public Report for the 2024-2025 School Year.pdf` |
 | English transcription | `DHVN-Report-826 Public Report for the 2024-2025 School Year.md` |
 | Japanese transcription | `DHVN-Report-826 2024-2025年度の公開レポート.md` |
 | Vietnamese transcription | `ĐHVN-Report-826 Public Report 2024-2025 Vietnamese.md` |
@@ -21,4 +21,4 @@ The Vietnamese heading corresponds directly to the phrase *"Báo cáo ba công k
 
 ## Root cause of the naming mismatch
 
-The PDF file was stored with a descriptive name derived from the website section (`Quality Assurance Conditions 2024-2025`), while the Markdown transcriptions were named after the actual document title that appears inside the PDF (`Public Report for the 2024-2025 School Year`). Because the website category and the document title differ, copying the section label into the PDF filename caused the inconsistency with the English Markdown filename, which is based on the document's internal heading. Aligning the suffix of the filenames with the source document title would resolve the inconsistency.
+The PDF file was stored with a descriptive name derived from the website section (`Quality Assurance Conditions 2024-2025`), while the Markdown transcriptions were named after the actual document title that appears inside the PDF (`Public Report for the 2024-2025 School Year`). Because the website category and the document title differ, copying the section label into the PDF filename caused the inconsistency with the English Markdown filename, which is based on the document's internal heading. Aligning the suffix of the filenames with the source document title resolves the inconsistency; consequently the PDF has been renamed to `DHVN-Report-826 Public Report for the 2024-2025 School Year.pdf`.
