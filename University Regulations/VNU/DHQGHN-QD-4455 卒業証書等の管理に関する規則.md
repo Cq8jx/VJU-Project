@@ -799,7 +799,6 @@
 | 13 | Mạng máy tính và Truyền thông dữ liệu | Computer Networks and Data Communications |  |
 | 14 | Tự động hóa và Tin học | Automation and Informatics |  |
 
-
   ⁵*研修専攻の名称がこの一覧にまだ記載されていない、または現行の規定により変更されている場合は、課程の交付決定時または課程の変更・調整決定時に、専攻の名称を記録するものとする。*
 
 ### 付録VI: 博士号授与者一覧
