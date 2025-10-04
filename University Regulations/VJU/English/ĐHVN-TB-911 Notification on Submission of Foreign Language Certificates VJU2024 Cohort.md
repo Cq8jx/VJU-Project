@@ -63,8 +63,8 @@ course as follows:
 
   --------------------------------------------------------------
   TT        Foreign       Recognized   Credits are  Course code
-            language      points       recognized   
-            proficiency                             
+            language      points       recognized
+            proficiency
   --------- ------------- ------------ ------------ ------------
   1         Level 3       9.0          English B1   FLF1107
 

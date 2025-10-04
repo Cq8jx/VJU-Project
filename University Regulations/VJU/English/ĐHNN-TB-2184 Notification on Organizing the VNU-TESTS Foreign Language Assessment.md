@@ -1,12 +1,12 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 
-**Vietnam National University, Hanoi**  
+**Vietnam National University, Hanoi**
 **University of Languages and International Studies**
 
-**SOCIALIST REPUBLIC OF VIETNAM**  
+**SOCIALIST REPUBLIC OF VIETNAM**
 **Independence – Freedom – Happiness**
 
-*No.: 2184/TB-ĐHNN*  
+*No.: 2184/TB-ĐHNN*
 *Hanoi, 5 December 2024*
 
 # NOTIFICATION
@@ -78,13 +78,13 @@ The dossier includes:
 
 Sincerely notified.
 
-**Recipients:**  
-- Rectorate Board (for reporting);  
-- VNU training units;  
-- Units of ULIS;  
+**Recipients:**
+- Rectorate Board (for reporting);
+- VNU training units;
+- Units of ULIS;
 - Filed: HCTH, ĐT, L03.
 
-**For the Rector**  
-**Vice Rector**  
-*(signed)*  
+**For the Rector**
+**Vice Rector**
+*(signed)*
 **Hà Lê Kim Anh**

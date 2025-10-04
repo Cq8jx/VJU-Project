@@ -677,7 +677,8 @@ institution.
     d)  Comments and evaluations of the doctoral student\'s supervisor;
         confirmation of completion of thesis editing and supplementation
         by the supervisor and Chairman of the Thesis Evaluation Council
-        (if any); d) Other documents as prescribed by the training
+        (if any);
+    d) Other documents as prescribed by the training
         institution.
 5.  The training institution shall grant doctoral degrees to graduate
     students within 30 working days from the effective date of the
@@ -765,7 +766,8 @@ institution.
         Clause 2, Article 16 of this Regulation;
     d)  The thesis appraisal council shall only meet when at least 06
         members are present, including the chairman, secretary and
-        council members who disagree with the thesis; d) The thesis does
+        council members who disagree with the thesis;
+    d) The thesis does
         not meet the appraisal requirements when 02 or more members of
         the thesis appraisal council present do not approve. In this
         case, the training institution shall organize and chair a
@@ -833,7 +835,8 @@ institution.
     d)  Strengthen academic integrity; monitor and control anti-copying;
         develop sanctions and strictly handle violations; ensure the
         integrity of the content of doctoral theses evaluated at
-        training institutions; d) Develop policies to promote gender
+        training institutions;
+    d) Develop policies to promote gender
         equality in doctoral training to contribute to the
         implementation of the goals of the national strategy on gender
         equality in the field of education and training;
@@ -920,15 +923,15 @@ name:** **Training majors:** **Training code:**
 
   -----------------------------------------------------------------------
   School year     Study and       Registered      Expected results
-                  research        study and       
-                  content         research volume 
+                  research        study and
+                  content         research volume
   --------------- --------------- --------------- -----------------------
   Year 1          Additional      10 - 12 credits Certificate of
                   specialized     04 - 06 credits completionCertificate
                   courses (if                     of completion
-                  any)Research                    
-                  methodology                     
-                  courses                         
+                  any)Research
+                  methodology
+                  courses
 
   Year 2          Carry out part  up to 24        Chapter Overview of
                   1 of the thesis credits         research problem,
@@ -939,7 +942,7 @@ name:** **Training majors:** **Training code:**
 
   Year 4          Carry out part  Remaining       Theses and
                   3 of the thesis credits of the  publications,...
-                                  4-year program  
+                                  4-year program
   -----------------------------------------------------------------------
 
 *Note: the italicized parts are examples of the contents of the
@@ -980,19 +983,19 @@ LANGUAGE PROFICIENCY OF CANDIDATES**
                                                                      higher
 
   4               Chinese         Chinese Hanyu Shuiping Kaoshi      HSK level 4 or higher
-                                  (HSK)                              
+                                  (HSK)
 
   5               Japanese        Japanese Language Proficiency Test N3 or higher
-                                  (JLPT)                             
+                                  (JLPT)
 
   6               Russian         Test of Russian as a Foreign       TRPKI-2 and above
-                                  Language (TORFL - Test of Russian  
-                                  as a Foreign Language)             
+                                  Language (TORFL - Test of Russian
+                                  as a Foreign Language)
 
   7               Other foreign   Certificate of assessment          From level 4 and
                   languages       according to the 6-level foreign   above
-                                  language proficiency framework for 
-                                  Vietnam                            
+                                  language proficiency framework for
+                                  Vietnam
   ----------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -1018,13 +1021,13 @@ EVERY MONTHS OF THE YEAR**
 
   ----------------------------------------------------------------------------------------
   STT   Full name of Number and  Topic   Industry,   Thesis defense   Evaluation   Note
-        researcher   date of     name    code        date at the      results      
-                     decision to                     training                      
-                     recognize                       institution\'s                
-                     PhD student                     Evaluation                    
-                                                     Council                       
+        researcher   date of     name    code        date at the      results
+                     decision to                     training
+                     recognize                       institution\'s
+                     PhD student                     Evaluation
+                                                     Council
   ----- ------------ ----------- ------- ----------- ---------------- ------------ -------
-                                                                                   
+
 
   ----------------------------------------------------------------------------------------
 

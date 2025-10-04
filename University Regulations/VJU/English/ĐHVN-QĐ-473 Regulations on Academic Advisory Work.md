@@ -93,7 +93,8 @@ individuals in VJU.
 ### Article 4. Responsibilities of academic advisors
 
 CVHT is responsible for performing tasks according to the following 4
-main functional groups: a) Support for study and research - Guide
+main functional groups:
+    a) Support for study and research - Guide
 students to understand the regulations and guidelines on university
 training of VNU and VNU, especially the contents related to study plans,
 course registration, academic conditions and graduation. - Guide
@@ -103,8 +104,8 @@ training program. - Guide students on effective study methods,
 scientific research skills and critical thinking; encourage students to
 participate in academic activities and seminars. - Monitor students\'
 learning outcomes, early detect cases showing signs of learning decline
-to coordinate with functional units to handle and support promptly. b)
-Personal and career development - Advise and introduce students to
+to coordinate with functional units to handle and support promptly.
+    b)  Personal and career development - Advise and introduce students to
 scholarship opportunities, academic exchange programs, internships,
 research participation, advanced courses or career-oriented elective
 courses. - Accompany students in developing soft skills (study skills,
@@ -112,7 +113,7 @@ communication, teamwork, time management, etc.), career orientation and
 choosing a development path after graduation. - Coordinate with units in
 the school to develop or propose skills topics, extracurricular
 activities, experiential learning, to comprehensively develop students.
-c) Connect - coordinate organization - Support the Director/Program
+    c) Connect - coordinate organization - Support the Director/Program
 Coordinator in organizing learning activities, seminars, professional
 activities, and periodic class activities for each semester/school
 year. - Contact students\' families when necessary to coordinate support
@@ -121,7 +122,8 @@ other arising situations. - Coordinate with the Department of Training
 and Student Affairs, Faculty/Training Program and related units in
 evaluating training scores, considering scholarships, handling academic
 affairs, managing classes, urging students to conduct surveys of the
-School and related work. d) Applying technology and reporting -
+School and related work.
+    d) Applying technology and reporting -
 Effectively using support tools such as learning management systems
 (LMS), survey forms, learning progress tracking tables\... to enhance
 interaction and manage student information. - Fully implement the
@@ -370,70 +372,70 @@ ADVISORS**
   STT     Functional      Job Description    Number of times  Organizational form         Duration
           group                              performed        (In-person/Online/Hybrid)   (hours)
   ------- --------------- ------------------ ---------------- --------------------------- ----------
-  1       Support for     Consulting on      According to the                             
-          learning and    course             Faculty\'s plan                              
-          research        registration,                                                   
-                          guidance on                                                     
-                          building study                                                  
-                          plans for                                                       
-                          students, learning                                              
-                          methods, research,                                              
-                          etc.                                                            
+  1       Support for     Consulting on      According to the
+          learning and    course             Faculty\'s plan
+          research        registration,
+                          guidance on
+                          building study
+                          plans for
+                          students, learning
+                          methods, research,
+                          etc.
 
-  2       Support for     Regular working    According to the                             
-          learning and    sessions with the  Faculty\'s plan                              
-          research        class                                                           
-                          (consultation,                                                  
-                          guidance,                                                       
-                          exchange,                                                       
-                          information                                                     
-                          dissemination)                                                  
+  2       Support for     Regular working    According to the
+          learning and    sessions with the  Faculty\'s plan
+          research        class
+                          (consultation,
+                          guidance,
+                          exchange,
+                          information
+                          dissemination)
 
-  3       Support         Scholarship        According to                                 
-          students in     consulting,        plan/year                                    
-          personal and    exchange programs,                                              
-          professional    soft skills,                                                    
-          development     career orientation                                              
+  3       Support         Scholarship        According to
+          students in     consulting,        plan/year
+          personal and    exchange programs,
+          professional    soft skills,
+          development     career orientation
 
-  4       Personal and    Organizing         By semester/year                             
-          career          seminars,                                                       
-          development     extracurricular                                                 
-                          activities,                                                     
-                          developing student                                              
-                          skills                                                          
+  4       Personal and    Organizing         By semester/year
+          career          seminars,
+          development     extracurricular
+                          activities,
+                          developing student
+                          skills
 
-  5       Connecting and  Ad hoc class       According to the                             
-          coordinating    meetings when      situation                                    
-          organizations   problems arise                                                  
+  5       Connecting and  Ad hoc class       According to the
+          coordinating    meetings when      situation
+          organizations   problems arise
 
-  6       Connecting and  Contact student\'s According to the                             
-          coordinating    family when        situation                                    
-          organizations   support is needed                                               
+  6       Connecting and  Contact student\'s According to the
+          coordinating    family when        situation
+          organizations   support is needed
 
-  7       Connecting and  Coordinate with    On request                                   
-          coordinating    the Training &                                                  
-          organizations   Student Affairs                                                 
-                          Department,                                                     
-                          Faculty/Training                                                
-                          Program and                                                     
-                          related units in                                                
-                          considering                                                     
-                          scholarships,                                                   
-                          academic affairs,                                               
-                          and surveys.                                                    
+  7       Connecting and  Coordinate with    On request
+          coordinating    the Training &
+          organizations   Student Affairs
+                          Department,
+                          Faculty/Training
+                          Program and
+                          related units in
+                          considering
+                          scholarships,
+                          academic affairs,
+                          and surveys.
 
-  8       Technology      Manage student     Weekly/Monthly                               
-          applications    information,                                                    
-          and reporting   maintain regular                                                
-                          contact                                                         
+  8       Technology      Manage student     Weekly/Monthly
+          applications    information,
+          and reporting   maintain regular
+                          contact
 
-  9       Technology      Regular/ad hoc     By semester/year                             
-          applications    reports on class                                                
-          and reporting   situation and CVHT                                              
-                          results                                                         
+  9       Technology      Regular/ad hoc     By semester/year
+          applications    reports on class
+          and reporting   situation and CVHT
+                          results
 
-                          **Total time                                                    
-                          (hours)**                                                       
+                          **Total time
+                          (hours)**
   --------------------------------------------------------------------------------------------------
 
 *.........,date.....month.....year.....*

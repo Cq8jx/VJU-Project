@@ -242,15 +242,15 @@ Vietnam Japan University.
 | 1         |             |           |                                                         |                                |                                  |                              |                                |
 | 2         |             |           |                                                         |                                |                                  |                              |                                |
 
-  3                                                                                          
+  3
 
-  ...                                                                                        
+  ...
 
-                                                                                             
 
-                                                                                             
 
-                                                                                             
+
+
+
   ---------------------------------------------------------------------------------------------------------
 
 *(\*): Thesis Progress Log, specifically record the times working with
@@ -715,7 +715,7 @@ height="1.3888888888888888e-2in"}
 
 # *Hanoi, date month year 202\...*
 
-# 
+#
 
 # **CONFIRMATION OF THE THESIS REVISION**
 

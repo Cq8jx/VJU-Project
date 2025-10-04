@@ -1,12 +1,12 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 
-**Vietnam National University, Hanoi**  
+**Vietnam National University, Hanoi**
 **Vietnam-Japan University**
 
-**SOCIALIST REPUBLIC OF VIETNAM**  
+**SOCIALIST REPUBLIC OF VIETNAM**
 **Independence – Freedom – Happiness**
 
-*No.: 259/HD-ĐHVN*  
+*No.: 259/HD-ĐHVN*
 *Hanoi, 3 April 2024*
 
 # GUIDELINES
@@ -71,12 +71,12 @@ Students who submit a valid English certificate receive recognition for the foll
 
 Sincerely notified.
 
-**Recipients:**  
-- Rector (for reporting);  
-- Faculties and functional offices (for implementation);  
+**Recipients:**
+- Rector (for reporting);
+- Faculties and functional offices (for implementation);
 - Filed: Office of the Rector, Academic Affairs & Student Services, QH04.
 
-**For the Rector**  
-**Vice Rector**  
-*(signed)*  
+**For the Rector**
+**Vice Rector**
+*(signed)*
 **Nguyễn Hoàng Oanh**

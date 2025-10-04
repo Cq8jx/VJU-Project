@@ -49,58 +49,58 @@ Vietnamese Foreign Language Proficiency Framework in accordance with the
 output standards of the training program (CTĐT), specifically:
 
   ------------------------------------------------------------------
-  TT           CTĐT                Vietnam Foreign  
-                                   Language         
-                                   Proficiency      
-                                   Framework        
+  TT           CTĐT                Vietnam Foreign
+                                   Language
+                                   Proficiency
+                                   Framework
   ------------ ------------------- ---------------- ----------------
                                    **English**      **Japanese**
 
-  **I**        **High quality                       
-               training programs                    
-               according to unit                    
-               characteristics**                    
+  **I**        **High quality
+               training programs
+               according to unit
+               characteristics**
 
   1            Japanese Studies    Level 3          Level 4
 
   2            Computer Science    Level 4          \-
-               and Engineering                      
+               and Engineering
 
   3            Smart and           Level 4          \-
-               Sustainable                          
-               Agriculture                          
+               Sustainable
+               Agriculture
 
   4            Food Technology and Level 4          \-
-               Health                               
+               Health
 
   5            Smart mechatronics  Level 4          \-
-               and Japanese-style                   
-               manufacturing                        
+               and Japanese-style
+               manufacturing
 
   6            Construction        Level 4          \-
-               engineering                          
+               engineering
 
   7            Smart control and   Level 4          \-
-               automation                           
+               automation
 
   8            Semiconductor Chip  Level 4          \-
-               Engineering                          
-               Technology                           
+               Engineering
+               Technology
 
-  **II**       **Standard training                  
-               program**                            
+  **II**       **Standard training
+               program**
 
   9            Construction        Level 3          \-
-               engineering                          
+               engineering
 
-  **III**      **CTĐT standard                      
-               collection                           
-               according to                         
-               technical economic                   
-               norms**                              
+  **III**      **CTĐT standard
+               collection
+               according to
+               technical economic
+               norms**
 
   10           Global innovation   Level 4          \-
-               and development                      
+               and development
   ------------------------------------------------------------------
 
 - List of certificates and diplomas recognized at Hanoi National
@@ -127,11 +127,11 @@ output standards of the training program (CTĐT), specifically:
 
   --------------------------------------------------------------
   TT        Foreign       The results  Courses with Course code
-            language      are          recognized   
-            proficiency   recognized   results      
+            language      are          recognized
+            proficiency   recognized   results
   --------- ------------- ------------ ------------ ------------
   1         English Level 9.0          English B1   FLF1107
-            3                                       
+            3
 
   2         English Level 10.0         English B1,  FLF1107,
             4                          English B2   FLF1108

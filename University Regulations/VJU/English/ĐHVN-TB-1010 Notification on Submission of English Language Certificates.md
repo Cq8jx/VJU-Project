@@ -44,56 +44,56 @@ follows:
                                                     outcomes and
                                                     credit transfer.
   ------------ ------------------- ---------------- ----------------
-  **I**        **High quality                       
-               training programs                    
-               according to unit                    
-               characteristics**                    
+  **I**        **High quality
+               training programs
+               according to unit
+               characteristics**
 
   1            Japanese Studies    Level 3          English B1 (HP
                                                     code: FLF1107)
 
-  2            Computer Science    Level 4          
-               and Engineering                      
+  2            Computer Science    Level 4
+               and Engineering
 
-  3            Smart and           Level 4          
-               Sustainable                          
-               Agriculture                          
+  3            Smart and           Level 4
+               Sustainable
+               Agriculture
 
   4            Food Technology and Level 4          English B1 (HP
                Health                               code: FLF1107),
                                                     English B2 (HP
                                                     code: FLF1108)
 
-  5            Smart mechatronics  Level 4          
-               and Japanese-style                   
-               manufacturing                        
+  5            Smart mechatronics  Level 4
+               and Japanese-style
+               manufacturing
 
-  6            Construction        Level 4          
-               engineering                          
+  6            Construction        Level 4
+               engineering
 
-  7            Smart control and   Level 4          
-               automation                           
+  7            Smart control and   Level 4
+               automation
 
-  8            Semiconductor Chip  Level 4          
-               Engineering                          
-               Technology                           
+  8            Semiconductor Chip  Level 4
+               Engineering
+               Technology
 
-  **II**       **Standard training                  
-               program**                            
+  **II**       **Standard training
+               program**
 
   9            Construction        Level 3          English B1 (HP
                engineering                          code: FLF1107),
                                                     English B2 (HP
                                                     code: FLF1108)
 
-  **III**      **CTĐT standard                      
-               collection                           
-               according to                         
-               technical economic                   
-               norms**                              
+  **III**      **CTĐT standard
+               collection
+               according to
+               technical economic
+               norms**
 
-  10           Global innovation   Level 4          
-               and development                      
+  10           Global innovation   Level 4
+               and development
   ------------------------------------------------------------------
 
 - List of certificates and diplomas recognized at Hanoi National
@@ -120,11 +120,11 @@ follows:
 
   --------------------------------------------------------------
   TT        Foreign       The results  Courses with Course code
-            language      are          recognized   
-            proficiency   recognized   results      
+            language      are          recognized
+            proficiency   recognized   results
   --------- ------------- ------------ ------------ ------------
   1         English Level 9.0          English B1   FLF1107
-            3                                       
+            3
 
   2         English Level 10.0         English B1,  FLF1107,
             4                          English B2   FLF1108

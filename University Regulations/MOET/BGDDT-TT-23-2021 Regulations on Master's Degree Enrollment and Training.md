@@ -261,7 +261,8 @@ Minister of Education and Training)*
     c)  List of suitable majors for each training program and
         regulations on cases where additional training must be
         completed;
-    d)  Application documents; d) Admission plan and method;
+    d)  Application documents;
+    d) Admission plan and method;
     e)  Tuition fees, admission service fees and other service fees for
         each school year and the entire course;
     f)  Other necessary information.
@@ -275,7 +276,8 @@ Minister of Education and Training)*
         proficiency and recognizing admitted students;
     c)  Priority policies in admission;
     d)  Archiving and security work in organizing exams and
-        admissions; d) Internal inspection, examination and supervision
+        admissions;
+    d) Internal inspection, examination and supervision
         in admissions;
     e)  Responsibilities of organizations, units and individuals in
         organizing enrollment;
@@ -348,7 +350,8 @@ Minister of Education and Training)*
     c)  Standards, responsibilities and authorities of lecturers;
     d)  Duties and powers of students and related professional,
         management and support units according to current legal
-        regulations; d) Collecting feedback from students and other
+        regulations;
+    d) Collecting feedback from students and other
         relevant regulations in organizing master\'s training activities
         of the training institution.
 
@@ -694,7 +697,8 @@ Minister of Education and Training)*
     b)  Time, location and form of training;
     c)  Entry requirements and admission information;
     d)  Program structure (with the number of credits for each subject,
-        thesis, project, research topic); d) Faculty participating in
+        thesis, project, research topic);
+    d) Faculty participating in
         teaching and guiding theses and projects;
     e)  Learning and assessment;
     f)  Output standards, job opportunities;
@@ -738,22 +742,22 @@ language proficiency framework for Vietnam applied in master\'s degree
 recruitment and training**
 
   ------------------------------------------------------------------------------------------
-  TT           Language     Certificate/Diploma   Level/Scale         
+  TT           Language     Certificate/Diploma   Level/Scale
   ------------ ------------ --------------------- ------------------- ----------------------
                                                   **Equivalent to     **Equivalent to Level
                                                   Level 3**           4**
 
                             TOEFL IBT             30 - 45             46 - 93
 
-                            TOEFL ITP             450 - 499           
+                            TOEFL ITP             450 - 499
 
                             IELTS                 4.0 - 5.0           5.5 - 6.5
 
   1            English      Cambridge Assessment  B1 Preliminary/B1   B2 First/B2 Business
                             English               Business            Vantage/Linguaskill.
                                                   Preliminary/        Score scale: 160-179
-                                                  Linguaskill. Score  
-                                                  scale: 140-159      
+                                                  Linguaskill. Score
+                                                  scale: 140-159
 
                             TOEIC (4 skills)      Listening: 275-399, Listening: 400-489,
                                                   Reading: 275-384,   Reading: 385-454,
@@ -769,13 +773,13 @@ recruitment and training**
                             language certificate  (TDN 3)             4)
 
   4            Chinese      Hanyu Shuiping Kaoshi HSK Level 3         HSK Level 4
-                            (HSK)                                     
+                            (HSK)
 
   5            Japanese     Japanese Language     N4                  N3
-                            Proficiency Test                          
-                            (JLPT)                                    
+                            Proficiency Test
+                            (JLPT)
 
   6            Russian      ТРКИ - Тест по        TRKI-1              TRKI-2
-                            русскому языку как                        
-                            иностранному                              
+                            русскому языку как
+                            иностранному
   ------------------------------------------------------------------------------------------
