@@ -72,20 +72,20 @@ Các trường hợp đặc biệt sẽ do Ban giám hiệu Trường ĐHVN quy�
 
 ### Điều 4. Trách nhiệm của cố vấn học tập
 CVHT có trách nhiệm thực hiện các nhiệm vụ theo 04 nhóm chức năng chính sau:
-a) Hỗ trợ học tập và nghiên cứu
+    a) Hỗ trợ học tập và nghiên cứu
 - Hướng dẫn sinh viên hiểu rõ các quy định, hướng dẫn về đào tạo đại học của ĐHQGHN và Trường ĐHVN, đặc biệt là các nội dung liên quan đến kế hoạch học tập, đăng ký học phần, điều kiện học vụ và xét tốt nghiệp.
 - Hướng dẫn sinh viên xây dựng và cập nhật kế hoạch học tập cá nhân; tư vấn lựa chọn học phần phù hợp với năng lực, nguyện vọng và yêu cầu của chương trình đào tạo.
 -Hướng dẫn sinh viên phương pháp học tập hiệu quả, kỹ năng nghiên cứu khoa học và tư duy phản biện; khuyến khích sinh viên tham gia các hoạt động học thuật, hội thảo chuyên đề.
 - Theo dõi kết quả học tập của sinh viên, phát hiện sớm các trường hợp có dấu hiệu sa sút học tập để phối hợp với các đơn vị chức năng xử lý, hỗ trợ kịp thời.
-b) Phát triển cá nhân và nghề nghiệp
+    b) Phát triển cá nhân và nghề nghiệp
 - Tư vấn, giới thiệu cho sinh viên các cơ hội học bổng, chương trình trao đổi học thuật, thực tập, tham gia nghiên cứu, học các học phần vượt hoặc học phần tự chọn có định hướng nghề nghiệp.
 - Đồng hành cùng sinh viên trong việc phát triển kỹ năng mềm (kỹ năng học tập, giao tiếp, làm việc nhóm, quản lý thời gian...), định hướng nghề nghiệp và lựa chọn lộ trình phát triển sau tốt nghiệp.
 - Phối hợp với các đơn vị trong trường xây dựng hoặc đề xuất các chuyên đề kỹ năng, hoạt động ngoại khóa, học tập trải nghiệm, nhằm phát triển toàn diện cho sinh viên.
-c) Kết nối – phối hợp tổ chức
+    c) Kết nối – phối hợp tổ chức
 - Hỗ trợ Giám đốc/Điều phối viên chương trình trong việc tổ chức các hoạt động học tập, hội thảo, sinh hoạt chuyên môn, sinh hoạt lớp định kỳ theo từng học kỳ/năm học.
 - Liên hệ với gia đình sinh viên trong các trường hợp cần thiết để phối hợp hỗ trợ sinh viên về học tập, tâm lý, điều kiện học tập hoặc các tình huống phát sinh khác.
 - Phối hợp với Phòng Đào tạo và Công tác sinh viên, Khoa/CTĐT và các đơn vị liên quan trong việc đánh giá điểm rèn luyện, xét học bổng, xử lý học vụ, quản lý lớp học, đôn đốc sinh viên thực hiện các khảo sát của Trường và các công việc liên quan.
-d) Ứng dụng công nghệ và báo cáo
+    d) Ứng dụng công nghệ và báo cáo
 - Sử dụng hiệu quả các công cụ hỗ trợ như hệ thống quản lý học tập (LMS), biểu mẫu khảo sát, bảng theo dõi tiến độ học tập... để tăng cường tương tác và quản lý thông tin sinh viên.
 - Thực hiện đầy đủ chế độ báo cáo định kỳ (theo học kỳ/năm học) và báo cáo đột xuất về tình hình lớp, kết quả CVHT theo yêu cầu của Trường hoặc đơn vị chức năng.
 

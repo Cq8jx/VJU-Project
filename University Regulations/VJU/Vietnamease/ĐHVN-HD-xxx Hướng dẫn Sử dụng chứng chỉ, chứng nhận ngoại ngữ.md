@@ -23,7 +23,7 @@ Căn cứ Công văn số 4162/ĐHQGHN-ĐT ngày 03/11/2023 của Giám đốc �
 
 Trường Đại học Việt Nhật hướng dẫn sử dụng chứng chỉ, chứng nhận ngoại ngữ trong việc xác nhận chuẩn đầu ra (CĐR) và giảng dạy học phần ngoại ngữ đối với sinh viên thuộc các chương trình đào tạo đại học (CTĐT) khóa VJU2022 trở đi tại Trường như sau:
 
-### 1. Đối tượng áp dụng: 
+### 1. Đối tượng áp dụng:
 Sinh viên đại học chính quy khóa VJU2022 trở đi.
 
 ### 2. Xác nhận chuẩn đầu ra

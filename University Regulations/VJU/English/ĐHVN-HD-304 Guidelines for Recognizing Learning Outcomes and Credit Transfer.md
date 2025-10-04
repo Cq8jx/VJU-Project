@@ -1,12 +1,12 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 
-**Vietnam National University, Hanoi**  
+**Vietnam National University, Hanoi**
 **Vietnam-Japan University**
 
-**SOCIALIST REPUBLIC OF VIETNAM**  
+**SOCIALIST REPUBLIC OF VIETNAM**
 **Independence – Freedom – Happiness**
 
-*No.: 304/HD-ĐHVN*  
+*No.: 304/HD-ĐHVN*
 *Hanoi, 1 April 2025*
 
 # GUIDELINES
@@ -41,33 +41,33 @@ All students enrolled in VJU undergraduate programmes.
 
 These guidelines take effect on the date signed. Any issues arising during implementation should be reported to the Rectorate Board via the AASS Office for timely resolution.
 
-**Recipients:**  
-- Rector (for reporting);  
-- Faculties (for implementation);  
+**Recipients:**
+- Rector (for reporting);
+- Faculties (for implementation);
 - Filed: Office of the Rector, AASS, QH04.
 
-**For the Rector**  
-**Vice Rector**  
+**For the Rector**
+**Vice Rector**
 **Nguyễn Hoàng Oanh**
 
 ---
 
 ## Appendix — Application for recognition of learning outcomes and credit transfer
 
-**SOCIALIST REPUBLIC OF VIETNAM**  
+**SOCIALIST REPUBLIC OF VIETNAM**
 **Independence – Freedom – Happiness**
 
-### APPLICATION FOR RECOGNITION OF LEARNING OUTCOMES AND CREDIT TRANSFER  
+### APPLICATION FOR RECOGNITION OF LEARNING OUTCOMES AND CREDIT TRANSFER
 *(For students who have completed modules in another programme)*
 
-**To:** The Rectorate Board of Vietnam-Japan University  
+**To:** The Rectorate Board of Vietnam-Japan University
 **Via:** Office of Academic Affairs and Student Services
 
-- **Full name:** ..............................................................  
-- **Student ID:** ..........  
-- **Class/cohort:** ......................................................  
-- **Faculty/Programme:** ..............................................  
-- **Phone:** ...............................................................  
+- **Full name:** ..............................................................
+- **Student ID:** ..........
+- **Class/cohort:** ......................................................
+- **Faculty/Programme:** ..............................................
+- **Phone:** ...............................................................
 - **Email:** ...............................................................
 
 I respectfully request the Rectorate Board to recognise my academic results and transfer credits for the modules completed at ............................................... Details are as follows:
@@ -83,7 +83,7 @@ Total modules listed: ......
 
 Reason: I have completed the above modules and would like the results to be recognised and credits transferred. I attach certified copies of my transcript and module syllabi. I certify that the information provided is accurate and accept responsibility for it. I kindly request your consideration and support.
 
-*Hanoi, ……/……/20……*  
+*Hanoi, ……/……/20……*
 **Student (signature and full name)**
 
 **Comments from the Office of Academic Affairs and Student Services:**
@@ -92,29 +92,29 @@ Reason: I have completed the above modules and would like the results to be reco
 
 ---
 
-### APPLICATION FOR RECOGNITION OF LEARNING OUTCOMES AND CREDIT TRANSFER  
+### APPLICATION FOR RECOGNITION OF LEARNING OUTCOMES AND CREDIT TRANSFER
 *(For students with scientific research achievements)*
 
-**To:** The Rectorate Board of Vietnam-Japan University  
+**To:** The Rectorate Board of Vietnam-Japan University
 **Via:** Office of Academic Affairs and Student Services
 
-- **Full name:** ..............................................................  
-- **Student ID:** ..........  
-- **Class/cohort:** ......................................................  
-- **Faculty/Programme:** ..............................................  
-- **Phone:** ...............................................................  
+- **Full name:** ..............................................................
+- **Student ID:** ..........
+- **Class/cohort:** ......................................................
+- **Faculty/Programme:** ..............................................
+- **Phone:** ...............................................................
 - **Email:** ...............................................................
 
 I respectfully request recognition and credit conversion for the module ................................ (code ....................) in the programme ........................................................................... based on the following scientific research work:
 
-- **Project title:** ......................................................................  
-- **Completion date:** ..........................................................  
-- **Implementing unit:** .....................................................  
+- **Project title:** ......................................................................
+- **Completion date:** ..........................................................
+- **Implementing unit:** .....................................................
 - **Score/Evaluation (if any):** ............................................
 
 I enclose confirmation of the research project from the hosting unit. I certify that the above information is accurate and accept responsibility for it. I kindly ask the Rectorate Board to consider my request and provide support.
 
-*Hanoi, ……/……/20……*  
+*Hanoi, ……/……/20……*
 **Student (signature and full name)**
 
 **Comments from the Office of Academic Affairs and Student Services:**

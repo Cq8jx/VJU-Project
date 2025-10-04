@@ -105,7 +105,8 @@ major.
         there are sufficient conditions to ensure quality;
     d)  Organize and manage the training process of training programs
         approved by Hanoi National University when registering to open
-        training majors according to regulations; d) Manage students\'
+        training majors according to regulations;
+    d) Manage students\'
         learning and scientific research; reward and discipline students
         according to regulations; organize professional activities and
         scientific research for students suitable to the training major;
@@ -438,9 +439,11 @@ for the field registered for the master\'s degree training exam
 according to the provisions of Article 12 of this Regulation; for
 research-oriented master\'s training programs, a graduation grade of
 good or higher is required or there is a scientific publication related
-to the field of study and research; b) A university degree granted by a
+to the field of study and research;
+    b) A university degree granted by a
 foreign educational institution must undergo the diploma recognition
-procedure according to current regulations; c) Based on the conditions
+procedure according to current regulations;
+    c) Based on the conditions
 of the training unit and the requirements of the training sector, the
 head of the training unit shall specify the diploma conditions of the
 candidates taking the exam. 2. Regarding professional work experience:
@@ -475,7 +478,8 @@ as prescribed by the training unit.
         competent agency or organization;
     b)  War invalids and people enjoying policies like war invalids;
     c)  Martyr\'s child;
-    d)  Heroes of the armed forces, heroes of labor; d) Ethnic
+    d)  Heroes of the armed forces, heroes of labor;
+    d) Ethnic
         minorities with permanent residence registration for 2 years or
         more (as of the deadline for submitting application documents)
         in the locality specified in Point a of this Clause;
@@ -540,8 +544,8 @@ as prescribed by the training unit.
     c)  Standing member: head or deputy head of postgraduate training
         management unit;
     d)  Members: some heads or deputy heads of units (departments,
-        faculties, departments) directly related to the exam. d)
-        Secretary of the Admissions Council.
+        faculties, departments) directly related to the exam.
+    d)  Secretary of the Admissions Council.
 3.  Duties of the Admissions Council The Admissions Council of each unit
     is responsible for managing the tasks related to admissions within
     the responsibility of its unit, including:
@@ -554,7 +558,8 @@ as prescribed by the training unit.
         (if necessary);
     c)  Provide candidates with exam syllabuses for entrance exams;
     d)  Organize candidates to take the exam according to assigned
-        responsibilities; d) The selection, decision to recognize or
+        responsibilities;
+    d) The selection, decision to recognize or
         request Hanoi National University to decide to recognize
         students is carried out according to the task hierarchy of Hanoi
         National University.
@@ -945,7 +950,8 @@ carried out according to separate regulations.
     c)  Correct assessment form and method as specified in the detailed
         syllabus of the course;
     d)  Combine regular tests during the learning process with final
-        exams; d) Combine a number of assessment forms (exercises,
+        exams;
+    d) Combine a number of assessment forms (exercises,
         essays, practice results, thematic reports, written exams, oral
         exams, etc.) suitable to the requirements of the course;
     e)  Combine assessment of learners\' diligence in studying and
@@ -1014,17 +1020,20 @@ with a certificate from a competent medical agency. In other cases, the
 training unit shall only allow temporary leave of absence for students
 who have studied at least one semester at the training unit, have a
 cumulative average score of not less than 2.0 and have not been
-disciplined; b) The temporary leave of absence for those mobilized into
+disciplined;
+    b) The temporary leave of absence for those mobilized into
 the armed forces or performing international duties is the time recorded
 in the decision of the competent authority, not counted in the study
 time as prescribed in Clause 3, Article 6 of this Regulation; The
 temporary leave of absence for other cases is the time necessary
 according to the needs and wishes of the student, but the maximum time
 to complete the training program must comply with the provisions in
-Clause 3, Article 6 of this Regulation; c) The head of the training unit
+Clause 3, Article 6 of this Regulation;
+    c) The head of the training unit
 shall specify the procedures for requesting leave, the authority to
 grant leave and the acceptance of students to return to study after a
-temporary leave of absence; d) Students are allowed to leave school if
+temporary leave of absence;
+    d) Students are allowed to leave school if
 they fall into one of the following cases: - Have a voluntary request to
 leave school during the training period as prescribed in Clause 3,
 Article 6 of this Regulation; - Exceed the maximum time allowed to study
@@ -1038,14 +1047,17 @@ change their residence to another province, have a certificate from the
 local government or the student is recruited or assigned to work in
 another province according to the decision of the competent authority,
 and cannot continue studying at the training unit, except in the case
-specified in Point c of this Clause; b) Conditions for transferring
+specified in Point c of this Clause;
+    b) Conditions for transferring
 training units: the training unit to which the student is transferring
 is training in the same major as the student; the student\'s wish to
 transfer training units must be approved by the heads of the training
 units from which the student is transferring and the training units to
-which the student is transferring; c) Students are not allowed to
+which the student is transferring;
+    c) Students are not allowed to
 transfer training units while they are studying in the final semester of
-the course or are being disciplined from warning or higher; d) The head
+the course or are being disciplined from warning or higher;
+    d) The head
 of the training unit shall specify the records and procedures for
 transferring; the procedures for considering and recognizing part or all
 of the credits that the student has studied, and deciding on the number
@@ -1078,8 +1090,8 @@ and are made public on the training unit\'s website.
         integrity and current regulations of intellectual property law;
     d)  The thesis is about 70 A4 pages long, it can be more or less
         depending on the specific research field of the thesis but not
-        more than 120 pages, not including tables and appendices; d)
-        Students must present the content and research plan of the
+        more than 120 pages, not including tables and appendices;
+    d)  Students must present the content and research plan of the
         thesis topic to the professional unit no later than 02 months
         after receiving the thesis topic. The results of the report
         evaluation are the conditions for considering the proposal for
@@ -1131,12 +1143,12 @@ and are made public on the training unit\'s website.
       exam to the date of submission of the thesis defense application)
       issued by institutions recognized by the Ministry of Education and
       Training and Hanoi National University.
-
     c)  Honorary pledge of honest research results, with confirmation
         from the supervisor that the thesis meets the requirements
         specified in Article 34 of these Regulations;
     d)  Not being prosecuted for criminal liability and not being under
-        disciplinary suspension from studying; d) The thesis has been
+        disciplinary suspension from studying;
+    d) The thesis has been
         checked for plagiarism, ensuring academic integrity for the
         thesis; Not being denounced according to the provisions of law
         regarding the scientific content of the thesis.
@@ -1184,12 +1196,12 @@ and are made public on the training unit\'s website.
       exam to the date of submission of the thesis defense application)
       issued by institutions recognized by the Ministry of Education and
       Training and Hanoi National University.
-
     c)  Honorary pledge of honest research results, with confirmation
         from the supervisor that the thesis meets the requirements
         specified in Article 34 of these Regulations;
     d)  Not being prosecuted for criminal liability and not being under
-        disciplinary suspension from studying; d) The thesis has been
+        disciplinary suspension from studying;
+    d) The thesis has been
         checked for plagiarism, ensuring academic integrity for the
         thesis; Not being denounced according to the provisions of law
         regarding the scientific content of the thesis.
@@ -1228,7 +1240,8 @@ and are made public on the training unit\'s website.
         field of the thesis topic;
     d)  The thesis supervisor; the father, mother, wife, husband, child,
         or sibling of the thesis defender shall not participate in the
-        council; d) Council members must be responsible for the honesty
+        council;
+    d) Council members must be responsible for the honesty
         and objectivity in commenting and evaluating the thesis
         according to the provisions of Clause 1, Article 37 of these
         Regulations.
@@ -1485,7 +1498,8 @@ to training units.
         the date of graduation;
     d)  Other documents related to master\'s degree enrollment and
         training are stored and preserved for at least 05 years from the
-        date of graduation; d) Documents that have expired must be
+        date of graduation;
+    d) Documents that have expired must be
         destroyed according to current state regulations.
 
 ## Chapter VI: DUTIES AND RIGHTS OF LECTURERS AND STUDENTS
@@ -1520,7 +1534,8 @@ to training units.
         advise and assist graduate students in studying, researching,
         practicing professional ethics, developing creative capacity,
         perfecting professional skills and soft skills; solicit feedback
-        from graduate students on their teaching; d) Conduct scientific
+        from graduate students on their teaching;
+    d) Conduct scientific
         research, apply research results to teaching and practical
         applications;
     e)  Evaluate or participate in evaluating the learning outcomes of
@@ -1663,7 +1678,6 @@ Regulations.
       students must retake;
     - The head of the training unit shall specify and widely publicize
       to students the method of collecting and paying tuition fees.
-
     c)  Other legal sources of funding Legal sources of funding for
         training are determined by the head of the training unit
         according to the actual situation to ensure effective use and

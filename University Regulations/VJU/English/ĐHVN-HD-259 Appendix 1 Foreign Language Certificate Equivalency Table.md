@@ -4,7 +4,7 @@ This file is a text transcription of the information published at https://vju.vn
 
 # APPENDIX 1
 
-**Reference table converting foreign language certificates/attestations that satisfy the foreign language graduation requirement (*)**  
+**Reference table converting foreign language certificates/attestations that satisfy the foreign language graduation requirement (*)**
 *(Issued together with Guideline No. 259/HD-ĐHVN dated 3 April 2024 of the Rector of Vietnam-Japan University, VNU)*
 
 ## 1. English

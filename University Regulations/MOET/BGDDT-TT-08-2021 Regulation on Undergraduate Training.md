@@ -235,8 +235,8 @@ Minister of Education and Training)*
     c)  Ensure that the permanent teaching staff teaches at least 70% of
         the training program content and volume;
     d)  Has issued regulations on cooperation and assessed the quality
-        assurance conditions of training coordination facilities; d)
-        Training facilities under the Ministry of National Defense and
+        assurance conditions of training coordination facilities;
+    d)  Training facilities under the Ministry of National Defense and
         the Ministry of Public Security do not apply points a and b of
         this clause, but are only allowed to cooperate in training with
         educational facilities under the same direct management ministry
@@ -440,7 +440,8 @@ Minister of Education and Training)*
     d)  Requiring the passing score threshold to be higher than that
         prescribed in Point a, Clause 3 of this Article; applying more
         letter grades than that prescribed in Clause 3 of this
-        Article; d) Allowing re-examination or re-evaluation of a
+        Article;
+    d) Allowing re-examination or re-evaluation of a
         component score to improve the course score from failing to
         passing; in this case, the course score after re-examination or
         re-evaluation is limited to a D or C grade;
@@ -504,7 +505,8 @@ Minister of Education and Training)*
     a)  First year level: N \< M;
     b)  Second year level: M ≤ N \< 2M;
     c)  Third year level: 2M ≤ N \< 3M;
-    d)  Fourth year level: 3M ≤ N \< 4M; d) Fifth year level: 4M ≤ N \<
+    d)  Fourth year level: 3M ≤ N \< 4M;
+    d) Fifth year level: 4M ≤ N \<
         5M.
 
 #### Article 11. Processing of learning results according to credits
@@ -886,7 +888,8 @@ Minister of Education and Training)*
     c)  Quality assurance conditions according to current regulations of
         the Ministry of Education and Training;
     d)  Evidence that training programs meet training program standards
-        issued by the Ministry of Education and Training; d) Admission
+        issued by the Ministry of Education and Training;
+    d) Admission
         notice according to current admission regulations;
     e)  Evidence of meeting the minimum requirements for work-study
         training as prescribed in Clauses 2 and 3, Article 5 of this

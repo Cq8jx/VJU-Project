@@ -91,7 +91,6 @@ Hanoi)*
       organize exams to grant certificates and accreditation according
       to the functions, tasks and regulations of VNU or of competent
       state agencies.
-
     b)  Training partners are foreign higher education institutions,
         international educational organizations with legal status,
         established and operating legally in the host country, in
@@ -107,7 +106,8 @@ Hanoi)*
     d)  The diploma appendix is a document showing some information
         about the learner and the learning results granted by the
         training unit to the learner along with the graduation diploma
-        at the corresponding training level at VNU; d) The certificate
+        at the corresponding training level at VNU;
+    d) The certificate
         issued by VNU or by the training unit according to its functions
         and tasks is a document recognizing the learning results of the
         learner meeting the output standards of a training and fostering
@@ -161,8 +161,8 @@ Hanoi)*
         except for the cases specified in Article 22 of these
         Regulations;
     d)  All fraudulent acts in the issuance and use of diplomas,
-        certificates and certifications are strictly prohibited; d)
-        Ensure publicity and transparency in the issuance of diplomas,
+        certificates and certifications are strictly prohibited;
+    d)  Ensure publicity and transparency in the issuance of diplomas,
         certificates and certifications.
 2.  Decentralization, delegation of authority to manage the issuance of
     diplomas, certificates, and certifications
@@ -204,7 +204,8 @@ Hanoi)*
         affect Vietnamese culture, ethics, and customs. The head of the
         unit shall make decisions and grant certificates and
         certifications to learners who have completed training and
-        fostering programs organized by the unit; d) Certifications
+        fostering programs organized by the unit;
+    d) Certifications
         granted to those who take the competency assessment test
         organized by the VNU Testing Center shall be implemented
         according to the Regulations on competency assessment tests for
@@ -312,7 +313,8 @@ Hanoi)*
         violations occur;
     d)  Verify the authenticity of diplomas, certificates and
         certifications upon legitimate requests from relevant agencies,
-        organizations and individuals; d) Edit the content recorded on
+        organizations and individuals;
+    d) Edit the content recorded on
         diplomas, certificates and certifications according to the
         provisions of Chapter IV of these Regulations;
     e)  Revoke and cancel diplomas, certificates and certifications
@@ -366,7 +368,6 @@ Hanoi)*
       - Number plate: Red flag color with UV light fluoresce
       - The sunken five-pointed star in the middle of the Hanoi symbol:
         Colorless, fluoresces under ultraviolet light.
-
     c)  Size:
 
     - Content page:
@@ -433,7 +434,8 @@ Hanoi)*
         born abroad, record the place of birth according to their birth
         certificate; for degree holders who do not have Vietnamese
         nationality, record their nationality (in accordance with the
-        admission records); d) Section "Hanoi, date...month...year...":
+        admission records);
+    d) Section "Hanoi, date...month...year...":
         Record the date, month, year the President of VNU signs the
         degree;
     e)  "Director" section: Leave a blank space for signature and write
@@ -477,7 +479,8 @@ Hanoi)*
         in English is printed in the corresponding Vietnamese font
         without accents, capitalize the first letters of the last name,
         middle name (if any), and first name; appropriate font size,
-        ensuring balance with the letters in the certificate; d) Section
+        ensuring balance with the letters in the certificate;
+    d) Section
         "Born on: ... At...": Write the date, month, year of birth and
         place of birth (administrative unit at the provincial or
         centrally-run city level at the time of granting the
@@ -531,7 +534,6 @@ Hanoi)*
     - Credit
     - Average (English: Pass) d) \"At\" section: Write the name of the
       training unit (according to Appendix I);
-
     e)  "Given" section: Write the last name, middle name (if any),
         first name, and gender of the person receiving the certificate
         (gender is placed before the last name and Mr./Ms. is written);
@@ -690,7 +692,8 @@ Hanoi)*
         certificate blanks (if necessary);
     d)  Ensure facilities, equipment, safety, fire and explosion
         prevention in preserving issued blank certificates and printed
-        blank certificates; d) Approve blank samples and regulate the
+        blank certificates;
+    d) Approve blank samples and regulate the
         establishment of numbers, symbols, and anti-counterfeit stamps
         for the unit\'s blank certificates; organize inspection of
         printing, management, preservation, issuance and use of blank
@@ -954,7 +957,8 @@ Hanoi)*
     b)  Being found to have evidence of violating regulations on
         management of diplomas, certificates and certifications of VNU;
     c)  Granted to ineligible persons;
-    d)  Issued by an unauthorized person; d) Erased or altered;
+    d)  Issued by an unauthorized person;
+    d) Erased or altered;
     e)  To let others use diplomas, certificates, certifications;
     f)  Due to the fault of the competent authority issuing the diploma,
         certificate, or certification.
@@ -1181,7 +1185,8 @@ of Education and Training (if any).
     b)  Name, number, date, month, year of issue of diploma,
         certificate, certification (if any);
     c)  Edited content;
-    d)  Reason for revision; d) Validity and responsibility for
+    d)  Reason for revision;
+    d) Validity and responsibility for
         implementing the decision.
 2.  The amendment of the content of diplomas, certificates and
     certifications is applied to diplomas, certificates and
@@ -1295,7 +1300,8 @@ law.
         the Leader;
     d)  Arrange for qualified and competent staff to take charge of
         managing and issuing diploma blanks in accordance with
-        regulations; d) Carry out the work of preserving diploma blanks
+        regulations;
+    d) Carry out the work of preserving diploma blanks
         and inspecting the management of diplomas, certificates, and
         certifications at the training unit (coordinating with relevant
         functional departments if necessary);
@@ -1695,24 +1701,24 @@ year ...)*
 
   ---------------------------------------------------------------------------------------------
   STT                Student   Full   Date of Place   Sex    Decision to Learning    Note
-                     code      name   birth   of             recognize   outcomes    
-                                              birth          student                 
-                                                             number \...             
-                                                             dated \...              
+                     code      name   birth   of             recognize   outcomes
+                                              birth          student
+                                                             number \...
+                                                             dated \...
   ------------------ --------- ------ ------- ------- ------ ----------- ----------- ----------
                                                                          **Average score**     **Thesis score**
 
-  **Specialized:**                                                                   
+  **Specialized:**
 
-  1                                                                                  
+  1
 
-  2                                                                                  
+  2
 
-  **Specialized:**                                                                   
+  **Specialized:**
 
-  1                                                                                  
+  1
 
-  2                                                                                  
+  2
   ---------------------------------------------------------------------------------------------
 
 **The list includes** ............ **students./.**
@@ -1778,15 +1784,15 @@ Happiness**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------
   TT   Student   Full name Date of Place   Sex   Nation   Nationality   Decision to  Protection   Diploma   Original      The diploma Date of     Note
-       code      of the    birth   of                                   establish a  Day          number    certificate   recipient   receiving   
-                 learner           birth                                thesis                              number        signs and   diploma     
-                                                                        evaluation                                        prints                  
-                                                                        council                                           his/her                 
-                                                                                                                          full name.              
+       code      of the    birth   of                                   establish a  Day          number    certificate   recipient   receiving
+                 learner           birth                                thesis                              number        signs and   diploma
+                                                                        evaluation                                        prints
+                                                                        council                                           his/her
+                                                                                                                          full name.
   ---- --------- --------- ------- ------- ----- -------- ------------- ------------ ------------ --------- ------------- ----------- ----------- ------
-  1                                                                                                                                               
+  1
 
-  2                                                                                                                                               
+  2
   ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Hanoi, date.... month.... year.....* **BOOK CREATION OFFICER** *(Sign,
@@ -1937,11 +1943,11 @@ diploma:**
 
   -----------------------------------------------------------------------
   STT   Course   Course   Number of Letter   Score   Score      Notes¹⁶
-        code     name     credits   grade    (on a   (4-point   
-                                             scale   scale)     
-                                             of 10)             
+        code     name     credits   grade    (on a   (4-point
+                                             scale   scale)
+                                             of 10)
   ----- -------- -------- --------- -------- ------- ---------- ---------
-                                                                
+
 
   -----------------------------------------------------------------------
 
@@ -1954,11 +1960,11 @@ rank:** ........................................................
 
   ---------------------------------------------------------------------
   STT   Course   Course   Number of Letter   Score   Score      Note
-        code     name     credits   grade    (on a   (4-point   
-                                             scale   scale)     
-                                             of 10)             
+        code     name     credits   grade    (on a   (4-point
+                                             scale   scale)
+                                             of 10)
   ----- -------- -------- --------- -------- ------- ---------- -------
-                                                                
+
 
   ---------------------------------------------------------------------
 
@@ -1990,10 +1996,10 @@ VNU.*
   -------------------------------------------------------------------------------------------
 ### Appendix XVIII
 
-  **Vietnam National University, Hanoi**  
+  **Vietnam National University, Hanoi**
   **Training unit**
 
-  **SOCIALIST REPUBLIC OF VIETNAM**  
+  **SOCIALIST REPUBLIC OF VIETNAM**
   **Independence - Freedom - Happiness**
 
   **APPENDIX TO DOCTORAL DIPLOMA** *(Attached with certificate number ........ issued on .......)*
@@ -2072,12 +2078,12 @@ year.........** **Examination/testing council (if any):**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   TT       Full name Date of Place   Sex   Nation   Ranking/Test   Certificate     Original                  Certificate/certificate   Date of receipt of          Note
-  number   of the    birth   of                     Score (if any) number /        certificate/certificate   recipient (sign and print certificate/certification   
-           learner           birth                                 certification   entry number              full name)                                            
+  number   of the    birth   of                     Score (if any) number /        certificate/certificate   recipient (sign and print certificate/certification
+           learner           birth                                 certification   entry number              full name)
   -------- --------- ------- ------- ----- -------- -------------- --------------- ------------------------- ------------------------- --------------------------- ------
-  1                                                                                                                                                                
+  1
 
-  2                                                                                                                                                                
+  2
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Hanoi, date.... month.... year.....* **BOOK CREATION OFFICER** *(Sign,
@@ -2185,25 +2191,26 @@ Diploma management and issuance: reporting on the actual management and
 issuance of diplomas, updating diploma issuance information on the
 unit\'s electronic information portal, establishing the original diploma
 issuance book and archiving, computerizing diploma issuance management
-data and other related information. b) Number of diplomas issued to
+data and other related information.
+    b) Number of diplomas issued to
 learners from date ........................
 
   ------------------------------------------------------------------------------------
   TT       Training     Number   Number of  Number of  Number of  Number of  Notes²⁸
-  number   level        of       diplomas   unissued   reissued   issued     
-                        blanks   awarded to diplomas   diplomas   diplomas   
-                        issued   learners   (still                revoked    
-                                            kept at                          
-                                            the                              
-                                            unit)²⁷                          
+  number   level        of       diplomas   unissued   reissued   issued
+                        blanks   awarded to diplomas   diplomas   diplomas
+                        issued   learners   (still                revoked
+                                            kept at
+                                            the
+                                            unit)²⁷
   -------- ------------ -------- ---------- ---------- ---------- ---------- ---------
-  1        University                                                        
+  1        University
 
-  2        Master                                                            
+  2        Master
 
-  3        PhD                                                               
+  3        PhD
 
-           **Total**                                                         
+           **Total**
   ------------------------------------------------------------------------------------
 
 c)  Number of diplomas (received and managed) granted by foreign
@@ -2212,22 +2219,22 @@ c)  Number of diplomas (received and managed) granted by foreign
 
   ---------------------------------------------------------------------------
   TT       Training     Number of  Number of  Number of  Number of  Notes³⁰
-  number   level        diplomas   diplomas   diplomas   issued     
-                        received   not yet    reissued   diplomas   
-                        and        issued to  by         revoked    
-                        managed    students   partners              
-                                   (still                           
-                                   kept at                          
-                                   the                              
-                                   unit)²⁹                          
+  number   level        diplomas   diplomas   diplomas   issued
+                        received   not yet    reissued   diplomas
+                        and        issued to  by         revoked
+                        managed    students   partners
+                                   (still
+                                   kept at
+                                   the
+                                   unit)²⁹
   -------- ------------ ---------- ---------- ---------- ---------- ---------
-  1        University                                               
+  1        University
 
-  2        Master                                                   
+  2        Master
 
-  3        PhD                                                      
+  3        PhD
 
-           **Total**                                                
+           **Total**
   ---------------------------------------------------------------------------
 
 **3. Printing and management of certificate blanks** a) Printing and
@@ -2238,15 +2245,15 @@ in the year...........
 
   ----------------------------------------------------------------
   TT number Number of     Number of     Number of     Note
-            printed       used          remaining     
-            certificate   certificate   certificate   
-            blanks        blanks        blanks³¹      
+            printed       used          remaining
+            certificate   certificate   certificate
+            blanks        blanks        blanks³¹
   --------- ------------- ------------- ------------- ------------
-  1                                                   
+  1
 
-  2                                                   
+  2
 
-            **Total**                                 
+            **Total**
   ----------------------------------------------------------------
 
 **4. Management and issuance of certificates and certifications** a)
@@ -2262,7 +2269,8 @@ of certificates and certifications; updating information on
 certification issuance on the unit\'s electronic information portal;
 establishment of original certificate issuance books and computerization
 of data on management of certificate issuance and certification
-issuance, etc. b) Organization of examinations for granting
+issuance, etc.
+    b) Organization of examinations for granting
 certificates, foreign language certificates, Vietnamese language
 certificates, IT application certificates, inspector qualifications,
 pedagogical qualifications, professional title standards (according to
@@ -2273,31 +2281,31 @@ activities in the following year.
 
   --------------------------------------------------------------------------------------------------------
   STT    Training                Training/exam time Number of      Number of      Training/Exam   Note
-         courses/certification   (from....to....)   certificates   certificates   Location        
-         exams                                      issued         issued                         
+         courses/certification   (from....to....)   certificates   certificates   Location
+         exams                                      issued         issued
   ------ ----------------------- ------------------ -------------- -------------- --------------- --------
-  1                                                                                               
+  1
 
-  2                                                                                               
+  2
 
-         **Total**                                                                                
+         **Total**
   --------------------------------------------------------------------------------------------------------
 
 c)  Issuance of other certificates and certifications of the unit:
 
   ------------------------------------------------------------------------------------
   TT       Type of         Number of      Number of        Number of issued Note
-  number   certificate,    certificates   certificates and certificates and 
-           certification   issued to      certifications   certifications   
-                           learners       not yet issued   revoked or       
-                                          (still kept at   canceled         
-                                          the unit)³²                       
+  number   certificate,    certificates   certificates and certificates and
+           certification   issued to      certifications   certifications
+                           learners       not yet issued   revoked or
+                                          (still kept at   canceled
+                                          the unit)³²
   -------- --------------- -------------- ---------------- ---------------- ----------
-  1        Certificate                                                      
+  1        Certificate
 
-  2        Certification                                                    
+  2        Certification
 
-           **Total**                                                        
+           **Total**
   ------------------------------------------------------------------------------------
 
 **5. Self-inspection work of the unit** **6. Proposals and

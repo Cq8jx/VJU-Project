@@ -37,7 +37,6 @@ Director of Vietnam National University, Hanoi)*
       facilities and techniques) for training.
     - Comprehensive management of training organization and management
       of affiliated departments.
-
     b)  Training unit
 
     - Organize and manage training in majors and courses assigned by
@@ -55,7 +54,8 @@ Director of Vietnam National University, Hanoi)*
     c)  National defense and security education courses are taught by
         the National Defense and Security Education Center;
     d)  Physical education courses are taught by the Center for Physical
-        Education and Sports; d) Basic computer science courses are
+        Education and Sports;
+    d) Basic computer science courses are
         taught by the University of Technology and the University of
         Natural Sciences;
     e)  The training unit determines the content and organization of
@@ -113,7 +113,8 @@ Director of Vietnam National University, Hanoi)*
     c)  Free elective courses: students choose according to personal
         needs.
     d)  Prerequisites of a course: students must accumulate before
-        studying that course. d) Thesis and graduation project have a
+        studying that course.
+    d) Thesis and graduation project have a
         knowledge volume of 5 to 10 credits as specifically specified in
         the training program;
     e)  Internship and practical training (if any) is a compulsory
@@ -134,7 +135,8 @@ Director of Vietnam National University, Hanoi)*
         compulsory or optional, number of credits, type of class, class
         hours, prerequisite courses);
     d)  Objectives, output standards, content, and teaching methods of
-        the course; d) Information on organization and teaching
+        the course;
+    d) Information on organization and teaching
         schedule;
     e)  Learning materials;
     f)  Regulations on assessment and evaluation;
@@ -161,7 +163,8 @@ Director of Vietnam National University, Hanoi)*
     a)  Standard training program;
     b)  High quality training program;
     c)  International standard training program;
-    d)  Talent training program; d) Major and minor training program;
+    d)  Talent training program;
+    d) Major and minor training program;
     e)  Dual major training program;
     f)  International joint training program with degrees awarded by
         Hanoi National University;
@@ -215,7 +218,6 @@ Director of Vietnam National University, Hanoi)*
     - Training units implement tuition exemption and reduction policies
       for students according to regulations of the State and of Hanoi
       National University.
-
     c)  Other legal sources of funding Legal sources of funding for
         training are prescribed by the Head of the training unit.
 2.  Use of training funds
@@ -282,7 +284,8 @@ Promoting the effectiveness of international cooperation.
     a)  Knowledge standards;
     b)  Standards for professional skills and complementary skills;
     c)  Attitude standards;
-    d)  Jobs students can take on; d) Ability to study and improve
+    d)  Jobs students can take on;
+    d) Ability to study and improve
         qualifications after graduation.
 3.  The output standards for foreign language proficiency are as
     follows:
@@ -334,7 +337,8 @@ Promoting the effectiveness of international cooperation.
         credits than the corresponding standard training program, on the
         basis of improvement, adding a number of courses with higher
         level requirements and broader, deeper content, with reference
-        to prestigious foreign training programs. d) Training program
+        to prestigious foreign training programs.
+    d) Training program
         for the main major - minor major In addition to the training
         program content designed for the first major with a minimum
         knowledge volume of 120 credits, it is possible to add courses
@@ -415,7 +419,8 @@ week of exams, held between two main semesters.
         corresponding regular training program.
     d)  The maximum time to complete a course includes the course design
         time plus 4 main semesters for courses from 4 to under 5 years;
-        6 main semesters for courses from 5 to 6 years. d) The time to
+        6 main semesters for courses from 5 to 6 years.
+    d) The time to
         study two training programs simultaneously shall not exceed the
         maximum training time of the first training program.
 2.  Training year After each semester, based on the number of
@@ -427,9 +432,9 @@ week of exams, held between two main semesters.
   ---------------------------------------------------------------
   Training year   Standard        High quality    Talent training
                   training        training        program
-                  program         program,        
-                                  international   
-                                  standards       
+                  program         program,
+                                  international
+                                  standards
   --------------- --------------- --------------- ---------------
   First year      Under 35        Under 40        Under 45
                   credits         credits         credits
@@ -443,11 +448,11 @@ week of exams, held between two main semesters.
   Fourth year     From 106 -- 140 116--155        From 131 -- 170
                   credits         credits         credits
 
-  Fifth year      From 141 -- 175                 
-                  credits                         
+  Fifth year      From 141 -- 175
+                  credits
 
-  Sixth year      From 176 -- 225                 
-                  credits                         
+  Sixth year      From 176 -- 225
+                  credits
   ---------------------------------------------------------------
 
 ### Article 17. Training plan
@@ -464,8 +469,8 @@ week of exams, held between two main semesters.
     b)  Training program;
     c)  Output standards of training programs;
     d)  Conditions for ensuring quality (lecturing staff, facilities,
-        laboratories, libraries and learning materials systems); d)
-        Information on tuition fees and scholarships;
+        laboratories, libraries and learning materials systems);
+    d)  Information on tuition fees and scholarships;
     e)  Training regulations and rules related to student learning,
         training and living.
 4.  At the beginning of the school year, the training unit informs
@@ -543,7 +548,6 @@ is 50 minutes. Break time between two classes is 10 minutes.
       In case a student wishes to register for less than the minimum
       number of credits in a semester, he/she must have the consent of
       the head of the training unit.
-
     b)  For extra semesters: Head of training unit determines.
 2.  Register for courses
     a)  The organization of registration for courses in the training
@@ -615,7 +619,6 @@ is 50 minutes. Break time between two classes is 10 minutes.
     - Duties of instructors, responsibilities of the department towards
       students during thesis and graduation project;
     - Form and process of grading theses and graduation projects.
-
     b)  The Dean of a Faculty under the Vietnam National University,
         Hanoi, and the Dean of a Faculty of a member university assigns
         thesis and graduation project supervisors upon the request of
@@ -664,7 +667,6 @@ is 50 minutes. Break time between two classes is 10 minutes.
     - Students have certificates of national defense and security
       education;
     - The student is a foreigner.
-
     b)  Students who transfer training institutions are exempted from
         studying and taking exams for the learned content but must have
         scores to evaluate the learning outcomes of the corresponding
@@ -677,7 +679,6 @@ is 50 minutes. Break time between two classes is 10 minutes.
       or equivalent or higher;
     - Students who have completed military service and have a discharge
       certificate issued by a competent military unit.
-
     d)  Subjects who are temporarily suspended from school
 
     - Students are sick, have accidents, natural disasters, fires;
@@ -691,7 +692,6 @@ is 50 minutes. Break time between two classes is 10 minutes.
 
     - Students have completed physical education courses appropriate to
       their level of training.
-
     b)  Students with congenital disabilities or deformities that limit
         motor function (with a certificate from a district-level
         hospital or equivalent or higher) are exempted from practical
@@ -780,7 +780,6 @@ is 50 minutes. Break time between two classes is 10 minutes.
       consideration, below 2.50;
     - Disciplined during school time from the level of reprimand or
       higher.
-
     b)  When transferring to the regular standard training program,
         advanced and additional courses are converted as follows:
 
@@ -807,7 +806,6 @@ is 50 minutes. Break time between two classes is 10 minutes.
       talent training program, international standards, high quality
       must be from B or higher;
     - Good moral character, good sense of organization and discipline.
-
     b)  For the conversion of credit points in the standard training
         program to corresponding advanced credit points, the Head of the
         training unit shall consider recognizing equivalence or
@@ -875,14 +873,18 @@ research topics, and applying scientific advances in practice.
 The organization and management of scientific research activities of
 students are decentralized as follows: 1. Training unit a) Develop a
 plan for scientific research activities of students in the unit\'s
-academic year tasks. b) Implement scientific research of students in
+academic year tasks.
+    b) Implement scientific research of students in
 association with scientific research topics, projects and other
 scientific activities of the unit. Create conditions for students to
 participate in research, become members of research groups and
-participate in scientific and technological activities. c) Organize
+participate in scientific and technological activities.
+    c) Organize
 student scientific conferences, evaluate, classify and reward students\'
-research works. d) Establish student scientific clubs, organize
-scientific thematic activities. e) Head of the training unit specifies
+research works.
+    d) Establish student scientific clubs, organize
+scientific thematic activities.
+    e) Head of the training unit specifies
 the standard number of hours for lecturers to guide students in
 scientific research for each project. 2. Hanoi National University
 Organizes the review and awards for outstanding scientific research
@@ -1023,7 +1025,6 @@ works of students of Hanoi National University.
       reducing the disciplinary level from warning to reprimand.
       Students who are warned when taking a subject test will have 50%
       of the score achieved for that subject test deducted.
-
     c)  Suspension from the exam: applies to students who commit one of
         the following violations:
 
@@ -1037,7 +1038,6 @@ works of students of Hanoi National University.
       room immediately after the suspension decision is made. The
       invigilator will record the above disciplinary actions, collect
       the evidence and clearly state the disciplinary action.
-
     d)  Students who take exams for others or ask others to take exams
         for them will be disciplined with a 1-year suspension from
         school for the first offense and forced to leave school for the
@@ -1186,22 +1186,33 @@ following errors: arriving late at the prescribed time, not signing the
 examination papers or students\' scratch papers, not concentrating
 during the examination, or missing one examination session without a
 valid reason. 2. Warning: applied to those who violate one of the
-following errors: a) Missing two or more examination sessions without a
-valid reason in one school year; b) Leaving to do other work during
-examination hours; c) Allowing students to copy, bring, and use
-unauthorized materials during the examination; d) Not making a record of
-students who have been discovered to have violated the regulations; e)
-Losing the examination; e) Marking or adding scores to the examination
+following errors:
+    a) Missing two or more examination sessions without a
+valid reason in one school year;
+    b) Leaving to do other work during
+examination hours;
+    c) Allowing students to copy, bring, and use
+unauthorized materials during the examination;
+    d) Not making a record of
+students who have been discovered to have violated the regulations;
+    e)  Losing the examination;
+    e) Marking or adding scores to the examination
 with many errors. 3. Disciplinary action or forced dismissal shall be
-applied to those who commit one of the following violations: a) Leaking
-exam questions; b) Taking exam questions out of the exam room, bringing
+applied to those who commit one of the following violations:
+    a) Leaking
+exam questions;
+    b) Taking exam questions out of the exam room, bringing
 answers from outside into the exam room or helping students take the
-exam during the exam; c) Revealing exam questions; d) Cheating during
+exam during the exam;
+    c) Revealing exam questions;
+    d) Cheating during
 exam marking; giving incorrect scores, intentionally increasing or
-decreasing exam scores compared to the answers; e) Correcting or adding
-to student work to increase or decrease scores; e) Correcting or
+decreasing exam scores compared to the answers;
+    e) Correcting or adding
+to student work to increase or decrease scores;
+    e) Correcting or
 distorting scores on exam papers, exam marking records or grade books;
-f) Swapping student exams or exam scores.
+    f) Swapping student exams or exam scores.
 
 ### Article 38. How to calculate component assessment scores and course scores
 
@@ -1328,12 +1339,15 @@ records. The academic results of the supplementary semester will be
 included in the academic results of the main semester immediately before
 the supplementary semester. 1. Academic warning The training unit will
 issue academic warnings for each semester for students with the
-following academic results: a) The cumulative average score is below
+following academic results:
+    a) The cumulative average score is below
 1.20 for first-year students, below 1.40 for second-year students, below
 1.60 for third-year students or below 1.80 for students in the following
-years and at the end of the course; b) The average semester score is
+years and at the end of the course;
+    b) The average semester score is
 below 0.80 for the first semester of the course, below 1.00 for the
-following semesters; c) The total number of credits of the courses with
+following semesters;
+    c) The total number of credits of the courses with
 an F grade remaining from the beginning of the course to the time of
 review is over 24 credits. Depending on the characteristics of each
 training unit, the Head of the unit shall prescribe the application of
@@ -1341,17 +1355,21 @@ one or two of the three above conditions to warn students about their
 academic performance and prescribe the number of academic warnings, but
 not more than two consecutive times. 2. Forced to leave school After
 each semester, students shall be forced to leave school if they fall
-into one of the following cases: a) The number of warnings about
+into one of the following cases:
+    a) The number of warnings about
 academic performance exceeds the limit prescribed by the Head of the
-training unit; b) Exceeding the maximum time allowed to study as
-prescribed in Clause 1, Article 16 of this Regulation; c) Being
+training unit;
+    b) Exceeding the maximum time allowed to study as
+prescribed in Clause 1, Article 16 of this Regulation;
+    c) Being
 disciplined for the second time for taking an exam for someone else or
 having someone else take an exam for them as prescribed in Clause d,
 Clause 4, Article 32 of this Regulation or being disciplined to the
 extent of removing their name from the school\'s student list; No later
 than one month after the decision to force students to leave school, the
 training unit must notify the locality where the student has permanent
-residence. d) After the temporary leave of absence expires, the student
+residence.
+    d) After the temporary leave of absence expires, the student
 does not submit an application to return to school as prescribed in
 Clause 3, Article 33 of these Regulations.
 
@@ -1384,7 +1402,8 @@ Clause 3, Article 33 of these Regulations.
     c)  Accumulate enough credits as prescribed in the training program;
     d)  The cumulative average score of the course is 2.00 or higher.
         For the talent training program, high quality and international
-        standards, it is 2.50 or higher; d) Achieve the foreign language
+        standards, it is 2.50 or higher;
+    d) Achieve the foreign language
         proficiency specified in Clause 3, Article 12 of this
         Regulation;
     e)  Meet the learning outcome requirements for a number of

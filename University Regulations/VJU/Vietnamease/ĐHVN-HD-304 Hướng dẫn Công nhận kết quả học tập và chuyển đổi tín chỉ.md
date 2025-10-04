@@ -23,7 +23,7 @@ Căn cứ Quyết định số 3626/QĐ-ĐHQGHN ngày 21/10/2022 của Đại h�
 
 Trường Đại học Việt Nhật (ĐHVN) hướng dẫn sinh viên về việc thực hiện công nhận kết quả học tập và chuyển đổi tín chỉ đối với sinh viên các chương trình đào tạo đại học (CTĐT) của Trường ĐHVN như sau:
 
-## I. Đối tượng áp dụng: 
+## I. Đối tượng áp dụng:
 Sinh viên thuộc các CTĐT đại học của Trường ĐHVN.
 
 ## II. Nguyên tắc xét công nhận kết quả học tập và chuyển đổi tín chỉ
