@@ -1,61 +1,54 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 
-Number: 259/HD-DHVN Signing time: November 18, 2024 11:53:40 +07:00
+*No.: 259/HD-ĐHVN — Signed 18 November 2024 at 11:53:40 (UTC+07:00)*
 
 # APPENDIX 2
 
-**AUTHORIZATION FORM FOR STUDENTS REGISTERING FOR JLPT JAPANESE LANGUAGE
-TEST** *(Attached to Instruction No. 259/HD-DHVN dated April 3, 2024 of
-the President of Vietnam-Japan University, VNU)*
+**Authorization template for students registering to take the JLPT**  
+*(Issued together with Guideline No. 259/HD-ĐHVN dated 3 April 2024 of the Rector of Vietnam-Japan University, VNU)*
 
-**For students registering for the JLPT certificate exam in Vietnam**
+## For students sitting the JLPT in Vietnam
 
-**Socialist Republic of Vietnam** **Independence -- Freedom --
-Happiness** **---o0o0o---**
+**SOCIALIST REPUBLIC OF VIETNAM**  
+**Independence – Freedom – Happiness**  
+**—o0o—**
 
-**LETTER OF AUTHORIZATION**
+## LETTER OF AUTHORIZATION
 
-**Name:**
-...................................................................................................
-**Date of birth:**
-....................................................................................................
-**Social ID Number:**
-..........................................................................
-**JLPT test Registration number:**
-................................................................
+- **Name:** ........................................................................................................................
+- **Date of birth:** ...............................................................................................................
+- **Citizen ID/Passport No.:** .........................................................................................
+- **JLPT registration number:** ......................................................................................
 
-I\'m currently a student of VNU-Vietnam Japan University (VJU).
-According to VJU regulation, I have to submit my scanned copy of JLPT
-test result verified by Japan Foundation for the purpose of students
-records/ Japanese subjects\' exemptions.
+I am a student of VNU – Vietnam-Japan University (VJU). In accordance with VJU regulations, I must submit a scanned copy of my JLPT result certified by the Japan Foundation for academic records and exemption from Japanese language modules.
 
-I hereby authorize the Attorney: Mr. Cao Anh Duy Position: Student
-affairs Officer, Department of Academic and Student affairs, Phone
-number: 0365262357; Email: ca.duy@vju.ac.vn; Contact address: R510 VNU-
-Vietnam Japan University, Luu Huu Phuoc, Cau Dien, Nam Tu Liem, Hanoi.
-To request Japan Foundation for the verification of my JLPT test result
-sent via official letter No ............................. from
-VNU-Vietnam Japan University.
+I hereby authorise the following representative:
 
-Sincerely thank you!
+- **Name:** Mr Cao Anh Duy  
+- **Position:** Student Affairs Officer, Office of Academic Affairs and Student Services  
+- **Telephone:** 0365 262 357  
+- **Email:** ca.duy@vju.ac.vn  
+- **Address:** Room 510, Vietnam-Japan University, Lưu Hữu Phước Street, Cầu Diễn Ward, Nam Từ Liêm District, Hanoi
 
-*Hanoi,* **MANDATOR SIGNATURE**
+To request the Japan Foundation to verify my JLPT result on the basis of Official Letter No. ......................... issued by VNU – Vietnam-Japan University.
 
-------------------------------------------------------------------------
+Thank you for your assistance.
 
-**For students registering for the JLPT certification exam in Japan**
+Hanoi, .............., 20....  
+**Authorising student (signature)**
 
-*Date: / /*
+---
 
-**Authorization Letter**
+## For students sitting the JLPT in Japan
+
+*Date: ____ / ____ / 20__*
+
+### LETTER OF AUTHORIZATION
 
 To whom it may concern,
 
-This is to certify that I authorize Department of Academics and Student
-affairs of Vietnam Japan University -- Vietnam National University,
-Hanoi (VJU-VNU) to confirm the authenticity of my result of Japanese
-Language Proficiency Test for the purpose of confirming the authenticity
-of my University admission profile.
+I hereby authorise the Office of Academic Affairs and Student Services, Vietnam-Japan University – Vietnam National University, Hanoi (VJU–VNU) to confirm the authenticity of my Japanese Language Proficiency Test result for the purpose of validating my university admission dossier.
 
-Signature Name Address
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Signature: _______________________________  
+Name: ___________________________________  
+Address: _________________________________

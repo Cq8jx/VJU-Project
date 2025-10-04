@@ -1,193 +1,122 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 
-**Vietnam National University, Hanoi** **VIETNAM-JAPAN UNIVERSITY**
+**Vietnam National University, Hanoi**  
+**Vietnam-Japan University**
 
-**SOCIALIST REPUBLIC OF VIETNAM** **Independence -- Freedom --
-Happiness**
+**SOCIALIST REPUBLIC OF VIETNAM**  
+**Independence – Freedom – Happiness**
 
-*Number: 304 /HD-DHVN* *Hanoi, April 1, 2025*
+*No.: 304/HD-ĐHVN*  
+*Hanoi, 1 April 2025*
 
-# INSTRUCT
+# GUIDELINES
 
-**Recognition of learning outcomes and credit transfer** **for students
-of undergraduate training programs of Vietnam - Japan University**
+**Recognition of learning outcomes and credit transfer for undergraduate students of Vietnam-Japan University**
 
-Pursuant to Decision No. 1186/QD-TTg dated July 21, 2014 of the Prime
-Minister on the establishment of Vietnam-Japan University under the
-Vietnam National University, Hanoi; Pursuant to Decision No. 391/QD-TTg
-dated March 31, 2017 of the Prime Minister on the Regulations on
-organization and operation of Vietnam-Japan University under the Vietnam
-National University, Hanoi; Pursuant to Decision No. 5115/QD-VNU dated
-December 25, 2014 of the Vietnam National University, Hanoi on
-promulgating the Regulations on undergraduate training at the Vietnam
-National University, Hanoi; Pursuant to Decision No. 3626/QD-VNU dated
-October 21, 2022 of the Vietnam National University, Hanoi on
-promulgating the Regulations on undergraduate training at the Vietnam
-National University, Hanoi;
+Pursuant to Decision No. 1186/QĐ-TTg dated 21 July 2014 of the Prime Minister establishing Vietnam-Japan University under Vietnam National University, Hanoi (VNU); Decision No. 391/QĐ-TTg dated 31 March 2017 of the Prime Minister promulgating the Charter on the organisation and operation of Vietnam-Japan University under VNU; Decision No. 5115/QĐ-ĐHQGHN dated 25 December 2014 of VNU issuing the Regulations on undergraduate education; and Decision No. 3626/QĐ-ĐHQGHN dated 21 October 2022 of VNU issuing the revised Regulations on undergraduate education;
 
-Vietnam-Japan University (VJU) guides students on the implementation of
-recognition of learning outcomes and credit transfer for students of
-university training programs (CTĐT) of VJU as follows:
+Vietnam-Japan University (VJU) hereby provides guidance on recognising learning outcomes and transferring credits for students enrolled in VJU undergraduate programmes as follows:
 
-## I. Applicable subjects:
+## I. Scope of application
 
-Students of university training programs of Vietnam National University.
+All students enrolled in VJU undergraduate programmes.
 
-## II. Principles for considering recognition of learning outcomes and credit transfer
+## II. Principles for recognition and credit transfer
 
-1.  The credits that students have accumulated will be considered for
-    recognition and credit conversion based on comparison of output
-    standards, content and volume of study, methods of course assessment
-    and quality assurance conditions.
-2.  Foreign language certificates and diplomas recognized by VNU
-    (according to the list officially announced in the University\'s
-    annual announcements) will be converted into credits of foreign
-    language courses in the training program.
-3.  A student\'s scientific research work can be converted to replace a
-    conditional elective course in the field of knowledge. Conversion is
-    only applied when the work has been evaluated and scored on a
-    10-point scale by the Professional Council, ensuring that it meets
-    the criteria of quality and applicability based on comparison with
-    the content of the corresponding course and the output standards of
-    the training program. Contents related to students\' scientific
-    research achievements refer to Article 29, University Training
-    Regulations 5115 or Article 32, University Training Regulations 3626
-    at Hanoi National University.
-4.  For students who change majors, majors, training programs, or study
-    two training programs at the same time: The Department of Training &
-    Student Affairs (DT&CTSV) will recognize learning outcomes and
-    transfer credits according to the issued List of Equivalent Courses.
-5.  Credit recognition and transfer limits:
+1. Courses previously completed by students may be recognised and converted on the basis of matching learning outcomes, content and workload, assessment methods and quality assurance conditions.
+2. Foreign language certificates or attestations recognised by VJU (as officially published in the University’s annual notices) may be converted into credits for foreign language modules in the curriculum.
+3. A student’s scientific research output may replace an eligible elective module within the disciplinary knowledge block if the work has been evaluated by the Academic Council using a 10-point scale and meets quality and applicability criteria aligned with the relevant module’s content and programme learning outcomes. For details on research achievements, refer to Article 29 of Regulation 5115 or Article 32 of Regulation 3626 on undergraduate education at VNU.
+4. For students changing majors, specialisations or programmes, or those pursuing double-degree study, the Office of Academic Affairs and Student Services (AASS) processes recognition and credit transfer according to the approved list of equivalent modules.
+5. Credit limits:
+   - The total recognised credit load may not exceed 50% of the minimum credits required by the programme.
+   - For student exchanges, credits earned outside VNU may not exceed 25% of the programme’s total credits.
 
-- The total number of recognized credits shall not exceed 50% of the
-  minimum study load of the training program.
-- In student exchange, credits accumulated at facilities outside of
-  Vietnam National University, Hanoi do not exceed 25% of the total
-  volume of the training program.
+## III. Procedures
 
-## III. Procedures for recognizing learning outcomes and credit transfer
-
-1.  Students submit an application for recognition of academic results
-    and credit transfer including an application and supporting evidence
-    (notarized copy of transcript, foreign language
-    certificate/certificate).
-2.  The VNU\'s professional council will review the results to recognize
-    learning outcomes and transfer credits for the courses that students
-    accumulate in the training program based on the principles stated in
-    this Guide, complete and send the approved documents to the
-    Department of Training and Student Affairs.
-3.  After the application is approved by the Board of Directors, the
-    Student Affairs Department will enter the converted scores for
-    students into the learning management system of VNU.
+1. Students submit an application for recognition and credit transfer together with supporting documents (notarised transcripts, foreign language certificates/attestations).
+2. The Academic Council reviews the submission in line with these guidelines, determines the eligible courses and forwards the approved dossier to the AASS Office.
+3. Upon approval by the Rectorate Board, the AASS Office records the converted results in VJU’s academic management system.
 
 ## IV. Implementation
 
-This instruction is effective from the date of signing. During the
-implementation process, if any problems arise, units and individuals
-shall report to the Board of Directors (through the Training and Student
-Affairs Department) for timely handling.
+These guidelines take effect on the date signed. Any issues arising during implementation should be reported to the Rectorate Board via the AASS Office for timely resolution.
 
-**Recipients:** - Principal (for report); - Faculties (for reference); -
-File: VT, DT&CTSV, QH04.
+**Recipients:**  
+- Rector (for reporting);  
+- Faculties (for implementation);  
+- Filed: Office of the Rector, AASS, QH04.
 
-**KT. PRINCIPAL** **Vice Principal**
-
+**For the Rector**  
+**Vice Rector**  
 **Nguyễn Hoàng Oanh**
 
-  ----------------------------------------------------------------
-  **Appendix. Application for recognition of learning outcomes and
-  credit transfer**
+---
 
-  **SOCIALIST REPUBLIC OF VIETNAM** **Independence -- Freedom --
-  Happiness**
+## Appendix — Application for recognition of learning outcomes and credit transfer
 
-  **APPLICATION FOR RECOGNITION OF LEARNING RESULTS AND CREDIT
-  TRANSFER** **(For students accumulating credits in other
-  training programs)**
+**SOCIALIST REPUBLIC OF VIETNAM**  
+**Independence – Freedom – Happiness**
 
-  **To: Board of Directors of Vietnam-Japan University** **(via
-  Training & Student Affairs Department)**
+### APPLICATION FOR RECOGNITION OF LEARNING OUTCOMES AND CREDIT TRANSFER  
+*(For students who have completed modules in another programme)*
 
-  My name
-  is:...........................................................
-  Student code: ...... Class:
-  ..............................................
-  Faculty:.................... Phone
-  number:.................................................
-  Email:...................
+**To:** The Rectorate Board of Vietnam-Japan University  
+**Via:** Office of Academic Affairs and Student Services
 
-  I am writing this application to respectfully request the Board
-  of Directors of Vietnam - Japan University to consider
-  recognizing my academic results and transferring credits for the
-  courses I have completed
-  at........................................... Details are as
-  follows:
+- **Full name:** ..............................................................  
+- **Student ID:** ..........  
+- **Class/cohort:** ......................................................  
+- **Faculty/Programme:** ..............................................  
+- **Phone:** ...............................................................  
+- **Email:** ...............................................................
 
-  \| TT \| At ............................................. \| \|
-  At Vietnam-Japan University \| \| \| :-- \| :--- \| :--- \| :---
-  \| :--- \| \| \| \| **Course name and code** \| **Number of
-  credits** \| **Score** \| **Course name and code** \| **Number
-  of credits** \| \| 1. \| \| \| \| \| \| \| 2. \| \| \| \| \| \|
-  \| 3. \| \| \| \| \| \|
+I respectfully request the Rectorate Board to recognise my academic results and transfer credits for the modules completed at ............................................... Details are as follows:
 
-  The list includes\... courses./. Reason: I have completed these
-  courses and wish to have my learning results recognized and
-  credits transferred. I would like to enclose with the
-  application a copy of my transcript and syllabus of the courses
-  I have studied. I hereby certify that the above information is
-  true and I am responsible for this information. I respectfully
-  request the Board of Directors of VNU to consider and create
-  favorable conditions for me. I sincerely thank you./.
+| No. | At ............................................... | | At Vietnam-Japan University | |
+| --- | --- | --- | --- | --- |
+| | **Module title & code** | **Credits** | **Grade** | **Equivalent module title & code** | **Credits** |
+| 1 | | | | | |
+| 2 | | | | | |
+| 3 | | | | | |
 
-  *Hanoi, date .... month .... year 20....*
+Total modules listed: ......
 
-  **Opinions of the Department of Training and Student Affairs**
+Reason: I have completed the above modules and would like the results to be recognised and credits transferred. I attach certified copies of my transcript and module syllabi. I certify that the information provided is accurate and accept responsibility for it. I kindly request your consideration and support.
 
-  **Faculty/Training Program Comments**
+*Hanoi, ……/……/20……*  
+**Student (signature and full name)**
 
-  **Student** *(Sign and print full name)*
-  ----------------------------------------------------------------
+**Comments from the Office of Academic Affairs and Student Services:**
 
-**SOCIALIST REPUBLIC OF VIETNAM** **Independence -- Freedom --
-Happiness**
+**Comments from the Faculty/Programme:**
 
-**APPLICATION FOR RECOGNITION OF LEARNING RESULTS AND CREDIT TRANSFER**
-**(For students with scientific research works)**
+---
 
-**To: Board of Directors of Vietnam-Japan University** **(via Training &
-Student Affairs Department)**
+### APPLICATION FOR RECOGNITION OF LEARNING OUTCOMES AND CREDIT TRANSFER  
+*(For students with scientific research achievements)*
 
-My name is:...........................................................
-Student code: ...... Class:
-..............................................
-Faculty:.................... Phone
-number:.................................................
-Email:...................
+**To:** The Rectorate Board of Vietnam-Japan University  
+**Via:** Office of Academic Affairs and Student Services
 
-I am writing this application to respectfully request the Board of
-Directors of Vietnam-Japan University to consider recognizing the
-learning results and converting credits for the subject......, subject
-code...............in the training
-program....................................................................
-Scientific research project: - Project name:
-........................................................................ -
-Completion date:
-.................................................................... -
-Implementing unit:
-.................................................................... -
-Score/Assessment form (if any):
-............................................ I would like to enclose
-with the application the confirmation file of the scientific research
-project from the implementing facility. I hereby certify that the above
-information is true and take responsibility for this information. I
-respectfully request the Board of Directors of Vietnam-Japan University
-to consider and create favorable conditions for me. I sincerely thank
-you./.
+- **Full name:** ..............................................................  
+- **Student ID:** ..........  
+- **Class/cohort:** ......................................................  
+- **Faculty/Programme:** ..............................................  
+- **Phone:** ...............................................................  
+- **Email:** ...............................................................
 
-*Hanoi, date .... month .... year 20....*
+I respectfully request recognition and credit conversion for the module ................................ (code ....................) in the programme ........................................................................... based on the following scientific research work:
 
-**Opinions of the Department of Training and Student Affairs**
+- **Project title:** ......................................................................  
+- **Completion date:** ..........................................................  
+- **Implementing unit:** .....................................................  
+- **Score/Evaluation (if any):** ............................................
 
-**Faculty/Training Program Comments**
+I enclose confirmation of the research project from the hosting unit. I certify that the above information is accurate and accept responsibility for it. I kindly ask the Rectorate Board to consider my request and provide support.
 
-**Student** *(Sign and print full name)*
+*Hanoi, ……/……/20……*  
+**Student (signature and full name)**
+
+**Comments from the Office of Academic Affairs and Student Services:**
+
+**Comments from the Faculty/Programme:**

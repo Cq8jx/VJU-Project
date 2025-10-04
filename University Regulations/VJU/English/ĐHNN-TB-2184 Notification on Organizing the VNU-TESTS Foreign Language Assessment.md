@@ -1,191 +1,90 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 
-**Vietnam National University, Hanoi** **University of Foreign
-Languages**
+**Vietnam National University, Hanoi**  
+**University of Languages and International Studies**
 
-**SOCIALIST REPUBLIC OF VIETNAM** **Independence - Freedom - Happiness**
+**SOCIALIST REPUBLIC OF VIETNAM**  
+**Independence – Freedom – Happiness**
 
-*Number: 2184 /TB-DHNN* *Hanoi, December 5, 2024*
+*No.: 2184/TB-ĐHNN*  
+*Hanoi, 5 December 2024*
 
 # NOTIFICATION
 
-**Plan to organize foreign language proficiency assessment test in the
-direction of professional communication at Vietnam National University,
-Hanoi (VNU-TESTS) in January 2025**
+**Plan for administering the foreign language proficiency assessment test oriented toward professional communication at Vietnam National University, Hanoi (VNU-TESTS) – January 2025**
 
-Pursuant to Circular No. 01/2014/TT-BGDDT dated January 24, 2014 of the
-Ministry of Education and Training promulgating the 6-level foreign
-language proficiency framework for use in Vietnam; Pursuant to
-Instruction No. 1011/HD-DHQGHN dated March 23, 2023 of Hanoi National
-University on organizing training of foreign language modules in the
-general knowledge block and determining output standards in
-undergraduate, master\'s and doctoral training programs at Hanoi
-National University; Pursuant to Official Dispatch No. 4162/DHQGHN-DT
-dated November 3, 2023 of Hanoi National University agreeing on the test
-format and assigning the organization of foreign language proficiency
-assessment tests in the direction of professional communication;
-Pursuant to Decision No. 3176/QD-DHNN dated November 6, 2023 of the
-University of Languages and International Studies, Vietnam National
-University, Hanoi on promulgating the format of the foreign language
-proficiency test according to the orientation of professional
-communication at Vietnam National University, Hanoi. Pursuant to Notice
-No. 2180/TB-DHNN dated December 4, 2024 of the University of Languages
-and International Studies, Vietnam National University, Hanoi on the
-Plan to organize the foreign language proficiency test according to the
-orientation of professional communication at Vietnam National
-University, Hanoi (VNU TESTS).
+Pursuant to Circular No. 01/2014/TT-BGDĐT dated 24 January 2014 of the Ministry of Education and Training promulgating the six-level foreign language proficiency framework for use in Vietnam; pursuant to Instruction No. 1011/HD-ĐHQGHN dated 23 March 2023 of Vietnam National University, Hanoi on the organisation of common-knowledge foreign language modules and the determination of learning outcomes for undergraduate, master's and doctoral programmes at VNU; pursuant to Official Dispatch No. 4162/ĐHQGHN-ĐT dated 3 November 2023 of Vietnam National University, Hanoi approving the test format and assigning the organisation of the foreign language proficiency assessment test oriented toward professional communication; pursuant to Decision No. 3176/QĐ-ĐHNN dated 6 November 2023 of the University of Languages and International Studies, Vietnam National University, Hanoi promulgating the format of the foreign language proficiency assessment test oriented toward professional communication at Vietnam National University, Hanoi; pursuant to Notification No. 2180/TB-ĐHNN dated 4 December 2024 of the University of Languages and International Studies, Vietnam National University, Hanoi on the plan for organising the foreign language proficiency assessment test oriented toward professional communication at Vietnam National University, Hanoi (VNU-TESTS).
 
-The University of Languages and International Studies, Vietnam National
-University, Hanoi (ULIS, VNU) announces the plan to organize the
-VNU-TESTS exam with the purpose of determining the foreign language
-output standards for undergraduate level and the master\'s level
-entrance standards at VNU (test date January 4, 2025), as follows:
+The University of Languages and International Studies, Vietnam National University, Hanoi (ULIS, VNU) hereby announces the plan to administer the VNU-TESTS examination for the purposes of confirming undergraduate exit standards in foreign languages and the master's admission requirement at VNU (test date: 4 January 2025) as follows:
 
-### 1. Exam organization plan
+### 1. Examination schedule
 
-- Exam date: January 4, 2025
-- Foreign language: English: Level 3, 4, 5
-- Deadline for submitting application and online exam fee: From December
-  9, 2024 to December 13, 2024
-- Number of candidates: Maximum 2000 candidates (priority given to
-  students who need to demonstrate output standards for graduation
-  consideration).
-- *Note:*
-- If the number of candidates registering for the Thai, Russian, and
-  Arabic language exams is less than 10/01 foreign language/01 level,
-  the School will not organize the exam for the foreign language at that
-  level.
-- If the number of candidates registering for Chinese, Japanese, Korean,
-  French, German Level 3, 4 exams is less than 15 candidates/01 level/1
-  exam, Level 5 is less than 25 candidates/01 level/1 exam, the School
-  will not organize exams for foreign languages at that level.
-- If the number of English exam registrations is less than 100
-  candidates/01 level/1 exam, the School will not organize the exam for
-  foreign language at that level.
+- Test date: 4 January 2025.
+- Language: English proficiency assessment at levels 3, 4 and 5.
+- Deadline for online submission of application and test fee: 9–13 December 2024.
+- Number of candidates: up to 2,000 candidates (priority is given to students who need to demonstrate exit requirements for graduation consideration).
+- *Notes:*
+  - If fewer than 10 candidates register for Thai, Russian or Arabic at a given level, the University will not administer the test for that language/level.
+  - If fewer than 15 candidates register for Chinese, Japanese, Korean, French or German at levels 3 or 4, or fewer than 25 candidates register at level 5 for a given test session, the University will not administer the test for that language/level.
+  - If fewer than 100 candidates register for English at a given level for a test session, the University will not administer the test at that level.
 
-### 2. Exam format and format
+### 2. Test format and delivery mode
 
-- Format: Foreign language proficiency test for vocational communication
-  orientation (VNU-TESTS) Level 3, Level 4, Level 5 according to the
-  6-level NLNN Framework for Vietnam. (For details, see
-  https://daotao.ulis.vnu.edu.vn/)
-- Test format: Reading, Listening, and Writing skills are tested on
-  paper. Speaking skills are tested in person on Saturday or Sunday of
-  the test week.
+- Format: Foreign language proficiency assessment oriented toward professional communication (VNU-TESTS) at levels 3, 4 and 5 according to Vietnam's six-level foreign language proficiency framework. (See https://daotao.ulis.vnu.edu.vn/ for details.)
+- Delivery mode: Reading, Listening and Writing are administered on paper. Speaking is administered in person on the Saturday or Sunday of the test week.
 
-### 3. Candidates and fees for examination, review, and issuance of Certificates (GCN)
+### 3. Eligible candidates and fees for testing, score review and certificate issuance
 
-  ----------------------------------------------------------------
-  STT       Object       Exam fees    Certificate   Registration
-                                      issuance fee  fee for review
-  --------- ------------ ------------ ------------- --------------
-  1         Students of  Free of      Included in   150,000 VND/01
-            Hanoi        charge       exam fee      skill
-            National                                
-            University                              
-            take the                                
-            first exam                              
+| No. | Eligible candidates | Test fee | Certificate issuance fee | Score review fee |
+| --- | --- | --- | --- | --- |
+| 1 | ULIS students sitting the test for the first time | Exempt | Included in the test fee | 150,000 VND per skill |
+| 2 | ULIS students sitting the test for the second time | 400,000 VND | – | – |
+| 3 | ULIS students from the third attempt onwards | 800,000 VND | – | – |
+| 4 | VNU students | 800,000 VND | – | – |
+| 5 | Applicants to VNU master's programmes | 800,000 VND | – | – |
 
-  2         Students of  400,000 VND                
-            Hanoi                                   
-            National                                
-            University                              
-            take the                                
-            exam for the                            
-            second time                             
+- Register and pay the test fee online at https://dangky.ulis.vnu.edu.vn/vnu-tests/.
 
-  3         Students of  800,000 VND                
-            Hanoi                                   
-            National                                
-            University                              
-            take the                                
-            exam from                               
-            the third                               
-            time                                    
+### 4. Application dossier (submit online at https://dangky.ulis.vnu.edu.vn/vnu-tests/)
 
-  4         VNU students 800,000 VND                
+The dossier includes:
+- A portrait photo (taken no more than six months prior to the registration date).
+- A photo of the front and back of the Citizen Identity Card/ID card/passport.
+- A photo of the front of the student card. If the card is lost or expired, students must submit a photo of a Student Status Confirmation Letter signed and sealed by the training unit.
+- *Note: Candidates must retain their registration code for future reference, score review registration and certificate issuance.*
 
-  5         Candidates   800,000 VND                
-            for                                     
-            admission to                            
-            the                                     
-            master\'s                               
-            program at                              
-            VNU                                     
-  ----------------------------------------------------------------
+**Application withdrawal procedure**
+- Candidates must present the original, valid identification document; an application withdrawal form; and proof of payment of the test fee.
+- Candidates who withdraw six or more working days before the test date (excluding Saturdays, Sundays and public holidays) are refunded 50% of the test fee. No refund is provided within five working days before the test date.
+- *Note: Application withdrawal is not available to candidates whose test fee is below 800,000 VND.*
 
-- Register and pay the exam fee online at
-  https://dangky.ulis.vnu.edu.vn/vnu-tests/
+### 5. Examination information
 
-### 4. Application form (submit online at https://dangky.ulis.vnu.edu.vn/vnu-tests/)
+- Examination venues, room lists, registration numbers and detailed schedules are posted at https://daotao.ulis.vnu.edu.vn/category/vnu-tests/ within five days prior to the test date.
+- Candidates must bring the original, valid identification document to the test venue. Mobile phones, broadcasting or communication devices, audio/video recorders and any other devices, including wristwatches, are not permitted in the test area.
+- Test results are announced at https://dangky.ulis.vnu.edu.vn/vnu-tests/ (select "TRA CỨU ĐIỂM THI" – Score Lookup) 14 working days after the test date (excluding Saturdays and Sundays). Results are also sent to the training units whose students and master's applicants participated in the VNU-TESTS. The University does not certify scores.
+- Score review registration: Within three days of the result announcement, candidates may register for a score review and pay the fee online at https://dangky.ulis.vnu.edu.vn/vnu-tests/ (select "ĐĂNG KÝ PHÚC KHẢO" – Register for Score Review). Score review results are announced ten working days after the registration deadline.
 
-The application includes: - Portrait photo file (taken no more than 06
-months before the exam registration date); - Photo file of the front and
-back of the citizen identification card/ID card/passport; - Photo file
-of the front of the student card. In case of lost or expired card,
-students need to submit a photo file of the Student Confirmation Letter
-signed and stamped by the training unit. - *Note: Candidates need to
-save the exam registration code for reference, re-examination
-registration, and issuance of a Certificate of Eligibility.* -
-**Procedures for withdrawing application** - Candidates need to present
-original, valid identification documents; application for withdrawal and
-proof of payment of exam fee; - 06 working days or more before the exam
-date (not including Saturdays, Sundays, holidays, and Tet), candidates
-will be refunded 50% of the exam fee. Within 05 working days before the
-exam date, candidates will not be refunded the exam fee. - *Note: NO
-withdrawal of applications for candidates with exam fees under 800,000
-VND.*
+### 6. Foreign language proficiency certificate
 
-### 5. Exam information
+- Candidates who meet the requirements of the VNU-TESTS at levels 3, 4 or 5 are issued a foreign language proficiency certificate for the corresponding level, signed by the Rector of ULIS.
 
-- Candidates can check the exam location, list of exam rooms,
-  registration number and detailed exam schedule at
-  https://daotao.ulis.vnu.edu.vn/category/vnu-tests/ within 5 days
-  before the exam date.
-- When taking the exam, candidates must bring original, valid
-  identification documents. Candidates are not allowed to bring into the
-  exam area mobile phones, broadcasting, communication, recording, video
-  recording devices, other equipment, including wristwatches.
-- The exam results are announced at
-  https://dangky.ulis.vnu.edu.vn/vnu-tests/ (select the EXAM SCORE
-  LOOKUP section) 14 working days after the exam date (except Saturday
-  and Sunday). The exam results are sent to training units with students
-  and candidates applying for/taking the entrance exam for master\'s
-  programs at VNU who participated in the VNU-TESTS exam. (The school
-  does not confirm the scores.)
-- Register for re-examination: Within 03 days after the announcement of
-  exam results, candidates register for re-examination and pay the fee
-  online at https://dangky.ulis.vnu.edu.vn/vnu-tests/ (select REGISTER
-  FOR RE-EXAMINATION). The re-examination results will be announced 10
-  working days after the deadline for re-examination registration.
+### 7. Procedure for receiving the foreign language proficiency certificate
 
-### 6. Certificate of foreign language proficiency
+- Twenty-five working days after the test date (excluding Saturdays and Sundays), candidates may collect the certificate on Tuesdays and Thursdays (during office hours) within two months from the issuance date.
+- Location: Room 301B, 3rd Floor, Building B3, University of Languages and International Studies – VNU.
+- When collecting the certificate, candidates must present the original, valid identification document (Citizen Identity Card/ID card/passport).
+- If collecting the certificate by proxy, the authorised person must present the original, valid identification document; a power of attorney bearing the competent authority's seal; and submit notarised copies of the valid identification documents of both the authorising person and the authorised person.
 
-- Candidates who pass the VNU-TESTS Level 3, Level 4, Level 5 exams will
-  be granted a Certificate of foreign language proficiency at the
-  corresponding level signed by the Rector of the University of
-  Languages and International Studies.
+Sincerely notified.
 
-### 7. Procedures for receiving a certificate of foreign language proficiency
+**Recipients:**  
+- Rectorate Board (for reporting);  
+- VNU training units;  
+- Units of ULIS;  
+- Filed: HCTH, ĐT, L03.
 
-- After 25 working days (excluding Saturday and Sunday) from the exam
-  date, candidates come to receive the certificate on Tuesday and
-  Thursday (office hours) within 2 months from the date of issuance of
-  the certificate.
-- Location: Room 301B, 3rd Floor, Lecture Hall B3, University of
-  Languages and International Studies - VNU
-- When receiving the certificate, candidates must present original,
-  valid identification documents (Citizen ID/National ID card/passport).
-- In case of authorization to receive the Certificate of Registration,
-  the authorized person must present the original, valid identification
-  documents; Power of Attorney (stamped by the competent authority) and
-  submit notarized copies of the valid identification documents of the
-  authorizing person and the authorized person.
-
-Sincerely announce./.
-
-**Recipients:** - Board of Directors (for reporting); - Training units
-in VNU; - Units of the University of Foreign Languages; - File: HCTH,
-DT, L03.
-
-**KT. PRINCIPAL** **Vice Principal** *(signed)* **Ha Le Kim Anh**
+**For the Rector**  
+**Vice Rector**  
+*(signed)*  
+**Hà Lê Kim Anh**
