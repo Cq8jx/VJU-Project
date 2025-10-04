@@ -1,4 +1,7 @@
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
+Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
+
+---
 
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
