@@ -237,17 +237,10 @@ Vietnam Japan University.
 
 **RECORD OF MEETINGS BETWEEN THE STUDENT AND SUPERVISOR(S)** (\*)
 
-  ---------------------------------------------------------------------------------------------------------
-  **No.**   **Time   **Date   **Main      **Supervisor\'s   **Supervisor\'s   **Student\'s   **Student\'s
-            ^1^**    ^2^**    points      comment ^4^**     signature ^5^**   response ^6^** signature
-                              discussed                                                      ^7^**
-                              and purpose                                                    
-                              of meeting                                                     
-                              ^3^**                                                          
-  --------- -------- -------- ----------- ----------------- ----------------- -------------- --------------
-  1                                                                                          
-
-  2                                                                                          
+| **No.** ^1^ | **Time** ^2^ | **Date** | **Main points discussed and purpose of meeting** ^3^ | **Supervisor's comment** ^4^ | **Supervisor's signature** ^5^ | **Student's response** ^6^ | **Student's signature** ^7^ |
+|-----------|-------------|-----------|---------------------------------------------------------|--------------------------------|----------------------------------|------------------------------|--------------------------------|
+| 1         |             |           |                                                         |                                |                                  |                              |                                |
+| 2         |             |           |                                                         |                                |                                  |                              |                                |
 
   3                                                                                          
 
