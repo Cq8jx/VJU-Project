@@ -1,7 +1,10 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/dam-bao-chat-luong/thuc-hien-cong-khai-doi-voi-csgd-dai-hoc/dieu-kien-dam-bao-chat-luong/, and the authoritative content is the version available there.
+Because table recognition is technically challenging, the table layouts and contents may not be perfectly accurate.
+
+---
 
 HANOI NATIONAL UNIVERSITY VIETNAM- **JAPAN UNIVERSITY** No: 826
-/VNU-KT&DBCL
+ /VNU-KT&DBCL
 
 **SOCIALIST REPUBLIC OF VIETNAM** **Independence – Freedom – Happiness**
 *Hanoi, July 25, 2025*
