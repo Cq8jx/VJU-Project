@@ -1,80 +1,29 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 
-Number: 259/HD-DHVN Signing time: November 18, 2024 11:52:53 +07:00
+*No.: 259/HD-ĐHVN — Signed 18 November 2024 at 11:52:53 (UTC+07:00)*
 
 # APPENDIX 1
 
-\*\*REFERENCE TABLE FOR CONVERSION OF CERTIFICATES AND FOREIGN LANGUAGE
-CERTIFICATES CORRESPONDING TO OUTPUT STANDARD REQUIREMENTS ON FOREIGN
-LANGUAGE PROFICIENCY (\*)\*\* *(Attached to Instruction No. 259 /HD-DHVN
-dated April 3, 2024 of the President of Vietnam-Japan University, VNU)*
+**Reference table converting foreign language certificates/attestations that satisfy the foreign language graduation requirement (*)**  
+*(Issued together with Guideline No. 259/HD-ĐHVN dated 3 April 2024 of the Rector of Vietnam-Japan University, VNU)*
 
 ## 1. English
 
-  -------------------------------------------------------------------------------------------------------
-  Vietnam       IELTS   TOEFL   TOEIC          Cambridge Exam Aptis        Vietnamese     Competency
-  Foreign                                                                  Standardized   assessment test
-  Language                                                                 Test of        for career
-  Proficiency                                                              English        communication
-  Framework                                                                Proficiency    orientation at
-                                                                                          VNU (VNU-Tests)
-  ------------- ------- ------- -------------- -------------- ------------ -------------- ---------------
-  **Level 3**   4.5     460     Reading        A2 Key:140B1   B1 (General) VSTEP.3-5      Level 3
-                        ITP42   275Listening   Preliminary:                (4.0)          
-                        iBT     275Speaking    140B2 First:                               
-                                120Writing 120 140B1 Business                             
-                                               Preliminary:                               
-                                               140B2 Business                             
-                                               Vantage: 140                               
-
-  **Level 4**   5.5     543     Reading        B1             B2 (General) VSTEP.3-5      Level 4
-                        ITP72   385Listening   Preliminary:                (6.0)          
-                        iBT     400Speaking    160B2 First:                               
-                                160Writing 150 160C1                                      
-                                               Advanced:                                  
-                                               160B1 Business                             
-                                               Preliminary:                               
-                                               160B2 Business                             
-                                               Vantage: 160C1                             
-                                               Business                                   
-                                               Higher: 160                                
-
-  **Level 5**   6.5     627     Reading        B2 First:      C1           VSTEP.3-5      Level 5
-                        ITP95   455Listening   180C1          (Advanced)   (8.5)          
-                        iBT     490Speaking    Advanced:                                  
-                                180Writing 180 180C2                                      
-                                               Proficiency:                               
-                                               180B2 Business                             
-                                               Vantage: 180C1                             
-                                               Business                                   
-                                               Higher: 180                                
-  -------------------------------------------------------------------------------------------------------
+| Vietnamese FLP level | IELTS | TOEFL | TOEIC | Cambridge English | Aptis | Vietnamese Standardized Test of English Proficiency | VNU-TESTS (professional communication orientation) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Level 3** | 4.5 | 460 ITP<br>42 iBT | Reading 275<br>Listening 275<br>Speaking 120<br>Writing 120 | A2 Key: 140<br>B1 Preliminary: 140<br>B2 First: 140<br>B1 Business Preliminary: 140<br>B2 Business Vantage: 140 | B1 (General) | VSTEP 3–5 (4.0) | Level 3 |
+| **Level 4** | 5.5 | 543 ITP<br>72 iBT | Reading 385<br>Listening 400<br>Speaking 160<br>Writing 150 | B1 Preliminary: 160<br>B2 First: 160<br>C1 Advanced: 160<br>B1 Business Preliminary: 160<br>B2 Business Vantage: 160<br>C1 Business Higher: 160 | B2 (General) | VSTEP 3–5 (6.0) | Level 4 |
+| **Level 5** | 6.5 | 627 ITP<br>95 iBT | Reading 455<br>Listening 490<br>Speaking 180<br>Writing 180 | B2 First: 180<br>C1 Advanced: 180<br>C2 Proficiency: 180<br>B2 Business Vantage: 180<br>C1 Business Higher: 180 | C1 (Advanced) | VSTEP 3–5 (8.5) | Level 5 |
 
 ## 2. Japanese
 
-  ------------------------------------------------------------------------------
-  Vietnam       JLPT       NAT-TEST   J-TEST     Competency      Japanese
-  Foreign                                        assessment test Language
-  Language                                       for career      Proficiency
-  Proficiency                                    communication   Test Level 5 of
-  Framework                                      orientation at  the University
-                                                 VNU (VNU-Tests) of Languages
-                                                                 and
-                                                                 International
-                                                                 Studies, VNU
-  ------------- ---------- ---------- ---------- --------------- ---------------
-  **Level 3**   N3         3Q         500        Level 3         
+| Vietnamese FLP level | JLPT | NAT-TEST | J-TEST | VNU-TESTS (professional communication orientation) | ULIS VNU Japanese proficiency test (Level 5) |
+| --- | --- | --- | --- | --- | --- |
+| **Level 3** | N3 | 3Q | 500 | Level 3 | – |
+| **Level 4** | N2 | 2Q | 600 | Level 4 | – |
+| **Level 5** | N1 | 1Q | 700 | Level 5 | C1 |
 
-  **Level 4**   N2         2Q         600        Level 4         \-
-
-  **Level 5**   N1         1Q         700        Level 5         C1
-  ------------------------------------------------------------------------------
-
-- *The above scores are the minimum scores students need to achieve;*
-- *Recognized Japanese language certificates with 3 skills: Listening -
-  Reading - Writing are JLPT, NAT-TEST, J-TEST;*
-- *For some other uncommon international language certificates/diplomas,
-  Vietnam-Japan University will send a request to the University of
-  Foreign Languages for confirmation of equivalent score conversion;*
-- *Vietnam-Japan University does not recognize foreign language
-  certificates/certificates taken online./.*
+- *Scores shown are the minimum required.*
+- *Recognised three-skill (Listening – Reading – Writing) Japanese certificates include JLPT, NAT-TEST and J-TEST.*
+- *For other less common international certificates, VJU will request ULIS (VNU) to confirm equivalency.*
+- *VJU does not recognise foreign language certificates/attestations obtained via online examinations.*
