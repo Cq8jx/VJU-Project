@@ -1,5 +1,7 @@
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 
+---
+
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**
 **TRƯỜNG ĐẠI HỌC VIỆT NHẬT**
 
@@ -41,7 +43,8 @@ Theo đề nghị của Trường Phòng Đào tạo và Công tác sinh viên.
 
 ---
 
-# QUY ĐỊNH CÔNG TÁC CỐ VẤN HỌC TẬP TẠI TRƯỜNG ĐẠI HỌC VIỆT NHẬT, ĐẠI HỌC QUỐC GIA HÀ NỘI
+# QUY ĐỊNH
+**CÔNG TÁC CỐ VẤN HỌC TẬP TẠI TRƯỜNG ĐẠI HỌC VIỆT NHẬT, ĐẠI HỌC QUỐC GIA HÀ NỘI**
 *(Ban hành kèm theo Quyết định số 473/QĐ-ĐHVN ngày 20 tháng 05 năm 2025 của Hiệu trưởng Trường Đại học Việt Nhật, ĐHQGHN)*
 
 ## CHƯƠNG I: NHỮNG QUY ĐỊNH CHUNG
@@ -62,14 +65,14 @@ Các trường hợp đặc biệt sẽ do Ban giám hiệu Trường ĐHVN quy�
 2. CVHT phụ trách theo lớp khóa học (mỗi CVHT phụ trách không quá 2 lớp khóa học) và được phân công vào đầu khóa học. Tổng số sinh viên CVHT phụ trách không quá 100 sinh viên.
 3. Nhiệm kỳ của CVHT được xác định theo khóa học, trừ trường hợp có điều chỉnh khác.
 
-## CHƯƠNG II: TRÁCH NHIỆM, QUYỀN HẠN, QUYỀN LỢI CỦA CỐ VẤN HỌC TẬP
+## CHƯƠNG II: TRÁCH NHIỆM, QUYỀN HẠN, QUYỀN LỢI CỦA CÓ VẤN HỌC TẬP
 
 ### Điều 4. Trách nhiệm của cố vấn học tập
 CVHT có trách nhiệm thực hiện các nhiệm vụ theo 04 nhóm chức năng chính sau:
 a) Hỗ trợ học tập và nghiên cứu
 - Hướng dẫn sinh viên hiểu rõ các quy định, hướng dẫn về đào tạo đại học của ĐHQGHN và Trường ĐHVN, đặc biệt là các nội dung liên quan đến kế hoạch học tập, đăng ký học phần, điều kiện học vụ và xét tốt nghiệp.
 - Hướng dẫn sinh viên xây dựng và cập nhật kế hoạch học tập cá nhân; tư vấn lựa chọn học phần phù hợp với năng lực, nguyện vọng và yêu cầu của chương trình đào tạo.
-- Hướng dẫn sinh viên phương pháp học tập hiệu quả, kỹ năng nghiên cứu khoa học và tư duy phản biện; khuyến khích sinh viên tham gia các hoạt động học thuật, hội thảo chuyên đề.
+-Hướng dẫn sinh viên phương pháp học tập hiệu quả, kỹ năng nghiên cứu khoa học và tư duy phản biện; khuyến khích sinh viên tham gia các hoạt động học thuật, hội thảo chuyên đề.
 - Theo dõi kết quả học tập của sinh viên, phát hiện sớm các trường hợp có dấu hiệu sa sút học tập để phối hợp với các đơn vị chức năng xử lý, hỗ trợ kịp thời.
 b) Phát triển cá nhân và nghề nghiệp
 - Tư vấn, giới thiệu cho sinh viên các cơ hội học bổng, chương trình trao đổi học thuật, thực tập, tham gia nghiên cứu, học các học phần vượt hoặc học phần tự chọn có định hướng nghề nghiệp.
@@ -124,17 +127,6 @@ d) Ứng dụng công nghệ và báo cáo
 4. Trường định kỳ tổ chức tập huấn, trao đổi kinh nghiệm và đánh giá kết quả hoạt động CVHT; biểu dương các CVHT có đóng góp tích cực.
 5. Thủ trưởng các đơn vị và các tổ chức, cá nhân có liên quan chịu trách nhiệm tổ chức triển khai thực hiện quy định này.
 6. Trong quá trình thực hiện, nếu có vướng mắc hoặc cần điều chỉnh, các đơn vị, cá nhân báo cáo với Hiệu trưởng (qua Phòng Đào tạo và Công tác sinh viên) để xem xét, sửa đổi, bổ sung.
-
-## Chương VIII. HIỆU LỰC THI HÀNH
-
-### 8.1. Hiệu lực thi hành:
-Quy định này có hiệu lực thi hành kể từ ngày ký ban hành và thay thế Quyết định số 311/QĐ-ĐHVN ngày 10 tháng 5 năm 2021 của Trường Đại học Việt Nhật.
-### 8.2 Thẩm quyền sửa đổi, điều chỉnh, bổ sung:
-Trong quá trình thực hiện, Quyết định này có thể được sửa đổi, điều chỉnh, bổ sung cho phù hợp với thực tiễn đơn vị căn cứ phê duyệt của Hiệu trưởng./.
-
-**HIỆU TRƯỞNG**
-*(đã ký)*
-**Furuta Motoo**
 
 ---
 ### Phụ lục 1. Biên bản họp lớp khóa học

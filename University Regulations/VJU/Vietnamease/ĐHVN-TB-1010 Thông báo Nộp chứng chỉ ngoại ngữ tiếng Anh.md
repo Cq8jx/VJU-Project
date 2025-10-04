@@ -1,7 +1,9 @@
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 
+---
+
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**
-**TRƯỜNG ĐẠI HỌC VIỆT NHẬT**
+**TRƯỜ-NG ĐẠI HỌC VIỆT NHẬT**
 
 **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập - Tự do - Hạnh phúc**
@@ -26,48 +28,40 @@ Trường Đại học Việt Nhật thông báo việc nộp chứng chỉ/ch�
 
 | TT | Chương trình đào tạo | Yêu cầu Chuẩn đầu ra | HP được xét công nhận kết quả học tập và chuyển đổi tín chỉ |
 | :-- | :--- | :--- | :--- |
-| **I** | **CTĐT chất lượng cao theo đặc thù đơn vị** | | |
 | 1 | Nhật Bản học | Bậc 3 | Tiếng Anh B1 (mã HP: FLF1107) |
-| 2 | Khoa học và Kỹ thuật máy tính | Bậc 4 | |
-| 3 | Nông nghiệp thông minh và Bền vững | Bậc 4 | |
-| 4 | Công nghệ thực phẩm và Sức khỏe | Bậc 4 | Tiếng Anh B1 (mã HP: FLF1107), Tiếng Anh B2 (mã HP: FLF1108) |
-| 5 | Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản | Bậc 4 | |
-| 6 | Kỹ thuật xây dựng | Bậc 4 | |
-| 7 | Điều khiển thông minh và tự động hóa | Bậc 4 | |
-| 8 | Công nghệ kỹ thuật Chip bán dẫn | Bậc 4 | |
-| **II** | **CTĐT chuẩn** | | |
-| 9 | Kỹ thuật xây dựng | Bậc 3 | Tiếng Anh B1 (mã HP: FLF1107), Tiếng Anh B2 (mã HP: FLF1108) |
-| **III** | **CTĐT chuẩn thu theo định mức kinh tế kỹ thuật** | | |
-| 10 | Đổi mới và phát triển toàn cầu | Bậc 4 | |
+| 2 | Kỹ thuật xây dựng | Bậc 3 | Tiếng Anh B1 (mã HP: FLF1107) |
+| 3 | Đổi mới và phát triển toàn cầu | Bậc 4 | Tiếng Anh B1 (mã HP: FLF1107), Tiếng Anh B2 (mã HP: FLF1108) |
+| 4 | Khoa học và Kỹ thuật máy tính | Bậc 4 | Tiếng Anh B1 (mã HP: FLF1107), Tiếng Anh B2 (mã HP: FLF1108) |
+| 5 | Nông nghiệp thông minh và bền vững | Bậc 4 | Tiếng Anh B1 (mã HP: FLF1107), Tiếng Anh B2 (mã HP: FLF1108) |
+| 6 | Công nghệ thực phẩm và sức khỏe | Bậc 4 | Tiếng Anh B1 (mã HP: FLF1107), Tiếng Anh B2 (mã HP: FLF1108) |
+| 7 | Cơ điện tử thông minh và sản xuất theo phương thức Nhật Bản | Bậc 4 | Tiếng Anh B1 (mã HP: FLF1107), Tiếng Anh B2 (mã HP: FLF1108) |
+| 8 | Điều khiển thông minh và Tự động hóa | Bậc 4 | Tiếng Anh B1 (mã HP: FLF1107), Tiếng Anh B2 (mã HP: FLF1108) |
+| 9 | Công nghệ Kỹ thuật Chip bán dẫn | Bậc 4 | Tiếng Anh B1 (mã HP: FLF1107), Tiếng Anh B2 (mã HP: FLF1108) |
 
-- Danh sách các chứng chỉ, chứng nhận được công nhận tại Đại học Quốc gia Hà Nội tại Phụ lục 1 của Hướng dẫn này.
-*Lưu ý: Các chứng chỉ, chứng nhận hợp lệ có giá trị trong vòng 2 năm kể từ ngày thi đến ngày nộp.*
+- Thời gian nộp: **từ 9:00 ngày 15/09/2025 trước 16:00 ngày 13/10/2025** (từ 9:00 đến 16:00 các ngày Thứ 2, Thứ 4, Thứ 6);
+- Địa điểm nộp: Phòng 102, Nhà Hiệu bộ, Trường ĐH Việt Nhật, Khu đô thị ĐHQGHN;
+- Sinh viên có chứng chỉ/chứng nhận hợp lệ đáp ứng yêu cầu của chương trình đào tạo sẽ được công nhận kết quả học tập, chuyển đổi tín chỉ và chuẩn đầu ra tiếng Anh.
+- Kết quả công nhận kết quả học tập (theo thang điểm 10) được quy định cụ thể như sau:
+  + Chứng chỉ/chứng nhận ngoại ngữ tiếng Anh có trình độ bậc 3 tương đương 9 điểm;
+  + Chứng chỉ/chứng nhận ngoại ngữ tiếng Anh có trình độ bậc 4 trở lên tương đương 10 điểm;
+- Sau khi hoàn thành thẩm định chứng chỉ/chứng nhận ngoại ngữ tiếng Anh, Trường Đại học Việt Nhật sẽ thông báo danh sách sinh viên được công nhận kết quả học tập, chuyển đổi tín chỉ và chuẩn đầu ra **trước ngày 31/12/2025**. Sinh viên không đăng ký học đối với các học phần đã được công nhận kết quả.
+- Trường hợp kết quả thẩm định không đạt, sinh viên thực hiện theo hướng dẫn tại Mục 2 của Thông báo này.
 
-### 3. Công nhận kết quả học tập đối với các học phần ngoại ngữ trong khung chương trình đào tạo
-
-#### 3.1. Đối với học phần Tiếng Anh
-- Sinh viên nộp chứng chỉ, chứng nhận tiếng Anh đáp ứng CĐR theo yêu cầu của CTĐT trong vòng 30 ngày kể từ khi nhập học, được xét công nhận đạt CĐR và được miễn học, miễn thi và được chuyển đổi điểm tương đương của học phần ngoại tương ứng trong khối kiến thức chung, cụ thể: bậc 3 tương đương 9 điểm, bậc 4 tương đương 10 điểm (theo thang điểm 10).
-- Sau thời gian trên và trong thời gian của khóa học, sinh viên nộp chứng chỉ ngoại ngữ đáp ứng CĐR theo yêu cầu của CTĐT chỉ được xét công nhận đạt CĐR (không được miễn học, miễn thi và quy đổi điểm).
-
-| TT | Trình độ ngoại ngữ | Kết quả được công nhận | Học phần được công nhận kết quả | Mã học phần |
-| :-- | :--- | :--- | :--- | :--- |
-| 1 | Tiếng Anh Bậc 3 | 9.0 | Tiếng Anh B1 | FLF1107 |
-| 2 | Tiếng Anh Bậc 4 | 10.0 | Tiếng Anh B1, Tiếng Anh B2 | FLF1107, FLF1108 |
-
-#### 3.2.Đối với học phần tiếng Nhật
-- Sinh viên thực hiện theo Hướng dẫn số 856/ĐHVN-ĐT ngày 04/08/2025 về Tổ chức giảng dạy học phần ngoại ngữ trong các CTĐT trình độ đại học đối với các học phần Tiếng Nhật B1, tiếng Nhật B2 thuộc Khối kiến thức chung (M1).
-- Danh sách các chứng chỉ, chứng nhận công nhận tại Đại học Quốc gia Hà Nội tại Phụ lục 1 của Hướng dẫn này.
-
-### 3. Một số thông tin cần lưu ý
-- Chứng nhận, chứng chỉ ngoại ngữ còn thời hạn sử dụng tính đến thời điểm nộp chứng nhận, chứng chỉ. Sinh viên nộp 01 bản sao công chứng chứng nhận, chứng chỉ về Phòng Đào tạo và Công tác sinh viên (Phòng 501, Cơ sở Mỹ Đình hoặc Phòng 102, Nhà hiệu bộ cơ sở Hòa Lạc). Đối với sinh viên thi chứng chỉ JLPT cần nộp Đơn ủy quyền thẩm định chứng chỉ theo mẫu tại Phụ lục 2.
-- Chứng nhận, chứng chỉ ngoại ngữ thi dưới hình thức trực tuyến không được công nhận tại Trường Đại học Việt Nhật.
+### 3. Đối với sinh viên khóa VJU2025 nộp chứng chỉ/chứng nhận ngoại ngữ sau ngày 13/10/2025
+- Sinh viên nộp chứng chỉ/chứng nhận sau ngày 13/10/2025 chỉ được xét công nhận chuẩn đầu ra, không được xét công nhận kết quả học tập và chuyển đổi tín chỉ. Khi đó, sinh viên bắt buộc phải đăng ký học học phần tiếng Anh thuộc khối kiến thức chung trong chương trình đào tạo.
 - Trường Đại học Việt Nhật khuyến khích sinh viên nộp chứng chỉ, chứng nhận sớm để kịp tiến độ thẩm định chứng chỉ, chứng nhận trước thời điểm xét tốt nghiệp.
-- Mọi thắc mắc về việc nộp chứng chỉ, chứng nhận, sinh viên liên hệ trực tiếp với Phòng Đào tạo và Công tác sinh viên (email: phongdaotao@st.vju.ac.vn).
-Trân trọng thông báo./.
+- Địa điểm nộp:
+  + Trong thời gian học tập tại Hòa Lạc: Phòng 102, Nhà Hiệu bộ, Trường ĐH Việt Nhật, Khu đô thị ĐHQGHN;
+  + Trong thời gian học tập tại Mỹ Đình: Phòng 501, Tầng 5, Trường ĐH Việt Nhật, đường Lưu Hữu Phước, Từ Liêm, Hà Nội.
 
-### 4. Tổ chức thực hiện
-- Văn bản này có hiệu lực kể từ ngày ký, những quy định khác trái với Hướng dẫn này đều bãi bỏ.
-- Trường hợp đặc biệt, phát sinh phát sinh trong quá trình thực hiện, các đơn vị báo cáo Ban Giám hiệu Trường Đại học Việt Nhật (qua Phòng Đào tạo và Công tác sinh viên) xem xét quyết định./.
+### 4. Một số thông tin cần lưu ý
+- Chứng chỉ/chứng nhận ngoại ngữ tiếng Anh thi dưới hình thức trực tuyến không được công nhận tại Trường ĐH Việt Nhật, ĐHQGHN;
+- Danh mục chứng chỉ/chứng nhận ngoại ngữ tiếng Anh quy định chi tiết tại Phụ lục 1 kèm theo Thông báo này;
+- Danh sách các cơ sở cấp chứng chỉ/chứng nhận ngoại ngữ tiếng Anh theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam quy định chi tiết tại Phụ lục 2;
+- Trường hợp phát hiện sinh viên sử dụng chứng chỉ/chứng nhận giả mạo, sinh viên sẽ bị xử lý kỷ luật theo quy định hiện hành;
+- Mọi thắc mắc sinh viên liên hệ Phòng Đào tạo và Công tác sinh viên qua email: phongdaotao@st.vju.ac.vn.
+
+Trân trọng thông báo./.
 
 **Nơi nhận:**
 - Hiệu trưởng (để b/c);
@@ -82,9 +76,6 @@ Trân trọng thông báo./.
 ---
 ### PHỤ LỤC 1
 **BẢNG THAM CHIẾU QUY ĐỔI CHỨNG CHỈ/CHỨNG NHẬN NGOẠI NGỮ TIẾNG ANH TƯƠNG ỨNG VỚI YÊU CẦU CHUẨN ĐẦU RA VỀ TRÌNH ĐỘ NGOẠI NGỮ (*)**
-*(Kèm theo Hướng dẫn số /HD-ĐHVN ngày tháng năm 2025 của Hiệu trưởng Trường Đại học Việt Nhật, ĐHQGHN)*
-
-**1. Tiếng Anh**
 
 | Khung năng lực ngoại ngữ Việt Nam | IELTS | TOEFL | Aptis ESOL | Cambridge Exam | Vietnamese Standardized Test of English Proficiency | Kỳ thi đánh giá năng lực theo định hướng giao tiếp nghề nghiệp tại ĐHQGHN (VNU-Tests) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -96,61 +87,38 @@ Trân trọng thông báo./.
 - Các điểm số nêu trên là điểm tối thiểu người học cần đạt được; trường hợp các chứng chỉ/chứng nhận ngoại ngữ dùng làm minh chứng để xác định chuẩn đầu ra có đủ phần thi cho 4 kĩ năng Nghe - Nói - Đọc - Viết thì người học phải tham dự đủ 4 kĩ năng nói trên.
 - Đại học Quốc gia Hà Nội không công nhận các chứng chỉ/chứng nhận ngoại ngữ thi online./.
 
-**2. Tiếng Nhật**
-
-| Khung năng lực ngoại ngữ Việt Nam | JLPT | NAT-TEST | J-TEST | Kỳ thi đánh giá năng lực theo định hướng giao tiếp nghề nghiệp tại ĐHQGHN (VNU-Tests) |
-| :--- | :--- | :--- | :--- | :--- |
-| Bậc 3 | N3 | 3Q | 500 | Bậc 3 |
-| Bậc 4 | N2 | 2Q | 600 | Bậc 4 |
-| Bậc 5 | N1 | 1Q | 700 | Bậc 5 |
-
-- *Các điểm số nêu trên là điểm tối thiểu người học cần đạt được;*
-- *Các chứng chỉ tiếng Nhật có 3 kĩ năng Nghe - Đọc - Viết được công nhận là JLPT, NAT-TEST, J-TEST;*
-- *Trường Đại học Việt Nhật không công nhận các chứng nhận/chứng chỉ ngoại ngữ thi trực tuyến./.*
-
 ---
 ### PHỤ LỤC 2
-**MẪU GIẤY ỦY QUYỀN DÀNH CHO SINH VIÊN ĐĂNG KÝ THI CHỨNG CHỈ TIẾNG NHẬT JLPT**
-*(Kèm theo Hướng dẫn số /HD-ĐHVN ngày tháng năm 2025 của Hiệu trưởng Trường Đại học Việt Nhật, ĐHQGHN)*
+**DANH SÁCH CÁC CƠ SỞ CẤP CHỨNG CHỈ/CHỨNG NHẬN NGOẠI NGỮ TIẾNG ANH THEO KHUNG NĂNG LỰC NGOẠI NGỮ 6 BẬC DÙNG CHO VIỆT NAM (\*\*)**
 
-**Dành cho sinh viên đăng ký thi chứng chỉ JLPT tại Việt Nam**
+| TT | Cơ sở cấp chứng chỉ/chứng nhận ngoại ngữ |
+| :-- | :--- |
+| 1 | Đại học Thái Nguyên |
+| 2 | Học viện An ninh Nhân dân |
+| 3 | Học viện Báo chí và Tuyên truyền |
+| 4 | Học viện Cảnh sát nhân dân |
+| 5 | Học viện Khoa học quân sự |
+| 6 | Đại học Bách khoa Hà Nội |
+| 7 | Trường Đại học Cần Thơ |
+| 8 | Trường Đại học Công nghiệp thực phẩm TPHCM |
+| 9 | Trường Đại học Công nghiệp TPHCM |
+| 10 | Trường Đại học Hà Nội |
+| 11 | Trường Đại học Khoa học Xã hội và Nhân văn – ĐHQG TPHCM |
+| 12 | Trường Đại học Kinh tế - Tài chính TPHCM |
+| 13 | Trường Đại học Ngân hàng TPHCM |
+| 14 | Trường Đại học Ngoại ngữ - Đại học Đà Nẵng |
+| 15 | Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội |
+| 16 | Trường Đại học Ngoại ngữ - Đại học Huế |
+| 17 | Trường Đại học Ngoại thương |
+| 18 | Trường Đại học Nam Cần Thơ |
+| 19 | Trường Đại học Quy Nhơn |
+| 20 | Trường Đại học Sài Gòn |
+| 21 | Trường Đại học Sư phạm Hà Nội |
+| 22 | Trường Đại học Sư phạm TPHCM |
+| 23 | Trường Đại học Tây Nguyên |
+| 24 | Trường Đại học Thương mại |
+| 25 | Trường Đại học Trà Vinh |
+| 26 | Trường Đại học Văn Lang |
+| 27 | Trường Đại học Vinh |
 
-**Socialist Republic of Vietnam**
-**Independence – Freedom – Happiness**
-**—o0o0o—**
-
-**LETTER OF AUTHORIZATION**
-
-Name...................................................................................................
-Date of birth: .....................................................................................
-Social ID Number: ..........................................................................
-JLPT certification number: ................................................................
-
-I'm currently a student of VNU-Vietnam Japan University (VJU). According to VJU regulation, I have to submit my scan copy of JLPT test result verified by Japan Foundation for the purpose of students records/ Japanese subjects' exemptions.
-
-I hereby authorize the Attorney:
-Mr. Cao Anh Duy
-Position: Student affairs Officer, Department of Academic and Student affairs,
-Phone number: 0365262357; Email: ca.duy@vju.ac.vn; Contact address: R501 VNU- Vietnam Japan University, Luu Huu Phuoc, Nam Tu Liem, Hanoi.
-To request Japan Foundation for the verification of my JLPT test result send via proposal letter from VNU-Vietnam Japan University.
-
-Sincerely thank you!
-
-*Hanoi,*
-**MANDATOR SIGNATURE**
-
----
-**Dành cho sinh viên đăng ký thi chứng chỉ JLPT tại Nhật Bản**
-
-*Date: / /*
-
-**Authorization Letter**
-
-To whom it may concern,
-
-This is to certify that I authorize Department of Academics and Student affairs of Vietnam Japan University – Vietnam National University, Hanoi (VJU-VNU) to confirm the authenticity of my result of Japanese Language Proficiency Test for the purpose of confirming the authenticity of my University admission profile.
-
-Signature
-Name
-Address
-_________________________
+(\*\*) Mẫu chứng chỉ theo quy định của Bộ Giáo dục và Đào tạo tại Thông báo số 691/TB-QLCL ngày 08 tháng 5 năm 2020.

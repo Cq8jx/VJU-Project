@@ -384,25 +384,6 @@ Sau mỗi học kỳ, đơn vị đào tạo thực hiện xử lý học vụ.
     d) Không bị truy cứu trách nhiệm hình sự và không trong thời gian bị kỷ luật đình chỉ học tập;
     đ) Luận văn đã được kiểm tra việc sao chép trùng lặp, bảo đảm liêm chính học thuật đối với luận văn; Không bị tố cáo theo quy định của pháp luật về nội dung khoa học trong luận văn.
 
-### Điều 35. Hướng dẫn luận văn và điều kiện đánh giá luận văn
-1. Hướng dẫn luận văn
-    a) Mỗi học viên có một hoặc hai người hướng dẫn luận văn, trong đó phải có một người là giảng viên cơ hữu của Đại học Quốc gia Hà Nội;
-    b) Tại một thời điểm, một người hướng dẫn độc lập không quá 05 học viên, kể cả học viên của cơ sở đào tạo khác (tính cả số học viên thực hiện học phần tốt nghiệp của chương trình định hướng ứng dụng); trường hợp đồng hướng dẫn 02 học viên được tính tương đương hướng dẫn độc lập 01 học viên;
-    c) Tiêu chuẩn của người hướng dẫn luận văn:
-    - Có trình độ tiến sĩ từ 02 năm trở lên, chuyên môn phù hợp với ngành đào tạo và đề tài luận văn của học viên;
-    - Có năng lực ngoại ngữ, ứng dụng công nghệ thông tin để thực hiện nghiên cứu và trao đổi khoa học quốc tế;
-    - Có kết quả nghiên cứu khoa học liên quan đến đề tài luận văn trong thời gian 05 năm tính đến thời điểm được giao hướng dẫn;
-    - Đáp ứng những yêu cầu khác theo chuẩn chương trình đào tạo của ngành, lĩnh vực đào tạo và quy định của đơn vị đào tạo.
-2. Điều kiện đánh giá luận văn
-    a) Học viên hoàn thành tất cả các học phần của chương trình đào tạo;
-    b) Đạt chuẩn đầu ra về ngoại ngữ phù hợp với yêu cầu chuẩn đầu ra của chương trình đào tạo tương đương Bậc 4 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam; được minh chứng qua một trong các văn bằng, chứng chỉ sau:
-    - Có bằng tốt nghiệp đại học, thạc sĩ, tiến sĩ được đào tạo toàn thời gian ở nước ngoài, được cơ quan có thẩm quyền công nhận văn bằng theo quy định hiện hành;
-    - Có bằng tốt nghiệp đại học ngành ngôn ngữ nước ngoài;
-    - Có chứng chỉ trình độ ngoại ngữ tương đương Bậc 4 của Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam, hoặc tương đương trong thời hạn 02 năm (kể từ ngày thi chứng chỉ ngoại ngữ đến ngày nộp chứng chỉ cho đơn vị đào tạo, trường hợp học viên gia hạn, thì tính từ ngày thi chứng chỉ ngoại ngữ đến ngày nộp hồ sơ đề nghị bảo vệ luận văn) được cấp bởi các cơ sở được Bộ Giáo dục và Đào tạo và Đại học Quốc gia Hà Nội công nhận.
-    c) Cam đoan danh dự về kết quả nghiên cứu trung thực, có ý kiến xác nhận của người hướng dẫn là luận văn đạt các yêu cầu theo quy định tại Điều 34, Quy chế này;
-    d) Không bị truy cứu trách nhiệm hình sự và không trong thời gian bị kỷ luật đình chỉ học tập;
-    đ) Luận văn đã được kiểm tra việc sao chép trùng lặp, bảo đảm liêm chính học thuật đối với luận văn; Không bị tố cáo theo quy định của pháp luật về nội dung khoa học trong luận văn.
-
 ### Điều 36. Hội đồng đánh giá luận văn
 1. Hiệu trưởng trường đại học quyết định thành lập hội đồng đánh giá luận văn cho học viên được đào tạo tại đơn vị mình trên cơ sở đề nghị của chủ nhiệm khoa chuyên môn và trưởng phòng quản lý đào tạo sau đại học. Khoa/phòng chuyên môn của các đơn vị này tổ chức cho học viên bảo vệ luận văn. Giám đốc Đại học Quốc gia Hà Nội quyết định thành lập hội đồng đánh giá luận văn cho học viên được đào tạo tại khoa trực thuộc, trường trực thuộc, viện nghiên cứu khoa học trên cơ sở đề nghị của Trưởng ban Đào tạo; các khoa trực thuộc, trường trực thuộc, viện nghiên cứu khoa học tổ chức cho học viên bảo vệ luận văn.
 Việc thành lập hội đồng đánh giá luận văn được thực hiện trong thời hạn tối đa 30 ngày làm việc, tính từ ngày học viên nộp luận văn và đủ điều kiện bảo vệ và được cấp có thẩm quyền ra quyết định thành lập hội đồng theo quy định tại Điều 34, Điều 35, Quy chế này.

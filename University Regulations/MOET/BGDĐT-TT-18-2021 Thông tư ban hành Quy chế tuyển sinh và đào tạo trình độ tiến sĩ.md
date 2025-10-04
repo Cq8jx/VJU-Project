@@ -354,75 +354,66 @@ Nghiên cứu sinh có quyền và trách nhiệm sau:
 
 ---
 
-### Phụ lục IV: THƯ MỜI PHẢN BIỆN ĐỘC LẬP
-(Kèm theo Quyết định số 3638/QĐ-ĐHQGHN ngày 21 tháng 10 năm 2022 của Giám đốc Đại học Quốc gia Hà Nội)
-Mẫu 4.1
+## Phụ lục IV
+*(Ban hành kèm theo Thông tư số 18/2021/TT-BGDĐT ngày 28 tháng 6 năm 2021 của Bộ trưởng Bộ Giáo dục và Đào tạo)*
 
-**ĐẠI HỌC QUỐC GIA HÀ NỘI**
-**TÊN ĐƠN VỊ ĐÀO TẠO**
+**MẪU BÁO CÁO**
+**CÔNG TÁC ĐÀO TẠO NGHIÊN CỨU SINH ĐỊNH KỲ HẰNG NĂM**
+
+**TÊN CƠ QUAN QUẢN LÝ TRỰC TIẾP**
+**TÊN CƠ SỞ ĐÀO TẠO**
 
 **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập - Tự do - Hạnh phúc**
 
-*......, ngày.....tháng...... năm......*
+*......., ngày ... tháng ... năm.......*
 
-**THƯ MỜI PHẢN BIỆN ĐỘC LẬP**
+**Kính gửi:** Bộ Giáo dục và Đào tạo
 
-**Kính gửi:** ........................................................................
+**BÁO CÁO ĐỊNH KỲ CÔNG TÁC ĐÀO TẠO NGHIÊN CỨU SINH NĂM......**
 
-(Tên đơn vị đào tạo)........., Đại học Quốc gia Hà Nội (ĐHQGHN) trân trọng kính mời..................(học hàm/học vị của phản biện độc lập)...... làm phản biện độc lập cho luận án tiến sĩ với đề tài: “........................................................................”
-(Mã ngành/chuyên ngành:...................)
+**I. Danh sách nghiên cứu sinh học tập, nghiên cứu trong năm ...**
 
-(Tên đơn vị đào tạo)........, ĐHQGHN xin gửi tới .......(học hàm/học vị của phản biện độc lập) ........ bản luận án cùng các tài liệu có liên quan (các công trình khoa học đã công bố có liên quan đến đề tài luận án, bản trích yếu luận án và tóm tắt luận án). Xin ......(học hàm/học vị của phản biện độc lập) .......... cho ý kiến nhận xét (có nhấn mạnh, phân tích sâu về những điểm yếu cần lưu ý) về bản luận án và những vấn đề liên quan theo những ý chính dưới đây:
-1- Đề tài luận án có phù hợp với ngành/chuyên ngành đào tạo hay không?
-2- Đề tài luận án, số liệu, kết quả nghiên cứu, kết luận có trùng lặp với các luận văn, luận án đã bảo vệ trong và ngoài nước không hoặc có trùng lặp với các công trình khoa học của các tác giả khác đã công bố trong và ngoài nước không? Việc trích dẫn có rõ ràng, đầy đủ và trung thực không?
-3- Kết quả nghiên cứu của luận án có đóng góp gì mới cho lĩnh vực khoa học chuyên ngành: ý nghĩa khoa học, giá trị và độ tin cậy của những kết quả đó?
-4- Các công trình đã công bố của tác giả có phản ánh kết quả chủ yếu của luận án không? Chất lượng các bài báo của tác giả và nhận định của người phản biện độc lập về chất lượng của tạp chí đã đăng bài cho nghiên cứu sinh (NCS). Đặc biệt lưu ý đến tính thời sự các bài báo của tác giả luận án.
-5- Bản Trích yếu luận án và Tóm tắt luận án có phản ánh đầy đủ và sát đúng nội dung luận án hay không?
-6- Những yêu cầu đòi hỏi NCS phải bổ sung, hoàn chỉnh luận án.
-7- Cuối cùng, xin ......(học hàm/học vị của phản biện độc lập) ...... cho biết ý kiến kết luận của mình về kết quả phản biện luận án theo ba mức độ sau đây:
-**Mức A:** Đồng ý để luận án được bảo vệ trước Hội đồng đánh giá luận án, NCS không cần phải chỉnh sửa gì thêm vì luận án đã thỏa mãn các yêu cầu của một luận án tiến sĩ.
-**Mức B:** Đồng ý để luận án được bảo vệ trước Hội đồng đánh giá luận án, nhưng NCS cần bổ sung, hoàn chỉnh luận án theo các ý kiến đóng góp của phản biện độc lập hoặc giải thích nhằm bảo lưu quan điểm của mình.
-**Mức C:** Không đồng ý để luận án được bảo vệ trước Hội đồng đánh giá luận án vì luận án không đạt yêu cầu.
+| STT¹ | Họ và tên NCS | Ngày sinh | Giới tính | Mã số CCCD/ Hộ chiếu | Quốc tịch | Khóa đào tạo² | Số, ngày quyết định công nhận NCS | Tên người hướng dẫn độc lập hoặc đồng hướng dẫn 1 | Tên người đồng hướng dẫn 2 (nếu có) | Đơn vị công tác của người hướng dẫn ngoài cơ sở | Tên đề tài luận án | Ngành, mã số | Tên đề tài luận án sau khi điều chỉnh (nếu có) | Số, ngày quyết định công nhận học vị tiến sĩ |
+| :--: | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | | | | | | | | | | | | | | |
+| **2** | | | | | | | | | | | | | | |
+| ... | | | | | | | | | | | | | | |
 
-Phản biện độc lập là phản biện kín. ...... (Tên đơn vị đào tạo).... bảo mật tên người phản biện độc lập. Ý kiến của người phản biện độc lập có giá trị tư vấn cho ...... (Tên đơn vị đào tạo).... trong việc xem xét cho phép NCS được bảo vệ luận án trước Hội đồng đánh giá luận án, nhằm đảm bảo và nâng cao chất lượng của các luận án tiến sĩ ở ...... (Tên đơn vị đào tạo).....
-Đề nghị ...... (học hàm/học vị của phản biện độc lập)...... với tư cách là người phản biện độc lập hết sức cẩn trọng giữ bí mật việc đọc và viết nhận xét của mình về bản luận án. Trong thời gian này nếu những người liên quan tìm hiểu về sự đánh giá của phản biện độc lập, đề nghị ......(học hàm/học vị của phản biện độc lập)...... từ chối trao đổi hoặc tranh luận trực tiếp, đồng thời thông báo ngay cho ...... (Tên đơn vị đào tạo)...., ĐHQGHN biết để xử lý.
-Xin gửi cho chúng tôi hai bản nhận xét (một bản không đề hay ký tên, một bản đề tên, ghi tên cơ quan công tác gần nhất và ký tên) trước ngày ........................... về địa chỉ sau: ........................................................................
-Vì sự nghiệp đào tạo cán bộ khoa học trình độ cao cho đất nước, ................. (Tên đơn vị đào tạo)........, ĐHQGHN trân trọng đề nghị ......(học hàm/học vị của phản biện độc lập)...... dành thời gian thích đáng để xem xét và đánh giá một cách khách quan nhất về bản luận án. Nếu có vấn đề gì cần trao đổi thêm, xin liên hệ với chúng tôi qua số điện thoại sau: ........................................................................
-Xin trân trọng cảm ơn.
-
-**THỦ TRƯỞNG ĐƠN VỊ ĐÀO TẠO**
-
-**Lưu ý:**
-\* Khi đánh giá ở mức B, khác với trước đây, việc bổ sung hoàn chỉnh luận án của NCS không cần gửi lại người phản biện độc lập để xin ý kiến. Ý kiến nhận xét của phản biện độc lập và ý kiến tiếp thu sửa chữa, bổ sung, giải trình của NCS sẽ được gửi tới các thành viên của Hội đồng đánh giá luận án kèm theo luận án và NCS sẽ thuyết minh, giải trình việc tiếp thu sửa chữa luận án theo các góp ý của phản biện độc lập tại buổi họp của Hội đồng. Hội đồng căn cứ vào nội dung đó để đánh giá.
-\* Bản nhận xét đánh máy và in từ máy vi tính trên giấy khổ A4, không cần dấu xác nhận của cơ quan. Một bản nhận xét có chữ ký và ghi rõ họ tên ở cuối. Bản nhận xét thứ hai không ký và không ghi họ tên.
-\* Luận án, tóm tắt luận án và các công trình công bố không cần gửi trả lại, trừ khi người phản biện độc lập có những ý kiến hoặc sửa chữa ghi trên bản luận án, tóm tắt luận án để gửi lại cho NCS.
+¹ *Thứ tự NCS được sắp xếp theo nhóm các khóa tuyển sinh.*  
+² *Ghi thời gian theo kế hoạch học tập, nghiên cứu toàn khóa (VD: 2021-2024).*
 
 ---
-### Phụ lục V: PHIẾU ĐÁNH GIÁ LUẬN ÁN CỦA CÁC THÀNH VIÊN HỘI ĐỒNG
-(Kèm theo Quyết định số 3638/QĐ-ĐHQGHN ngày 21 tháng 10 năm 2022 của Giám đốc Đại học Quốc gia Hà Nội)
-Mẫu 5.1
 
-**ĐẠI HỌC QUỐC GIA HÀ NỘI**
-**TÊN ĐƠN VỊ ĐÀO TẠO**
+**II. Danh sách giảng viên tham gia giảng dạy và hướng dẫn NCS**
 
-**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
-**Độc lập - Tự do - Hạnh phúc**
+| STT | Họ và tên | Ngày sinh | Giới tính | Quốc tịch | Chức danh khoa học (GS/PGS) | Trình độ | Mã số CCCD/ Hộ chiếu | Số lượng NCS đang hướng dẫn | Số lượng công bố khoa học trong vòng 05 năm³ | Thời gian giảng dạy ở trình độ đại học hoặc thạc sĩ | Danh hiệu Nghệ sĩ Ưu tú hoặc Nghệ sĩ Nhân dân |
+| :--: | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | | | | | | | | | | | |
+| **2** | | | | | | | | | | | |
+| ... | | | | | | | | | | | |
 
-**PHIẾU ĐÁNH GIÁ LUẬN ÁN TIẾN SĨ**
+**III. Danh sách các đề tài nghiên cứu khoa học của cơ sở đào tạo gắn với hoạt động đào tạo NCS**
 
-Hội đồng đánh giá luận án được thành lập theo Quyết định số ........................................................................
-ngày ..../...../20......của........................................................................ đã họp ngày ..../..../20... tại........................................... để đánh giá luận án tiến sĩ của nghiên cứu sinh: ........................................................................với đề tài: ........................................................................
-thuộc ngành/chuyên ngành........................................................................
+| STT | Tên đề tài | Cấp phê duyệt | Thời gian thực hiện | Tên NCS tham gia |
+| :--: | :--- | :--- | :--- | :--- |
+| **1** | | | | |
+| **2** | | | | |
+| ... | | | | |
 
-**Ý KIẾN ĐÁNH GIÁ CỦA THÀNH VIÊN HỘI ĐỒNG**
-**(Đánh dấu X vào 1 ô trống phù hợp với ý kiến của mình)**
+**IV. Tồn tại, hạn chế (nếu có)**
+...
 
-**ĐẠT** ☐
-**KHÔNG ĐẠT** ☐
+**V. Nguyên nhân và giải pháp khắc phục**
+...
 
-*..., ngày........ tháng.......năm......*
+**VI. Kiến nghị của cơ sở đào tạo**
+...
 
-**THÀNH VIÊN HỘI ĐỒNG**
-**ĐÁNH GIÁ LUẬN ÁN**
-*(Ký và ghi rõ họ tên)*
+---
+³ *Thuộc danh mục được Hội đồng Giáo sư nhà nước đánh giá 0,75 điểm công trình trở lên.*
+
+<br>
+
+**Lãnh đạo cơ sở đào tạo**
+*(Ký tên và đóng dấu)*

@@ -24,14 +24,14 @@ Trường Đại học Việt Nhật hướng dẫn các Khoa thực hiện côn
 - Hướng dẫn này quy định về triển khai hoạt động thực tập thực tế, báo cáo và đánh giá hoạt động thực tập thực tế.
 - Hướng dẫn này áp dụng đối với sinh viên và giảng viên các chương trình đào tạo (CTĐT) tại Trường Đại học Việt Nhật.
 
-### 12. Nguyên tắc đảm bảo chất lượng và hiệu quả của hoạt động thực tập
+### 2. Nguyên tắc đảm bảo chất lượng và hiệu quả của hoạt động thực tập
 - Đáp ứng chuẩn đầu ra của chương trình đào tạo thông qua các hoạt động trải nghiệm thực tế.
 - Khuyến khích tính tự chủ, sáng tạo của sinh viên, tăng cơ hội có việc làm khi còn học và sau tốt nghiệp.
 - Tạo điều kiện cho sinh viên thể hiện năng lực, phân tích, đánh giá công việc, nâng cao sự tự tin, định hướng cá nhân và thiết lập kỹ năng xã hội.
 - Giúp sinh viên làm quen với các tổ chức, nhận thức quan hệ xã hội và kỹ năng giao tiếp liên văn hóa trong môi trường đa văn hóa.
 - Đổi mới phương pháp giảng dạy, kết hợp đào tạo giữa nhà trường và cơ sở thực tập để cải thiện khả năng thích ứng và việc làm.
 
-### 12. Về chương trình đào tạo thực tập thực tế
+### 3. Về chương trình đào tạo thực tập thực tế
 - Hợp phần thực tập thực tế là bắt buộc trong cấu trúc khung CTĐT. Sinh viên phải trải qua tối thiểu 1 học kỳ gắn học tập trên lớp với hoạt động thực hành, thực tập thực tế tại cơ sở thực tập.
 - Hoạt động thực hành, thực tập được thực hiện liên tục và linh hoạt trong suốt quá trình đào tạo tại trường của sinh viên.
 - Hoạt động thực tập được thực hiện linh hoạt về mặt thời gian, trong đó tổng thời gian thực tập và thời gian học tập không quá tổng thời gian tối đa của khóa học theo quy chế đào tạo hiện hành.
