@@ -1602,7 +1602,6 @@ law.
 | 13 | Mạng máy tính và Truyền thông dữ liệu | Computer Networks and Data Communications |  |
 | 14 | Tự động hóa và Tin học | Automation and Informatics |  |
 
-
   ⁵ *In case the name of
   the training major is
   not yet in this list
