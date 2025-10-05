@@ -12,7 +12,7 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
 *Số: /HD-DHVN*
 *Hà Nội, ngày tháng năm 2025*
 
-# HƯỚỚNG DẪN
+# HƯỚNG DẪN
 **Sử dụng chứng chỉ, chứng nhận ngoại ngữ trong việc xác nhận chuẩn đầu ra và giảng dạy học phần ngoại ngữ đối với sinh viên đại học chính quy khóa VJU2022 trở đi tại Trường Đại học Việt Nhật**
 
 Căn cứ Quyết định số 1186/QĐ-TTg ngày 21/07/2014 của Thủ tướng Chính phủ về việc thành lập Trường Đại học Việt Nhật thuộc Đại học Quốc gia Hà Nội;
@@ -43,7 +43,7 @@ Trước khi tốt nghiệp, sinh viên cần nộp chứng chỉ, chứng nhậ
 | 8 | Công nghệ kỹ thuật Chip bán dẫn | Bậc 4 | - |
 | **II** | **CTĐT chuẩn** | | |
 | 9 | Kỹ thuật xây dựng | Bậc 3 | - |
-| **III** | **CTĐT chuẩn thu theo định mức kinh tế kỹ tthuật** | | |
+| **III** | **CTĐT chuẩn thu theo định mức kinh tế kỹ thuật** | | |
 | 10 | Đổi mới và phát triển toàn cầu | Bậc 4 | - |
 
 - Danh sách các chứng chỉ, chứng nhận được công nhận tại Đại học Quốc gia Hà Nội tại Phụ lục 1 của Hướng dẫn này.
