@@ -4,7 +4,7 @@ Because table recognition is technically challenging, the table layouts and cont
 ---
 
 HANOI NATIONAL UNIVERSITY VIETNAM- **JAPAN UNIVERSITY** No: 826
- /VNU-KT&DBCL
+/VNU-KT&DBCL
 
 **SOCIALIST REPUBLIC OF VIETNAM** **Independence – Freedom – Happiness**
 *Hanoi, July 25, 2025*
