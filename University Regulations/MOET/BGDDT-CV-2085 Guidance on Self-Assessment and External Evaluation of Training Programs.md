@@ -1437,3 +1437,323 @@ The CTĐT external evaluation team of .......... (name of the education institut
 **Head of the external evaluation team**
 
 *(Signature and full name)*
+
+---
+
+### **Annex 11. Template for Comments on the Training Program Self-Assessment Report**
+
+**COMMENTS ON THE SELF-ASSESSMENT REPORT**
+**OF THE TRAINING PROGRAM**
+
+**Evaluator’s full name:** ....................................................................
+**Affiliated unit:** ..................................................................................
+**Name of the education institution:** .............................................................................
+**Code:** ........................................................................................................
+**Name of the training program (CTĐT):** ..........................................................................................
+**Program code:** ...........................................................................................
+**Telephone:** .......................................... **Email:** .....................................
+**Training program under review:** ................................................
+**Training unit:** ..................................................................................
+
+**1. Comments on formatting, structure, spelling, grammar, etc.**
+a) Formatting: ........................................................................................
+b) Structure: .........................................................................................................
+c) Spelling and grammar: .....................................................................................
+d) Other remarks (if any): ............................................................................
+
+**2. Comments on content**
+a) Introduction, overall conclusion, annexes, etc. ...................................
+b) Criteria:
+- Description of current status
+- Strengths
+- Existing issues
+- Action plan
+- Self-assessment results
+c) Use of information and evidence, and the honesty, accuracy, and sufficiency of the information and evidence
+
+**3. Criteria not evaluated, not properly evaluated, or not fully evaluated**
+
+**4. Overall assessment of the self-assessment report**
+
+**5. Suggestions to the external evaluation team on issues requiring further discussion**
+
+*....., date ...... month ...... year.....*
+**Evaluator**
+*(Signature and full name)*
+
+---
+
+### **Annex 12. Template for Reporting the Results of Reviewing the Self-Assessment Dossier**
+
+**REPORT**
+**RESULTS OF REVIEWING THE SELF-ASSESSMENT DOSSIER**
+
+**I. COMMENTS ON THE SELF-ASSESSMENT REPORT**
+**1. Comments on formatting, structure, spelling, grammar, etc.**
+a) Formatting: ........................................................................................
+b) Structure: .........................................................................................................
+c) Spelling and grammar: .....................................................................................
+d) Other remarks (if any): ............................................................................
+
+**2. Comments on content**
+a) Introduction, overall conclusion, annexes, etc.
+b) Criteria:
+- Description of current status
+- Strengths
+- Existing issues
+- Action plan
+- Self-assessment results
+c) Use of information and evidence, and the honesty, accuracy, and sufficiency of the information and evidence
+
+**3. Criteria not evaluated, not properly evaluated, or not fully evaluated**
+a) Criteria not evaluated;
+b) Criteria not properly evaluated;
+c) Criteria not fully evaluated.
+*(Specify the details for any criteria not fully evaluated.)*
+
+**4. Overall assessment of the self-assessment report**
+
+**II. LIST OF DOCUMENTS, MATERIALS, INFORMATION, AND EVIDENCE TO BE SUPPLEMENTED OR VERIFIED FOR THE CRITERIA**
+**1. List of documents, materials, information, and evidence to be supplemented for the criteria**
+**2. List of documents, materials, information, and evidence to be verified for the criteria**
+
+**III. STAKEHOLDERS AND INTERVIEW CONTENT**
+
+| No. | Standard | Criterion | Stakeholders to be interviewed | Quantity | Interview topics | Notes |
+| :- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | | | | | | |
+| 2 | | | | | | |
+| ... | | | | | | |
+
+**IV. FACILITIES AND PROGRAM IMPLEMENTATION ACTIVITIES PLANNED FOR SITE VISITS**
+
+**V. PRELIMINARY VISIT PLAN**
+
+**VI. OFFICIAL VISIT PLAN**
+
+**Secretary**
+*(Signature and full name)*
+
+*..., date ....... month ...... year.....*
+**Team leader**
+*(Signature and full name)*
+
+---
+
+### **Annex 13. Memorandum Template after the Preliminary Visit**
+
+**SOCIALIST REPUBLIC OF VIET NAM**
+**Independence - Freedom - Happiness**
+
+**MEMORANDUM**
+**PRELIMINARY VISIT OF THE EXTERNAL EVALUATION TEAM**
+**TRAINING PROGRAM .....................................**
+
+Pursuant to Decision No. ...... /QĐ- ............ dated ............. month ............. year ......... of the Director of the Center for Education Quality Accreditation ............. establishing the external evaluation team for the training program ............, the external evaluation team conducted a preliminary (pre-visit) survey at ............ (name of the education institution whose program is being evaluated) ........ on ...... month ...... year .........
+
+Time: From..............to..................
+
+**I. PARTICIPANTS**
+**1. Education quality accreditation organization**
+**2. External evaluation team**
+**3. Education institution**
+**4. Other related parties (if any)**
+
+**II. CONTENTS**
+**1. Objectives of the preliminary visit**
+**2. Discussion on the results of reviewing the self-assessment dossier**
+**3. Specific requirements for the education institution**
+- Working conditions for the external evaluation team;
+- List of documents, materials, information, and evidence to be supplemented or verified;
+- Stakeholders proposed for interviews;
+- Facilities of the education institution proposed for site visits;
+- Activities in the CTĐT that the education institution is requested to arrange for observation (if any);
+- Other proposals (if any).
+**3. Agreement on the official visit schedule**
+
+The meeting concluded at .... hours on the same day.
+This memorandum is prepared in triplicate: one copy for each party and one copy submitted to the KĐCLGD organization ................ for reporting purposes.
+Both parties signed this memorandum concluding the preliminary visit at ............ on ............ month ............ year 20...
+
+**On behalf of the external evaluation team**
+**Team leader**
+*(Signature and full name)*
+
+**Head of the education institution**
+*(Signature, full name, and seal)*
+
+---
+
+### **Annex 14. Template for Summarizing In-Depth Analysis of the Criteria**
+
+**SUMMARY OF IN-DEPTH ANALYSIS OF THE CRITERIA**
+
+**Evaluator’s full name:** ....................................................................
+**Training program under review:** ..................................................
+**Training unit:** ..................................................................................
+
+Present the assigned standards and criteria in sequence using the following structure:
+**Standard ........ :** ............................................................................
+**Criterion ........ :** ..................................................................................
+1. Strengths
+2. Existing issues
+3. Areas requiring quality improvement
+4. Unclear issues (if any)
+5. Assessment of the criterion’s attainment level (*)
+
+*\* Note:*
+- Evaluate Achieved/Not achieved for CTĐT evaluated according to Circulars No. 23/2011/TT-BGDĐT, No. 49/2012/TT-BGDĐT, and No. 33/2014/TT-BGDĐT.
+- Evaluate Achieved/Not achieved together with the level (from Level 1 to Level 7) for CTĐT evaluated according to Circulars No. 04/2016/TT-BGDĐT, No. 02/2020/TT-BGDĐT, and No. 39/2020/TT-BGDĐT.
+
+*....., date ....... month ...... year.....*
+**Evaluator**
+*(Signature and full name)*
+
+---
+
+### **Annex 15. Official Visit Results Report Template**
+
+**SOCIALIST REPUBLIC OF VIET NAM**
+**Independence - Freedom - Happiness**
+
+**REPORT ON THE RESULTS**
+**OF THE OFFICIAL VISIT BY THE EXTERNAL EVALUATION TEAM**
+**TRAINING PROGRAM .....................................**
+
+The report includes the following contents:
+1. Brief introduction of the external evaluation team and the evaluation process.
+2. Summary of discussions with the leadership of the unit implementing the evaluated CTĐT and the CTĐT self-assessment council.
+3. Findings from reviewing documents, materials, information, and evidence provided by the unit.
+4. Findings from visits and discussions at units within the education institution; visits to the library, classrooms, laboratories, practice rooms, dormitories, student clubs, etc.
+5. Findings from observing and reviewing the CTĐT implementation activities of the education institution.
+6. Findings from discussions with administrators, lecturers, researchers, staff, employers, learners, and other stakeholders.
+7. Consensus on the strengths, existing issues, and areas requiring quality improvement for the unit implementing the evaluated CTĐT based on the findings during the visit.
+8. Matters that remain unclear or could not be evaluated for the criteria: ...................
+9. Summary table of the evaluation results for the criteria.
+10. Recommendations to the education institution.
+
+**Secretary**
+*(Signature and full name)*
+
+*........, date ... month ...... year .........*
+**Team leader**
+*(Signature and full name)*
+
+---
+
+### **Annex 16. Minutes Template for Completion of the Official Visit**
+
+**SOCIALIST REPUBLIC OF VIET NAM**
+**Independence - Freedom - Happiness**
+
+**MINUTES**
+**COMPLETION OF THE OFFICIAL VISIT**
+**TRAINING PROGRAM .....................................**
+
+Pursuant to Decision No. ...... /QĐ- ............ dated ............. month ............. year ......... of the Director of the Center for Education Quality Accreditation ............. establishing the external evaluation team for the training program ............, the external evaluation team conducted a preliminary (pre-visit) survey at ............ (name of the education institution whose program is being evaluated) ........ on ...... month ...... year .........
+
+Time: From..................to..................
+
+**I. PARTICIPANTS**
+1. Education quality accreditation organization
+2. External evaluation team
+3. Education institution
+4. Other related parties (if any)
+
+**II. CONTENTS**
+Summarize the activities conducted by the team during the working days at the education institution whose program was evaluated:
+The report includes the following contents:
+1. Brief introduction of the external evaluation team and the evaluation process.
+2. Summary of discussions with the leadership of the unit implementing the evaluated CTĐT and the CTĐT self-assessment council.
+3. Findings from reviewing documents, materials, information, and evidence provided by the unit.
+4. Findings from visits and discussions at units within the education institution; visits to the library, classrooms, laboratories, practice rooms, dormitories, student clubs, etc.
+5. Findings from observing and reviewing the CTĐT implementation activities of the education institution.
+6. Findings from discussions with administrators, lecturers, researchers, staff, employers, learners, and other stakeholders.
+7. Consensus on the fundamental strengths, existing issues, and areas requiring quality improvement for the unit implementing the evaluated CTĐT based on the findings during the visit.
+8. Matters that remain unclear or could not be evaluated for the criteria .................
+9. Summary table of the evaluation results for the criteria.
+10. Recommendations to the education institution.
+
+This minutes is prepared in triplicate: one copy for each party and one copy submitted to the KĐCLGD organization .................. for reporting purposes.
+Both parties signed the minutes concluding the official visit at......... on ...... month ......... year 20...
+
+**On behalf of the external evaluation team**
+**Team leader**
+*(Signature and full name)*
+
+**Head of the education institution**
+*(Signature, full name, and seal)*
+
+---
+
+### **Annex 17. External Evaluation Report Template for the Training Program**
+*(Front cover and inside cover)*
+
+**NAME OF THE EDUCATION QUALITY ACCREDITATION ORGANIZATION**
+
+*(Logo of the KĐCLGD organization)*
+
+**EXTERNAL EVALUATION REPORT**
+**TRAINING PROGRAM .....................................**
+**OF (NAME OF THE EDUCATION INSTITUTION.........)**
+*(According to the CTĐT quality standards of the Ministry of Education and Training)*
+
+*Location – Month..../20...*
+
+---
+
+#### **LIST OF MEMBERS OF THE EXTERNAL EVALUATION TEAM**
+
+| No. | Full name, affiliated organization | Assigned responsibility | Signature |
+| :- | :--- | :--- | :--- |
+| 1 | | Team leader | |
+| 2 | | Secretary | |
+| 3 | | Standing member | |
+| 4 | | Member | |
+| 5 | | Member | |
+| 6 | | Member | |
+| ... | | | |
+
+---
+
+#### **TABLE OF CONTENTS**
+
+| | Page |
+| :--- | :--- |
+| List of abbreviations | |
+| **Part I. OVERVIEW** | |
+| 1. General introduction | |
+| 2. Summary of the external evaluation process | |
+| 3. Summary of external evaluation results | |
+| 3.1. Summary of the program’s strengths | |
+| 3.2. Summary of areas requiring quality improvement for the program | |
+| **Part II. EVALUATION BY CRITERION** | |
+| I. Standard 1: ... | |
+| Criterion 1.1: ... | |
+| Criterion 1.2: ... | |
+| ... | |
+| Overall assessment of Standard 1 | |
+| II. Standard 2: ... | |
+| Criterion 2.1: ... | |
+| Criterion 2.2: ... | |
+| ... | |
+| Overall assessment of Standard 2 | |
+| ... | |
+| Summary of self-assessment and external evaluation results | |
+| **Part III. CONCLUSIONS AND RECOMMENDATIONS** | |
+| **Part IV. ANNEXES** | |
+
+---
+
+**Part I. OVERVIEW**
+**I. General introduction**
+The external evaluation team was established under Decision No. ...... dated ....... month ....... year ....... of the Director of the Center for Education Quality Accreditation ....... to evaluate the quality of the CTĐT.
+This report summarizes the evaluation process, the findings, and recommendations for the education institution under review.
+*Note: Brief introductions to the education institution, the unit implementing the CTĐT, and the evaluated CTĐT; summary of CTĐT self-assessment results; decision establishing the external evaluation team; external evaluation schedule; the education institution’s feedback on the draft external evaluation report; and correspondence from the external evaluation team on the adoption or maintenance of its opinions should be included in Part IV. Annexes of the external evaluation report.*
+
+**II. Summary of the external evaluation process (no more than one page)**
+**III. Summary of external evaluation results (no more than three pages)**
+**1. Program strengths**
+Identify the strengths to be promoted within each standard.
+**2. Areas for improvement in the program**
+Identify existing issues and recommendations for improving the CTĐT’s quality.
