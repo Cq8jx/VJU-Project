@@ -320,7 +320,7 @@ according to the regulations of the training unit.
         application fee;
     d)  Enrollment plan, admission time, time to announce selection
         results and time to enroll;
-    d) List of suitable
+    đ) List of suitable
         undergraduate/master\'s degree majors/specializations that are
         eligible for admission to each doctoral training program and
         regulations on cases that must complete additional knowledge
@@ -331,11 +331,11 @@ according to the regulations of the training unit.
         list of instructors who meet the qualifications to guide
         graduate students as prescribed in Article 35 of this
         Regulation;
-    f)  Tuition, scholarships and other financial information (if
+    g)  Tuition, scholarships and other financial information (if
         applicable);
-    g)  Other requirements and necessary information for candidates
+    h)  Other requirements and necessary information for candidates
         during the admission period;
-    h)  Information about contact, support, consultation,\...
+    i)  Information about contact, support, consultation,\...
 
 ### Article 12. Organization of enrollment
 
@@ -361,7 +361,7 @@ according to the regulations of the training unit.
         of postgraduate training of the training unit;
     d)  Members: Head or deputy head of the unit (department, faculty,
         department) directly related to the admission exam;
-    d) Secretary
+    đ) Secretary
         of the Admissions Council. Candidates and those whose father,
         mother, wife, husband, children, or siblings are candidates
         shall not participate in the Admissions Steering Committee, the
@@ -555,7 +555,7 @@ to separate regulations.
       training and refresher courses organized by the unit. All of the
       above activities must have confirmation and evidence from the
       training unit or the coordinating training unit.
-    d) Part 5:
+    đ) Part 5:
       Doctoral thesis (hereinafter referred to as thesis) The thesis is
       a scientific research work of the doctoral student, which contains
       new contributions in theory and practice in the specialized
@@ -651,14 +651,14 @@ to separate regulations.
 
     - vocational skills;
     - Complementary skills;
-    d) Requirements on autonomy and
+    đ) Requirements on autonomy and
       responsibility:
     - Civic responsibility;
     - Responsibility, ethics, professional awareness and style, service
       attitude;
     e)  Job positions of graduate students after graduation;
-    f)  Ability to learn and improve after graduation;
-    g)  Programs and documents of prestigious international doctoral
+    g)  Ability to learn and improve after graduation;
+    h)  Programs and documents of prestigious international doctoral
         training institutions that the training unit refers to.
 4.  The head of the training unit shall develop detailed and
     quantitative output standards for each training program, organize
@@ -996,7 +996,7 @@ to separate regulations.
       student\'s thesis topic, along with written consent from
       co-authors (if any);
     - Appendix (if any).
-    d) Comply with the regulations on intellectual
+    đ) Comply with the regulations on intellectual
       property protection as stipulated in the Law on Intellectual
       Property: The research results in the thesis must be the result of
       the researcher\'s own labor, obtained mainly during the training
@@ -1010,25 +1010,25 @@ to separate regulations.
     e)  Thesis and all scientific research works must be checked for
         copying and duplication before being submitted for publication,
         announcement or defense;
-    f)  Requirements for scientific publication: Meet the minimum
+    g)  Requirements for scientific publication: Meet the minimum
         requirements for publication according to output standards at
         Point a, Clause 3, Article 18 of this Regulation;
-    g)  The thesis is written in Vietnamese, using Unicode characters,
+    h)  The thesis is written in Vietnamese, using Unicode characters,
         Times New Roman font, font size 13, and not exceeding 200 A4
         pages for the fields of natural sciences, engineering,
         technology and not exceeding 300 pages for the remaining fields,
         excluding appendices, including the researcher\'s commitment on
         the content of the thesis, at least 50% of the pages present the
         researcher\'s own research results and arguments;
-    h)  The thesis summary must accurately reflect the structure, layout
+    i)  The thesis summary must accurately reflect the structure, layout
         and content of the thesis, and must include the full text of the
         thesis\'s conclusions. The thesis information sheet of about 03
         to 05 pages (300 to 500 words) in Vietnamese and English
         summarizes the basic content, new content and research results,
         and the most important contributions of the thesis;
-    i)  Encourage graduate students to write and defend their theses in
+    k)  Encourage graduate students to write and defend their theses in
         English or other foreign languages;
-    j)  For foreign language majors, the thesis and thesis summary are
+    l)  For foreign language majors, the thesis and thesis summary are
         written in the relevant foreign language, accompanied by a
         thesis summary written in Vietnamese and the thesis is defended
         before the Council in the foreign language.
@@ -1065,18 +1065,18 @@ Council.
     d)  Have evidence of participation in teaching assistant and
         training support work as prescribed in Point d, Clause 1,
         Article 16 of this Regulation;
-    d) Have complete comments and
+    đ) Have complete comments and
         periodic assessments of the research results of graduate
         students as prescribed in Point b, Clause 1, Article 25 of this
         Regulation;
     e)  Completed a thesis that meets the requirements specified in
         Article 25 of this Regulation;
-    f)  There is a thesis summary in Vietnamese and English attached to
+    g)  There is a thesis summary in Vietnamese and English attached to
         the thesis;
-    g)  The quality of the thesis is confirmed by an individual or group
+    h)  The quality of the thesis is confirmed by an individual or group
         of supervisors and the doctoral student is recommended to have
         the thesis evaluated overall by a professional unit;
-    h)  Not during the period of serving a criminal sentence or
+    i)  Not during the period of serving a criminal sentence or
         disciplinary action from warning level or higher.
 2.  Organize a seminar to evaluate the overall thesis
     a)  After the doctoral student has met the requirements in Clause 1
@@ -1283,7 +1283,7 @@ Council.
     d)  There is an information page on the new points of the thesis in
         Vietnamese and English or a foreign language according to the
         regulations of the training unit;
-    d) There is a written request
+    đ) There is a written request
         from the supervisor or a group of supervisors and the
         professional unit to allow the doctoral student to defend the
         thesis;
@@ -1291,15 +1291,15 @@ Council.
         any), doctoral topics, and overview essays have been updated on
         the doctoral training management software of Hanoi National
         University;
-    f)  There is full evidence of changes in the training process;
-    g)  There are full comments from independent reviewers and
+    g)  There is full evidence of changes in the training process;
+    h)  There are full comments from independent reviewers and
         explanations of acceptance, corrections or explanations from the
         doctoral student, and this content is publicly announced at the
         Council meeting;
-    h)  Proof of fulfillment of financial obligations;
-    i)  Graduate students are not serving a criminal sentence or
+    i)  Proof of fulfillment of financial obligations;
+    k)  Graduate students are not serving a criminal sentence or
         disciplinary sentence at the warning level or higher;
-    j)  Meet other requirements as prescribed by the training
+    l)  Meet other requirements as prescribed by the training
         institution.
 3.  Establishment of the Thesis Evaluation Council
     a)  The doctoral thesis evaluation council consists of 07 members,
@@ -1352,7 +1352,7 @@ Council.
         person with the doctoral student; in case of natural disasters
         or force majeure, it must follow specific instructions of Hanoi
         National University;
-    d) There are no complaints or denunciations
+    đ) There are no complaints or denunciations
         according to the law on the scientific content of the thesis
         before the Council meeting;
     e)  The thesis evaluation council shall not meet if one of the
@@ -1394,7 +1394,7 @@ Council.
         doctoral degree in the field/specialization of training for the
         doctoral student; recommendation for commendation (if the thesis
         is particularly excellent);
-    d) The minutes of the thesis defense
+    đ) The minutes of the thesis defense
         session are approved by the entire Thesis Evaluation Council and
         have the signatures of the Chairman and Secretary of the
         Council;
@@ -1411,7 +1411,7 @@ Council.
         head of the member training unit or the Director of Hanoi
         National University shall consider and decide to extend the
         Council\'s term of operation;
-    f)  No decision was made to establish a third Thesis Evaluation
+    g)  No decision was made to establish a third Thesis Evaluation
         Council.
 6.  The change of members of the Thesis Evaluation Council shall only be
     resolved in necessary cases with legitimate reasons. The time limit
@@ -1562,7 +1562,7 @@ Council.
         the training unit to organize a Thesis Appraisal Council meeting
         under the direct supervision of a representative of the Training
         Department, Hanoi National University;
-    d) Thesis Appraisal
+    đ) Thesis Appraisal
         Council
 
     - The thesis appraisal council consists of 07 members, of which at
@@ -1730,7 +1730,7 @@ Council.
     d)  For doctoral students whose records/theses are subject to
         inspection/appraisal, they must meet the inspection/appraisal
         requirements specified in Article 31 of this Regulation;
-    d)  There is proof that all information about the doctoral student
+    đ)  There is proof that all information about the doctoral student
         has been fully updated on the doctoral training management
         software of Hanoi National University;
     e)  Up to the time of graduation consideration, the graduate student
@@ -1744,18 +1744,18 @@ Council.
         of the Doctoral Thesis Evaluation Council;
     d)  Comments and evaluations of the supervisor or the group of
         supervisors of the doctoral student;
-    d) List with signatures of
+    đ) List with signatures of
         the Council members participating in the thesis evaluation at
         the doctoral thesis defense of the doctoral student;
     e)  Thesis receipt and thesis summary from the National Library of
         Vietnam and the Center for Library and Digital Knowledge,
         Vietnam National University, Hanoi;
-    f)  Evidence of public announcement of the thesis defense date
+    g)  Evidence of public announcement of the thesis defense date
         (except for theses defended under confidential regime);
-    g)  Thesis revision report according to the resolution of the Thesis
+    h)  Thesis revision report according to the resolution of the Thesis
         Evaluation Council (signed by the doctoral student, supervisor
         and Chairman of the Council);
-    h)  For graduate students whose training records are subject to
+    i)  For graduate students whose training records are subject to
         inspection/thesis quality assessment, the evaluation comments
         and notification of the inspection/assessment results must be
         accompanied by additional comments, corrections, explanations
@@ -1763,7 +1763,7 @@ Council.
         the graduate student, the supervisor\'s signature and
         confirmation from the head of the training unit, and the
         Assessment Council (if any);
-    i)  Other documents as required by the training unit.
+    k)  Other documents as required by the training unit.
 3.  The head of the training unit is responsible for organizing the
     inspection of the training process, thesis quality, the organization
     and operation of the Thesis Evaluation Council, and the doctoral
@@ -1857,17 +1857,17 @@ Council.
         practicing professional ethics, developing creative capacity,
         perfecting professional skills and soft skills; solicit feedback
         from graduate students on their teaching;
-    d) Conduct scientific
+    đ) Conduct scientific
         research, apply research results to teaching and practical
         applications;
     e)  Evaluate or participate in evaluating the learning outcomes of
         graduate students;
-    f)  Notify the progress and learning results of graduate students to
+    g)  Notify the progress and learning results of graduate students to
         the unit/department managing the graduate students;
-    g)  Fully declare and regularly and timely update the individual\'s
+    h)  Fully declare and regularly and timely update the individual\'s
         scientific resume according to the form and regulations of Hanoi
         National University;
-    h)  Perform other tasks as prescribed by law and as prescribed by
+    i)  Perform other tasks as prescribed by law and as prescribed by
         the training unit.
 3.  Instructor\'s authority
     a)  Enjoy benefits according to current regulations of the State and
@@ -1936,7 +1936,7 @@ Council.
         and research plan. In case the thesis has two supervisors, the
         decision to assign supervisors must clearly state the main
         supervisor and the secondary supervisor or co-supervisor;
-    d)  Training units are encouraged to invite scientists who meet the
+    đ)  Training units are encouraged to invite scientists who meet the
         criteria to supervise doctoral students who are working at
         prestigious research and training institutions abroad to
         participate in co-supervision;
@@ -1992,7 +1992,7 @@ Council.
         thesis implementation of the doctoral student and periodically
         report in writing to the professional unit and the doctoral
         student management unit;
-    d) Be responsible for the doctoral
+    đ) Be responsible for the doctoral
         student\'s thesis: Approve the doctoral student\'s thesis,
         confirm the research results, new contributions of the thesis
         and decide to propose to submit the thesis for evaluation at the
@@ -2002,7 +2002,7 @@ Council.
     e)  Fully declare and regularly update information in the scientific
         curriculum vitae, in the database of the training unit and Hanoi
         National University according to regulations;
-    f)  Perform other tasks as prescribed by law and as prescribed by
+    g)  Perform other tasks as prescribed by law and as prescribed by
         the head of the training unit.
 
 ### Article 36. Responsibilities of graduate students

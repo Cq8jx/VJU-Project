@@ -262,10 +262,10 @@ Minister of Education and Training)*
         regulations on cases where additional training must be
         completed;
     d)  Application documents;
-    d) Admission plan and method;
+    đ) Admission plan and method;
     e)  Tuition fees, admission service fees and other service fees for
         each school year and the entire course;
-    f)  Other necessary information.
+    g)  Other necessary information.
 4.  The training institution decides to admit students when they fully
     meet the entry requirements of the training program with supporting
     evidence.
@@ -277,11 +277,11 @@ Minister of Education and Training)*
     c)  Priority policies in admission;
     d)  Archiving and security work in organizing exams and
         admissions;
-    d) Internal inspection, examination and supervision
+    đ) Internal inspection, examination and supervision
         in admissions;
     e)  Responsibilities of organizations, units and individuals in
         organizing enrollment;
-    f)  Other regulations related to admission.
+    g)  Other regulations related to admission.
 
 ## Chapter III: TRAINING ORGANIZATION AND MANAGEMENT
 
@@ -351,7 +351,7 @@ Minister of Education and Training)*
     d)  Duties and powers of students and related professional,
         management and support units according to current legal
         regulations;
-    d) Collecting feedback from students and other
+    đ) Collecting feedback from students and other
         relevant regulations in organizing master\'s training activities
         of the training institution.
 
@@ -698,12 +698,12 @@ Minister of Education and Training)*
     c)  Entry requirements and admission information;
     d)  Program structure (with the number of credits for each subject,
         thesis, project, research topic);
-    d) Faculty participating in
+    đ) Faculty participating in
         teaching and guiding theses and projects;
     e)  Learning and assessment;
-    f)  Output standards, job opportunities;
-    g)  Tuition and scholarships (if any);
-    h)  Other information that candidates and students need to know
+    g)  Output standards, job opportunities;
+    h)  Tuition and scholarships (if any);
+    i)  Other information that candidates and students need to know
         about the training program.
 4.  Training institutions shall publicly disclose on their websites
     before organizing recruitment and training:

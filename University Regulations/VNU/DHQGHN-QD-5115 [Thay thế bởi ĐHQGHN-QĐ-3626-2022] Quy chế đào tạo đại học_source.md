@@ -32,7 +32,7 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
     d) Các học phần giáo dục thể chất do Trung tâm Giáo dục thể chất và thể thao giảng dạy;
     đ) Các học phần tin học cơ sở do Trường Đại học Công nghệ và Trường Đại học Khoa học Tự nhiên giảng dạy;
     e) Các học phần kỹ năng bổ trợ do đơn vị đào tạo quy định nội dung và tổ chức giảng dạy;
-    f) Các học phần còn lại do đơn vị quản lý học phần giảng dạy.
+    g) Các học phần còn lại do đơn vị quản lý học phần giảng dạy.
 
 ### Điều 3. Nguyên tắc đảm bảo chất lượng và hiệu quả giáo dục
 1. Nội dung đào tạo, phương pháp dạy - học, kiểm tra đánh giá và phương thức quản lý phải phù hợp và hướng tới chuẩn đầu ra của chương trình đào tạo.
@@ -61,7 +61,7 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
     d) Học phần tiên quyết của một học phần: sinh viên phải tích lũy trước khi học học phần đó.
     đ) Khóa luận, đồ án tốt nghiệp có khối lượng kiến thức từ 5 đến 10 tín chỉ được quy định cụ thể trong chương trình đào tạo;
     e) Thực tập, thực tế (nếu có) là một học phần bắt buộc.
-    f) Học phần điều kiện là các học phần ngoại ngữ, giáo dục thể chất, giáo dục quốc phòng - an ninh và kỹ năng bổ trợ. Kết quả đánh giá các học phần điều kiện không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
+    g) Học phần điều kiện là các học phần ngoại ngữ, giáo dục thể chất, giáo dục quốc phòng - an ninh và kỹ năng bổ trợ. Kết quả đánh giá các học phần điều kiện không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
 3. Đề cương học phần
 Đề cương học phần do giảng viên biên soạn dựa trên chuẩn đầu ra của học phần và được thủ trưởng đơn vị quản lý học phần phê duyệt để cung cấp cho người học trước khi giảng dạy. Đề cương học phần gồm các nội dung chủ yếu sau:
     a) Thông tin về đơn vị đào tạo (tên trường, khoa, bộ môn);
@@ -70,8 +70,8 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
     d) Mục tiêu, chuẩn đầu ra, nội dung, phương pháp giảng dạy của học phần;
     đ) Thông tin về hình thức tổ chức, lịch trình dạy học;
     e) Học liệu;
-    f) Các quy định về kiểm tra đánh giá;
-    g) Các thông tin khác (nếu có) theo quy định của đơn vị đào tạo quản lý học phần hoặc của Đại học Quốc gia Hà Nội.
+    g) Các quy định về kiểm tra đánh giá;
+    h) Các thông tin khác (nếu có) theo quy định của đơn vị đào tạo quản lý học phần hoặc của Đại học Quốc gia Hà Nội.
 4. Ngân hàng câu hỏi của học phần
     a) Mỗi học phần có ngân hàng câu hỏi do đơn vị quản lý học phần tổ chức biên soạn, được Hội đồng khoa học và đào tạo cấp khoa thẩm định và được Chủ nhiệm khoa cho phép sử dụng để lựa chọn làm đề kiểm tra đánh giá.
     b) Thủ trưởng đơn vị đào tạo quy định cụ thể việc xây dựng ngân hàng câu hỏi của học phần.
@@ -88,9 +88,9 @@ Một ngành học có một hoặc nhiều chương trình đào tạo với ch
     d) Chương trình đào tạo tài năng;
     đ) Chương trình đào tạo ngành chính - ngành phụ;
     e) Chương trình đào tạo ngành kép;
-    f) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội cấp bằng;
-    g) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội và cơ sở đào tạo đại học có tư cách pháp nhân của nước ngoài (đối tác nước ngoài) cùng cấp bằng;
-    h) Chương trình đào tạo liên kết quốc tế do đối tác nước ngoài cấp bằng.
+    g) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội cấp bằng;
+    h) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội và cơ sở đào tạo đại học có tư cách pháp nhân của nước ngoài (đối tác nước ngoài) cùng cấp bằng;
+    i) Chương trình đào tạo liên kết quốc tế do đối tác nước ngoài cấp bằng.
 
 ### Điều 7. Hình thức đào tạo
 1. Đào tạo chính quy được tổ chức đào tạo tập trung liên tục trong toàn khóa học và áp dụng cho các chương trình đào tạo quy định tại mục a, b, c, d, đ, e, f, khoản 2, Điều 6 của Quy chế này.
@@ -176,9 +176,9 @@ Chương trình đào tạo được thiết kế hướng tới đạt chuẩn 
     Ngoài nội dung chương trình đào tạo được thiết kế cho ngành thứ nhất với khối lượng kiến thức tối thiểu là 120 tín chỉ, có thể bổ sung các học phần của chương trình đào tạo ngành thứ hai hoặc các học phần bổ trợ kiến thức khác với khối lượng kiến thức từ 15 đến 29 tín chỉ, chủ yếu thuộc khối kiến thức ngành, để tạo thành chương trình đào tạo ngành chính - ngành phụ. Các học phần bổ sung được thể hiện trong bảng điểm cấp kèm theo bằng tốt nghiệp. Việc tổ chức và quản lý đào tạo được thực hiện liên thông giữa các khoa trong cùng một đơn vị đào tạo hoặc giữa các đơn vị đào tạo trong Đại học Quốc gia Hà Nội.
     e) Chương trình đào tạo ngành kép
     Chương trình đào tạo ngành kép gồm hai phần: chương trình đào tạo ngành thứ nhất có khối lượng kiến thức tối thiểu là 120 tín chỉ, ngành thứ hai có khối lượng kiến thức từ 30 tín chỉ trở lên (những học phần giống nhau, tương đương giữa hai chương trình đào tạo chỉ được tính khối lượng kiến thức một lần). Việc tổ chức và quản lý đào tạo được thực hiện liên thông giữa các khoa trong cùng một đơn vị đào tạo và giữa các đơn vị đào tạo trong Đại học Quốc gia Hà Nội.
-    f) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội cấp bằng được thiết kế theo quy định của Đại học Quốc gia Hà Nội và tham khảo chương trình đào tạo của đối tác nước ngoài để điều chỉnh, bổ sung đáp ứng yêu cầu và điều kiện thực tế của Việt Nam.
-    g) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội và đối tác nước ngoài cùng cấp bằng được thiết kế trên cơ sở quy định về thiết kế chương trình đào tạo của Đại học Quốc gia Hà Nội và nội dung thỏa thuận hợp tác ký kết giữa hai bên.
-    h) Quy chế này không quy định việc thiết kế chương trình đào tạo liên kết quốc tế do đối tác nước ngoài cấp bằng.
+    g) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội cấp bằng được thiết kế theo quy định của Đại học Quốc gia Hà Nội và tham khảo chương trình đào tạo của đối tác nước ngoài để điều chỉnh, bổ sung đáp ứng yêu cầu và điều kiện thực tế của Việt Nam.
+    h) Chương trình đào tạo liên kết quốc tế do Đại học Quốc gia Hà Nội và đối tác nước ngoài cùng cấp bằng được thiết kế trên cơ sở quy định về thiết kế chương trình đào tạo của Đại học Quốc gia Hà Nội và nội dung thỏa thuận hợp tác ký kết giữa hai bên.
+    i) Quy chế này không quy định việc thiết kế chương trình đào tạo liên kết quốc tế do đối tác nước ngoài cấp bằng.
 
 ### Điều 14. Tổ chức xây dựng, ban hành chương trình đào tạo
 1. Đại học Quốc gia Hà Nội
@@ -364,7 +364,7 @@ Sinh viên chỉ được phép không lên lớp đối với học phần xin 
     b) Không là sinh viên năm thứ nhất hoặc năm cuối, có điểm trung bình chung các học phần tính đến thời điểm xét đạt từ 2,50 trở lên;
     c) Đạt yêu cầu bài thi đánh giá năng lực của đơn vị đào tạo;
     d) Có đủ sức khỏe để học tập;
-    e) Không thuộc diện bị buộc thôi học, không trong thời gian bị truy cứu trách nhiệm hình sự;
+    đ) Không thuộc diện bị buộc thôi học, không trong thời gian bị truy cứu trách nhiệm hình sự;
     Trường hợp đặc biệt, Giám đốc Đại học Quốc gia Hà Nội quyết định.
 3. Sinh viên là người nước ngoài hoặc sinh viên Việt Nam đang học tại một cơ sở đào tạo đại học ở nước ngoài có thể được xét để chuyển về học tại Đại học Quốc gia Hà Nội khi có đủ các điều kiện quy định tại khoản 2, Điều 26 của Quy chế này và phải có đầy đủ hồ sơ sinh viên (bản chính) khi làm thủ tục chuyển trường.
 Các điều kiện về trình độ tiếng Việt hoặc ngoại ngữ:
@@ -513,7 +513,7 @@ Người tham gia công tác coi thi, tổ chức thi, chấm thi vi phạm quy 
     d) Gian lận trong khi chấm thi; cho điểm không đúng quy định, chủ định tăng hoặc hạ điểm của bài thi so với đáp án;
     đ) Sửa chữa, thêm bớt vào bài làm của sinh viên để tăng hay hạ điểm;
     e) Sửa chữa làm sai lệch điểm trên bài thi, biên bản chấm thi hoặc sổ điểm;
-    f) Đánh tráo bài thi hoặc điểm thi của sinh viên.
+    g) Đánh tráo bài thi hoặc điểm thi của sinh viên.
 
 ### Điều 38. Cách tính điểm đánh giá bộ phận, điểm học phần
 1. Điểm đánh giá bộ phận và điểm thi kết thúc học phần được chấm theo thang điểm 10 (từ 0 đến 10), có lẻ đến một chữ số thập phân.
@@ -598,7 +598,7 @@ Sau mỗi học kỳ, sinh viên bị buộc thôi học nếu thuộc một tro
     b) Giỏi: Điểm trung bình chung học kỳ từ 3,20 đến 3,59
     c) Khá: Điểm trung bình chung học kỳ từ 2,50 đến 3,19
     d) Trung bình: Điểm trung bình chung học kỳ từ 2,00 đến 2,49
-    e) Yếu: Điểm trung bình chung học kỳ đạt dưới 2,00 nhưng chưa thuộc trường hợp bị buộc thôi học.
+    đ) Yếu: Điểm trung bình chung học kỳ đạt dưới 2,00 nhưng chưa thuộc trường hợp bị buộc thôi học.
 
 ## Chương VIII: CÔNG NHẬN TỐT NGHIỆP
 
@@ -610,8 +610,8 @@ Sau mỗi học kỳ, sinh viên bị buộc thôi học nếu thuộc một tro
     d) Điểm trung bình chung tích lũy của khóa học đạt từ 2,00 trở lên. Đối với chương trình đào tạo tài năng, chất lượng cao và chuẩn quốc tế, đạt từ 2,50 trở lên;
     đ) Đạt trình độ ngoại ngữ quy định tại khoản 3, Điều 12 của Quy chế này;
     e) Đáp ứng những yêu cầu về kết quả học tập đối với một số học phần chuyên môn đặc thù mà Đại học Quốc gia Hà Nội và đơn vị đào tạo có quy định bằng văn bản;
-    f) Được đánh giá đạt các học phần giáo dục quốc phòng - an ninh, giáo dục thể chất và kỹ năng bổ trợ;
-    g) Có đơn gửi Phòng Đào tạo đề nghị được xét tốt nghiệp trong trường hợp đủ điều kiện tốt nghiệp sớm hoặc muộn so với thời gian thiết kế của khóa học.
+    g) Được đánh giá đạt các học phần giáo dục quốc phòng - an ninh, giáo dục thể chất và kỹ năng bổ trợ;
+    h) Có đơn gửi Phòng Đào tạo đề nghị được xét tốt nghiệp trong trường hợp đủ điều kiện tốt nghiệp sớm hoặc muộn so với thời gian thiết kế của khóa học.
 2. Sinh viên không đủ điều kiện tốt nghiệp chương trình đào tạo tài năng, chất lượng cao, chuẩn quốc tế được xét công nhận tốt nghiệp và cấp bằng cử nhân chương trình đào tạo chuẩn tương ứng theo hình thức đào tạo chính quy.
 3. Sinh viên không đủ điều kiện tốt nghiệp được cấp giấy chứng nhận điểm các học phần trong chương trình đào tạo đã tích lũy.
 

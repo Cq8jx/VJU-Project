@@ -112,9 +112,9 @@ Director of Vietnam National University, Hanoi)*
     c)  Law courses taught by the University of Law;
     d)  National Defense and Security Education courses are taught by
         the National Defense and Security Education Center;
-    e)  Physical Education courses are taught by the Physical Education
+    đ)  Physical Education courses are taught by the Physical Education
         and Sports Center;
-    f)  Basic computer science courses are taught by the University of
+    e)  Basic computer science courses are taught by the University of
         Technology and the University of Natural Sciences, except for
         units with training majors in computer science/information
         technology;
@@ -182,10 +182,10 @@ Director of Vietnam National University, Hanoi)*
         needs in accordance with learning requirements;
     d)  Prerequisites of a course: students must complete them before
         studying that course;
-    e)  Theses and graduation projects are compulsory courses with a
+    đ)  Theses and graduation projects are compulsory courses with a
         duration of 5 to 10 credits as specified in the training
         programme;
-    f)  Internship and practical training (if any) is a compulsory
+    e)  Internship and practical training (if any) is a compulsory
         course;
     g)  Conditional courses include physical education, national
         defense and security education, and supplementary skills
@@ -208,8 +208,8 @@ Director of Vietnam National University, Hanoi)*
         instruction);
     d)  Objectives, output standards, content, and teaching methods of
         the course;
-    e)  Information on the organisation and teaching schedule;
-    f)  Learning materials;
+    đ)  Information on the organisation and teaching schedule;
+    e)  Learning materials;
     g)  Regulations on assessment and evaluation;
     h)  Other information (if any) as prescribed by the training unit
         managing the course or by Vietnam National University, Hanoi.
@@ -235,8 +235,8 @@ Director of Vietnam National University, Hanoi)*
     b)  High quality training program;
     c)  Talent training program;
     d)  Major–minor training programs;
-    e)  Dual-major training programs;
-    f)  Training programs in association with foreign educational
+    đ)  Dual-major training programs;
+    e)  Training programs in association with foreign educational
         institutions with degrees awarded by Vietnam National
         University, Hanoi;
     g)  Joint training programs with foreign educational institutions in
@@ -491,7 +491,7 @@ Promoting the effectiveness of international cooperation.
         management of training is carried out in conjunction between
         faculties in the same training unit or between training units in
         Hanoi National University.
-    d) Dual major training program The
+    đ) Dual major training program The
         dual major training program consists of two parts: The first
         major training program has a minimum knowledge volume of 120
         credits, the second major has a knowledge volume of 30 credits
@@ -507,13 +507,13 @@ Promoting the effectiveness of international cooperation.
         University and refers to the training program of foreign
         partners to adjust and supplement to meet the requirements and
         practical conditions of Vietnam;
-    f)  The joint training program with a foreign educational
+    g)  The joint training program with a foreign educational
         institution, jointly awarded by Hanoi National University and
         foreign partners, is designed based on the regulations on
         training program design of Hanoi National University and the
         content of the cooperation agreement signed between the two
         parties;
-    g)  This Regulation does not regulate the design of training
+    h)  This Regulation does not regulate the design of training
         programs in association with foreign educational institutions
         with foreign partners granting degrees.
 
@@ -570,7 +570,7 @@ study and 1 week of exams, held in the time between two main semesters.
         the course shall be determined based on the time according to
         the standard study plan for the entire course reduced
         corresponding to the exempted credits;
-    d) The time for studying
+    đ) The time for studying
         two training programs simultaneously shall not exceed the
         maximum training time of the first training program.
 2.  Training year After each semester, based on the number of
@@ -602,7 +602,7 @@ study and 1 week of exams, held in the time between two main semesters.
     c)  Output standards of training programs;
     d)  Conditions for ensuring quality (lecturing staff, facilities,
         laboratories, libraries and learning materials systems);
-    d)  Information on tuition fees and scholarships;
+    đ)  Information on tuition fees and scholarships;
     e)  Training regulations and rules related to student learning,
         training and living.
 4.  At the beginning of the school year, the training unit informs
@@ -1016,7 +1016,7 @@ exceed 25% of the total volume of the training program.
         summarize;
     d)  Instruct students on learning methods, presentation methods, and
         participation in scientific research;
-    d) Arrange class time for
+    đ) Arrange class time for
         a maximum of 70% of the total course duration, leaving the
         remaining time for students to self-study, but lecturers must
         have content, programs, and documents for self-study and
@@ -1029,20 +1029,20 @@ exceed 25% of the total volume of the training program.
         if approved by the head of the training unit, students can not
         attend classes regularly, but must take the cumulative course
         exam;
-    f)  Organize professional seminars in the final years; enhance
+    g)  Organize professional seminars in the final years; enhance
         learning methods associated with research to develop the ability
         to think independently and creatively. Increase practice,
         internship, and practical hours; combine learning with
         scientific research to improve the effectiveness of learning.
         From the fourth semester at the latest, each student will be
         guided in scientific research by a lecturer;
-    g)  Encourage the use of foreign languages in teaching some
+    h)  Encourage the use of foreign languages in teaching some
         subjects, especially specialized subjects. Encourage students to
         directly use textbooks and documents in foreign languages in
         parallel with Vietnamese textbooks and documents. Encourage
         students to participate in student exchange programs with
         foreign universities for at least 1 semester;
-    h)  Facilitate students to use information technology equipment and
+    i)  Facilitate students to use information technology equipment and
         other modern research facilities. Provide full textbooks and
         reference materials for students.
 3.  Transfer students studying in high-quality talent training programs
@@ -1104,7 +1104,7 @@ exceed 25% of the total volume of the training program.
         consideration is from 2.50 or higher;
     d)  Not being given academic warning or subject to disciplinary
         action;
-    d) The training unit still has quotas for the training
+    đ) The training unit still has quotas for the training
         major the student wants to transfer to;
     e)  With the consent of the Head of Faculty/Department (professional
         unit in charge of the training industry) and head of the
@@ -1134,13 +1134,13 @@ exceed 25% of the total volume of the training program.
         quality and not exceed the training capacity for the training
         program and major according to current regulations of the
         Ministry of Education and Training;
-    d) With the consent of the
+    đ) With the consent of the
         principal of the training unit requesting the transfer and the
         training unit requesting the transfer; For affiliated training
         units, it must have the consent of the Director of Hanoi
         National University;
     e)  Be healthy enough to study;
-    f)  Not subject to forced expulsion from school, not under criminal
+    g)  Not subject to forced expulsion from school, not under criminal
         prosecution.
 3.  Foreign students or Vietnamese students studying at a higher
     education institution abroad may be considered for transfer to study
@@ -1186,15 +1186,15 @@ The organization and management of scientific research activities of
 students are decentralized as follows: 1. Training unit a) Develop a
 plan for scientific research activities of students in the unit\'s
 academic year tasks;
-    b) Implement scientific research of students in
+    c) Implement scientific research of students in
 association with scientific research topics, projects and other
 scientific activities of the unit. Create conditions for students to
 participate in research, become members of research groups and
 participate in scientific and technological activities;
-    c) Organize
+    d) Organize
 student scientific conferences, evaluate, classify and reward students\'
 research works;
-    d) Establish student scientific clubs, organize
+    đ) Establish student scientific clubs, organize
 scientific thematic activities;
     e) Head of the training unit specifies
 the number of standard hours for lecturers to guide students in
@@ -1794,7 +1794,7 @@ the training unit;
 later than one month after the decision to force a student to leave
 school is made, the training unit must notify the locality where the
 student has permanent residence.
-    d) After the temporary leave of absence
+    đ) After the temporary leave of absence
 expires, the student does not submit an application to return to school
 as prescribed in Clause 3, Article 36 of these Regulations.
 
@@ -1826,14 +1826,14 @@ as prescribed in Clause 3, Article 36 of these Regulations.
     c)  Accumulate enough credits as prescribed in the training program;
     d)  The cumulative average score of the course is 2.00 or higher.
         For the talent training program, the score is 2.50 or higher;
-    d)  Achieve the foreign language proficiency specified in Clause 3,
+    đ)  Achieve the foreign language proficiency specified in Clause 3,
         Article 13 of this Regulation;
     e)  Meet the learning outcome requirements for a number of
         specialized courses that Hanoi National University and the
         training unit have specified in writing;
-    f)  Assessed to pass the subjects of national defense - security
+    g)  Assessed to pass the subjects of national defense - security
         education, physical education and supplementary skills;
-    g)  There is an application sent to the Training Department
+    h)  There is an application sent to the Training Department
         requesting to be considered for graduation in case of meeting
         the conditions to graduate early or late compared to the
         designed time of the course.
@@ -1981,7 +1981,7 @@ training units.
         regulations;
     d)  Announcement of enrollment according to current enrollment
         regulations;
-    d) Evidence of meeting the minimum requirements for
+    đ) Evidence of meeting the minimum requirements for
         work-study training cooperation as prescribed in Clauses 2 and
         3, Article 10 of this Regulation.
 
