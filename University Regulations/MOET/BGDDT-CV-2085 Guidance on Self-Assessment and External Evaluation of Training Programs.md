@@ -1047,3 +1047,393 @@ Ratio of converted scientific research and technology transfer projects per perm
 | 3 | 20... | | | |
 | 4 | 20... | | | |
 | 5 | 20... | | | |
+
+47. Number of permanent staff members of the unit implementing the program participating in scientific research projects in the past 5 years:
+
+| Number of projects | Staff involved in national-level projects | Staff involved in ministry-level projects\* | Staff involved in institutional-level projects | Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| 1–3 projects | | | | |
+| 4–6 projects | | | | |
+| More than 6 projects | | | | |
+| **Total staff participating** | | | | |
+
+\* Including ministry-level or equivalent projects and sub-projects at the national level.
+
+48. Number of books published by the unit implementing the program in the past 5 years:
+
+| No. | Type of book | Coefficient\*\* | **20...** | **20...** | **20...** | **20...** | **20...** | Total (converted) |
+| :- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | Monographs | 2.0 | | | | | | |
+| 2 | Textbooks | 1.5 | | | | | | |
+| 3 | Reference books | 1.0 | | | | | | |
+| 4 | Handbooks | 0.5 | | | | | | |
+| | **Total** | | | | | | | |
+
+\*\* Conversion coefficients are based on the scoring principles of the State Professorship Council (with adjustments).
+
+Total number of books (converted): ......................................................
+
+Ratio of published books (converted) per permanent staff member: .................................
+
+49. Number of permanent staff members of the unit implementing the program participating in book writing in the past 5 years:
+
+| Number of books | Staff participating in monographs | Staff participating in textbooks | Staff participating in reference books | Staff participating in handbooks |
+| :--- | :---: | :---: | :---: | :---: |
+| 1–3 books | | | | |
+| 4–6 books | | | | |
+| More than 6 books | | | | |
+| **Total staff participating** | | | | |
+
+50. Number of journal articles published by permanent staff members of the unit implementing the program in the past 5 years:
+
+| No. | Type of journal | Coefficient\*\* | **20..** | **20..** | **20..** | **20..** | **20..** | Total (converted) |
+| :- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | International scientific journals | 1.5 | | | | | | |
+| 2 | Domestic discipline-specific journals | 1.0 | | | | | | |
+| 3 | Institutional journals/newsletters | 0.5 | | | | | | |
+| | **Total** | | | | | | | |
+
+\*\* Conversion coefficients are based on the scoring principles of the State Professorship Council (with adjustments).
+
+---
+
+Total number of journal articles (converted): .....................................................
+
+Ratio of journal articles (converted) per permanent staff member: .......................................
+
+51. Number of permanent staff members of the unit implementing the program participating in writing journal articles in the past 5 years:
+
+| Number of articles | International scientific journals (ISI, Scopus, etc.) | Domestic discipline-specific journals | Institutional journals/newsletters |
+| :--- | :---: | :---: | :---: |
+| 1–5 articles | | | |
+| 6–10 articles | | | |
+| 11–15 articles | | | |
+| More than 15 articles | | | |
+| **Total staff participating** | | | |
+
+52. Number of scientific reports presented by permanent staff members of the unit implementing the program at conferences/seminars and published in full in proceedings in the past 5 years:
+
+| No. | Type of conference | Coefficient\*\* | **20...** | **20...** | **20...** | **20...** | **20...** | Total (converted) |
+| :- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | International conferences | 1.0 | | | | | | |
+| 2 | Domestic conferences | 0.5 | | | | | | |
+| 3 | Institutional conferences | 0.25 | | | | | | |
+| | **Total** | | | | | | | |
+
+(When counting domestic conferences, exclude conferences organized by the education institution to avoid double counting.)
+
+\*\* Conversion coefficients are based on the scoring principles of the State Professorship Council.
+
+Total number of reports (converted): .....................................................
+
+Ratio of reports (converted) per permanent staff member: .......................................
+
+53. Number of permanent staff members of the unit implementing the program presenting scientific reports at conferences/seminars and published in full in proceedings in the past 5 years:
+
+| Number of reports | Staff presenting at international conferences | Staff presenting at domestic conferences | Staff presenting at institutional conferences |
+| :--- | :---: | :---: | :---: |
+| 1–5 reports | | | |
+| 6–10 reports | | | |
+| 11–15 reports | | | |
+| More than 15 reports | | | |
+| **Total staff participating** | | | |
+
+(When counting domestic conferences, exclude institutional conferences.)
+
+54. Number of patents and inventions granted
+
+| Academic year | Number of patents and inventions granted (specify issuing authority, date of issuance, and recipient) |
+| :--- | :--- |
+| 20...-20... | |
+| 20...-20... | |
+| 20...-20... | |
+| 20...-20... | |
+| 20...-20... | |
+
+55. Scientific research by learners
+
+55.1. Number of scientific research projects in which learners of the unit implementing the program participated in the past 5 years:
+
+| Number of projects | Learners participating in national-level projects | Learners participating in ministry-level projects\* | Learners participating in institutional-level projects | Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| 1–3 projects | | | | |
+| 4–6 projects | | | | |
+| More than 6 projects | | | | |
+| **Total learners participating** | | | | |
+
+\* Including ministry-level or equivalent projects and sub-projects at the national level.
+
+55.2. Scientific research achievements of students:
+
+(Statistics on awards for scientific research and innovation, published articles, and published works)
+
+| No. | Category of achievement | **20..-20..** | **20..-20..** | **20..-20..** | **20..-20..** | **20..-20..** |
+| :- | :--- | :---: | :---: | :---: | :---: | :---: |
+| 1 | Number of awards for scientific research and innovation | | | | | |
+| 2 | Number of published articles and works | | | | | |
+
+## **VII. Facilities and library**
+
+56. Total land area used by the education institution (in m²): .....................
+
+57. Total land area used by the unit implementing the program (in m²): .......
+
+58. Area used for the following purposes (in m²):
+
+Working area: ............... Study area: ..................... Recreational area: ................
+
+59. Total area of classrooms (in m²)
+
+- Total classroom area: .....................................................................................
+- Ratio of classroom area to the number of full-time learners: .......................................
+
+60. Total number of book titles in the training discipline available at the Information Center – Library:..........................................................
+
+Total number of book titles in the resource room of the unit implementing the program (if any)
+
+61. Total number of computers of the unit implementing the program:
+
+- Used for office systems: .........................................................................
+- Used for learners’ study activities: ............................................................................
+
+Ratio of computers for learners to full-time learners: ..........................
+
+## **VIII. Summary of key indicators**
+
+Based on the survey results above, compile the following key indicators:
+
+1. Lecturers:
+
+Total number of permanent lecturers (persons):.........................................................................
+
+Percentage of permanent lecturers compared with total permanent staff (%): ....................................
+
+Percentage of permanent lecturers holding a doctoral degree or higher compared with total permanent lecturers of the unit implementing the program (%): ........................................................................
+
+Percentage of permanent lecturers holding a master’s degree compared with total permanent lecturers of the unit implementing the program (%): ....................................................
+
+2. Learners:
+
+Total number of full-time learners (persons) ....................................................................
+
+Ratio of full-time learners to lecturers: ..........................................................
+
+Percentage of graduates compared with admitted learners (%): ..........................................
+
+3. Graduates’ assessment of program quality:
+
+Percentage of graduates stating they acquired the knowledge and skills necessary for jobs in their field (%): ............................................................................
+
+Percentage of graduates stating they acquired only part of the knowledge and skills necessary for jobs in their field (%): .......................................
+
+4. Learners employed within the first year after graduation:
+
+Percentage of graduates employed in jobs aligned with their field of study (%): ........................................
+
+Percentage of graduates employed outside their field of study (%): ..........................................
+
+Average monthly income of employed graduates (million VND): ..............
+
+5. Employer feedback on graduates employed in jobs aligned with their field of study:
+
+Percentage of graduates meeting job requirements and able to start immediately (%): ..................................................................
+
+Percentage of graduates basically meeting job requirements but needing additional training (%): .........................................................
+
+6. Scientific research and technology transfer:
+
+Ratio of scientific research and technology transfer projects (converted) per permanent staff member: .....
+
+Ratio of revenue from scientific research and technology transfer per permanent staff member: ...
+
+Ratio of published books (converted) per permanent staff member: ............................
+
+Ratio of journal articles (converted) per permanent staff member: .......................................
+
+Ratio of reports (converted) per permanent staff member: ...............................................
+
+7. Facilities:
+
+Ratio of computers for learners to full-time learners: .......................
+
+Ratio of classroom area to full-time learners: .....................................
+
+Ratio of dormitory area to full-time learners: .......................................
+
+(Note: Guidance on applying the provisions cited above will be updated when there are amendments, supplements, or new documents issued by competent authorities.)
+
+---
+
+### **Annex 8. Guidance on coding information and evidence**
+
+Education institutions with training programs under evaluation may encode information and evidence (evidence codes) using a string consisting of at least 11 characters, including one letter, three periods, and seven digits, with a period separating each pair of digits, according to the following formula: **Hn.ab.cd.ef.**
+
+Where:
+
+- **H:** abbreviation of “evidence box” (the evidence for each standard is stored in one or more boxes).
+- **n:** ordinal number of the evidence box, numbered from 1 upward (if n ≥ 10, the symbol string has 12 or more characters).
+- **ab:** ordinal number of the standard (standard 1 is written as 01, standard 10 as 10).
+- **cd:** ordinal number of the criterion (criterion 1 is written as 01, criterion 10 as 10).
+- **ef:** ordinal number of the evidence for each criterion (the first piece of information/evidence is written as 01, the 15th as 15, etc.).
+
+Examples:
+
+- H1.01.01.01: the first evidence of criterion 1, standard 1, stored in box 1.
+- H3.03.02.15: the 15th evidence of criterion 2, standard 3, stored in box 3.
+- H4.04.03.25: the 25th evidence of criterion 3, standard 4, stored in box 4.
+- H8.10.02.04: the 4th evidence of criterion 2, standard 10, stored in box 8.
+- H10.10.02.04: the 4th evidence of criterion 2, standard 10, stored in box 10.
+
+---
+
+### **Annex 9. Evidence inventory table**
+
+| Criterion | No. | Evidence code | Name of evidence | Number, date of issuance, or time of survey, investigation, interview, observation, etc. | Issuing authority or implementing group/individual | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Standard 1** | 1 | | | | | |
+| **Criterion 1.1** | 1 | | | | | |
+| | 2 | | | | | |
+| | ... | | | | | |
+| **Criterion 1.2** | 1 | | | | | |
+| | 2 | | | | | |
+| | ... | | | | | |
+| **Criterion 1.3** | 1 | | | | | |
+| | 2 | | | | | |
+| | ... | | | | | |
+| **Standard 2** | ... | | | | | |
+| **Criterion 2.1** | 1 | | | | | |
+| | 2 | | | | | |
+| | ... | | | | | |
+| **Criterion 2.2** | 1 | | | | | |
+| | 2 | | | | | |
+| | ... | | | | | |
+| **Standard 3** | ... | | | | | |
+| **Criterion 3.1** | 1 | | | | | |
+| | 2 | | | | | |
+| | ... | | | | | |
+| **Criterion 3.2** | 1 | | | | | |
+| | 2 | | | | | |
+| | ... | | | | | |
+| ... | ... | | | | | |
+
+**Note:** Prepare the table in landscape orientation on A4 paper. You may add a column indicating the specific storage location (path) of the evidence kept in the institution’s archives.
+
+---
+
+### **Annex 10. Template for the external evaluation plan**
+
+**NAME OF THE EDUCATION QUALITY ACCREDITATION (KĐCLGD) ORGANIZATION**
+
+**External evaluation team established under Decision No. .../QĐ-...**
+
+### **SOCIALIST REPUBLIC OF VIET NAM**
+**Independence - Freedom - Happiness**
+
+*..., date ...... month ...... year 20...*
+
+**EXTERNAL EVALUATION PLAN**
+
+**TRAINING PROGRAM .....................................**
+
+**I. PURPOSES OF THE EXTERNAL EVALUATION**
+
+1. Verify the authenticity and objectivity of the CTĐT self-assessment report submitted by the education institution that registered for KĐCLGD in accordance with the CTĐT quality standards promulgated by the Minister of Education and Training.
+2. Provide advice and recommendations on measures to assure and enhance the quality of the CTĐT.
+
+**II. SCOPE OF THE EVALUATION**
+
+Evaluate all activities of the CTĐT in line with the CTĐT quality standards promulgated by the Minister of Education and Training.
+
+**III. EXTERNAL EVALUATION TEAM**
+
+The CTĐT external evaluation team of .......... (name of the education institution) ................... is established under Decision No. ....... dated ...../...../......... of the Director of ........... (decision and list attached).
+
+**IV. ACTIVITIES OF THE EXTERNAL EVALUATION TEAM**
+
+**1. Assignment matrix for in-depth review of criteria**
+
+| No. | Full name | Role in the team | Criteria assigned for in-depth review |
+| :- | :--- | :--- | :--- |
+| 1 | | Team leader | |
+| 2 | | Secretary | |
+| 3 | | ... | |
+
+**2. Preparatory tasks for the external evaluation team**
+
+| No. | Task | Responsible party | Timeline |
+| :- | :--- | :--- | :--- |
+| 1 | Prepare and send the self-assessment dossier to members of the external evaluation team. | KĐCLGD organization | Immediately after the decision establishing the team |
+| 2 | Assign the criteria for in-depth review to members of the external evaluation team. | Team leader | Week 1 |
+| 3 | Study the self-assessment dossier; conduct in-depth review of the assigned criteria; write comments on the CTĐT self-assessment report; send comments to the secretary and team leader for consolidation. | Team members | Weeks 1–2 |
+| 4 | The secretary consolidates team members’ comments on the self-assessment report and circulates them via email for the other members to review before the team meeting. | Secretary | Week 2 |
+
+**3. Review of the self-assessment dossier**
+
+**Duration:** 1–2 days
+
+**Location:** ............................................................................................................
+
+**Work schedule**
+
+| Time | Activity | Responsible party |
+| :--- | :--- | :--- |
+| | Continue the in-depth review of the criteria. | Whole team |
+| | Team meeting to discuss and exchange comments on members’ reviews of the self-assessment dossier. | Whole team |
+| | Adjust the on-site survey plan and responsibilities of each member. | Team leader |
+| | Draft the report on dossier review results, recommendations, and survey plan. | Team leader, secretary |
+| | Hold a team meeting to approve the dossier review results, preliminary survey plan, and draft official survey plan. | Whole team |
+| | Send the dossier review results, preliminary survey plan, and draft official survey plan to the KĐCLGD organization. | Team leader |
+
+**4. Preliminary survey at the education institution**
+
+**Duration:** 1 working day at the education institution
+
+**Location:** ............................................................................................................
+
+**Work schedule**
+
+| Time | Activity | Responsible party |
+| :--- | :--- | :--- |
+| | Meeting with the institution’s leadership, leadership of the unit implementing the CTĐT under evaluation, and the CTĐT self-assessment council. | Representatives of the KĐCLGD organization; team leader, secretary, other members (if any); leadership of the education institution and faculty; CTĐT self-assessment council representatives |
+| | Officially announce and discuss the results of the CTĐT self-assessment dossier review and the team’s official survey plan. | |
+| | Agree on the matters the institution needs to prepare for the official survey and the time for the team to conduct the survey. | |
+| | Sign the memorandum of the activities conducted. | Team leader, institution’s leadership |
+
+**5. Official survey at the education institution**
+
+**Duration:** 2–4 days
+
+**Location:** ............................................................................................................
+
+**Reference schedule for the official survey**
+
+| Time | Activities |
+| :--- | :--- |
+| **Day 1** | - Meeting with the leadership of the education institution, leadership of the CTĐT unit, the CTĐT self-assessment council, and related stakeholders:<br>  - Introduce the composition, purposes, and requirements of the external evaluation team.<br>  - Hear a brief presentation about the education institution managing the CTĐT, the CTĐT itself, and the process and results of the self-assessment.<br>- Review documents, information, and evidence provided by the education institution; identify issues requiring attention; request additional documents if necessary.<br>- Discuss arising issues and adjust the assignment of responsibilities among team members if needed.<br>- Meet with members of the CTĐT self-assessment council.<br>- Receive administrators, lecturers, researchers, staff, and learners who wish to meet the team (if any).<br>- Summarize the day’s work, adjust the agenda as necessary, and reconfirm with the education institution. |
+| **Day 2** | - Meet and interview learners and graduates.<br>- Meet and interview lecturers and researchers.<br>- Meet and interview staff of the unit implementing the CTĐT under evaluation.<br>- Visit and discuss with relevant departments and offices.<br>- Visit and observe the library, classrooms, laboratories, practice rooms, dormitories, student clubs, curricular and extracurricular activities, etc.<br>- Observe teaching and learning activities in class.<br>- Receive administrators, lecturers, researchers, staff, and learners who wish to meet the team (if any).<br>- Summarize the day’s work and adjust the agenda if needed. |
+| **Day 3** | - Meet and interview employers.<br>- Meet and interview managers.<br>- Discuss additional information with the leadership of the education institution and the unit implementing the CTĐT.<br>- Receive administrators, lecturers, researchers, staff, and learners who wish to meet the team (if any).<br>- Discuss newly identified issues and the team’s recommendations for the education institution and the CTĐT unit. |
+| **Day 4** | - Prepare the survey report and recommendations on the CTĐT for the education institution.<br>- Hold a meeting between the external evaluation team and the institution’s leadership and CTĐT self-assessment council to present the survey results.<br>- The team leader and the institution’s leadership sign the minutes confirming the completion of the official survey. |
+
+**6. Preparing the external evaluation report on the training program**
+
+**Schedule for preparing the external evaluation report**
+
+| No. | Task | Responsible party | Timeline |
+| :- | :--- | :--- | :--- |
+| 1 | Draft the external evaluation report. | Team leader, secretary | During the survey – Week 1 after the survey |
+| 2 | Send Draft 1 of the external evaluation report to team members. | Team leader, secretary | Week 2 |
+| 3 | Provide comments on Draft 1 of the external evaluation report. | Whole team | Week 2 |
+| 4 | Revise and send Draft 2 of the external evaluation report to team members. | Team leader, secretary | Week 3 |
+| 5 | Provide comments on Draft 2 of the external evaluation report. | Whole team | Week 3 |
+| 6 | If, after two rounds, less than two-thirds of the members agree, convene a team meeting to reach consensus. | Whole team | Week 4 |
+| 7 | Send the draft external evaluation report to the education institution with the CTĐT under evaluation. | Team leader, secretary | Week 4 |
+| 8 | Respond to the institution’s feedback on the draft external evaluation report (if any). | Whole team | Within 15 days after receiving the institution’s feedback |
+| 9 | Finalize the report and send the final CTĐT external evaluation report to the education institution via the KĐCLGD organization. | Team leader, secretary | |
+
+**Approval of the Director of the KĐCLGD Center**
+
+*(Signature and seal)*
+
+**Head of the external evaluation team**
+
+*(Signature and full name)*
