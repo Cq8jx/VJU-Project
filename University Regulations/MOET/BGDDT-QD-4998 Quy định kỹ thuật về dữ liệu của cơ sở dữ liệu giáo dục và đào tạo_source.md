@@ -2,7 +2,6 @@ Tệp này là bản chuyển văn bản từ https://e-ict.gov.vn/index.php/law
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 Do tài liệu gốc chứa một lượng lớn các bảng quy định kỹ thuật chi tiết, để có thông tin đầy đủ và chính xác nhất, vui lòng tham khảo trực tiếp tại trang web chính thức đã nêu.
 
-
 ---
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO**
@@ -66,4 +65,3 @@ Văn bản này quy định kỹ thuật về dữ liệu của cơ sở dữ li
 *Cơ sở dữ liệu giáo dục và đào tạo*: là tập hợp dữ liệu số hóa thông tin quản lý về giáo dục và đào tạo (gồm dữ liệu về mạng lưới cơ sở giáo dục, dữ liệu về lớp học, dữ liệu về đội ngũ giáo viên, giảng viên, cán bộ quản lý giáo dục và nhân viên, dữ liệu về học sinh, sinh viên, dữ liệu về chương trình giáo dục, dữ liệu về cơ sở vật chất trường học và các dữ liệu liên quan khác) do Bộ Giáo dục và Đào tạo xây dựng, quản lý và cung cấp.
 
 #### **II. DANH MỤC DÙNG CHUNG**
-
