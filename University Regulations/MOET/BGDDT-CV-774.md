@@ -401,6 +401,7 @@ Hai bên cùng ký biên bản kết thúc khảo sát sơ bộ vào lúc ......
 **THỦ TRƯỞNG**
 **CƠ SỞ GIÁO DỤC**
 *(Ký, ghi rõ họ tên và đóng dấu)*
+
 ***
 **16**
 **Phụ lục 15. Mẫu Biên bản hoàn thành đợt khảo sát chính thức**
