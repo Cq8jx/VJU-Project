@@ -13,7 +13,8 @@ Số: 826 /VJU-KT&ĐBCL
 
 ### BÁO CÁO BA CÔNG KHAI NĂM HỌC 2024-2025
 
-**Kính gửi:** - Bộ Giáo dục và Đào tạo
+**Kính gửi:**
+- Bộ Giáo dục và Đào tạo
 - Đại học Quốc gia Hà Nội
 
 Thực hiện Thông tư số 09/2024/TT-BGDĐT ngày 03 tháng 6 năm 2024 của Bộ Giáo dục và Đào tạo quy định về công khai trong hoạt động của các cơ sở giáo dục của hệ thống giáo dục quốc dân, Trường Đại học Việt Nhật thực hiện công khai theo các nội dung năm học 2024-2025 như sau:
@@ -198,7 +199,7 @@ Các mốc chính trong lịch sử hình thành và phát triển trường Đ�
         *   Chương trình KS Điều khiển thông minh và tự động hóa
         *   Chương trình KS CN&KT Chíp bán dẫn
 
-*\* Ghi chú: các chương trình đào tạo có viền nét đứt là CTĐT đã được ban hành nhưng chưa tổ chức đào tạo*
+*Ghi chú: các chương trình đào tạo có viền nét đứt là CTĐT đã được ban hành nhưng chưa tổ chức đào tạo*
 
 **7.6. Họ và tên, chức vụ, điện thoại, địa chỉ thư điện tử, địa chỉ nơi làm việc, trách nhiệm của lãnh đạo cơ sở giáo dục và lãnh đạo các đơn vị thuộc, trực thuộc CSGD.**
 
@@ -247,7 +248,7 @@ Các mốc chính trong lịch sử hình thành và phát triển trường Đ�
 | 13 | Inui Eiji | | Cố vấn trưởng dự án | inui.e@vju.ac.vn |
 | 14 | Michiyo Morohashi | Dự án Hỗ trợ kỹ thuật (TC2) | Phó cố vấn trưởng dự án | morohashi.m@vju.ac.vn |
 | 15 | HAYASHIDA Takayuki | | Điều phối dự án | hayashida.t@vju.ac.vn |
-*\* Ghi chú Vị trí 14 và 15 tương ứng là KUMAGAI Masato (m.kumagai@vju.ac.vn), TSUJIMOTO Atsushi (tsujimoto.a@vju.ac.vn) đảm nhiệm từ 6/2024 đến 5/2025.*
+*Ghi chú Vị trí 14 và 15 tương ứng là KUMAGAI Masato (m.kumagai@vju.ac.vn), TSUJIMOTO Atsushi (tsujimoto.a@vju.ac.vn) đảm nhiệm từ 6/2024 đến 5/2025.*
 
 **8. Các văn bản khác của cơ sở giáo dục:**
 8.1. Chiến lược phát triển của cơ sở giáo dục: Trường Đại học Việt Nhật đã ban hành chiến lược phát triển Trường Đại học Việt Nhật đến năm 2030, tầm nhìn đến 2035 theo Quyết định số 1010/QĐ-ĐHVN ngày 8 tháng 12 năm 2020.
@@ -299,7 +300,7 @@ Các mốc chính trong lịch sử hình thành và phát triển trường Đ�
 | | Kỹ thuật | 14 | 0 | 0 | 14 | 5 | 4 |
 | | Kiến trúc và xây dựng | 6 | 0 | 0 | 6 | 1 | 1 |
 | | Khoa học tự nhiên | 7 | 0 | 0 | 7 | 1 | 1 |
-*\* Ghi chú: Do một số ngành học mang tính liên lĩnh vực nên một số giảng viên tham gia vào các ngành đào tạo ở các lĩnh vực đào tạo khác nhau, do đó tổng số giảng viên toàn thời gian ở các lĩnh vực lớn hơn tổng số giảng viên toàn thời gian.*
+*Ghi chú: Do một số ngành học mang tính liên lĩnh vực nên một số giảng viên tham gia vào các ngành đào tạo ở các lĩnh vực đào tạo khác nhau, do đó tổng số giảng viên toàn thời gian ở các lĩnh vực lớn hơn tổng số giảng viên toàn thời gian.*
 
 **3. Thống kê đội ngũ cán bộ quản lý và nhân viên hành chính, hỗ trợ**
 *Số liệu cập nhật đến 30/6/2025*
@@ -321,7 +322,7 @@ Các mốc chính trong lịch sử hình thành và phát triển trường Đ�
 | 5 | Số bản sách/người học | - | |
 | 6 | Tỉ lệ học phần sẵn sàng giảng dạy trực tuyến | 30% | |
 | 7 | Tốc độ Internet/1.000 người học (Mbps) | 393Mbps | |
-*\* không thống kê được số bản sách/người học vì tỷ lệ số hóa sách, giáo trình cao*
+*không thống kê được số bản sách/người học vì tỷ lệ số hóa sách, giáo trình cao*
 
 **2. Diện tích đất và diện tích sàn xây dựng phục vụ đào tạo**
 | TT | Địa điểm | Địa chỉ | Diện tích đất (m²) | Diện tích sàn (m²) |
@@ -377,7 +378,7 @@ Các mốc chính trong lịch sử hình thành và phát triển trường Đ�
 | 7 | Tỉ lệ người học hài lòng với giảng viên | 79,7% | Chưa khảo sát |
 | 8 | Tỉ lệ người tốt nghiệp hài lòng tổng thể | 77,4 | Chưa khảo sát |
 | 9 | Tỉ lệ người tốt nghiệp có việc làm đúng chuyên môn | 78,79% | 65,52% |
-*\* số liệu ở hàng 7 và 8 được cập nhật đến thời điểm 30/6/2025; Tỉ lệ tốt nghiệp được tính bằng số lượng người học tốt nghiệp từ 30/6/2024 đến 10/7/2025 trên tổng số người học đến hạn tốt nghiệp nhưng chưa tốt nghiệp; Tỉ lệ tốt nghiệp đúng hạn được tính bằng số lượng người học tốt nghiệp đúng hạn và trước hạn trên tổng số người học của khóa VJU2021 và QHJ2023. Tỉ lệ tốt nghiệp nhỏ hơn tỉ lệ tốt nghiệp đúng hạn do số học viên cao học của khóa QHJ2022 và QHJ2021 còn cao.*
+*số liệu ở hàng 7 và 8 được cập nhật đến thời điểm 30/6/2025; Tỉ lệ tốt nghiệp được tính bằng số lượng người học tốt nghiệp từ 30/6/2024 đến 10/7/2025 trên tổng số người học đến hạn tốt nghiệp nhưng chưa tốt nghiệp; Tỉ lệ tốt nghiệp đúng hạn được tính bằng số lượng người học tốt nghiệp đúng hạn và trước hạn trên tổng số người học của khóa VJU2021 và QHJ2023. Tỉ lệ tốt nghiệp nhỏ hơn tỉ lệ tốt nghiệp đúng hạn do số học viên cao học của khóa QHJ2022 và QHJ2021 còn cao.*
 
 **2. Quy mô đào tạo, tuyển mới và tốt nghiệp năm 2025**
 
@@ -408,7 +409,7 @@ Các mốc chính trong lịch sử hình thành và phát triển trường Đ�
 | 1 | Tỉ trọng thu khoa học-công nghệ trong ngân sách nhà nước trên tổng thu khoa học công nghệ | 89% | 75% |
 | 2 | Số công bố khoa học/giảng viên | 1,94 | |
 | 3 | Số công bố WoS, Scopus/ giảng viên | 1,57 | |
-*\* Ghi chú: Do các giảng viên toàn thời gian được các trường đối tác Nhật Bản phái cử chủ yếu tham gia vào hoạt động giảng dạy nên tỷ lệ các công bố khoa học được tính trên tổng số giảng viên toàn thời gian do VJU trả lương là 35 giảng viên.*
+*Ghi chú: Do các giảng viên toàn thời gian được các trường đối tác Nhật Bản phái cử chủ yếu tham gia vào hoạt động giảng dạy nên tỷ lệ các công bố khoa học được tính trên tổng số giảng viên toàn thời gian do VJU trả lương là 35 giảng viên.*
 
 **2. Các đề tài nghiên cứu khoa học thực hiện trong năm**
 
