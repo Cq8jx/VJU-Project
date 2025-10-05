@@ -55,12 +55,12 @@ Director of Vietnam National University, Hanoi)*
         the National Defense and Security Education Center;
     d)  Physical education courses are taught by the Center for Physical
         Education and Sports;
-    d) Basic computer science courses are
+    đ) Basic computer science courses are
         taught by the University of Technology and the University of
         Natural Sciences;
     e)  The training unit determines the content and organization of
         teaching for supplementary skills courses;
-    f)  The remaining courses are taught by the course management unit.
+    g)  The remaining courses are taught by the course management unit.
 
 ### Article 3. Principles of ensuring educational quality and effectiveness
 
@@ -114,12 +114,12 @@ Director of Vietnam National University, Hanoi)*
         needs.
     d)  Prerequisites of a course: students must accumulate before
         studying that course.
-    d) Thesis and graduation project have a
+    đ) Thesis and graduation project have a
         knowledge volume of 5 to 10 credits as specifically specified in
         the training program;
     e)  Internship and practical training (if any) is a compulsory
         subject.
-    f)  Conditional courses are foreign language, physical education,
+    g)  Conditional courses are foreign language, physical education,
         national defense and security education and supplementary skills
         courses. The assessment results of conditional courses are not
         included in the semester average, course average and cumulative
@@ -136,11 +136,11 @@ Director of Vietnam National University, Hanoi)*
         hours, prerequisite courses);
     d)  Objectives, output standards, content, and teaching methods of
         the course;
-    d) Information on organization and teaching
+    đ) Information on organization and teaching
         schedule;
     e)  Learning materials;
-    f)  Regulations on assessment and evaluation;
-    g)  Other information (if any) as prescribed by the training unit
+    g)  Regulations on assessment and evaluation;
+    h)  Other information (if any) as prescribed by the training unit
         managing the course or by Hanoi National University.
 4.  Question bank of the course
     a)  Each course has a question bank compiled by the course
@@ -164,14 +164,14 @@ Director of Vietnam National University, Hanoi)*
     b)  High quality training program;
     c)  International standard training program;
     d)  Talent training program;
-    d) Major and minor training program;
+    đ) Major and minor training program;
     e)  Dual major training program;
-    f)  International joint training program with degrees awarded by
+    g)  International joint training program with degrees awarded by
         Hanoi National University;
-    g)  International joint training program jointly awarded degrees by
+    h)  International joint training program jointly awarded degrees by
         Hanoi National University and a foreign university with legal
         status (foreign partner);
-    h)  International joint training program with foreign partners
+    i)  International joint training program with foreign partners
         granting degrees.
 
 ### Article 7. Training forms
@@ -285,7 +285,7 @@ Promoting the effectiveness of international cooperation.
     b)  Standards for professional skills and complementary skills;
     c)  Attitude standards;
     d)  Jobs students can take on;
-    d) Ability to study and improve
+    đ) Ability to study and improve
         qualifications after graduation.
 3.  The output standards for foreign language proficiency are as
     follows:
@@ -338,7 +338,7 @@ Promoting the effectiveness of international cooperation.
         basis of improvement, adding a number of courses with higher
         level requirements and broader, deeper content, with reference
         to prestigious foreign training programs.
-    d) Training program
+    đ) Training program
         for the main major - minor major In addition to the training
         program content designed for the first major with a minimum
         knowledge volume of 120 credits, it is possible to add courses
@@ -360,17 +360,17 @@ Promoting the effectiveness of international cooperation.
         training is carried out in conjunction between faculties in the
         same training unit and between training units in Hanoi National
         University.
-    f)  The international joint training program with degrees granted by
+    g)  The international joint training program with degrees granted by
         Hanoi National University is designed according to the
         regulations of Hanoi National University and refers to the
         training program of foreign partners to adjust and supplement to
         meet the requirements and practical conditions of Vietnam.
-    g)  The international joint training program jointly awarded by
+    h)  The international joint training program jointly awarded by
         Hanoi National University and foreign partners is designed based
         on the regulations on training program design of Hanoi National
         University and the content of the cooperation agreement signed
         between the two parties.
-    h)  This regulation does not regulate the design of international
+    i)  This regulation does not regulate the design of international
         joint training programs with degrees awarded by foreign
         partners.
 
@@ -420,7 +420,7 @@ week of exams, held between two main semesters.
     d)  The maximum time to complete a course includes the course design
         time plus 4 main semesters for courses from 4 to under 5 years;
         6 main semesters for courses from 5 to 6 years.
-    d) The time to
+    đ) The time to
         study two training programs simultaneously shall not exceed the
         maximum training time of the first training program.
 2.  Training year After each semester, based on the number of
@@ -470,7 +470,7 @@ week of exams, held between two main semesters.
     c)  Output standards of training programs;
     d)  Conditions for ensuring quality (lecturing staff, facilities,
         laboratories, libraries and learning materials systems);
-    d)  Information on tuition fees and scholarships;
+    đ)  Information on tuition fees and scholarships;
     e)  Training regulations and rules related to student learning,
         training and living.
 4.  At the beginning of the school year, the training unit informs
@@ -828,7 +828,7 @@ is 50 minutes. Break time between two classes is 10 minutes.
     c)  Meet the requirements of the training unit\'s competency
         assessment test;
     d)  Be healthy enough to study;
-    e)  Not subject to forced expulsion from school, not under criminal
+    đ)  Not subject to forced expulsion from school, not under criminal
         prosecution; In special cases, the Director of Hanoi National
         University will decide.
 3.  Foreign students or Vietnamese students studying at a university
@@ -874,15 +874,15 @@ The organization and management of scientific research activities of
 students are decentralized as follows: 1. Training unit a) Develop a
 plan for scientific research activities of students in the unit\'s
 academic year tasks.
-    b) Implement scientific research of students in
+    c) Implement scientific research of students in
 association with scientific research topics, projects and other
 scientific activities of the unit. Create conditions for students to
 participate in research, become members of research groups and
 participate in scientific and technological activities.
-    c) Organize
+    d) Organize
 student scientific conferences, evaluate, classify and reward students\'
 research works.
-    d) Establish student scientific clubs, organize
+    đ) Establish student scientific clubs, organize
 scientific thematic activities.
     e) Head of the training unit specifies
 the standard number of hours for lecturers to guide students in
@@ -1195,7 +1195,7 @@ examination hours;
 unauthorized materials during the examination;
     d) Not making a record of
 students who have been discovered to have violated the regulations;
-    e)  Losing the examination;
+    đ)  Losing the examination;
     e) Marking or adding scores to the examination
 with many errors. 3. Disciplinary action or forced dismissal shall be
 applied to those who commit one of the following violations:
@@ -1208,11 +1208,11 @@ exam during the exam;
     d) Cheating during
 exam marking; giving incorrect scores, intentionally increasing or
 decreasing exam scores compared to the answers;
-    e) Correcting or adding
+    đ) Correcting or adding
 to student work to increase or decrease scores;
     e) Correcting or
 distorting scores on exam papers, exam marking records or grade books;
-    f) Swapping student exams or exam scores.
+    g) Swapping student exams or exam scores.
 
 ### Article 38. How to calculate component assessment scores and course scores
 
@@ -1387,7 +1387,7 @@ Clause 3, Article 33 of these Regulations.
     b)  Excellent: Semester GPA from 3.20 to 3.59
     c)  Good: Semester GPA from 2.50 to 3.19
     d)  Average: Semester GPA from 2.00 to 2.49
-    e)  Weak: The average semester score is below 2.00 but not yet in
+    đ)  Weak: The average semester score is below 2.00 but not yet in
         the case of forced expulsion.
 
 ## Chapter VIII: GRADUATION RECOGNITION
@@ -1403,15 +1403,15 @@ Clause 3, Article 33 of these Regulations.
     d)  The cumulative average score of the course is 2.00 or higher.
         For the talent training program, high quality and international
         standards, it is 2.50 or higher;
-    d) Achieve the foreign language
+    đ) Achieve the foreign language
         proficiency specified in Clause 3, Article 12 of this
         Regulation;
     e)  Meet the learning outcome requirements for a number of
         specialized courses that Hanoi National University and the
         training unit have specified in writing;
-    f)  Assessed to pass the subjects of national defense - security
+    g)  Assessed to pass the subjects of national defense - security
         education, physical education and supplementary skills;
-    g)  There is an application sent to the Training Department
+    h)  There is an application sent to the Training Department
         requesting to be considered for graduation in case of meeting
         the conditions to graduate early or late compared to the
         designed time of the course.

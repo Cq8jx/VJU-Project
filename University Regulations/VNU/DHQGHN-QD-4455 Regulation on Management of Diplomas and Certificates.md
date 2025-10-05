@@ -107,7 +107,7 @@ Hanoi)*
         about the learner and the learning results granted by the
         training unit to the learner along with the graduation diploma
         at the corresponding training level at VNU;
-    d) The certificate
+    đ) The certificate
         issued by VNU or by the training unit according to its functions
         and tasks is a document recognizing the learning results of the
         learner meeting the output standards of a training and fostering
@@ -162,7 +162,7 @@ Hanoi)*
         Regulations;
     d)  All fraudulent acts in the issuance and use of diplomas,
         certificates and certifications are strictly prohibited;
-    d)  Ensure publicity and transparency in the issuance of diplomas,
+    đ)  Ensure publicity and transparency in the issuance of diplomas,
         certificates and certifications.
 2.  Decentralization, delegation of authority to manage the issuance of
     diplomas, certificates, and certifications
@@ -205,7 +205,7 @@ Hanoi)*
         unit shall make decisions and grant certificates and
         certifications to learners who have completed training and
         fostering programs organized by the unit;
-    d) Certifications
+    đ) Certifications
         granted to those who take the competency assessment test
         organized by the VNU Testing Center shall be implemented
         according to the Regulations on competency assessment tests for
@@ -314,12 +314,12 @@ Hanoi)*
     d)  Verify the authenticity of diplomas, certificates and
         certifications upon legitimate requests from relevant agencies,
         organizations and individuals;
-    d) Edit the content recorded on
+    đ) Edit the content recorded on
         diplomas, certificates and certifications according to the
         provisions of Chapter IV of these Regulations;
     e)  Revoke and cancel diplomas, certificates and certifications
         according to Article 18 of these Regulations;
-    f)  Ensure facilities and fire prevention equipment to preserve and
+    g)  Ensure facilities and fire prevention equipment to preserve and
         store diplomas, certificates, certifications and related
         records.
 
@@ -435,7 +435,7 @@ Hanoi)*
         certificate; for degree holders who do not have Vietnamese
         nationality, record their nationality (in accordance with the
         admission records);
-    d) Section "Hanoi, date...month...year...":
+    đ) Section "Hanoi, date...month...year...":
         Record the date, month, year the President of VNU signs the
         degree;
     e)  "Director" section: Leave a blank space for signature and write
@@ -445,12 +445,12 @@ Hanoi)*
         academic title, degree, and full name of the Rector/Rector/Dean
         of the Faculty before submitting the diploma to the Director of
         VNU for signature;
-    f)  Section \"Decision on recognition of academic degrees and
+    g)  Section \"Decision on recognition of academic degrees and
         granting of diplomas\": Record the decision number and date,
         month, year of signing the decision on recognition of academic
         degrees by VNU or by the training unit under the authority to
         grant the diploma;
-    g)  "Book number" section: Record the number in the original diploma
+    h)  "Book number" section: Record the number in the original diploma
         book established by the training unit, fill in the information,
         preserve and store permanently at the unit (according to the
         form in Appendix XIV of this Regulation).
@@ -480,7 +480,7 @@ Hanoi)*
         without accents, capitalize the first letters of the last name,
         middle name (if any), and first name; appropriate font size,
         ensuring balance with the letters in the certificate;
-    d) Section
+    đ) Section
         "Born on: ... At...": Write the date, month, year of birth and
         place of birth (administrative unit at the provincial or
         centrally-run city level at the time of granting the
@@ -491,7 +491,7 @@ Hanoi)*
         nationality (in accordance with the admission profile);
     e)  Section "Hanoi, date...month...year...": Record the date, month,
         year the Director of VNU or the Rector signs the diploma;
-    f)  The \"Director\" or \"Principal\" section must be left blank for
+    g)  The \"Director\" or \"Principal\" section must be left blank for
         signature and the academic title, degree, and full name of the
         Director of VNU or the Principals of training units with the
         authority to grant the degree; for master\'s degrees signed by
@@ -501,12 +501,12 @@ Hanoi)*
         for the Principal/Head of Department or Institute to sign,
         clearly stating the academic title, degree, and full name before
         submitting the diploma to the Director of VNU for signature;
-    g)  Section \"Decision on recognition of academic degrees and
+    h)  Section \"Decision on recognition of academic degrees and
         granting of diplomas\": Record the decision number and date,
         month, year of signing the decision on recognition of graduation
         by VNU or by the training unit with the authority to grant the
         diploma;
-    h)  Section "Book number": Record the number in the original diploma
+    i)  Section "Book number": Record the number in the original diploma
         book established by the training unit, fill in the information,
         preserve and store permanently at the unit (according to the
         form in Appendix XIII of this Regulation).
@@ -534,7 +534,7 @@ Hanoi)*
     - Credit
     - Average (English: Pass) d) \"At\" section: Write the name of the
       training unit (according to Appendix I);
-    e)  "Given" section: Write the last name, middle name (if any),
+    đ)  "Given" section: Write the last name, middle name (if any),
         first name, and gender of the person receiving the certificate
         (gender is placed before the last name and Mr./Ms. is written);
         the full name of the person receiving the certificate is written
@@ -545,7 +545,7 @@ Hanoi)*
         accents, capitalize the first letters of the last name, middle
         name (if any), and first name; appropriate font size, ensuring
         balance with the letters in the certificate template;
-    f)  Section "Date of birth:...At...": Record the date, month, year
+    e)  Section "Date of birth:...At...": Record the date, month, year
         of birth and place of birth (provincial or centrally-run city
         administrative unit at the time of granting the certificate) of
         the certificate holder; for Vietnamese people born abroad,
@@ -569,7 +569,7 @@ Hanoi)*
         the decision number and date, month, year of signing the
         graduation recognition decision of VNU or of the training unit
         according to the authority to grant the degree;
-    j)  "Book number" section: Record the number in the original diploma
+    k)  "Book number" section: Record the number in the original diploma
         book established by the training unit, fill in the information,
         preserve and store permanently at the unit (according to the
         form in Appendix XII of this Regulation).
@@ -693,7 +693,7 @@ Hanoi)*
     d)  Ensure facilities, equipment, safety, fire and explosion
         prevention in preserving issued blank certificates and printed
         blank certificates;
-    d) Approve blank samples and regulate the
+    đ) Approve blank samples and regulate the
         establishment of numbers, symbols, and anti-counterfeit stamps
         for the unit\'s blank certificates; organize inspection of
         printing, management, preservation, issuance and use of blank
@@ -958,9 +958,9 @@ Hanoi)*
         management of diplomas, certificates and certifications of VNU;
     c)  Granted to ineligible persons;
     d)  Issued by an unauthorized person;
-    d) Erased or altered;
+    đ) Erased or altered;
     e)  To let others use diplomas, certificates, certifications;
-    f)  Due to the fault of the competent authority issuing the diploma,
+    g)  Due to the fault of the competent authority issuing the diploma,
         certificate, or certification.
 2.  The head of the authority competent to issue diplomas, certificates,
     and certifications shall consider and decide to cancel the
@@ -1186,7 +1186,7 @@ of Education and Training (if any).
         certificate, certification (if any);
     c)  Edited content;
     d)  Reason for revision;
-    d) Validity and responsibility for
+    đ) Validity and responsibility for
         implementing the decision.
 2.  The amendment of the content of diplomas, certificates and
     certifications is applied to diplomas, certificates and
@@ -1301,7 +1301,7 @@ law.
     d)  Arrange for qualified and competent staff to take charge of
         managing and issuing diploma blanks in accordance with
         regulations;
-    d) Carry out the work of preserving diploma blanks
+    đ) Carry out the work of preserving diploma blanks
         and inspecting the management of diplomas, certificates, and
         certifications at the training unit (coordinating with relevant
         functional departments if necessary);
@@ -2192,7 +2192,7 @@ issuance of diplomas, updating diploma issuance information on the
 unit\'s electronic information portal, establishing the original diploma
 issuance book and archiving, computerizing diploma issuance management
 data and other related information.
-    b) Number of diplomas issued to
+    đ) Number of diplomas issued to
 learners from date ........................
 
   ------------------------------------------------------------------------------------
@@ -2213,7 +2213,7 @@ learners from date ........................
            **Total**
   ------------------------------------------------------------------------------------
 
-c)  Number of diplomas (received and managed) granted by foreign
+e)  Number of diplomas (received and managed) granted by foreign
     partners to learners of joint training programs at the unit from
     date ...........(if any)
 
@@ -2270,7 +2270,7 @@ certification issuance on the unit\'s electronic information portal;
 establishment of original certificate issuance books and computerization
 of data on management of certificate issuance and certification
 issuance, etc.
-    b) Organization of examinations for granting
+    g) Organization of examinations for granting
 certificates, foreign language certificates, Vietnamese language
 certificates, IT application certificates, inspector qualifications,
 pedagogical qualifications, professional title standards (according to
@@ -2291,7 +2291,7 @@ activities in the following year.
          **Total**
   --------------------------------------------------------------------------------------------------------
 
-c)  Issuance of other certificates and certifications of the unit:
+h)  Issuance of other certificates and certifications of the unit:
 
   ------------------------------------------------------------------------------------
   TT       Type of         Number of      Number of        Number of issued Note

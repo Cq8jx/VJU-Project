@@ -678,7 +678,7 @@ institution.
         confirmation of completion of thesis editing and supplementation
         by the supervisor and Chairman of the Thesis Evaluation Council
         (if any);
-    d) Other documents as prescribed by the training
+    đ) Other documents as prescribed by the training
         institution.
 5.  The training institution shall grant doctoral degrees to graduate
     students within 30 working days from the effective date of the
@@ -767,7 +767,7 @@ institution.
     d)  The thesis appraisal council shall only meet when at least 06
         members are present, including the chairman, secretary and
         council members who disagree with the thesis;
-    d) The thesis does
+    đ) The thesis does
         not meet the appraisal requirements when 02 or more members of
         the thesis appraisal council present do not approve. In this
         case, the training institution shall organize and chair a
@@ -836,7 +836,7 @@ institution.
         develop sanctions and strictly handle violations; ensure the
         integrity of the content of doctoral theses evaluated at
         training institutions;
-    d) Develop policies to promote gender
+    đ) Develop policies to promote gender
         equality in doctoral training to contribute to the
         implementation of the goals of the national strategy on gender
         equality in the field of education and training;
@@ -844,12 +844,12 @@ institution.
         implementation of training institution regulations on
         enrollment, training organization and granting of doctoral
         degrees.
-    f)  Organize dissemination and guidance for graduate students before
+    g)  Organize dissemination and guidance for graduate students before
         starting the course on the regulations of the training
         institution and other regulations related to the learning and
         research process; regulations on the rights and responsibilities
         of graduate students;
-    g)  Organize internal inspection and supervision of the
+    h)  Organize internal inspection and supervision of the
         implementation of plans, programs, and regulations of training
         institutions and other tasks related to enrollment, training,
         and awarding of doctoral degrees, subject to inspection,
