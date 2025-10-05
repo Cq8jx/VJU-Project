@@ -1,19 +1,19 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.
 
-**Vietnam National University, Hanoi** **SOCIALIST REPUBLIC OF VIETNAM**
-**Independence - Freedom - Happiness**
+**VIETNAM NATIONAL UNIVERSITY, HANOI**
+**SOCIALIST REPUBLIC OF VIET NAM**
+**Independence – Freedom – Happiness**
 
-*Hanoi, October 21, 2022*
+*Hanoi, 21 October 2022*
 
-**Number: 3626/QD-VNU**
+**No.: 3626/QĐ-ĐHQGHN**
 
 # DECISION
 
-**On promulgating the Regulations on University Training at Hanoi
-National University**
+**On promulgating the Regulations on Undergraduate Training at Vietnam National University, Hanoi**
 
-**DIRECTOR OF HANOI NATIONAL UNIVERSITY**
+**DIRECTOR OF VIETNAM NATIONAL UNIVERSITY, HANOI**
 
 Pursuant to the Law on Education dated June 14, 2019; Pursuant to the
 Law on Higher Education dated June 18, 2012; Law on amending and
@@ -32,23 +32,26 @@ University; At the request of the Head of the Training Department.
 
 **DECISION:**
 
-**Article 1.** To promulgate with this Decision the Regulations on
-undergraduate training at Vietnam National University, Hanoi.
+**Article 1.** To promulgate with this Decision the Regulations on undergraduate training at Vietnam National University, Hanoi.
 
 **Article 2.** This Decision takes effect from the date of signing and
 replaces the University Training Regulations issued under Decision No.
 5115/QD-VNU dated December 25, 2014 of the Director of Vietnam National
 University, Hanoi.
 
-**Article 3.** Chief of Office, Head of functional departments, Heads of
-units under Hanoi National University and relevant organizations and
-individuals are responsible for implementing this Decision./.
+**Article 3.** The Chief of Office, heads of functional departments, heads of units under Vietnam National University, Hanoi, and relevant organisations and individuals are responsible for implementing this Decision./.
 
-**Recipients:** - As Article 3; - Ministry of Education and Training
-(for report); - Director (for report); - Department of Information and
-Communications (post on website); - File: VT, BĐT, Th50.
+**Recipients:**
+- As stated in Article 3;
+- Ministry of Education and Training (for reporting);
+- Director (for reporting);
+- Department of Information and Communications (to post on the website);
+- File: VT, BĐT, Th50.
 
-**KT. DIRECTOR** **VICE PRESIDENT** *(signed)* **Nguyễn Hoàng Hải**
+**For the Director**
+**Vice Director**
+*(signed)*
+**Nguyễn Hoàng Hải**
 
 ------------------------------------------------------------------------
 
@@ -109,19 +112,19 @@ Director of Vietnam National University, Hanoi)*
     c)  Law courses taught by the University of Law;
     d)  National Defense and Security Education courses are taught by
         the National Defense and Security Education Center;
-    d) Physical
-        Education courses are taught by the Physical Education and
-        Sports Center;
-    e)  Basic computer science courses are taught by the University of
+    e)  Physical Education courses are taught by the Physical Education
+        and Sports Center;
+    f)  Basic computer science courses are taught by the University of
         Technology and the University of Natural Sciences, except for
         units with training majors in computer science/information
         technology;
-    f)  The training unit develops the program and organizes teaching,
-        or the Center for Human Resources Forecasting and Development
-        takes the lead in developing the program, submits it to Hanoi
-        National University for consideration, approval, promulgation,
-        and assigns the task of organizing and implementing it;
-    g)  The remaining courses are taught by the course management unit.
+    g)  Supplementary skills courses are developed and organised by the
+        training unit, or the Center for Human Resources Forecasting and
+        Development acts as the focal point to develop the programme,
+        submit it to Vietnam National University, Hanoi for review,
+        approval, and promulgation, and assign implementation;
+    h)  The remaining courses are taught by the unit managing the
+        course.
 
 ### Article 3. Principles of ensuring educational quality and effectiveness
 
@@ -177,24 +180,25 @@ Director of Vietnam National University, Hanoi)*
         the instructions of the training unit;
     c)  Free elective courses: students choose according to personal
         needs in accordance with learning requirements;
-    d)  Prerequisites of a course: students must accumulate before
+    d)  Prerequisites of a course: students must complete them before
         studying that course;
-    d) Thesis and graduation project are
-        compulsory courses, with a duration of 5 to 10 credits as
-        specifically specified in the training program;
-    e)  Internship and practical training (if any) is a compulsory
-        subject;
-    f)  Conditional courses are physical education, national defense and
-        security education and supplementary skills courses. The
-        assessment results of conditional courses are not included in
-        the semester average, course average and cumulative average, but
-        are a condition for graduation consideration;
-    g)  Foreign language courses in the training program are compulsory
-        courses that students must accumulate in the training program.
-3.  Course outline Course outline is compiled by lecturers based on the
-    output standards of the course and approved by the head of the unit
-    managing the course to provide to learners before teaching. Course
-    outline includes the following main contents:
+    e)  Theses and graduation projects are compulsory courses with a
+        duration of 5 to 10 credits as specified in the training
+        programme;
+    f)  Internship and practical training (if any) is a compulsory
+        course;
+    g)  Conditional courses include physical education, national
+        defense and security education, and supplementary skills
+        courses. The assessment results of conditional courses are not
+        included in the semester average, course average, or cumulative
+        average but are required for graduation consideration;
+    h)  Foreign language courses in the training programme are
+        compulsory courses that students must complete.
+3.  Course outline
+    Course outlines are compiled by lecturers based on the course
+    learning outcomes and approved by the head of the unit managing the
+    course to provide to learners before teaching. A course outline
+    includes the following main contents:
     a)  Information about the training unit (name of school, faculty,
         department);
     b)  Information about the lecturer;
@@ -204,12 +208,11 @@ Director of Vietnam National University, Hanoi)*
         instruction);
     d)  Objectives, output standards, content, and teaching methods of
         the course;
-    d) Information on organization and teaching
-        schedule;
-    e)  Learning materials;
-    f)  Regulations on assessment and evaluation;
-    g)  Other information (if any) as prescribed by the training unit
-        managing the course or by Hanoi National University.
+    e)  Information on the organisation and teaching schedule;
+    f)  Learning materials;
+    g)  Regulations on assessment and evaluation;
+    h)  Other information (if any) as prescribed by the training unit
+        managing the course or by Vietnam National University, Hanoi.
 4.  Question bank of the course
     a)  Each course has a question bank compiled by the course
         management unit, reviewed by the Faculty Science and Training
@@ -231,23 +234,23 @@ Director of Vietnam National University, Hanoi)*
     a)  Standard training program;
     b)  High quality training program;
     c)  Talent training program;
-    d)  Major and minor training programs;
-    d) Dual major training
-        programs;
-    e)  Training program in association with foreign educational
-        institutions with degrees awarded by Hanoi National University;
-    f)  Joint training program with foreign educational institutions in
-        which Hanoi National University and foreign educational
-        institutions (foreign partners) jointly award degrees;
-    g)  Training programs in conjunction with foreign educational
-        institutions with degrees awarded by foreign partners.
+    d)  Major–minor training programs;
+    e)  Dual-major training programs;
+    f)  Training programs in association with foreign educational
+        institutions with degrees awarded by Vietnam National
+        University, Hanoi;
+    g)  Joint training programs with foreign educational institutions in
+        which Vietnam National University, Hanoi and foreign partners
+        jointly award degrees;
+    h)  Training programs in association with foreign educational
+        institutions with degrees awarded by the foreign partner.
 
 ### Article 7. Training forms
 
 1.  Formal training is organized in a centralized and continuous manner
     throughout the entire course and applies to the training programs
-    specified in points a, b, c, d, dd, e, g, Clause 2, Article 6 of
-    this Regulation. Teaching activities are carried out at the training
+    specified in points a, b, c, d, e, f, g, Clause 2, Article 6 of this
+    Regulation. Teaching activities are carried out at the training
     unit, except for practice, internship, real-life experience and
     online teaching activities that can be carried out outside the
     training unit.
