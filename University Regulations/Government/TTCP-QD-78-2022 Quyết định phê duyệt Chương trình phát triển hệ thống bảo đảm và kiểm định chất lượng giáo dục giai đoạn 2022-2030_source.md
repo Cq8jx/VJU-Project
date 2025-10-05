@@ -54,13 +54,13 @@ g) 90% công chức và 70% viên chức, người lao động trong cơ quan qu
 
 **3. Mục tiêu cụ thể giai đoạn 2026 - 2030:**
 Phát triển hệ thống bảo đảm chất lượng bên trong cơ sở giáo dục đại học và cao đẳng sư phạm; phát triển bền vững hệ thống kiểm định chất lượng giáo dục đại học và cao đẳng sư phạm:
-a) 100% cơ sở đào tạo phát triển hệ thống đảm chất lượng bên trong để thực thi hiệu quả mục tiêu chiến lược và văn hóa chất lượng của cơ sở đào tạo;
+a) 100% cơ sở đào tạo phát triển hệ thống bảo đảm chất lượng bên trong để thực thi hiệu quả mục tiêu chiến lược và văn hóa chất lượng của cơ sở đào tạo;
 b) 100% cơ sở đào tạo đạt tiêu chuẩn chất lượng theo các chu kỳ kiểm định phù hợp (chu kỳ kiểm định lần thứ nhất với cơ sở đào tạo mới có một khóa người học tốt nghiệp hoặc các chu kỳ kiểm định tiếp theo với cơ sở đào tạo đã đạt kiểm định chất lượng giai đoạn trước năm 2025);
 c) 80% số chương trình đào tạo đạt tiêu chuẩn chất lượng chu kỳ kiểm định lần thứ nhất hoặc lần thứ hai; trong đó có ít nhất 20% số chương trình đào tạo đạt tiêu chuẩn chất lượng kiểm định quốc tế, 100% số chương trình đào tạo giáo viên các trình độ đạt tiêu chuẩn chất lượng;
 d) 100% các tổ chức kiểm định chất lượng giáo dục trong nước tự đánh giá theo khung tiêu chuẩn đánh giá của khu vực ASEAN, trong đó 20% đạt theo tiêu chuẩn đánh giá của tổ chức bảo đảm chất lượng quốc tế;
 đ) 100% tổ chức kiểm định chất lượng giáo dục trong nước tham gia các tổ chức bảo đảm chất lượng quốc tế hoặc có thỏa thuận hợp tác quốc tế trong việc công nhận kết quả kiểm định lẫn nhau;
 e) Có ít nhất 1500 người được cấp thẻ kiểm định viên; 100% kiểm định viên được bồi dưỡng định kỳ, chuyên sâu về công tác bảo đảm và kiểm định chất lượng giáo dục. 7% kiểm định viên có chứng nhận và tham gia hoạt động kiểm định quốc tế;
-g) 100% công chức, viên chức, người lao động làm việc ở các vị trí trong cơ quan quản lý nhà nước và cơ sở đào tạo về bảo đảm và kiểm định chất lượng giáo dục được bồi dưỡng chuyên sâu về nghiệp vụ đáp ứng yêu tham mưu xây dựng và thực thi chính sách, quy định về bảo đảm và kiểm định chất lượng giáo dục, trong đó có 35% được tập huấn, đào tạo bởi chuyên gia quốc tế và khu vực.
+g) 100% công chức, viên chức, người lao động làm việc ở các vị trí trong cơ quan quản lý nhà nước và cơ sở đào tạo về bảo đảm và kiểm định chất lượng giáo dục được bồi dưỡng chuyên sâu về nghiệp vụ đáp ứng yêu cầu tham mưu xây dựng và thực thi chính sách, quy định về bảo đảm và kiểm định chất lượng giáo dục, trong đó có 35% được tập huấn, đào tạo bởi chuyên gia quốc tế và khu vực.
 
 **II. NHIỆM VỤ, GIẢI PHÁP**
 
