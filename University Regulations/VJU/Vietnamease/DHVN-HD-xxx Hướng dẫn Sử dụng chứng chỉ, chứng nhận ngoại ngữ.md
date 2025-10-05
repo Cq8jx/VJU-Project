@@ -60,7 +60,7 @@ Trước khi tốt nghiệp, sinh viên cần nộp chứng chỉ, chứng nhậ
 | 1 | Tiếng Anh Bậc 3 | 9.0 | Tiếng Anh B1 | FLF1107 |
 | 2 | Tiếng Anh Bậc 4 | 10.0 | Tiếng Anh B1, Tiếng Anh B2 | FLF1107, FLF1108 |
 
-#### 3.2.Đối với học phần tiếng Nhật
+#### 3.2. Đối với học phần tiếng Nhật
 - Sinh viên thực hiện theo Hướng dẫn số 856/ĐHVN-ĐT ngày 04/08/2025 về Tổ chức giảng dạy học phần ngoại ngữ trong các CTĐT trình độ đại học đối với các học phần Tiếng Nhật B1, tiếng Nhật B2 thuộc Khối kiến thức chung (M1).
 - Danh sách các chứng chỉ, chứng nhận công nhận tại Đại học Quốc gia Hà Nội tại Phụ lục 1 của Hướng dẫn này.
 
@@ -69,6 +69,7 @@ Trước khi tốt nghiệp, sinh viên cần nộp chứng chỉ, chứng nhậ
 - Chứng nhận, chứng chỉ ngoại ngữ thi dưới hình thức trực tuyến không được công nhận tại Trường Đại học Việt Nhật.
 - Trường Đại học Việt Nhật khuyến khích sinh viên nộp chứng chỉ, chứng nhận sớm để kịp tiến độ thẩm định chứng chỉ, chứng nhận trước thời điểm xét tốt nghiệp.
 - Mọi thắc mắc về việc nộp chứng chỉ, chứng nhận, sinh viên liên hệ trực tiếp với Phòng Đào tạo và Công tác sinh viên (email: phongdaotao@st.vju.ac.vn).
+
 Trân trọng thông báo./.
 
 ### 4. Tổ chức thực hiện

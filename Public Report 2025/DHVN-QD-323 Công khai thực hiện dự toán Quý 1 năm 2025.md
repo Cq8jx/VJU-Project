@@ -2,8 +2,6 @@ Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/dam-bao-cha
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 ---
 
----
-
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**
 **TRƯỜNG ĐẠI HỌC VIỆT NHẬT**
 
