@@ -1601,7 +1601,7 @@ Present the assigned standards and criteria in sequence using the following stru
 4. Unclear issues (if any)
 5. Assessment of the criterion’s attainment level (*)
 
-*\* Note:*
+*Note:*
 - Evaluate Achieved/Not achieved for CTĐT evaluated according to Circulars No. 23/2011/TT-BGDĐT, No. 49/2012/TT-BGDĐT, and No. 33/2014/TT-BGDĐT.
 - Evaluate Achieved/Not achieved together with the level (from Level 1 to Level 7) for CTĐT evaluated according to Circulars No. 04/2016/TT-BGDĐT, No. 02/2020/TT-BGDĐT, and No. 39/2020/TT-BGDĐT.
 
@@ -1757,3 +1757,131 @@ This report summarizes the evaluation process, the findings, and recommendations
 Identify the strengths to be promoted within each standard.
 **2. Areas for improvement in the program**
 Identify existing issues and recommendations for improving the CTĐT’s quality.
+**3. Summary table of self-assessment and external evaluation results (see Annexes 18a and 18b)**
+
+**Part II. EVALUATION BY CRITERION**
+Based on the CTĐT self-assessment results, the review of the self-assessment dossier, and the preliminary and official surveys at the education institution, the external evaluation team assesses the CTĐT’s quality for each criterion by identifying strengths, existing issues, and proposed remedies, while also determining each criterion’s attainment level.
+
+**I. Standard 1:**
+**1. Criterion 1.1**
+1. Strengths
+2. Existing issues
+3. Areas requiring quality improvement
+4. Unresolved matters (if any)
+5. Assessment of the criterion’s attainment level (*):
+
+*Note:*
+- Evaluate Achieved/Not achieved for CTĐT whose quality is assessed in accordance with Circulars No. 23/2011/TT-BGDĐT, No. 49/2012/TT-BGDĐT, and No. 33/2014/TT-BGDĐT.
+- Evaluate Achieved/Not achieved together with the level (from Level 1 to Level 7) for CTĐT evaluated according to Circulars No. 04/2016/TT-BGDĐT, No. 02/2020/TT-BGDĐT, and No. 39/2020/TT-BGDĐT.
+
+**Overall assessment of Standard 1:**
+- Key strengths of the CTĐT: ..............................................................................................
+- Fundamental existing issues of the CTĐT: ......................................................................
+- Recommendations for the CTĐT: .....................................................................................
+**II. Standard 2:**
+*(Subsequent standards are evaluated using the structure above.)*
+
+**Part III. CONCLUSIONS AND RECOMMENDATIONS**
+**Part IV. ANNEXES**
+Annex 1. Brief introduction to the education institution, the CTĐT implementing unit, and the evaluated CTĐT
+Annex 2. Summary of CTĐT self-assessment results
+Annex 3. Decision establishing the external evaluation team
+Annex 4. External evaluation schedule
+Annex 5. The education institution’s feedback on the draft external evaluation report
+Annex 6. Correspondence from the external evaluation team to the education institution regarding the adoption or maintenance of the team’s opinions
+Other annexes (if any)
+
+**Approval of the Director**
+**Center for Education Quality Accreditation**
+*(Signature and seal)*
+
+**Head of the external evaluation team**
+*(Signature and full name)*
+
+---
+
+### **Annex 18a. Summary table of self-assessment and external evaluation results**
+**SUMMARY TABLE OF SELF-ASSESSMENT AND EXTERNAL EVALUATION RESULTS**
+*(Summary table of self-assessment and external evaluation results per Circulars No. 04/2016/TT-BGDĐT, No. 02/2020/TT-BGDĐT, No. 39/2020/TT-BGDĐT)*
+
+**Name of the training program:** ...................................................................................
+
+| Standards, criteria | Criterion evaluation (self-assessment) | Criterion evaluation (external evaluation) | Self-assessment average level | Self-assessment criteria achieved | Self-assessment achievement rate (%) | External evaluation average level | External evaluation criteria achieved | External evaluation achievement rate (%) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Standard 1** | | | 4.67 | 2 | 66.67 | 4.67 | 2 | 66.67 |
+| Criterion 1.1 | 3 | 3 | | | | | | |
+| Criterion 1.2 | 5 | 4 | | | | | | |
+| Criterion 1.3 | 6 | 5 | | | | | | |
+| **Standard 2** | | | | | | | | |
+| Criterion 2.1 | | | | | | | | |
+| ... | | | | | | | | |
+| **Standard 3** | | | | | | | | |
+| Criterion 3.1 | | | | | | | | |
+| ... | | | | | | | | |
+| **Standard n** | | | | | | | | |
+| Criterion n.1 | | | | | | | | |
+| ... | | | | | | | | |
+| **Overall evaluation of the CTĐT** | | | **4.25** | **43** | **86.00** | **4.13** | **41** | **82.00** |
+
+*Note:*
+- Record the rating for each criterion using integers.
+- The overall rating for each standard and for the CTĐT is the arithmetic mean of the criterion ratings, rounded to two decimal places.
+
+---
+
+### **Annex 18b. Summary table of self-assessment and external evaluation results**
+**SUMMARY TABLE OF SELF-ASSESSMENT AND EXTERNAL EVALUATION RESULTS**
+*(Summary table of self-assessment and external evaluation results per Circulars No. 23/2011/TT-BGDĐT, No. 49/2012/TT-BGDĐT, No. 33/2014/TT-BGDĐT)*
+
+| Standards, criteria | Criterion evaluation (self-assessment) | Criterion evaluation (external evaluation) | Self-assessment criteria achieved | Self-assessment achievement rate (%) | External evaluation criteria achieved | External evaluation achievement rate (%) |
+| :--- | :---: | :---: | :--- | :--- | :--- | :--- |
+| **Standard 1** | | | 3 | 75.00 | 2 | 50.00 |
+| Criterion 1.1 | A | A | | | | |
+| Criterion 1.2 | NA | NA | | | | |
+| Criterion 1.3 | A | NA | | | | |
+| Criterion 1.4 | A | A | | | | |
+| **Standard 2** | | | | | | |
+| Criterion 2.1 | | | | | | |
+| ... | | | | | | |
+| **Standard 3** | | | | | | |
+| Criterion 3.1 | | | | | | |
+| ... | | | | | | |
+| **Standard n** | | | | | | |
+| Criterion n.1 | | | | | | |
+| ... | | | | | | |
+| **Overall evaluation of the CTĐT** | | | **37** | **92.50** | **33** | **82.50** |
+
+---
+
+### **Annex 19. Formatting and structure of the self-assessment and external evaluation reports**
+
+**I. Formatting of the self-assessment and external evaluation reports**
+Guidance on presenting the self-assessment report and the external evaluation report
+- The self-assessment report and the external evaluation report must be concise, clear, coherent, and free of erasures. The reports should be edited to ensure consistency in presentation, wording, terminology, and to avoid spelling and grammatical errors.
+- The self-assessment report and the external evaluation report should not exceed 200 A4 pages, excluding annexes. Tables, charts, graphs, illustrations, maps, and photos may be printed on A3 paper. The reports should be bound (softcover or hardcover) for long-term use (along with the electronic file).
+- Do not overuse abbreviations in the reports. Only abbreviate words, phrases, or terms that are used more than three times in the report. Do not abbreviate overly long phrases or clauses, nor words or phrases that appear infrequently. When words, phrases, terms, or names of agencies or organizations are abbreviated, the first occurrence must be written in full with the abbreviation in parentheses. Reports containing abbreviations must include a list of abbreviations (arranged alphabetically) at the beginning of the report.
+
+**II. Structure of the self-assessment and external evaluation reports**
+**1. Structure of the self-assessment report**
+- Front cover
+- Inner cover
+- List of self-assessment council members and signatures
+- Table of contents
+- List of abbreviations (if any)
+- Part I. Overview
+- Part II. Self-assessment by standards and criteria
+- Part III. Conclusion
+- Part IV. Annexes
+
+**2. Structure of the external evaluation report**
+- Front cover
+- Inner cover
+- List of external evaluation team members and signatures
+- Table of contents
+- List of abbreviations (if any)
+- Part I. Overview
+- Part II. Evaluation by criterion
+- Part III. Conclusions and recommendations
+- Part IV. Annexes
+
+**Department of Quality Management**
