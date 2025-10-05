@@ -126,7 +126,7 @@ Hợp phần cơ sở dữ liệu đảm bảo chất lượng chương trình �
 2. Các đơn vị triển khai các hoạt động đảm bảo chất lượng theo kế hoạch.
 
 **Điều 18. Kinh phí hoạt động**
-1. Các đơn vị chủ động dự toán kinh phí thực hiện công tác đảm bảo chất lượng hàng năm từ các nguồn thu hợp pháp của đơn vị. Kinh phí hỗ trợ của ĐHQGHN được phân bổ trực tiếp cho các đơn vị theo theo chỉ tiêu kế hoạch.
+1. Các đơn vị chủ động dự toán kinh phí thực hiện công tác đảm bảo chất lượng hàng năm từ các nguồn thu hợp pháp của đơn vị. Kinh phí hỗ trợ của ĐHQGHN được phân bổ trực tiếp cho các đơn vị theo chỉ tiêu kế hoạch.
 2. Kinh phí điều phối, giám sát, đánh giá hoạt động đảm bảo chất lượng, đánh giá đồng cấp trong ĐHQGHN được ĐHQGHN cấp trực tiếp cho Viện Đảm bảo chất lượng giáo dục theo quy định.
 3. ĐHQGHN, các đơn vị trong ĐHQGHN được phép nhận viện trợ, tài trợ, quà biếu, tặng, cho và huy động các nguồn tài chính hợp pháp khác theo quy định của Nhà nước và của ĐHQGHN.
 
