@@ -305,3 +305,745 @@ No.: ..../KH......
 
 **SELF-ASSESSMENT PLAN**
 **Program ............................**
+
+**I. Purpose of the self-assessment**
+
+To ensure and enhance the quality of the CTĐT and to register for education quality accreditation (KĐCLGD).
+
+**II. Scope of the self-assessment**
+
+Evaluate the activities of the unit implementing the CTĐT in accordance with the CTĐT quality standards promulgated by the Minister of Education and Training for one KĐCLGD cycle.
+
+**III. Self-assessment tools**
+
+The self-assessment tool is the CTĐT quality standards ...... promulgated together with Circular No. ...... dated ..... by the Minister of Education and Training, and related guidance documents ......
+
+**IV. Self-assessment council**
+
+1. Composition of the self-assessment council
+
+The CTĐT self-assessment council ......................... is established under Decision No. ...../QĐ- ....... dated ... month ... year ...... of ......................... and consists of ...... members (see attached list).
+
+2. Secretariat and specialized working groups (see attached lists)
+
+3. Assignment of duties
+
+a) Secretariat group:
+
+b) Working groups/individuals (may include members of the self-assessment council, administrators, lecturers, staff, ...)
+
+| No. | Standard | Responsible working group/individual | Period for collecting information and evidence | Notes |
+| :- | :--- | :--- | :--- | :--- |
+| 1 | | | | |
+| 2 | | | | |
+| ... | | | | |
+
+**V. Training on self-assessment procedures (if any)**
+
+1. Time: ............................................................................
+
+2. Participants: .......................................................................
+
+3. Training contents/program, etc.: .................................
+
+**VI. Anticipated resources (human, financial, etc.) and timing for mobilization/provision**
+
+| No. | Standard | Activities | Resources to be mobilized/provided | Time to mobilize | Notes |
+| :- | :--- | :--- | :--- | :--- | :--- |
+| 1 | | | | | |
+| 2 | | | | | |
+| ... | | | | | |
+
+**VII. Planned collection of information from outside the education institution and the CTĐT implementing unit (if any)**
+
+Identify the information to be collected externally, the sources, the timeframe, and the required budget.
+
+**VIII. Planned engagement of consultants to support the council in implementing the self-assessment (if any)**
+
+Identify the areas requiring consultants, the purpose of hiring, the consultants’ roles, number of consultants, duration, and fees.
+
+**IX. Compiling the evidence code list**
+
+After the working groups/individuals define the connotations of the criteria and collect evidence for each criterion, the collected evidence is categorized and coded. The self-assessment council discusses the evidence collected for each criterion and prepares the evidence code list.
+
+The evidence code list is presented in landscape A4 format (it may be a separate document and placed in the annexes of the self-assessment report).
+
+**X. Timeline and activities**
+
+Each education institution determines an appropriate schedule to complete the self-assessment activities based on its specific conditions. The following is an illustrative example of the timeline and activities for implementing the self-assessment.
+
+| Timeframe | Activities |
+| :--- | :--- |
+| **Weeks 1–2** | 1. Meet between the institution’s leadership and the CTĐT implementing unit’s leadership to discuss objectives, requirements, and schedule, and to identify members of the CTĐT self-assessment council.<br>2. The head of the education institution issues the decision to establish the CTĐT self-assessment council.<br>3. Hold a meeting of the CTĐT self-assessment council to:<br> - Announce the decision establishing the self-assessment council;<br> - Provide training on the self-assessment process and the CTĐT quality standards;<br> - Discuss the specific tasks for each council member;<br> - Draft the CTĐT self-assessment plan. |
+| **Weeks 3–4** | 1. Disseminate the plan to implement the self-assessment to all administrators, lecturers, staff, and students involved in the CTĐT.<br>2. Organize professional/technical workshops or conferences on implementing the self-assessment for key personnel.<br>3. Convene the CTĐT self-assessment council to approve:<br> - The CTĐT self-assessment plan;<br> - The draft outline of the self-assessment report (based on MOET’s guidance documents and the specific conditions of the CTĐT implementing unit);<br> - Submission to the head of the education institution for promulgation of the self-assessment plan. |
+| **Weeks 5–8** | 1. Publish the approved self-assessment plan and notify the task assignments for each council member, the secretariat, and the specialized working groups supporting the council.<br>2. Analyze the criteria and collect information and evidence.<br>3. Code the collected information and evidence.<br>4. Analyze the collected information and evidence.<br>5. Analyze and interpret the connotations of the evidence to assess their alignment with the requirements of each criterion in the CTĐT quality standards. |
+| **Weeks 9–15** | 1. Specialized working groups draft reports for each criterion (collect additional information if necessary).<br>2. Heads of the specialized groups consolidate the criterion reports into standard reports (collect additional information if necessary). |
+| **Week 16** | The CTĐT self-assessment council:<br> - Reviews the reports on each standard and criterion drafted by the specialized groups;<br> - Verifies the information and evidence used in the self-assessment report;<br> - Identifies issues arising from the collected information and evidence;<br> - Determines additional information that needs to be collected;<br> - The council secretariat compiles the standard reports into a draft CTĐT self-assessment report. |
+| **Weeks 17–18** | 1. The CTĐT self-assessment council reviews the draft self-assessment report and proposes revisions where necessary.<br>2. The council meets with departments, offices, etc., to discuss the report and gather feedback. |
+| **Weeks 19–21** | 1. Publish the self-assessment report (revised after feedback from departments and offices) within the education institution and the CTĐT implementing unit.<br>2. Departments, offices, administrators, lecturers, staff, learners, etc., provide counter-comments on the self-assessment report. |
+| **Weeks 22–23** | 1. The CTĐT self-assessment council meets to further supplement and finalize the self-assessment report in light of the feedback.<br>2. The council approves the final self-assessment report and submits it to the leadership of the CTĐT implementing unit and the head of the education institution for review.<br>3. Finalize the self-assessment report. |
+| **Week 24** | 1. The education institution sends the self-assessment report and official letter to the supervising authority and MOET.<br>2. The education institution stores the self-assessment report and preserves the evidence according to the coding used in the report. |
+
+**Recipients:**
+
+- Direct supervisory authority (for reporting);
+- Self-assessment council (for implementation);
+- Units within the education institution (for implementation);
+- Archive .................................
+
+**HEAD OF THE EDUCATION INSTITUTION**
+*(Signature, full name, and seal)*
+
+---
+
+### **Annex 3. Criterion analysis and information/evidence collection form**
+
+**CRITERION ANALYSIS FORM**
+**INFORMATION AND EVIDENCE COLLECTION FORM**
+
+**Working group or individual:** .....................................................
+**Standard:** .....................................................................................
+**Criterion:** ...........................................................................................
+
+| Requirements | Guiding questions (if any) | Information/evidence to collect | Source | Collection method | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1..... | | | | | |
+| 2..... | | | | | |
+| ...... | | | | | |
+
+---
+
+**Planned evidence by criterion**
+
+| Standard | Criterion | Evidence code | Evidence title | Issuing number/date or timing of surveys, investigations, interviews, observations, etc. | Issuing body or implementing group/individual | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 1 | Hn.ab.cd.01 | | | | Shared with criteria: ... |
+| | 2 | Hn.ab.cd.02 | | | | |
+| | ... | ... | | | | |
+| 2 | 1 | | | | | |
+| | 2 | | | | | |
+| | ... | | | | | |
+| .... | ... | | | | | |
+| | ... | | | | | |
+| | ... | | | | | |
+
+*..., date ...... month ...... year 20...*
+**HEAD OF WORKING GROUP**
+*(Signature, full name)*
+
+---
+
+### **Annex 4a. Criterion evaluation form for training programs**
+*(Pursuant to Circulars No. 04/2016/TT-BGDĐT, No. 02/2020/TT-BGDĐT, No. 39/2020/TT-BGDĐT)*
+
+**CRITERION EVALUATION FORM (SELF-ASSESSMENT)**
+*(May span 2–3 pages)*
+
+**Working group or individual:** .....................................................
+**Standard:** .....................................................................................
+**Criterion:** ...........................................................................................
+
+**1. Description of current status** (Based on the criterion’s requirements, describe the activities of the education institution implementing the CTĐT, accompanied by information and evidence to demonstrate the level of attainment.)
+
+**2. Strengths** (Analyze, compare, and explain the CTĐT’s outstanding strengths in meeting the criterion’s requirements.)
+
+**3. Existing issues** (Analyze, compare, and explain the CTĐT’s existing issues in meeting the criterion’s requirements.)
+
+**4. Action plan** (Actions needed to address existing issues and leverage strengths, together with measures to be taken.)
+
+| No. | Objective | Content | Responsible unit/person | Implementation or completion time | Notes |
+| :- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Address existing issues | ........ | ........ | ........ | ........ |
+| 2 | Promote strengths | ........ | ........ | ........ | ........ |
+
+**5. Self-assessment:** Level of attainment of the criterion
+
+Mark (x) in one of the boxes below.
+
+**Rating scale**
+
+| Not achieved | Achieved |
+| :---: | :---: |
+| **1** | **2** | **3** | **4** | **5** | **6** | **7** |
+| | | | | | | |
+
+**Confirmation by head of working group**
+
+*..., date ...... month ...... year 20...*
+**Author**
+*(Signature, full name)*
+
+---
+
+### **Article 4. Rating scale**
+
+1. The criteria of the CTĐT quality standards are evaluated on a seven-level scale.
+
+*Note:* Determine the criterion’s attainment according to the following seven-level scale:
+
+| Level | General assessment |
+| :--- | :--- |
+| **Level 1** | Does not meet the criterion’s requirements at all; immediate remedial action is required. | Not achieved |
+| **Level 2** | Does not meet the criterion’s requirements; remedial actions are required. | Not achieved |
+| **Level 3** | Does not fully meet the criterion’s requirements but can do so with minor improvements. | Not achieved |
+| **Level 4** | Meets the criterion’s requirements. | Achieved |
+| **Level 5** | Exceeds the criterion’s requirements. | Achieved |
+| **Level 6** | Meets the criterion’s requirements very well. | Achieved |
+| **Level 7** | Meets the criterion’s requirements excellently. | Achieved |
+
+---
+
+### **Annex 4b. Criterion evaluation form for training programs**
+*(Pursuant to Circulars No. 23/2011/TT-BGDĐT, No. 49/2012/TT-BGDĐT, No. 33/2014/TT-BGDĐT)*
+
+**CRITERION EVALUATION FORM¹**
+
+**Working group or individual:** .....................................................
+**Standard:** .....................................................................................
+**Criterion:** ...........................................................................................
+
+**1. Description of current status** (Based on the criterion’s requirements, describe the activities of the education institution implementing the CTĐT, accompanied by information and evidence to demonstrate the level of attainment.)
+
+**2. Strengths** (Analyze, compare, and explain the CTĐT’s outstanding strengths in meeting the criterion’s requirements.)
+
+**3. Existing issues** (Analyze, compare, and explain the CTĐT’s existing issues in meeting the criterion’s requirements.)
+
+**4. Action plan** (Actions needed to address existing issues and leverage strengths, together with measures to be taken.)
+
+| No. | Objective | Content | Responsible unit/person | Implementation or completion time | Notes |
+| :- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Address existing issues | ........ | ........ | ........ | ........ |
+| 2 | Promote strengths | ........ | ........ | ........ | ........ |
+
+**5. Self-assessment:** Achieved/Not achieved
+
+*Note:*
+
+- If not achieved, specify the percentage of the requirement met and explain why.
+- If assessment is not possible, state the reason (no evidence, criterion not applicable, or other reasons).
+
+**Confirmation by head of working group**
+
+*..., date ...... month ...... year 20...*
+**Author**
+*(Signature, full name)*
+
+¹ For self-assessment; may span approximately 2–3 pages.
+
+---
+
+### **Annex 5. CTĐT self-assessment report template**
+
+**NAME OF THE DIRECT SUPERVISORY AUTHORITY**
+**NAME OF THE EDUCATION INSTITUTION................**
+
+*(Logo of the education institution (if any))*
+
+**SELF-ASSESSMENT REPORT FOR THE PROGRAM....**
+**According to the CTĐT quality standards of the Ministry of Education and Training**
+
+*Province/City, month ...... - 20....*
+
+---
+
+#### **TABLE OF CONTENTS**
+
+| CONTENT | Page |
+| :--- | :--- |
+| Table of contents | 1 |
+| List of abbreviations (if any) | ... |
+| Summary table of self-assessment results | |
+| **Part I. Overview** | |
+| 1. Introduction | |
+| 2. General overview | |
+| **Part II. Self-assessment by standards and criteria** | |
+| Standard 1 | |
+| Introduction | |
+| Criterion 1.1 | |
+| Criterion 1.2 | |
+| ... | |
+| Conclusion on Standard 1 | |
+| Standard 2 | |
+| Introduction | |
+| Criterion 2.1 | |
+| Criterion 2.2 | |
+| ... | |
+| Conclusion on Standard 2 | |
+| ... | |
+| **Part III. Conclusion** | |
+| **Part IV. Annexes** | |
+
+---
+
+The CTĐT self-assessment report consists of Part I. Overview; Part II. Self-assessment by standards and criteria; Part III. Conclusion; and Part IV. Annexes. Details are as follows:
+
+#### **Part I. Overview**
+
+**1. Introduction**
+
+a) Summarize the CTĐT self-assessment report (structure and key contents by standard) and explain the method used to code evidence in the report.
+
+b) Briefly describe the objectives, process, methods, and tools of the CTĐT self-assessment to provide contextual information that helps readers better understand the report; describe the participation of stakeholders (faculties, departments, offices, administrators, lecturers, staff, learners, etc.) and how these groups were involved in the self-assessment.
+
+**2. General overview (approximately 10 pages)**
+
+Provide readers with the overall context and a holistic view of the education institution and the CTĐT implementing unit before presenting detailed analysis. Summarize the institution’s mission, vision, objectives, quality policies, and quality assurance activities, as well as those of the CTĐT implementing unit. This section may also mention changes since the previous self-assessment and their impact on the CTĐT implementing unit (if any).
+
+#### **Part II. Self-assessment by standards and criteria**
+
+This is the core of the CTĐT self-assessment report, detailing the education institution’s self-assessment results for the CTĐT. Each CTĐT quality standard is examined in turn, and each criterion within the standard is evaluated using the following structure:
+
+**Standard 1**
+
+**Introduction** (brief): Summarize the overall description and analysis of the standard (to avoid repeating overlapping contents among criteria within the standard).
+
+**Criterion 1.1..................**
+
+1. Description of current status
+
+Describe fully, accurately, and objectively the current activities of the education institution implementing the CTĐT in line with each criterion’s connotation. Attach evidence to every judgment, conclusion, and assessment in this section.
+
+2. Strengths
+
+Based on the description of current status, and considering the institution’s mission and objectives as well as the functions and duties of the CTĐT implementing unit, assess the quality and effectiveness of activities under each criterion. Identify the CTĐT’s outstanding strengths relative to the criterion’s requirements and explain the assessments.
+
+3. Existing issues
+
+Based on the description of current status, and considering the institution’s mission and objectives as well as the functions and duties of the CTĐT implementing unit, assess the quality and effectiveness of activities under each criterion. Identify the CTĐT’s prominent existing issues relative to the criterion’s requirements and explain the assessments.
+
+4. Action plan
+
+Propose plans to maintain strengths and solutions to address existing issues. Plans must be specific and feasible, indicating remedial measures, resources, completion timelines, and monitoring methods.
+
+5. Self-assessment
+
+a) For self-assessments conducted under the CTĐT quality standards for higher education levels promulgated together with Circulars No. 04/2016/TT-BGDĐT, No. 02/2020/TT-BGDĐT, No. 39/2020/TT-BGDĐT: indicate Achieved/Not achieved and the level (1 to 7).
+
+b) For self-assessments conducted under the CTĐT quality standards promulgated together with Circulars No. 23/2011/TT-BGDĐT, No. 49/2012/TT-BGDĐT, No. 33/2014/TT-BGDĐT: indicate Achieved/Not achieved.
+
+*(Present all criteria of Standard 1 in sequence.)*
+
+**Conclusion on Standard 1:** Summarize the notable strengths and fundamental existing issues of the standard, and provide the overall assessment of the standard (do not determine whether the standard is achieved or not achieved).
+
+*(Present the remaining standards in the same structure.)*
+
+#### **Part III. Conclusion**
+
+1. Summarize the CTĐT’s strengths and aspects to be promoted.
+
+2. Summarize the CTĐT’s existing issues and matters requiring quality improvement (synthesized by standard).
+
+3. Summarize the CTĐT quality improvement plans.
+
+4. Consolidate the CTĐT self-assessment results (see Annexes 6a and 6b).
+
+*....., date ...... month ...... year 20...*
+
+**HEAD OF THE EDUCATION INSTITUTION**
+*(Signature, full name, and seal)*
+
+#### **Part IV. Annexes**
+
+1. CTĐT quality assurance database (Annex 7): Provide general information about the CTĐT implementing unit.
+
+2. Related documents: Decisions establishing the self-assessment council and secretariat (Annex 1); the self-assessment plan (Annex 2); summary and statistical tables, etc.
+
+3. List of evidence used during the self-assessment and in preparing the self-assessment report (Annex 9).
+
+---
+
+### **Annex 6a. Summary table of CTĐT self-assessment results**
+*(Pursuant to Circulars No. 04/2016/TT-BGDĐT, No. 02/2020/TT-BGDĐT, No. 39/2020/TT-BGDĐT)*
+
+**Name of the education institution:** ..........................................................................
+**Code:** ......................................................................................................
+**Name of the program:** ..........................................................................................
+**Program code:** ...........................................................................................
+
+| Standards and criteria | **Level 1**<br>(Not achieved) | **Level 2**<br>(Not achieved) | **Level 3**<br>(Not achieved) | **Level 4**<br>(Achieved) | **Level 5**<br>(Achieved) | **Level 6**<br>(Achieved) | **Level 7**<br>(Achieved) | **Average score** | **Number of criteria achieved** | **Percentage of criteria achieved (%)** |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Standard 1** | | | | | | | | 4.67 | 2 | 66.67 |
+| Criterion 1.1 | | | 3 | | | | | | | |
+| Criterion 1.2 | | | | | 5 | | | | | |
+| Criterion 1.3 | | | | | | 6 | | | | |
+| **Standard 2** | | | | | | | | | | |
+| Criterion 2.1 | | | | | | | | | | |
+| ... | | | | | | | | | | |
+| **Standard 3** | | | | | | | | | | |
+| Criterion 3.1 | | | | | | | | | | |
+| ... | | | | | | | | | | |
+| **Standard 11** | | | | | | | | | | |
+| Criterion 11.1 | | | | | | | | | | |
+| ... | | | | | | | | | | |
+| **Overall evaluation of the CTĐT** | | | | | | | | **4.25** | **43** | **86.00** |
+
+**Note:** Record the rating for each criterion using integers. The overall rating for each standard and for the CTĐT is the average of the criterion ratings, rounded to two decimal places.
+
+*..., date..... month..... year 20...*
+**HEAD OF THE EDUCATION INSTITUTION**
+*(Signature, full name, and seal)*
+
+---
+### **Annex 6b. Summary table of CTĐT self-assessment results**
+*(Pursuant to Circulars No. 23/2011/TT-BGDĐT, No. 49/2012/TT-BGDĐT, No. 33/2014/TT-BGDĐT)*
+
+**Name of the education institution:** ..........................................................................
+**Code:** ......................................................................................................
+**Name of the program:** ..........................................................................................
+**Program code:** ...........................................................................................
+
+| Standards and criteria | **Achieved** | **Not achieved** | **Number of criteria achieved** | **Percentage of criteria achieved (%)** |
+| :--- | :---: | :---: | :---: | :---: |
+| **Standard 1** | | | 3 | 75.00 |
+| Criterion 1.1 | A | | | |
+| Criterion 1.2 | | N | | |
+| Criterion 1.3 | A | | | |
+| Criterion 1.4 | A | | | |
+| **Standard 2** | | | | |
+| Criterion 2.1 | | | | |
+| ... | | | | |
+| **Standard 3** | | | | |
+| Criterion 3.1 | | | | |
+| ... | | | | |
+| **Standard n** | | | | |
+| Criterion n.1 | | | | |
+| ... | | | | |
+| **Overall evaluation of the CTĐT** | | | **37** | **92.50** |
+
+**Note:**
+- Record the evaluation result as A for Achieved and N for Not achieved.
+- The percentage of criteria achieved is rounded to two decimal places.
+
+*..., date..... month..... year 20...*
+**HEAD OF THE EDUCATION INSTITUTION**
+*(Signature, full name, and seal)*
+
+---
+
+### **Annex 7. CTĐT quality assurance database**
+
+**QUALITY ASSURANCE DATABASE**
+**FOR THE TRAINING PROGRAM**
+
+**Reporting date:** As of ....../......../20......................................
+
+**I. General information about the education institution**
+1. Name of the education institution (per the establishment decision)
+   Vietnamese: .................................................................................................................
+   English: ..................................................................................................................
+2. Official abbreviation of the education institution
+   Vietnamese: .................................................... English: ...........................................
+3. Previous name (if any): ............................................................................................
+4. Direct supervisory authority: .......................................................................................
+5. Address: ....................................................................................................................
+6. Contact information: Telephone .....................................................................................
+   E-mail: ........................................................... Website: ..............................................
+7. Year the education institution was established (per the establishment decision): ..............................
+8. Year the first cohort began training: ..........................................................................
+9. Year the first cohort was awarded degrees: ............................................................
+10. Type of education institution:
+    Public ☐ Semi-public ☐ People-founded ☐ Private ☐
+11. Other type (please specify)..........................................................................
+
+**II. General information about the unit implementing the training program**
+12. Name of the faculty/department implementing the program (per the establishment decision)
+    Vietnamese: ................................................................................................................
+    English: .................................................................................................................
+13. Official abbreviation of the faculty/department implementing the program:
+    Vietnamese: .................................................... English: ...........................................
+14. Previous name (if any)
+    Vietnamese: ................................................................................................................
+    English: ..................................................................................................................
+15. Program code:...........................................................................................................
+16. Previous name of the program (if any): .........................................................................
+17. Address of the faculty/department implementing the program: ..........................................................
+18. Contact telephone number: .........; E-mail: .............................. Website: .......................
+19. Year the faculty/department was established (per the establishment decision):................................
+20. Year the first cohort of the program began training: .....................................................
+21. Year the first cohort of the program was awarded degrees: ....................................
+
+**III. Overview of the unit implementing the training program**
+22. Overview of the development history and notable achievements of the unit implementing the program (summarize development stages, total number of disciplines and programs, cooperation relationships, outstanding achievements, etc.).
+23. Administrative organizational structure of the education institution and of the unit implementing the program (attach separate charts).
+24. List of the education institution’s leadership and key leaders of the unit implementing the program.
+*(For the unit’s leadership list, include all heads and deputy heads; for other divisions, list only the heads.)*
+
+| No. | Division | Full name | Year of birth | Academic degree, title, and position | Telephone | E-mail |
+| :- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | **Education institution leadership** | | | | | |
+| 1 | | | | | | |
+| ... | | | | | | |
+| | **Unit implementing the program** | | | | | |
+| **I.** | **Key leaders of the unit** | | | | | |
+| 1. | | | | | | |
+| ... | | | | | | |
+| **II.** | **Party organizations, Youth Union, Trade Union, Associations** | | | | | |
+| 1. | | | | | | |
+| ... | | | | | | |
+| **III.** | **Offices and divisions** | | | | | |
+| 1. | | | | | | |
+| ... | | | | | | |
+| **IV.** | **Departments** | | | | | |
+| 1. | | | | | | |
+| ... | | | | | | |
+
+*(Extend the table to fit the size of the unit implementing the program.)*
+
+25. Disciplines/specializations offered by the unit implementing the program: ......................
+26. Number of doctoral specializations:...........................................................
+27. Number of master’s specializations: ...........................................................
+28. Number of undergraduate majors: .....................................................................
+29. Number of associate-degree majors: ....................................................................
+30. Number of other majors/specializations (please specify): ...................
+*(The unit implementing the program should maintain a database of majors and specializations by level to provide information for this item.)*
+
+31. Modes of study offered by the unit implementing the program (check the applicable boxes)
+
+| | Available | Not available |
+| :--- | :-: | :---: |
+| Full-time | ☐ | ☐ |
+| Part-time | ☐ | ☐ |
+| Distance learning | ☐ | ☐ |
+| Joint training with foreign partners | ☐ | ☐ |
+| Joint training within Viet Nam | ☐ | ☐ |
+Other modes of study (if any, specify each mode): .................................
+32. Total number of majors offered: .............................................................................
+
+**IV. Administrators, lecturers, and staff of the unit implementing the training program**
+33. Statistics on the number of administrators, lecturers, and staff of the unit implementing the program
+
+| No. | Category | Male | Female | Total |
+| :- | :--- | :--- | :- | :--- |
+| **I** | **Permanent staff²** | | | |
+| | *Including:* | | | |
+| I.1 | Staff on the official payroll | | | |
+| I.2 | Staff on long-term contracts (from 1 year or more) and open-ended contracts | | | |
+| **II** | **Other personnel**<br>Short-term contracts (less than 1 year, including visiting lecturers³) | | | |
+| | **Total** | | | |
+
+*(The unit implementing the program should maintain a personnel database covering both permanent staff and short-term contracts. Use that database to fill in this information.)*
+
+---
+
+² Permanent staff refers to administrators, lecturers, and employees on the official payroll and those on long-term contracts (from 1 year or more) or open-ended contracts in accordance with the amended Labor Code.
+³ Visiting lecturers are personnel from other organizations, retirees, or freelancers invited by the unit implementing the program to teach specific topics, short courses, or course modules. They are usually hired under seasonal or short-term contracts (less than 1 year) in accordance with the amended Labor Code.
+
+---
+
+34. Statistics and classification of lecturers
+
+| | | | Permanent lecturers (PL) | Domestic visiting lecturers | International lecturers |
+| :- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **No.** | **Qualification, degree, academic title** | **Number of lecturers** | **Lecturers on the official payroll directly teaching** | **Lecturers on long-term contracts⁴ directly teaching** | **Concurrent lecturers who are administrators** | | |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) |
+| 1 | Professor, Academician | | | | | | |
+| 2 | Associate Professor | | | | | | |
+| 3 | Doctor of Science | | | | | | |
+| 4 | Doctor | | | | | | |
+| 5 | Master | | | | | | |
+| 6 | Bachelor | | | | | | |
+| 7 | College | | | | | | |
+| 8 | Other qualifications | | | | | | |
+| | **Total** | | | | | | |
+
+*(When counting Doctors of Science and Doctors, do not double-count lecturers who hold both academic degrees and academic titles already listed above.)*
+
+Total number of permanent lecturers = Column (3) − column (7) − column (8) = ..... persons
+Ratio of permanent lecturers to total permanent staff:........................
+35. Convert the number of lecturers of the unit implementing the program according to current MOET regulations (if the unit has lecturers with a Doctor of Science degree but without an academic title, count them equivalent to Associate Professors as in column 3 of Table 35).
+Use the figures in Table 35 multiplied by the conversion coefficients (for example, for universities and academies, apply Circular No. 06/2018/TT-BGDĐT dated February 28, 2018 of the Minister of Education and Training).
+
+---
+
+⁴ “Long-term contracts” here include contracts of 1 year or more and open-ended contracts.
+
+---
+
+| | | | | Permanent lecturers | Visiting lecturers | International lecturers | Converted lecturers |
+| :- | :--- | :- | :-: | :---: | :---: | :---: | :--- | :--- | :--- |
+| **No.** | **Qualification, degree, academic title** | **Conversion coefficient** | **Number of lecturers** | **Lecturers on the official payroll directly teaching** | **Lecturers on long-term contracts directly teaching** | **Concurrent lecturers who are administrators** | | | |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) | (10) |
+| | Conversion coefficient | | | 1.0 | 1.0 | 0.3 | 0.2 | 0.2 | |
+| 1 | Professor, Academician | 5.0 | | | | | | | |
+| 2 | Associate Professor | 3.0 | | | | | | | |
+| 3 | Doctor of Science | 3.0 | | | | | | | |
+| 4 | Doctor | 2 | | | | | | | |
+| 5 | Master | 1 | | | | | | | |
+| 6 | Bachelor | 0.3 | | | | | | | |
+| | **Total** | | | | | | | | |
+
+Calculation: Column 10 = column 3 × (column 5 + column 6 + 0.3 × column 7 + 0.2 × column 8 + 0.2 × column 9)
+
+36. Statistics and classification of permanent lecturers by qualification, gender, and age (number of persons):
+
+| No. | Qualification/degree | Quantity | Percentage (%) | Classified by gender (persons) | Classified by age (persons) |
+| :- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| | | | | **Male** | **Female** | **<30** | **30–40** | **41–50** | **51–60** | **> 60** |
+| 1 | Professor, Academician | | | | | | | | | |
+| 2 | Associate Professor | | | | | | | | | |
+| 3 | Doctor of Science | | | | | | | | | |
+| 4 | Doctor | | | | | | | | | |
+| 5 | Master | | | | | | | | | |
+| 6 | Bachelor | | | | | | | | | |
+| | **Total** | | | | | | | | | |
+
+36.1. Average age of permanent lecturers:.................. years
+36.2. Percentage of permanent lecturers with doctoral degrees or higher out of total permanent lecturers of the unit implementing the program: .................................................
+36.3. Percentage of permanent lecturers with master’s degrees out of total permanent lecturers of the unit implementing the program: .........................................
+
+---
+
+37. Statistics and classification of permanent lecturers by frequency of foreign-language and IT use for teaching and research
+
+| No. | Frequency of use | Percentage (%) of permanent lecturers using foreign languages and IT |
+| :- | :--- | :--- | :--- |
+| | | **Foreign language** | **IT** |
+| 1 | Always use (over 80% of work time) | | |
+| 2 | Frequently use (over 60–80% of work time) | | |
+| 3 | Occasionally use (over 40–60% of work time) | | |
+| 4 | Seldom use (over 20–40% of work time) | | |
+| 5 | Rarely or never use (0–20% of work time) | | |
+| | **Total** | | |
+
+**V. Learners (only count learners enrolled in the program)**
+38. Learners include students, undergraduate students, graduate students, and doctoral candidates.
+Total number of applicants to the program, admitted learners, and enrolled learners over the past 5 years (full-time system):
+
+| Academic year | Number of applicants to the program | Number admitted | Admission ratio | Actual enrollment | Admission score/scale | Average entry score of enrolled students | Number of international students admitted |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 20...-20.. | | | | | | | |
+| 20...-20.. | | | | | | | |
+| 20...-20.. | | | | | | | |
+| 20...-20.. | | | | | | | |
+| 20...-20.. | | | | | | | |
+
+39. Statistics and classification of learners enrolled in the program over the past 5 years in full-time and part-time systems.
+*Unit: persons*
+
+| Criteria | 20..-20.. | 20..-20.. | 20..-20.. | 20..-20.. | 20..-20.. |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. Doctoral candidates | | | | | |
+| 2. Graduate students | | | | | |
+| 3. Undergraduate students | | | | | |
+| *Including:* | | | | | |
+| Full-time system | | | | | |
+| Part-time system | | | | | |
+| 4. College students | | | | | |
+| *Including:* | | | | | |
+| Full-time system | | | | | |
+| Part-time system | | | | | |
+| 5. Professional secondary students | | | | | |
+| *Including:* | | | | | |
+| Full-time system | | | | | |
+| Part-time system | | | | | |
+| 6. Others ... | | | | | |
+
+40. Number of international students enrolled in the program over the past 5 years:
+*Unit: persons*
+
+| | Academic year |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| | **20...-20...** | **20...-20...** | **20...-20...** | **20...-20...** | **20...-20...** |
+| Number of students | | | | | |
+| Percentage (%) of total learners | | | | | |
+
+41. Learners of the program accommodated in dormitories/total learners needing accommodation:
+
+| Criteria | 20...-20... | 20...-20... | 20...-20... | 20...-20... | 20...-20... |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1. Total dormitory floor area (m²) | | | | | |
+| 2. Learners needing accommodation (inside and outside the dormitory) (persons) | | | | | |
+| 3. Learners accommodated in dormitories (persons) | | | | | |
+| 4. Floor area per learner in dormitories (m²/person) | | | | | |
+
+42. Number and percentage of learners participating in scientific research
+
+| | Academic year |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| | **20...-20...** | **20...-20...** | **20...-20...** | **20...-20...** | **20...-20...** |
+| Number of learners (persons) | | | | | |
+| Percentage (%) of total students | | | | | |
+
+43. Statistics on the number of program graduates over the past 5 years
+*Unit: persons*
+
+| Criteria | Graduation year |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| | **20...-20...** | **20...-20...** | **20...-20...** | **20...-20...** | **20...-20...** |
+| 1. Doctoral candidates successfully defending dissertations | | | | | |
+| 2. Graduate students completing master’s programs | | | | | |
+| 3. Undergraduate students graduating | | | | | |
+| *Including:* | | | | | |
+| Full-time system | | | | | |
+| Part-time system | | | | | |
+| 4. Associate-degree graduates | | | | | |
+| *Including:* | | | | | |
+| Full-time system | | | | | |
+| Part-time system | | | | | |
+| 5. Professional secondary graduates | | | | | |
+| *Including:* | | | | | |
+| Full-time system | | | | | |
+| Part-time system | | | | | |
+| 6. Others... | | | | | |
+
+*(Include learners who meet graduation requirements under regulations but are awaiting diploma issuance.)*
+
+44. Graduation status of full-time program students:
+
+| Criteria | Graduation year |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| | **20...-20...** | **20...-20...** | **20...-20...** | **20...-20...** | **20...-20...** |
+| 1. Number of graduates (persons). | | | | | |
+| 2. Graduation rate compared with intake (%). | | | | | |
+| 3. Graduate feedback on program quality:<br> A. The education institution/unit implementing the program did not conduct a survey on this issue → move to item 4<br> B. The education institution/unit implementing the program conducted a survey on this issue → provide the following information: |
+| | | | | | |
+| 3.1. Percentage of graduates stating they acquired the knowledge and skills necessary for jobs in their field (%). | | | | | |
+| 3.2. Percentage of graduates stating they acquired only part of the necessary knowledge and skills for jobs in their field (%). | | | | | |
+| 3.3. Percentage of graduates stating they did not acquire the knowledge and skills necessary for jobs in their field (%). | | | | | |
+| 4. Graduates employed within the first year after graduation:<br> A. The education institution/unit implementing the program did not conduct a survey on this issue → move to item 5<br> B. The education institution/unit implementing the program conducted a survey on this issue → provide the following information: | | | | | |
+| 4.1. Percentage of graduates employed in jobs aligned with their field of study (%).<br> - After 6 months.<br> - After 12 months. | | | | | |
+| 4.2. Percentage of graduates employed outside their field of study (%). | | | | | |
+| 4.3. Average monthly income of employed graduates. | | | | | |
+| 5. Employer feedback on graduates employed in jobs aligned with their field of study:<br> A. The education institution/unit implementing the program did not conduct a survey on this issue → move to the end of this table.<br> B. The education institution/unit implementing the program conducted a survey on this issue → provide the following information: | | | | | |
+| 5.1. Percentage of graduates who meet job requirements and can start immediately (%). | | | | | |
+| 5.2. Percentage of graduates who basically meet job requirements but require additional training (%). | | | | | |
+| 5.3. Percentage of graduates who need retraining or at least 6 months of additional training (%). | | | | | |
+
+**Note:**
+- Graduates are learners eligible for graduation under regulations, including those yet to receive their diplomas.
+- Employed graduates are those who have found or created employment.
+- “First year after graduation” means 12 months from the graduation date.
+- Any items left blank are considered cases where the education institution/unit implementing the program did not conduct a survey on that issue.
+
+**VI. Scientific research and technology transfer**
+45. Number of scientific research and technology transfer projects of the unit implementing the program accepted in the past 5 years:
+
+| No. | Type of project | Coefficient** | **20..-20..** | **20..-20..** | **20..-20..** | **20..-20..** | **20..-20..** | **Total (converted)** |
+| :- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| (1) | (2) | (3) | (4) | (5) | (6) | (7) | (8) | (9) |
+| 1 | National-level projects | 2.0 | | | | | | |
+| 2 | Ministry-/Province-level projects* | 1.0 | | | | | | |
+| 3 | Institutional-level projects | 0.5 | | | | | | |
+| | **Total** | | | | | | | |
+
+Calculation: Column 9 = column 3 × (column 4 + column 5 + column 6 + column 7 + column 8)
+
+---
+
+* Includes ministry-level or equivalent projects and sub-projects at the national level.
+** Conversion coefficients are based on the scoring principles of the State Professorship Council (with adjustments).
+
+---
+
+Total converted projects: .....................................................
+Ratio of converted scientific research and technology transfer projects per permanent staff member of the unit implementing the program: ..................................
+
+46. Revenue from scientific research and technology transfer of the unit implementing the program over the past 5 years:
+
+| No. | Year | Revenue from scientific research and technology transfer (million VND) | Percentage of revenue from scientific research and technology transfer compared with the unit’s total input budget (%) | Revenue from scientific research and technology transfer per permanent staff member (million VND/person) |
+| :- | :-: | :---: | :---: | :---: |
+| 1 | 20... | | | |
+| 2 | 20... | | | |
+| 3 | 20... | | | |
+| 4 | 20... | | | |
+| 5 | 20... | | | |
