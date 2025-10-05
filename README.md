@@ -1,114 +1,257 @@
 # VJU-Project Repository Guide
 
-本リポジトリは、日越大学 (VJU) の各種規程類や公開資料の整理と共有を目的としています。以下の目次から主要ディレクトリと代表的なファイルにアクセスできます。
+This repository catalogs Vietnam Japan University (VJU) regulations, public disclosure files, and internal guidance collected for academic and administrative use. Use the multilingual tables of contents below to navigate directly to each language's Markdown notes and the corresponding source files.
 
-## 目次
-- [Guides](#guides)
-  - [GWS and Gemini Usage Guide - English](Guide/GWS%20and%20Gemini%20Usage%20Guide%20-%20English.md)
-  - [GWS and Gemini Usage Guide - Japanese](Guide/GWS%20and%20Gemini%20Usage%20Guide%20-%20Japanese.md)
-  - [GWS and Gemini Usage Guide - Vietnamese](Guide/GWS%20and%20Gemini%20Usage%20Guide%20-%20Vietnamese.md)
-  - [Professional Manner and Workstyle - English](Guide/Professional%20Manner%20and%20Workstyle%20-%20English.md)
-  - [Professional Manner and Workstyle - Japanese](Guide/Professional%20Manner%20and%20Workstyle%20-%20Japanese.md)
-  - [Professional Manner and Workstyle - Vietnamese](Guide/Professional%20Manner%20and%20Workstyle%20-%20Vietnamese.md)
-- [Public Report 2025](#public-report-2025)
-  - [DHVN-KT&DBCL-826 Báo cáo công khai năm học 2024-2025](Public%20Report%202025/DHVN-KT&DBCL-826%20B%C3%A1o%20c%C3%B4ng%20khai%20n%C4%83m%20h%E1%BB%8Dc%202024-2025_source.md)
-  - [DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year](Public%20Report%202025/DHVN-KT&DBCL-826%20Public%20Report%20for%20the%202024-2025%20School%20Year.md)
-  - [DHVN-KT&DBCL-826 2024-2025年度の公開レポート](Public%20Report%202025/DHVN-KT&DBCL-826%202024-2025%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%85%AC%E9%96%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.md)
-  - [DHVN-QD-1592 Công khai dự toán ngân sách năm 2025](Public%20Report%202025/DHVN-QD-1592%20C%C3%B4ng%20khai%20d%E1%BB%B1%20to%C3%A1n%20ng%C3%A2n%20s%C3%A1ch%20n%C4%83m%202025_source.md)
-  - [DHVN-QD-1592 Budget Estimate Disclosure 2025](Public%20Report%202025/DHVN-QD-1592%20Budget%20Estimate%20Disclosure%202025%20English.md)
-  - [DHVN-QD-1592 2025年度予算見積り公表](Public%20Report%202025/DHVN-QD-1592%202025%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E8%A6%8B%E7%A9%8D%E3%82%8A%E5%85%AC%E8%A1%A8.md)
-  - [DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025](Public%20Report%202025/DHVN-QD-323%20C%C3%B4ng%20khai%20th%E1%BB%B1c%20hi%E1%BB%87n%20d%E1%BB%B1%20to%C3%A1n%20Qu%C3%BD%201%20n%C4%83m%202025_source.md)
-  - [DHVN-QD-323 Q1 2025 Budget Execution Disclosure](Public%20Report%202025/DHVN-QD-323%20Q1%202025%20Budget%20Execution%20Disclosure%20English.md)
-  - [DHVN-QD-323 2025年第1四半期予算執行公表](Public%20Report%202025/DHVN-QD-323%202025%E5%B9%B4%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E4%BA%88%E7%AE%97%E5%9F%B7%E8%A1%8C%E5%85%AC%E8%A1%A8.md)
-- [University Regulations](#university-regulations)
-  - [MOET Circulars & Decisions](#moet)
-  - [VNU Regulations](#vnu)
-  - [VJU Guidance](#vju)
-  - [Government Decisions](#government)
+## Table of Contents (English)
 
+### Public Report 2025
+- **DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year**
+  - [Markdown](<Public Report 2025/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year.md>)
+  - [Source File](<Public Report 2025/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
+- **DHVN-QD-1592 Budget Estimate Disclosure 2025**
+  - [Markdown](<Public Report 2025/DHVN-QD-1592 Budget Estimate Disclosure 2025 English.md>)
+  - [Source File](<Public Report 2025/DHVN-QD-1592 Công khai dự toán ngân sách năm 2025_source.pdf>)
+- **DHVN-QD-323 Q1 2025 Budget Execution Disclosure**
+  - [Markdown](<Public Report 2025/DHVN-QD-323 Q1 2025 Budget Execution Disclosure English.md>)
+  - [Source File](<Public Report 2025/DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025_source.pdf>)
 
-### Bảng mục lục (Tiếng Việt)
-- [Hướng dẫn](#guides)
-  - [GWS and Gemini Usage Guide - English](Guide/GWS%20and%20Gemini%20Usage%20Guide%20-%20English.md)
-  - [GWS and Gemini Usage Guide - Japanese](Guide/GWS%20and%20Gemini%20Usage%20Guide%20-%20Japanese.md)
-  - [GWS and Gemini Usage Guide - Vietnamese](Guide/GWS%20and%20Gemini%20Usage%20Guide%20-%20Vietnamese.md)
-  - [Professional Manner and Workstyle - English](Guide/Professional%20Manner%20and%20Workstyle%20-%20English.md)
-  - [Professional Manner and Workstyle - Japanese](Guide/Professional%20Manner%20and%20Workstyle%20-%20Japanese.md)
-  - [Professional Manner and Workstyle - Vietnamese](Guide/Professional%20Manner%20and%20Workstyle%20-%20Vietnamese.md)
-- [Báo cáo công khai 2025](#public-report-2025)
-  - [DHVN-KT&DBCL-826 Báo cáo công khai năm học 2024-2025](Public%20Report%202025/DHVN-KT&DBCL-826%20B%C3%A1o%20c%C3%B4ng%20khai%20n%C4%83m%20h%E1%BB%8Dc%202024-2025_source.md)
-  - [DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year](Public%20Report%202025/DHVN-KT&DBCL-826%20Public%20Report%20for%20the%202024-2025%20School%20Year.md)
-  - [DHVN-KT&DBCL-826 2024-2025年度の公開レポート](Public%20Report%202025/DHVN-KT&DBCL-826%202024-2025%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%85%AC%E9%96%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.md)
-  - [DHVN-QD-1592 Công khai dự toán ngân sách năm 2025](Public%20Report%202025/DHVN-QD-1592%20C%C3%B4ng%20khai%20d%E1%BB%B1%20to%C3%A1n%20ng%C3%A2n%20s%C3%A1ch%20n%C4%83m%202025_source.md)
-  - [DHVN-QD-1592 Budget Estimate Disclosure 2025](Public%20Report%202025/DHVN-QD-1592%20Budget%20Estimate%20Disclosure%202025%20English.md)
-  - [DHVN-QD-1592 2025年度予算見積り公表](Public%20Report%202025/DHVN-QD-1592%202025%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E8%A6%8B%E7%A9%8D%E3%82%8A%E5%85%AC%E8%A1%A8.md)
-  - [DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025](Public%20Report%202025/DHVN-QD-323%20C%C3%B4ng%20khai%20th%E1%BB%B1c%20hi%E1%BB%87n%20d%E1%BB%B1%20to%C3%A1n%20Qu%C3%BD%201%20n%C4%83m%202025_source.md)
-  - [DHVN-QD-323 Q1 2025 Budget Execution Disclosure](Public%20Report%202025/DHVN-QD-323%20Q1%202025%20Budget%20Execution%20Disclosure%20English.md)
-  - [DHVN-QD-323 2025年第1四半期予算執行公表](Public%20Report%202025/DHVN-QD-323%202025%E5%B9%B4%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E4%BA%88%E7%AE%97%E5%9F%B7%E8%A1%8C%E5%85%AC%E8%A1%A8.md)
-- [Quy định đại học](#university-regulations)
-  - [Bộ Giáo dục và Đào tạo (MOET)](#moet)
-  - [Đại học Quốc gia Hà Nội (VNU)](#vnu)
-  - [Đại học Việt Nhật (VJU)](#vju)
-  - [Quyết định của Chính phủ (Government)](#government)
+### University Regulations – MOET
+- **BGDDT-TT-08-2021 Regulation on Undergraduate Training**
+  - [Markdown](<University Regulations/MOET/BGDDT-TT-08-2021 Regulation on Undergraduate Training.md>)
+  - [Source File](<University Regulations/MOET/BGDDT-TT-08-2021 Regulation on Undergraduate Training_source.pdf>)
+- **BGDDT-TT-18-2021 Regulations on Admission and Training for Doctoral Degrees**
+  - [Markdown](<University Regulations/MOET/BGDDT-TT-18-2021 Regulations on Admission and Training for Doctoral Degrees.md>)
+  - [Source File](<University Regulations/MOET/BGDDT-TT-18-2021 Regulation on Admission and Training for Doctoral Degrees_source.pdf>)
+- **BGDDT-TT-23-2021 Regulations on Master's Degree Enrollment and Training**
+  - [Markdown](<University Regulations/MOET/BGDDT-TT-23-2021 Regulations on Master's Degree Enrollment and Training.md>)
+  - [Source File](<University Regulations/MOET/BGDDT-TT-23-2021 Regulation on Admission and Training for Masters Degrees_source.pdf>)
 
-### 目次（日本語）
-- [ガイド](#guides)
-  - [GWS and Gemini Usage Guide - English](Guide/GWS%20and%20Gemini%20Usage%20Guide%20-%20English.md)
-  - [GWS and Gemini Usage Guide - Japanese](Guide/GWS%20and%20Gemini%20Usage%20Guide%20-%20Japanese.md)
-  - [GWS and Gemini Usage Guide - Vietnamese](Guide/GWS%20and%20Gemini%20Usage%20Guide%20-%20Vietnamese.md)
-  - [Professional Manner and Workstyle - English](Guide/Professional%20Manner%20and%20Workstyle%20-%20English.md)
-  - [Professional Manner and Workstyle - Japanese](Guide/Professional%20Manner%20and%20Workstyle%20-%20Japanese.md)
-  - [Professional Manner and Workstyle - Vietnamese](Guide/Professional%20Manner%20and%20Workstyle%20-%20Vietnamese.md)
-- [2025年度公開レポート](#public-report-2025)
-  - [DHVN-KT&DBCL-826 Báo cáo công khai năm học 2024-2025](Public%20Report%202025/DHVN-KT&DBCL-826%20B%C3%A1o%20c%C3%B4ng%20khai%20n%C4%83m%20h%E1%BB%8Dc%202024-2025_source.md)
-  - [DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year](Public%20Report%202025/DHVN-KT&DBCL-826%20Public%20Report%20for%20the%202024-2025%20School%20Year.md)
-  - [DHVN-KT&DBCL-826 2024-2025年度の公開レポート](Public%20Report%202025/DHVN-KT&DBCL-826%202024-2025%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%85%AC%E9%96%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.md)
-  - [DHVN-QD-1592 Công khai dự toán ngân sách năm 2025](Public%20Report%202025/DHVN-QD-1592%20C%C3%B4ng%20khai%20d%E1%BB%B1%20to%C3%A1n%20ng%C3%A2n%20s%C3%A1ch%20n%C4%83m%202025_source.md)
-  - [DHVN-QD-1592 Budget Estimate Disclosure 2025](Public%20Report%202025/DHVN-QD-1592%20Budget%20Estimate%20Disclosure%202025%20English.md)
-  - [DHVN-QD-1592 2025年度予算見積り公表](Public%20Report%202025/DHVN-QD-1592%202025%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E8%A6%8B%E7%A9%8D%E3%82%8A%E5%85%AC%E8%A1%A8.md)
-  - [DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025](Public%20Report%202025/DHVN-QD-323%20C%C3%B4ng%20khai%20th%E1%BB%B1c%20hi%E1%BB%87n%20d%E1%BB%B1%20to%C3%A1n%20Qu%C3%BD%201%20n%C4%83m%202025_source.md)
-  - [DHVN-QD-323 Q1 2025 Budget Execution Disclosure](Public%20Report%202025/DHVN-QD-323%20Q1%202025%20Budget%20Execution%20Disclosure%20English.md)
-  - [DHVN-QD-323 2025年第1四半期予算執行公表](Public%20Report%202025/DHVN-QD-323%202025%E5%B9%B4%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E4%BA%88%E7%AE%97%E5%9F%B7%E8%A1%8C%E5%85%AC%E8%A1%A8.md)
-- [大学規程](#university-regulations)
-  - [教育訓練省（MOET）](#moet)
-  - [ベトナム国家大学ハノイ校（VNU）](#vnu)
-  - [日越大学（VJU）](#vju)
-  - [政府決定（Government）](#government)
-## Guides
-GWS/Geminiの利用手順や業務マナーを三言語で提供します。上記リンクから該当言語のガイドを参照してください。
+### University Regulations – VNU
+- **DHQGHN-QD-3626 Regulation on Undergraduate Training**
+  - [Markdown](<University Regulations/VNU/DHQGHN-QD-3626 Regulation on Undergraduate Training.md>)
+  - [Source File](<University Regulations/VNU/DHQGHN-QD-3626 Decision Promulgating the Regulation on Undergraduate Training_source.pdf>)
+- **DHQGHN-QD-3636 Regulation on Master's Training**
+  - [Markdown](<University Regulations/VNU/DHQGHN-QD-3636 Regulation on Master's Training.md>)
+  - [Source File](<University Regulations/VNU/DHQGHN-QD-3636 Decision Promulgating the Regulation on Masters Training_source.pdf>)
+- **DHQGHN-QD-3638 Regulation on Doctoral Training**
+  - [Markdown](<University Regulations/VNU/DHQGHN-QD-3638 Regulation on Doctoral Training.md>)
+  - [Source File](<University Regulations/VNU/DHQGHN-QD-3638 Decision Promulgating the Regulation on Doctoral Training_source.pdf>)
+- **DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates**
+  - [Markdown](<University Regulations/VNU/DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates.md>)
+  - [Source File](<University Regulations/VNU/DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates_source.pdf>)
+- **DHQGHN-QD-5115 Regulation on Undergraduate Training (Superseded)**
+  - [Markdown](<University Regulations/VNU/DHQGHN-QD-5115 [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training.md>)
+  - [Source File](<University Regulations/VNU/DHQGHN-QD-5115 [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training_source.pdf>)
 
-## Public Report 2025
-2024-2025年度に関する予算・公開情報をベトナム語・英語・日本語で収録しています。各ファイルは `_source` サフィックス付きの原文（PDF 等）、および参照用Markdownに分かれています。
+### University Regulations – VJU
+- **DHNN-TB-2184 Notification on Organizing the VNU-TESTS Foreign Language Assessment**
+  - [Markdown](<University Regulations/VJU/English/DHNN-TB-2184 Notification on Organizing the VNU-TESTS Foreign Language Assessment.md>)
+  - [Source File](<University Regulations/VJU/Original/DHNN-TB-2184 VNU-TESTS Foreign Language Assessment Plan_source.pdf>)
+- **DHVN-HD-1534 Guidelines for Theses and Graduation Projects**
+  - [Markdown](<University Regulations/VJU/English/DHVN-HD-1534 Guidelines for Theses and Graduation Projects.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-HD-1534 Organizing Theses and Graduation Projects_source.pdf>)
+- **DHVN-HD-1534 Thesis and Graduation Project Annex Templates - English Format**
+  - [Markdown](<University Regulations/VJU/English/DHVN-HD-1534 Thesis and Graduation Project Annex Templates - English Format.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-HD-1534 Thesis Graduation Annex Templates English_source.docx>)
+- **DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency Table**
+  - [Markdown](<University Regulations/VJU/English/DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency Table.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency Table_source.pdf>)
+- **DHVN-HD-259 Appendix 2 JLPT Authorization Letter Template**
+  - [Markdown](<University Regulations/VJU/English/DHVN-HD-259 Appendix 2 JLPT Authorization Letter Template.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-HD-259 Appendix 2 JLPT Authorization Letter Template_source.pdf>)
+- **DHVN-HD-259 Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts**
+  - [Markdown](<University Regulations/VJU/English/DHVN-HD-259 Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-HD-259 Using Foreign Language Certificates VJU2020 VJU2021_source.pdf>)
+- **DHVN-HD-304 Guidelines for Recognizing Learning Outcomes and Credit Transfer**
+  - [Markdown](<University Regulations/VJU/English/DHVN-HD-304 Guidelines for Recognizing Learning Outcomes and Credit Transfer.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-HD-304 Recognizing Learning Outcomes and Credit Transfer_source.pdf>)
+- **DHVN-HD-483 Guidelines for Practical Internships and Internship Topics**
+  - [Markdown](<University Regulations/VJU/English/DHVN-HD-483 Guidelines for Practical Internships and Internship Topics.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-HD-483 Practical Internship Guidance_source.pdf>)
+- **DHVN-HD-xxx Guidelines on Using Foreign Language Certificates and Certifications**
+  - [Markdown](<University Regulations/VJU/English/DHVN-HD-xxx Guidelines on Using Foreign Language Certificates and Certifications.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-HD-xxx Using Foreign Language Certificates 2022 Onwards_source.pdf>)
+- **DHVN-QD-473 Regulations on Academic Advisory Work**
+  - [Markdown](<University Regulations/VJU/English/DHVN-QD-473 Regulations on Academic Advisory Work.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-QD-473 Regulations on Academic Advisory Work_source.pdf>)
+- **DHVN-TB-1010 Notification on Submission of English Language Certificates**
+  - [Markdown](<University Regulations/VJU/English/DHVN-TB-1010 Notification on Submission of English Language Certificates.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-TB-1010 Submission of English Language Certificates_source.pdf>)
+- **DHVN-TB-911 Notification on Submission of Foreign Language Certificates VJU2024 Cohort**
+  - [Markdown](<University Regulations/VJU/English/DHVN-TB-911 Notification on Submission of Foreign Language Certificates VJU2024 Cohort.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-TB-911 Submission of Foreign Language Certificates VJU2024_source.pdf>)
+- **DHVN-TB-984 Notification on Submission of Foreign Language Certificates VJU2023 Cohort**
+  - [Markdown](<University Regulations/VJU/English/DHVN-TB-984 Notification on Submission of Foreign Language Certificates VJU2023 Cohort.md>)
+  - [Source File](<University Regulations/VJU/Original/DHVN-TB-984 Submission of Foreign Language Certificates VJU2023_source.pdf>)
 
-## University Regulations
-VJUで参照する各種規程類を発行主体別に整理しています。
+## Bảng mục lục (Tiếng Việt)
 
-### MOET
-- [BGDDT-QD-4998 Quy định kỹ thuật về dữ liệu của cơ sở dữ liệu giáo dục và đào tạo](University%20Regulations/MOET/BGDDT-QD-4998%20Quy%20%C4%91%E1%BB%8Bnh%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%E1%BB%81%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%A7a%20c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20gi%C3%A1o%20d%E1%BB%A5c%20v%C3%A0%20%C4%91%C3%A0o%20t%E1%BA%A1o_source.md)
-- [BGDDT-QD-4998 Technical Specifications for Education and Training Database](University%20Regulations/MOET/BGDDT-QD-4998%20Technical%20Specifications%20for%20Education%20and%20Training%20Database_source.docx)
-- [BGDDT-QD-4998 Technical Specifications for Education and Training Database](University%20Regulations/MOET/BGDDT-QD-4998%20Technical%20Specifications%20for%20Education%20and%20Training%20Database_source.pdf)
-- [BGDDT-TT-08-2021 Thông tư ban hành Quy chế đào tạo trình độ đại học](University%20Regulations/MOET/BGDDT-TT-08-2021%20Th%C3%B4ng%20t%C6%B0%20ban%20h%C3%A0nh%20Quy%20ch%E1%BA%BF%20%C4%91%C3%A0o%20t%E1%BA%A1o%20tr%C3%ACnh%20%C4%91%E1%BB%99%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc_source.md)
-- [BGDDT-TT-08-2021 Regulation on Undergraduate Training](University%20Regulations/MOET/BGDDT-TT-08-2021%20Regulation%20on%20Undergraduate%20Training.md)
-- [BGDDT-TT-18-2021 Regulations on Admission and Training for Doctoral Degrees](University%20Regulations/MOET/BGDDT-TT-18-2021%20Regulations%20on%20Admission%20and%20Training%20for%20Doctoral%20Degrees.md)
-- [BGDDT-TT-23-2021 Regulations on Master's Degree Enrollment and Training](University%20Regulations/MOET/BGDDT-TT-23-2021%20Regulations%20on%20Master's%20Degree%20Enrollment%20and%20Training.md)
+### Báo cáo công khai 2025
+- **DHVN-KT&DBCL-826 Báo cáo công khai năm học 2024-2025**
+  - [Bản Markdown](<Public Report 2025/DHVN-KT&DBCL-826 Báo cáo công khai năm học 2024-2025_source.md>)
+  - [Tệp gốc](<Public Report 2025/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
+- **DHVN-QD-1592 Công khai dự toán ngân sách năm 2025**
+  - [Bản Markdown](<Public Report 2025/DHVN-QD-1592 Công khai dự toán ngân sách năm 2025_source.md>)
+  - [Tệp gốc](<Public Report 2025/DHVN-QD-1592 Công khai dự toán ngân sách năm 2025_source.pdf>)
+- **DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025**
+  - [Bản Markdown](<Public Report 2025/DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025_source.md>)
+  - [Tệp gốc](<Public Report 2025/DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025_source.pdf>)
 
-### VNU
-- [DHQGHN-QD-3626 Quyết định ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội](University%20Regulations/VNU/DHQGHN-QD-3626%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20ban%20h%C3%A0nh%20Quy%20ch%E1%BA%BF%20%C4%91%C3%A0o%20t%E1%BA%A1o%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%20t%E1%BA%A1i%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Qu%E1%BB%91c%20gia%20H%C3%A0%20N%E1%BB%99i_source.md)
-- [DHQGHN-QD-3626 Regulation on Undergraduate Training](University%20Regulations/VNU/DHQGHN-QD-3626%20Regulation%20on%20Undergraduate%20Training.md)
-- [DHQGHN-QD-3638 Regulation on Doctoral Training](University%20Regulations/VNU/DHQGHN-QD-3638%20Regulation%20on%20Doctoral%20Training.md)
-- [DHQGHN-QD-4455 Quy định về quản lý văn bằng, chứng chỉ, chứng nhận tại Đại học Quốc gia Hà Nội](University%20Regulations/VNU/DHQGHN-QD-4455%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20qu%E1%BA%A3n%20l%C3%BD%20v%C4%83n%20b%E1%BA%B1ng,%20ch%E1%BB%A9ng%20ch%E1%BB%89,%20ch%E1%BB%A9ng%20nh%E1%BA%ADn%20t%E1%BA%A1i%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Qu%E1%BB%91c%20gia%20H%C3%A0%20N%E1%BB%99i_source.md)
+### Quy định – Bộ Giáo dục và Đào tạo
+- **BGDDT-TT-08-2021 Thông tư ban hành Quy chế đào tạo trình độ đại học**
+  - [Bản Markdown](<University Regulations/MOET/BGDDT-TT-08-2021 Thông tư ban hành Quy chế đào tạo trình độ đại học_source.md>)
+  - [Tệp gốc](<University Regulations/MOET/BGDDT-TT-08-2021 Regulation on Undergraduate Training_source.pdf>)
+- **BGDDT-TT-18-2021 Thông tư ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ**
+  - [Bản Markdown](<University Regulations/MOET/BGDDT-TT-18-2021 Thông tư ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ_source.md>)
+  - [Tệp gốc](<University Regulations/MOET/BGDDT-TT-18-2021 Regulation on Admission and Training for Doctoral Degrees_source.pdf>)
+- **BGDDT-TT-23-2021 Thông tư ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ**
+  - [Bản Markdown](<University Regulations/MOET/BGDDT-TT-23-2021 Thông tư ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ_source.md>)
+  - [Tệp gốc](<University Regulations/MOET/BGDDT-TT-23-2021 Regulation on Admission and Training for Masters Degrees_source.pdf>)
+- **BGDDT-QD-4998 Quy định kỹ thuật về dữ liệu của cơ sở dữ liệu giáo dục và đào tạo**
+  - [Bản Markdown](<University Regulations/MOET/BGDDT-QD-4998 Quy định kỹ thuật về dữ liệu của cơ sở dữ liệu giáo dục và đào tạo_source.md>)
+  - [Tệp gốc](<University Regulations/MOET/BGDDT-QD-4998 Technical Specifications for Education and Training Database_source.pdf>)
 
-### VJU
-- [DHVN-QD-473 Quy định về Công tác Cố vấn học tập](University%20Regulations/VJU/Vietnamease/DHVN-QD-473%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20C%C3%B4ng%20t%C3%A1c%20C%E1%BB%91%20v%E1%BA%A5n%20h%E1%BB%8Dc%20t%E1%BA%ADp_source.md)
-- [DHVN-QD-473 Regulations on Academic Advisory Work](University%20Regulations/VJU/English/DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.md)
-- [DHVN-HD-1534 Guidelines for Theses and Graduation Projects](University%20Regulations/VJU/English/DHVN-HD-1534%20Guidelines%20for%20Theses%20and%20Graduation%20Projects.md)
-- [DHVN-HD-1534 論文・卒業プロジェクト実施指針](University%20Regulations/VJU/Japanease/DHVN-HD-1534%20%E8%AB%96%E6%96%87%E3%83%BB%E5%8D%92%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%AE%9F%E6%96%BD%E6%8C%87%E9%87%9D.md)
-- [DHVN-HD-xxx Hướng dẫn Sử dụng chứng chỉ, chứng nhận ngoại ngữ](University%20Regulations/VJU/Vietnamease/DHVN-HD-xxx%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20S%E1%BB%AD%20d%E1%BB%A5ng%20ch%E1%BB%A9ng%20ch%E1%BB%89,%20ch%E1%BB%A9ng%20nh%E1%BA%ADn%20ngo%E1%BA%A1i%20ng%E1%BB%AF_source.md)
+### Quy định – Đại học Quốc gia Hà Nội
+- **DHQGHN-QD-3626 Quyết định ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội**
+  - [Bản Markdown](<University Regulations/VNU/DHQGHN-QD-3626 Quyết định ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội_source.md>)
+  - [Tệp gốc](<University Regulations/VNU/DHQGHN-QD-3626 Decision Promulgating the Regulation on Undergraduate Training_source.pdf>)
+- **DHQGHN-QD-3636 Quyết định ban hành Quy chế đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội**
+  - [Bản Markdown](<University Regulations/VNU/DHQGHN-QD-3636 Quyết định ban hành Quy chế đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội_source.md>)
+  - [Tệp gốc](<University Regulations/VNU/DHQGHN-QD-3636 Decision Promulgating the Regulation on Masters Training_source.pdf>)
+- **DHQGHN-QD-3638 Quyết định ban hành Quy chế đào tạo tiến sĩ tại Đại học Quốc gia Hà Nội**
+  - [Bản Markdown](<University Regulations/VNU/DHQGHN-QD-3638 Quyết định ban hành Quy chế đào tạo tiến sĩ tại Đại học Quốc gia Hà Nội_source.md>)
+  - [Tệp gốc](<University Regulations/VNU/DHQGHN-QD-3638 Decision Promulgating the Regulation on Doctoral Training_source.pdf>)
+- **DHQGHN-QD-4455 Quy định về quản lý văn bằng, chứng chỉ, chứng nhận tại Đại học Quốc gia Hà Nội**
+  - [Bản Markdown](<University Regulations/VNU/DHQGHN-QD-4455 Quy định về quản lý văn bằng, chứng chỉ, chứng nhận tại Đại học Quốc gia Hà Nội_source.md>)
+  - [Tệp gốc](<University Regulations/VNU/DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates_source.pdf>)
+- **DHQGHN-QD-5115 Quy chế đào tạo đại học (được thay thế)**
+  - [Bản Markdown](<University Regulations/VNU/DHQGHN-QD-5115 [Thay thế bởi ĐHQGHN-QĐ-3626-2022] Quy chế đào tạo đại học_source.md>)
+  - [Tệp gốc](<University Regulations/VNU/DHQGHN-QD-5115 [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training_source.pdf>)
 
-### Government
-- [TTCP-QD-78-2022 Quyết định phê duyệt Chương trình phát triển hệ thống bảo đảm và kiểm định chất lượng giáo dục giai đoạn 2022-2030](University%20Regulations/Government/TTCP-QD-78-2022%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20ph%C3%AA%20duy%E1%BB%87t%20Ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20ph%C3%A1t%20tri%E1%BB%83n%20h%E1%BB%87%20th%E1%BB%91ng%20b%E1%BA%A3o%20%C4%91%E1%BA%A3m%20v%C3%A0%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20gi%C3%A1o%20d%E1%BB%A5c%20giai%20%C4%91o%E1%BA%A1n%202022-2030_source.md)
-- [TTCP-QD-78-2022 Decision Approving Quality Assurance and Accreditation Program 2022-2030](University%20Regulations/Government/TTCP-QD-78-2022%20Decision%20Approving%20Quality%20Assurance%20and%20Accreditation%20Program%202022-2030_source.pdf)
+### Hướng dẫn – Đại học Việt Nhật
+- **DHNN-TB-2184 Thông báo Kế hoạch tổ chức thi đánh giá năng lực ngoại ngữ (VNU-TESTS)**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHNN-TB-2184 Thông báo Kế hoạch tổ chức thi đánh giá năng lực ngoại ngữ (VNU-TESTS).md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHNN-TB-2184 VNU-TESTS Foreign Language Assessment Plan_source.pdf>)
+- **DHVN-HD-1534 Hướng dẫn Tổ chức thực hiện khóa luận, đồ án tốt nghiệp**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-HD-1534 Hướng dẫn Tổ chức thực hiện khóa luận, đồ án tốt nghiệp.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-HD-1534 Organizing Theses and Graduation Projects_source.pdf>)
+- **DHVN-HD-259 Hướng dẫn Sử dụng chứng chỉ ngoại ngữ khóa VJU2020 VJU2021**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-HD-259 Hướng dẫn Sử dụng chứng chỉ ngoại ngữ khóa VJU2020 VJU2021.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-HD-259 Using Foreign Language Certificates VJU2020 VJU2021_source.pdf>)
+- **DHVN-HD-259 Phụ lục 1 Bảng tham chiếu quy đổi chứng chỉ ngoại ngữ**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-HD-259 Phụ lục 1 Bảng tham chiếu quy đổi chứng chỉ ngoại ngữ.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency Table_source.pdf>)
+- **DHVN-HD-259 Phụ lục 2 Mẫu giấy ủy quyền thi chứng chỉ tiếng Nhật JLPT**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-HD-259 Phụ lục 2 Mẫu giấy ủy quyền thi chứng chỉ tiếng Nhật JLPT.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-HD-259 Appendix 2 JLPT Authorization Letter Template_source.pdf>)
+- **DHVN-HD-304 Hướng dẫn Công nhận kết quả học tập và chuyển đổi tín chỉ**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-HD-304 Hướng dẫn Công nhận kết quả học tập và chuyển đổi tín chỉ.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-HD-304 Recognizing Learning Outcomes and Credit Transfer_source.pdf>)
+- **DHVN-HD-483 Hướng dẫn Công tác thực tập thực tế và chuyên đề thực tập**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-HD-483 Hướng dẫn Công tác thực tập thực tế và chuyên đề thực tập.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-HD-483 Practical Internship Guidance_source.pdf>)
+- **DHVN-HD-xxx Hướng dẫn Sử dụng chứng chỉ, chứng nhận ngoại ngữ**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-HD-xxx Hướng dẫn Sử dụng chứng chỉ, chứng nhận ngoại ngữ.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-HD-xxx Using Foreign Language Certificates 2022 Onwards_source.pdf>)
+- **DHVN-QD-473 Quy định về Công tác Cố vấn học tập**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-QD-473 Quy định về Công tác Cố vấn học tập.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-QD-473 Regulations on Academic Advisory Work_source.pdf>)
+- **DHVN-TB-1010 Thông báo Nộp chứng chỉ ngoại ngữ tiếng Anh**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-TB-1010 Thông báo Nộp chứng chỉ ngoại ngữ tiếng Anh.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-TB-1010 Submission of English Language Certificates_source.pdf>)
+- **DHVN-TB-911 Thông báo Nộp chứng nhận ngoại ngữ khóa VJU2024**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-TB-911 Thông báo Nộp chứng nhận ngoại ngữ khóa VJU2024.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-TB-911 Submission of Foreign Language Certificates VJU2024_source.pdf>)
+- **DHVN-TB-984 Thông báo Nộp chứng chỉ ngoại ngữ khóa VJU2023**
+  - [Bản Markdown](<University Regulations/VJU/Vietnamease/DHVN-TB-984 Thông báo Nộp chứng chỉ ngoại ngữ khóa VJU2023.md>)
+  - [Tệp gốc](<University Regulations/VJU/Original/DHVN-TB-984 Submission of Foreign Language Certificates VJU2023_source.pdf>)
 
+### Quyết định của Chính phủ
+- **TTCP-QD-78-2022 Quyết định phê duyệt Chương trình phát triển hệ thống bảo đảm và kiểm định chất lượng giáo dục giai đoạn 2022-2030**
+  - [Bản Markdown](<University Regulations/Government/TTCP-QD-78-2022 Quyết định phê duyệt Chương trình phát triển hệ thống bảo đảm và kiểm định chất lượng giáo dục giai đoạn 2022-2030_source.md>)
+  - [Tệp gốc](<University Regulations/Government/TTCP-QD-78-2022 Decision Approving Quality Assurance and Accreditation Program 2022-2030_source.pdf>)
+
+## 目次（日本語）
+
+### 2025年度公開レポート
+- **DHVN-KT&DBCL-826 2024-2025年度の公開レポート**
+  - [Markdown版](<Public Report 2025/DHVN-KT&DBCL-826 2024-2025年度の公開レポート.md>)
+  - [原本ファイル](<Public Report 2025/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year_source.pdf>)
+- **DHVN-QD-1592 2025年度予算見積り公表**
+  - [Markdown版](<Public Report 2025/DHVN-QD-1592 2025年度予算見積り公表.md>)
+  - [原本ファイル](<Public Report 2025/DHVN-QD-1592 Công khai dự toán ngân sách năm 2025_source.pdf>)
+- **DHVN-QD-323 2025年第1四半期予算執行公表**
+  - [Markdown版](<Public Report 2025/DHVN-QD-323 2025年第1四半期予算執行公表.md>)
+  - [原本ファイル](<Public Report 2025/DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025_source.pdf>)
+
+### 規程 – 教育訓練省（MOET）
+- **BGDDT-TT-08-2021 大学研修に関する規則**
+  - [Markdown版](<University Regulations/MOET/BGDDT-TT-08-2021 大学研修に関する規則.md>)
+  - [原本ファイル](<University Regulations/MOET/BGDDT-TT-08-2021 Regulation on Undergraduate Training_source.pdf>)
+- **BGDDT-TT-18-2021 博士課程入学及び研修に関する規則**
+  - [Markdown版](<University Regulations/MOET/BGDDT-TT-18-2021 博士課程入学及び研修に関する規則.md>)
+  - [原本ファイル](<University Regulations/MOET/BGDDT-TT-18-2021 Regulation on Admission and Training for Doctoral Degrees_source.pdf>)
+- **BGDDT-TT-23-2021 修士課程の入学及び研修に関する規則**
+  - [Markdown版](<University Regulations/MOET/BGDDT-TT-23-2021 修士課程の入学及び研修に関する規則.md>)
+  - [原本ファイル](<University Regulations/MOET/BGDDT-TT-23-2021 Regulation on Admission and Training for Masters Degrees_source.pdf>)
+
+### 規程 – ベトナム国家大学ハノイ校（VNU）
+- **DHQGHN-QD-3626 学部教育に関する規則**
+  - [Markdown版](<University Regulations/VNU/DHQGHN-QD-3626 学部教育に関する規則.md>)
+  - [原本ファイル](<University Regulations/VNU/DHQGHN-QD-3626 Decision Promulgating the Regulation on Undergraduate Training_source.pdf>)
+- **DHQGHN-QD-3636 修士課程に関する規則**
+  - [Markdown版](<University Regulations/VNU/DHQGHN-QD-3636 修士課程に関する規則.md>)
+  - [原本ファイル](<University Regulations/VNU/DHQGHN-QD-3636 Decision Promulgating the Regulation on Masters Training_source.pdf>)
+- **DHQGHN-QD-3638 博士課程に関する規則**
+  - [Markdown版](<University Regulations/VNU/DHQGHN-QD-3638 博士課程に関する規則.md>)
+  - [原本ファイル](<University Regulations/VNU/DHQGHN-QD-3638 Decision Promulgating the Regulation on Doctoral Training_source.pdf>)
+- **DHQGHN-QD-4455 卒業証書等の管理に関する規則**
+  - [Markdown版](<University Regulations/VNU/DHQGHN-QD-4455 卒業証書等の管理に関する規則.md>)
+  - [原本ファイル](<University Regulations/VNU/DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates_source.pdf>)
+- **DHQGHN-QD-5115 学部教育に関する規則 (差し替え済み)**
+  - [Markdown版](<University Regulations/VNU/DHQGHN-QD-5115 [DHQGHN-QD-3626-2022により置き換え] 学部教育に関する規則.md>)
+  - [原本ファイル](<University Regulations/VNU/DHQGHN-QD-5115 [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training_source.pdf>)
+
+### ガイドライン – 日越大学（VJU）
+- **DHNN-TB-2184 VNU-TESTS実施計画通知**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHNN-TB-2184 VNU-TESTS実施計画通知.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHNN-TB-2184 VNU-TESTS Foreign Language Assessment Plan_source.pdf>)
+- **DHVN-HD-1534 論文・卒業プロジェクト実施指針**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-HD-1534 論文・卒業プロジェクト実施指針.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-HD-1534 Organizing Theses and Graduation Projects_source.pdf>)
+- **DHVN-HD-1534 論文・卒業プロジェクト別紙 英語テンプレート**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-HD-1534 論文・卒業プロジェクト別紙 英語テンプレート.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-HD-1534 Thesis Graduation Annex Templates English_source.docx>)
+- **DHVN-HD-259 付録1 外国語証明書換算表**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-HD-259 付録1 外国語証明書換算表.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency Table_source.pdf>)
+- **DHVN-HD-259 付録2 JLPT受験委任状**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-HD-259 付録2 JLPT受験委任状.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-HD-259 Appendix 2 JLPT Authorization Letter Template_source.pdf>)
+- **DHVN-HD-259 外国語証明書活用指針 VJU2020-VJU2021**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-HD-259 外国語証明書活用指針 VJU2020-VJU2021.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-HD-259 Using Foreign Language Certificates VJU2020 VJU2021_source.pdf>)
+- **DHVN-HD-304 学習成果認定・単位互換指針**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-HD-304 学習成果認定・単位互換指針.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-HD-304 Recognizing Learning Outcomes and Credit Transfer_source.pdf>)
+- **DHVN-HD-483 実務実習・インターン課題指針**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-HD-483 実務実習・インターン課題指針.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-HD-483 Practical Internship Guidance_source.pdf>)
+- **DHVN-HD-xxx 外国語証明書活用指針 VJU2022以降**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-HD-xxx 外国語証明書活用指針 VJU2022以降.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-HD-xxx Using Foreign Language Certificates 2022 Onwards_source.pdf>)
+- **DHVN-QD-473 学術顧問業務規程**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-QD-473 学術顧問業務規程.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-QD-473 Regulations on Academic Advisory Work_source.pdf>)
+- **DHVN-TB-1010 英語証明書提出通知 VJU2025**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-TB-1010 英語証明書提出通知 VJU2025.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-TB-1010 Submission of English Language Certificates_source.pdf>)
+- **DHVN-TB-911 外国語証明書提出通知 VJU2024**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-TB-911 外国語証明書提出通知 VJU2024.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-TB-911 Submission of Foreign Language Certificates VJU2024_source.pdf>)
+- **DHVN-TB-984 外国語証明書提出通知 VJU2023**
+  - [Markdown版](<University Regulations/VJU/Japanease/DHVN-TB-984 外国語証明書提出通知 VJU2023.md>)
+  - [原本ファイル](<University Regulations/VJU/Original/DHVN-TB-984 Submission of Foreign Language Certificates VJU2023_source.pdf>)
 ---
 
-必要に応じてリポジトリ構造が更新された際は、本READMEのリンクも合わせてメンテナンスしてください。
+Whenever documents are added, renamed, or replaced, update the relevant language table so that each entry continues to provide both the Markdown version and the authoritative source file.
