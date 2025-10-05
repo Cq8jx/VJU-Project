@@ -3,10 +3,8 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
 
 ---
 
----
-
 **ĐẠI HỌC QUỐC GIA HÀ NỘI**
-**TRƯỜ-NG ĐẠI HỌC VIỆT NHẬT**
+**TRƯỜNG ĐẠI HỌC VIỆT NHẬT**
 
 **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 **Độc lập - Tự do - Hạnh phúc**
@@ -17,7 +15,7 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
 # THÔNG BÁO
 **Nộp chứng chỉ/chứng nhận ngoại ngữ tiếng Anh xét công nhận kết quả học tập, chuyển đổi tín chỉ và chuẩn đầu ra cho sinh viên khóa VJU2025 tại Trường Đại học Việt Nhật, Đại học Quốc gia Hà Nội**
 
-Căn cứ Quyết định số 3626/QĐ- ĐHQGHN ngày 21/10/2022 của Giám đốc Đại học Quốc gia Hà Nội về việc ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội;
+Căn cứ Quyết định số 3626/QĐ-ĐHQGHN ngày 21/10/2022 của Giám đốc Đại học Quốc gia Hà Nội về việc ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội;
 Căn cứ Hướng dẫn số 1011/HD-ĐHQGHN ngày 23/03/2023 của Giám đốc Đại học Quốc gia Hà Nội về Tổ chức đào tạo các học phần ngoại ngữ thuộc khối kiến thức chung và xác định chuẩn đầu ra trong chương trình đào tạo đại học, thạc sĩ, tiến sĩ tại Đại học Quốc gia Hà Nội;
 Căn cứ Hướng dẫn số 880/HD-ĐHVN ngày 11/08/2025 của Trường Đại học Việt Nhật về Hướng dẫn sử dụng chứng chỉ ngoại ngữ xác nhận chuẩn đầu ra đối với sinh viên khóa VJU2022 trở đi;
 
@@ -86,7 +84,7 @@ Trân trọng thông báo./.
 | **Bậc 4** | 5.5 | 72 iBT | B2 | B1 Preliminary: 160<br>B2 First: 160<br>C1 Advanced: 160<br>B1 Business Preliminary: 160<br>B2 Business Vantage: 160<br>C1 Business Higher: 160 | VSTEP.3-5 (6.0) | Bậc 4 |
 | **Bậc 5** | 7.0 | 95 iBT | C1 | B2 First: 180<br>C1 Advanced: 180<br>C2 Proficiency: 180<br>B2 Business Vantage: 180<br>C1 Business Higher: 180 | VSTEP.3-5 (8.5) | Bậc 5 |
 
-(*) Căn cứ theo Phụ lục 2, Hướng dẫn số 1011/HD-ĐHQGHN ngày 23/03/2023 của ĐẠI HỌCQGHN về Tổ chức đào tạo các học phần ngoại ngữ thuộc khối kiến thức chung và xác định chuẩn đầu ra trong chương trình đào tạo đại học, thạc sĩ, tiến sĩ tại Đại học Quốc gia Hà Nội;
+(*) Căn cứ theo Phụ lục 2, Hướng dẫn số 1011/HD-ĐHQGHN ngày 23/03/2023 của Đại học Quốc gia Hà Nội (ĐHQGHN) về Tổ chức đào tạo các học phần ngoại ngữ thuộc khối kiến thức chung và xác định chuẩn đầu ra trong chương trình đào tạo đại học, thạc sĩ, tiến sĩ tại Đại học Quốc gia Hà Nội;
 - Các điểm số nêu trên là điểm tối thiểu người học cần đạt được; trường hợp các chứng chỉ/chứng nhận ngoại ngữ dùng làm minh chứng để xác định chuẩn đầu ra có đủ phần thi cho 4 kĩ năng Nghe - Nói - Đọc - Viết thì người học phải tham dự đủ 4 kĩ năng nói trên.
 - Đại học Quốc gia Hà Nội không công nhận các chứng chỉ/chứng nhận ngoại ngữ thi online./.
 

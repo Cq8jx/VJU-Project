@@ -69,6 +69,7 @@ Sinh viên nộp chứng chỉ, chứng nhận tiếng Anh hợp lệ được c
 - Chứng nhận, chứng chỉ ngoại ngữ thi dưới hình thức trực tuyến không được công nhận tại Trường Đại học Việt Nhật.
 - Trường Đại học Việt Nhật khuyến khích sinh viên nộp chứng chỉ, chứng nhận sớm để kịp tiến độ thẩm định chứng chỉ, chứng nhận trước thời điểm xét tốt nghiệp.
 - Mọi thắc mắc về việc nộp chứng chỉ, chứng nhận, sinh viên liên hệ trực tiếp với Phòng Đào tạo và Công tác sinh viên (email: phongdaotao@st.vju.ac.vn).
+
 Trân trọng thông báo./.
 
 **Nơi nhận:**
