@@ -24,18 +24,18 @@ or translated, including documents in Chinese, Japanese, etc. (For
 documents in languages that are not yet widely known, a Vietnamese
 translation can be added to each document).
 
-2\. References are arranged in alphabetical order by author\'s name
-according to each country\'s practice:
+2\. References are arranged in alphabetical order by author's name
+according to each country's practice:
 
 - Foreign authors are listed in alphabetical order by last name:
 
-> \+ There is one author (according to example document number 28);
+> + There is one author (according to example document number 28);
 >
-> \+ There are two authors (according to example document number 29);
+> + There are two authors (according to example document number 29);
 >
-> \+ There are three or more authors: from the second author onwards,
-> the first name is abbreviated first, then the last name. The authors\'
-> names are separated by a comma. Before the last author\'s first name
+> + There are three or more authors: from the second author onwards,
+> the first name is abbreviated first, then the last name. The authors'
+> names are separated by a comma. Before the last author's first name
 > and last name, replace the comma with \"and\" (according to example
 > document number 30).
 
@@ -59,7 +59,7 @@ reports must include the following information:
 - *Title of book, thesis or report* ( italicized, comma at end of
   title).
 
-- publisher, (comma at the end of the publisher\'s name).
+- publisher, (comma at the end of the publisher's name).
 
 - Place of publication. (period ends reference).
 
@@ -104,7 +104,7 @@ Example of how to present references:
     Publishing House, Hanoi.
 
 4.  Nguyen Thi Gam (1996), *Discovery and evaluation of some
-    temperature-induced male sterile lines,* Master\'s thesis in
+    temperature-induced male sterile lines,* Master's thesis in
     Agricultural Science, Vietnam Institute of Agricultural Science and
     Technology, Hanoi.
 
@@ -258,7 +258,7 @@ Instructor:
 
 **THINGS TO NOTE**
 
-In order to improve the quality of students\' graduation thesis, during
+In order to improve the quality of students' graduation thesis, during
 the implementation process, students keep a graduation thesis/project
 diary. Students need to note and follow the following instructions:
 
@@ -285,9 +285,9 @@ the instructor and student. In case of discussion via email or other
 methods, it must also be shown in the Diary, with confirmation from the
 instructor and student.
 
-\- At the same time, the student\'s KL and DA Diary also clearly shows
+\- At the same time, the student's KL and DA Diary also clearly shows
 the amount of work the instructor does for that student, which serves as
-the basis for calculating the instructor\'s guidance fee.
+the basis for calculating the instructor's guidance fee.
 
 3\. The KL and DA diary is also important evidence for the KL and DA
 implementation process of students and is a condition for students to
@@ -303,7 +303,7 @@ the School.
 
 *3.1.2. Thesis and graduation project guidance process*
 
-**NOTES ON THE THESIS/GRADUATION PROJECT GUIDANCE PROCESS ^\*^**
+**NOTES ON THE THESIS/GRADUATION PROJECT GUIDANCE PROCESS ^*^**
 
 | **TT** ^1^ | **Time** ^2^ | **Day/Month/Year** ^3^ | **Exchange content** | **Opinion of supervisor (GVHD)** ^4^ | **Receiving body** ^5^ | **Student reflection** ^6^ | **Receiving body** ^7^ |
 |------------|--------------|-------------------------|----------------------|--------------------------------------|------------------------|----------------------------|------------------------|
@@ -320,7 +320,7 @@ the School.
   ----------------------------------------------------------------------------------------
 
 +---------+-----------------------------------------------------------------+
-| *(\*)*  | *Students write in detail too program direction guide lock      |
+| *(*)*  | *Students write in detail too program direction guide lock      |
 |         | thesis / diagram judgment Good career​*                          |
 |         |                                                                 |
 |         | *Seminars and conferences​ grass link mandarin arrive topic KL,  |
@@ -334,12 +334,12 @@ the School.
 +---------+-----------------------------------------------------------------+
 | *\[3\]* | *Clearly state the purpose of the meeting*                      |
 +---------+-----------------------------------------------------------------+
-| *\[4\]* | *Clearly record the supervisor\'s opinions related to the       |
+| *\[4\]* | *Clearly record the supervisor's opinions related to the       |
 |         | content of the meeting.*                                        |
 +---------+-----------------------------------------------------------------+
 | *\[5\]* | *Supervisor signs and prints full name after the meeting ends.* |
 +---------+-----------------------------------------------------------------+
-| *\[6\]* | *Clearly record student feedback based on supervisor\'s         |
+| *\[6\]* | *Clearly record student feedback based on supervisor's         |
 |         | comments.*                                                      |
 |         |                                                                 |
 |         | *In addition, students can add other opinions (if any) related  |
@@ -349,7 +349,7 @@ the School.
 |         | ends.*                                                          |
 +---------+-----------------------------------------------------------------+
 
-*3.1.3. Comments on the process of implementing students\' thesis and
+*3.1.3. Comments on the process of implementing students' thesis and
 graduation projects*
 
 **COMMENTARY**
@@ -383,17 +383,17 @@ project, I have the following comments:
 >
 > *(Sign and print full name)*
 
-***\* Comments according to the following suggestions:***
+***Comments according to the following suggestions:***
 
-\+ Results of the thesis/project implementation regarding the urgency,
++ Results of the thesis/project implementation regarding the urgency,
 scientific significance, research purpose and methods, the rationality
 and reliability of research methods, evaluation of the achieved results,
 indicating new results, new contributions and the scientific value of
 those contributions.
 
-\+ Spirit and sense of responsibility of students.
++ Spirit and sense of responsibility of students.
 
-\+ Other comments (if any).
++ Other comments (if any).
 
 *3.1.4. Application for Thesis/Graduation Project Defense*
 
@@ -422,15 +422,13 @@ Project Evaluation Council.
 I sincerely thank you.
 
 +----------------------------------+-----------------------------------+
-| **Instructor\'s comments**       | **Student**                       |
+| **Instructor's comments**       | **Student**                       |
 |                                  |                                   |
 | *(Give comments, sign and print  | *(Sign and print full name)*      |
 | full name)*                      |                                   |
 +==================================+===================================+
 
-**[\]{.underline}**
-
-**[Appendix 3.2.]{.underline}** **Reviewer\'s comments on thesis and
+**[Appendix 3.2.]{.underline}** **Reviewer's comments on thesis and
 graduation project**
 
 +:---------------------------:+:--------------------------------------:+
@@ -441,7 +439,7 @@ graduation project**
 | UNIVERSITY**                |                                        |
 +-----------------------------+----------------------------------------+
 
-**REVIEWER\'S COMMENT FORM ON THE THESIS/THESIS PROJECT**
+**REVIEWER'S COMMENT FORM ON THE THESIS/THESIS PROJECT**
 
 Student:..........................................................................
 .........................
@@ -528,7 +526,7 @@ program)*
 Thesis and graduation project evaluation council of the training
 program: \...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
 
-Student\'s full
+Student's full
 name:\...\...\...\...\...\...\...\...\...\...\...\...\...\...Student
 code:\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...
 
@@ -617,7 +615,7 @@ project evaluation scores**
 |------------------------------|-------------------------------|
 | *(Sign and print full name)* | *(Sign and print full name)*  |
 
-**\**
+----
 
 **[Appendix 3.5.]{.underline} Minutes of thesis and graduation project
 evaluation**
@@ -663,7 +661,7 @@ projects, specifically: Present: / (ratio: \...%); Absent: / (ratio:
 
 \- Students report their Thesis/Graduation Project in order of name;
 
-\- 02 reviewers read comments on each student\'s Graduation
+\- 02 reviewers read comments on each student's Graduation
 Thesis/Project after the presentation;
 
 \- Evaluation Council members ask questions to students;
@@ -727,7 +725,7 @@ Council, the following corrections have been made:
 3\.
 
 +:--------------------------------------:+:----------------------------------:+
-| **INSTRUCTOR\'S VERIFICATION**         | **STUDENT SIGNATURE**              |
+| **INSTRUCTOR'S VERIFICATION**         | **STUDENT SIGNATURE**              |
 +----------------------------------------+------------------------------------+
 | **CONFIRMATION OF THE CHAIRMAN OF THE BOARD**                               |
 +-----------------------------------------------------------------------------+

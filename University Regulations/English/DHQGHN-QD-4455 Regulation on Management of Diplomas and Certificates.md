@@ -30,7 +30,7 @@ university diplomas and certificates of the national education system;
 Pursuant to Circular No. 27/2019/TT-BGDDT dated December 30, 2019 of the
 Ministry of Education and Training promulgating the regulations on the
 main contents recorded on university diplomas and diploma supplements
-including: bachelor\'s degrees, master\'s degrees, doctoral degrees and
+including: bachelor's degrees, master's degrees, doctoral degrees and
 equivalent qualifications; At the request of the Head of the Training
 Department.
 
@@ -69,7 +69,7 @@ Hanoi)*
 ### Article 1. Scope of regulation, interpretation of terms and applicable objects
 
 1.  Scope of regulation This document regulates the management of
-    university, master\'s, doctoral degrees, certificates and
+    university, master's, doctoral degrees, certificates and
     certifications at Vietnam National University, Hanoi (VNU),
     including: diploma templates, certificate templates and
     certification templates; printing and management of diploma
@@ -98,7 +98,7 @@ Hanoi)*
         degrees, certificates, and certifications; have training
         cooperation relationships according to current regulations with
         VNU, with training units;
-    c)  A VNU diploma is a legal diploma that recognizes the learner\'s
+    c)  A VNU diploma is a legal diploma that recognizes the learner's
         qualifications after completing a training program, meeting the
         output standards of a university training program (including
         bachelor, engineer, doctor, pharmacist), master, and doctorate
@@ -138,7 +138,7 @@ Hanoi)*
     c)  For training cooperation with foreign countries to issue
         diplomas, certificates, and certifications: Printing and
         management of diplomas, certificates, and certifications shall
-        comply with the partner\'s regulations; the training unit shall
+        comply with the partner's regulations; the training unit shall
         publicize information, establish an original book of diplomas,
         certificates, and certifications for management, implement the
         reporting regime, and inspect and manage diplomas, certificates,
@@ -327,10 +327,10 @@ Hanoi)*
 
 ### Article 5. Content, size, material, cover color and blank diploma, certificate, and certification
 
-1.  VNU\'s diploma blanks include: PhD, Master\'s, Bachelor\'s,
-    Engineer\'s, Medical, Pharmacist\'s degree blanks and honorary
+1.  VNU's diploma blanks include: PhD, Master's, Bachelor's,
+    Engineer's, Medical, Pharmacist's degree blanks and honorary
     doctorate degree blanks. The addition of equivalent diploma blanks
-    (if any) will be decided by the Director of VNU. VNU\'s diploma
+    (if any) will be decided by the Director of VNU. VNU's diploma
     blanks include the cover and the content of the diploma blank.
 2.  The cover part is made of
     a)  On the cover are the national emblem, the name of the diploma,
@@ -345,12 +345,12 @@ Hanoi)*
     d)  Cover color:
 
     - PhD: Bordeaux Red
-    - Master\'s Degree: Purple
-    - Bachelor\'s degree: Brown
+    - Master's Degree: Purple
+    - Bachelor's degree: Brown
     - Engineering degree: Brown
     - Medical degree: Brown
     - Pharmacist degree: Brown
-    - Bachelor\'s, engineer\'s, doctor\'s, pharmacist\'s degrees awarded
+    - Bachelor's, engineer's, doctor's, pharmacist's degrees awarded
       for talented, international standard, advanced training programs
       and excellent graduation for other training programs: Red flag
 3.  The content written on the blank is
@@ -384,11 +384,11 @@ Hanoi)*
         different for each type of blank.
 
     - PhD: Textured paper, patterned, light pink
-    - Master\'s Degree: Smooth, light pink, textured paper
-    - Bachelor\'s Degree: Smooth, light yellow, textured paper
+    - Master's Degree: Smooth, light pink, textured paper
+    - Bachelor's Degree: Smooth, light yellow, textured paper
     - Engineering Degree: Smooth, light yellow, textured paper
     - Medical Certificate: Smooth, light yellow paper
-    - Pharmacist\'s degree: Smooth, light yellow rough paper. If
+    - Pharmacist's degree: Smooth, light yellow rough paper. If
       necessary, the Director of VNU decides to change the material,
       type and color of the printing paper.
 4.  Content written on certificate form, certificate sample
@@ -454,12 +454,12 @@ Hanoi)*
         book established by the training unit, fill in the information,
         preserve and store permanently at the unit (according to the
         form in Appendix XIV of this Regulation).
-2.  For master\'s degree
+2.  For master's degree
     a)  Section "Principal ... level": Record the name of the training
         unit (according to Appendix I);
     b)  Section "Major": Write the name of the major or major according
         to the list of majors and training majors that are awarded a
-        master\'s degree (according to Appendix III). For
+        master's degree (according to Appendix III). For
         interdisciplinary or pilot training majors that have not been
         classified into a specific major, write the name of the training
         major. In case the name of the major/major is not yet in
@@ -494,7 +494,7 @@ Hanoi)*
     g)  The \"Director\" or \"Principal\" section must be left blank for
         signature and the academic title, degree, and full name of the
         Director of VNU or the Principals of training units with the
-        authority to grant the degree; for master\'s degrees signed by
+        authority to grant the degree; for master's degrees signed by
         the Director of VNU, it is necessary to add the \"Principal/Head
         of Department\" of the affiliated School/Faculty or
         \"Institute\" section to the left of the \"Director\" section
@@ -510,7 +510,7 @@ Hanoi)*
         book established by the training unit, fill in the information,
         preserve and store permanently at the unit (according to the
         form in Appendix XIII of this Regulation).
-3.  Bachelor\'s degree, engineer, doctor, pharmacist
+3.  Bachelor's degree, engineer, doctor, pharmacist
     a)  Section "Principal ... level": Record the name of the training
         unit (according to Appendix I);
     b)  Section "Major": Write the name of the major according to the
@@ -558,7 +558,7 @@ Hanoi)*
     h)  The \"Director\" or \"Principal\" section must be left blank for
         signature and the academic title, degree, and full name of the
         Director of VNU or the Principal of the training unit with the
-        authority to grant the degree; for bachelor\'s and engineering
+        authority to grant the degree; for bachelor's and engineering
         degrees signed by the Director of VNU, it is necessary to add
         the \"Principal/Head of Department\" section of the affiliated
         School/Faculty to the left of the \"Director\" section for the
@@ -601,7 +601,7 @@ Hanoi)*
     the issuance of new forms or for other reasons cannot be used must
     be destroyed according to the provisions of Article 19 of these
     Regulations.
-5.  VNU\'s diploma blanks must have their own numbers and symbols for
+5.  VNU's diploma blanks must have their own numbers and symbols for
     management. The serial numbers printed on the diploma blanks are
     continuously established in natural number order from small to large
     from the time the diploma blanks are printed; ensuring that the
@@ -610,7 +610,7 @@ Hanoi)*
     identified; each serial number can only be printed on one diploma
     blank as prescribed by VNU; the diploma blank sample is reported to
     the Ministry of Education and Training and the Hanoi City Police.
-6.  Facilities, equipment and materials for preserving VNU\'s diploma
+6.  Facilities, equipment and materials for preserving VNU's diploma
     blanks
     a)  The warehouse for storing blanks is a place to store and keep
         blanks. It must be equipped with fire and explosion prevention
@@ -658,7 +658,7 @@ Hanoi)*
     learners organized by the unit.
 7.  The certificate form must be sent to VNU, Hanoi City Police,
     relevant competent state agencies (if any) and publicly announced on
-    the training unit\'s electronic information portal.
+    the training unit's electronic information portal.
 
 ### Article 9. Responsibilities of the head in printing, managing diploma and certificate templates and approving certificate templates
 
@@ -695,7 +695,7 @@ Hanoi)*
         blank certificates;
     đ) Approve blank samples and regulate the
         establishment of numbers, symbols, and anti-counterfeit stamps
-        for the unit\'s blank certificates; organize inspection of
+        for the unit's blank certificates; organize inspection of
         printing, management, preservation, issuance and use of blank
         certificates; be responsible for the content printed on blank
         certificates and certificates.
@@ -733,7 +733,7 @@ Hanoi)*
 ### Article 11. Receiving and processing applications for issuance of blank certificates
 
 1.  The Training Board receives, appraises documents and approves the
-    issuance of doctoral, master\'s, bachelor\'s, engineer\'s, medical
+    issuance of doctoral, master's, bachelor's, engineer's, medical
     and pharmacist degree blanks to training units; establishes a book
     of degree blank handover between the Training Board and the blank
     receiving staff of the training unit.
@@ -741,7 +741,7 @@ Hanoi)*
     a)  In case the dossier is complete according to the provisions of
         Article 10 of this Regulation, the assigned officer of the
         Training Board shall appraise and prepare a blank issuance form
-        to submit to the Board\'s Leader for approval within 05 working
+        to submit to the Board's Leader for approval within 05 working
         days and transfer the form to the assigned officer to store the
         blank to issue the blank to the training unit;
     b)  After being approved for the issuance of the diploma, the
@@ -754,7 +754,7 @@ Hanoi)*
         diplomas that need to be returned to VNU;
     c)  In case the dossier is incomplete, the officer in charge of
         appraising the dossier for issuing the blank certificate of the
-        Training Board shall report to the Board\'s leadership and guide
+        Training Board shall report to the Board's leadership and guide
         the training unit to complete the procedures for requesting the
         issuance of the blank certificate.
 
@@ -815,7 +815,7 @@ Hanoi)*
 1.  Training units build a database system to manage diplomas,
     certificates, and certifications granted to learners; publish
     information on the granting of diplomas, certificates, and
-    certifications on the unit\'s electronic information portal to
+    certifications on the unit's electronic information portal to
     publicize and make transparent training activities and the granting
     of diplomas, certificates, and certifications, and limit fraud and
     negativity in the management and issuance of diplomas, certificates,
@@ -832,7 +832,7 @@ Hanoi)*
 3.  Information publicly announced on the issuance of diplomas,
     certificates and certifications must be accurate compared to the
     original certificate, certificate and certification issuance book
-    and must be periodically updated and stored on the unit\'s
+    and must be periodically updated and stored on the unit's
     electronic information portal; ensuring convenience in management,
     access, search and compliance with legal regulations. The public
     announcement of information on the issuance of diplomas,
@@ -873,7 +873,7 @@ Hanoi)*
         graduation, full name, signature and title, academic rank,
         degree of the signer, conversion table of 10-point scale,
         4-point scale and letter grade;
-    b)  For the master\'s degree appendix (according to the form of
+    b)  For the master's degree appendix (according to the form of
         Appendix XVII), fully state: full name, middle name (if any),
         first name, date of birth, gender, place of birth, student code,
         training program, training major, training form, course,
@@ -910,7 +910,7 @@ Hanoi)*
     information stated in the degree is complete and accurate, with the
     signature of the person authorized to grant the degree and the stamp
     as prescribed.
-2.  VNU\'s diplomas and diploma supplements are awarded to diploma
+2.  VNU's diplomas and diploma supplements are awarded to diploma
     holders after completing the training program, meeting the output
     standards of the training level as prescribed, fulfilling the
     obligations and responsibilities of the learner, and having a
@@ -1036,7 +1036,7 @@ Hanoi)*
 7.  The head of the training unit establishes a council to cancel
     certificate blanks and certificates, misprinted certificates, or
     revoked certificates. The council members are decided by the head of
-    the unit and must include representatives of the unit\'s leadership,
+    the unit and must include representatives of the unit's leadership,
     the Training department/division, and the Legal Inspectorate. The
     minutes must be made of the cancellation of blanks, certificates,
     misprinted certificates, or revoked certificates. The minutes
@@ -1069,7 +1069,7 @@ Hanoi)*
 3.  The stamping on the signature of the person authorized to issue
     degrees, certificates, and certifications shall be carried out in
     accordance with current regulations on clerical work. For doctoral,
-    master\'s, bachelor\'s, and engineering degrees signed by the
+    master's, bachelor's, and engineering degrees signed by the
     Director of VNU, the VNU stamp shall be affixed.
 
 ### Article 21. Establishing an original book to track the issuance of diplomas, certificates, and certifications
@@ -1160,7 +1160,7 @@ of Education and Training (if any).
 ### Article 25. Procedures for editing the content of diplomas, certificates and certifications
 
 1.  The dossier and procedures for requesting to edit the content of a
-    learner\'s diploma, certificate, or certification shall comply with
+    learner's diploma, certificate, or certification shall comply with
     the provisions of the current Regulations on management of diplomas
     and certificates of the Ministry of Education and Training and other
     relevant current regulations.
@@ -1688,7 +1688,7 @@ law.
 **SOCIALIST REPUBLIC OF VIETNAM** **Independence -- Freedom --
 Happiness**
 
-**LIST OF RECOGNIZED STUDENTS** **MASTER\'S DEGREE AND DEGREE ⁷**
+**LIST OF RECOGNIZED STUDENTS** **MASTER'S DEGREE AND DEGREE ⁷**
 *(according to Decision/Official Dispatch No. .... dated ... month ...
 year ...)*
 
@@ -1747,10 +1747,10 @@ B, C*
   **Major:**
   ........................................................................
 
-  \| Student ID number \| Student\'s full name \| Date of birth \| Place of
+  \| Student ID number \| Student's full name \| Date of birth \| Place of
   birth \| Gender \| Ethnicity \| Nationality \| Graduation year \|
   Graduation rank \| Diploma number \| Original diploma book number \|
-  Diploma recipient\'s signature and full name \| Date of receiving diploma
+  Diploma recipient's signature and full name \| Date of receiving diploma
   \| Note \| \| :-- \| :--- \| :--- \| :--- \| :--- \| :--- \| :--- \| :---
   \| :--- \| :--- \| :--- \| :--- \| :--- \| :--- \| :--- \| :--- \| :--- \|
   1 \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| \| 2 \| \| \| \| \| \|
@@ -1771,7 +1771,7 @@ B, C*
 **SOCIALIST REPUBLIC OF VIETNAM** **Independence -- Freedom --
 Happiness**
 
-**ORIGINAL MASTER\'S DEGREE BOOK**
+**ORIGINAL MASTER'S DEGREE BOOK**
 
 **Course:**
 ........................................................................
@@ -1828,7 +1828,7 @@ full name)*
 
   \| TT number \|
   Student code \|
-  Student\'s full
+  Student's full
   name \| Date of
   birth \| Issued
   diploma or
@@ -2096,7 +2096,7 @@ full name)*
 ²⁵ *The unit can separate the original certificate book and the
 certificate number. The unit can create an original certificate book
 (without a number) but must ensure that the contents are recorded in the
-certificate and ensure the unit\'s certificate management.*
+certificate and ensure the unit's certificate management.*
 
   ------------------
 ### Appendix XX
@@ -2171,7 +2171,7 @@ certificate and ensure the unit\'s certificate management.*
   can supplement
   other information
   to serve the
-  unit\'s copy
+  unit's copy
   management work.*
   ------------------
 
@@ -2189,7 +2189,7 @@ CERTIFICATES** **YEAR ......**
 certifications at the unit** **2. Diploma management and issuance** a)
 Diploma management and issuance: reporting on the actual management and
 issuance of diplomas, updating diploma issuance information on the
-unit\'s electronic information portal, establishing the original diploma
+unit's electronic information portal, establishing the original diploma
 issuance book and archiving, computerizing diploma issuance management
 data and other related information.
     đ) Number of diplomas issued to
@@ -2266,7 +2266,7 @@ the unit in the reporting year. - Organization of enrollment and
 training of training programs, certification and certification training
 in the reporting year. - Archiving of records, management and issuance
 of certificates and certifications; updating information on
-certification issuance on the unit\'s electronic information portal;
+certification issuance on the unit's electronic information portal;
 establishment of original certificate issuance books and computerization
 of data on management of certificate issuance and certification
 issuance, etc.

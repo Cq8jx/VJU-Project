@@ -87,7 +87,7 @@ Director of Vietnam National University, Hanoi)*
         and evaluated.
 2.  Credits are a quantity that determines the amount of knowledge and
     skills that students accumulate from courses in 15 credit hours.
-3.  Credit hours are a measure of a student\'s study time, divided into
+3.  Credit hours are a measure of a student's study time, divided into
     three types according to teaching methods and determined as follows:
     a)  One theoretical credit hour is equal to one theoretical period;
         to acquire one theoretical credit hour, students must spend at
@@ -222,7 +222,7 @@ Director of Vietnam National University, Hanoi)*
         training are prescribed by the Head of the training unit.
 2.  Use of training funds
     a)  The head of the training unit decides on the use of training
-        funds according to the unit\'s internal spending regulations.
+        funds according to the unit's internal spending regulations.
     b)  The unit managing the training funding source is responsible for
         paying the funding to the unit performing the tasks stated in
         Clause 2, Article 2 of this Regulation according to the rates
@@ -321,7 +321,7 @@ Promoting the effectiveness of international cooperation.
     d)  Implement formal training.
 2.  Design training programs
     a)  The standard training program is designed from 120 to 140
-        credits for bachelor\'s training, 140 to 160 credits for
+        credits for bachelor's training, 140 to 160 credits for
         engineering training, 155 to 175 credits for pharmacist
         training, 205 to 225 credits for medical training.
     b)  The high-quality training program is designed to have at least
@@ -379,7 +379,7 @@ Promoting the effectiveness of international cooperation.
 1.  Vietnam National University, Hanoi
     a)  Prescribe the structure of the training program according to
         Article 10 of this Regulation;
-    b)  Appraisal and approval of training unit\'s project to open new
+    b)  Appraisal and approval of training unit's project to open new
         majors;
     c)  Decision to promulgate training programs of Hanoi National
         University;
@@ -504,7 +504,7 @@ is 50 minutes. Break time between two classes is 10 minutes.
         the same course and are stable from the beginning to the end of
         each course. The course class is in charge of the homeroom
         teacher. The course class representative is the class committee.
-    b)  Course classes are named after the student\'s major and year of
+    b)  Course classes are named after the student's major and year of
         admission, with codes according to the regulations of Hanoi
         National University.
     c)  Students who are allowed to take a temporary leave of absence,
@@ -557,7 +557,7 @@ is 50 minutes. Break time between two classes is 10 minutes.
         University. The results of these courses are converted and
         recognized in all training units of Hanoi National University.
     b)  Training units are responsible for notifying in writing and on
-        the unit\'s electronic information page the teaching plan and
+        the unit's electronic information page the teaching plan and
         course schedule at least 2 weeks before the registration period
         so that students know, creating all favorable conditions for
         students of other units to register for courses; transferring
@@ -634,8 +634,8 @@ is 50 minutes. Break time between two classes is 10 minutes.
 ### Article 21. Withdrawal of registered courses
 
 1.  Credit withdrawal applies to the following cases:
-    a)  According to students\' needs and choices;
-    b)  After registering for a course, the student\'s academic standing
+    a)  According to students' needs and choices;
+    b)  After registering for a course, the student's academic standing
         is determined to require the student to withdraw a course within
         the prescribed volume limit;
     c)  Students with a semester GPA below 2.00 but not yet subject to
@@ -754,7 +754,7 @@ is 50 minutes. Break time between two classes is 10 minutes.
     training programs. Students who accumulate enough credits as
     required by both training programs will be awarded two degrees upon
     graduation.
-5.  The first and second training program organizers update students\'
+5.  The first and second training program organizers update students'
     learning results after each semester. Students must stop studying
     the second training program in the following semester if they end
     the semester with poor academic performance in one of the two
@@ -825,7 +825,7 @@ is 50 minutes. Break time between two classes is 10 minutes.
     a)  Wish to transfer to study at Hanoi National University;
     b)  Not a first-year or final-year student, with an average grade
         point average of 2.50 or higher at the time of consideration;
-    c)  Meet the requirements of the training unit\'s competency
+    c)  Meet the requirements of the training unit's competency
         assessment test;
     d)  Be healthy enough to study;
     đ)  Not subject to forced expulsion from school, not under criminal
@@ -861,7 +861,7 @@ is 50 minutes. Break time between two classes is 10 minutes.
 
 ### Article 27. Scientific research activities of students
 
-Students\' scientific research activities are organized in the following
+Students' scientific research activities are organized in the following
 forms: 1. Participating in student science clubs, scientific seminars,
 scientific reports at conferences, scientific workshops, publishing
 scientific articles in specialized journals; 2. Participating in field
@@ -872,7 +872,7 @@ research topics, and applying scientific advances in practice.
 
 The organization and management of scientific research activities of
 students are decentralized as follows: 1. Training unit a) Develop a
-plan for scientific research activities of students in the unit\'s
+plan for scientific research activities of students in the unit's
 academic year tasks.
     c) Implement scientific research of students in
 association with scientific research topics, projects and other
@@ -880,7 +880,7 @@ scientific activities of the unit. Create conditions for students to
 participate in research, become members of research groups and
 participate in scientific and technological activities.
     d) Organize
-student scientific conferences, evaluate, classify and reward students\'
+student scientific conferences, evaluate, classify and reward students'
 research works.
     đ) Establish student scientific clubs, organize
 scientific thematic activities.
@@ -890,10 +890,10 @@ scientific research for each project. 2. Hanoi National University
 Organizes the review and awards for outstanding scientific research
 works of students of Hanoi National University.
 
-### Article 29. Bonus points for students\' scientific research achievements
+### Article 29. Bonus points for students' scientific research achievements
 
 1.  Bonus points for scientific research projects of award-winning
-    students are added to the semester\'s average score and cumulative
+    students are added to the semester's average score and cumulative
     average score to serve as a basis for considering scholarships,
     transfer to graduate school and other benefits. They are not used to
     classify academic performance or determine graduation rank.
@@ -961,7 +961,7 @@ works of students of Hanoi National University.
 
 ### Article 31. Academic advisor
 
-1.  Academic advisors are lecturers with a master\'s degree or higher,
+1.  Academic advisors are lecturers with a master's degree or higher,
     have at least 2 years of direct teaching experience, and are
     knowledgeable about the training program.
 2.  The head of the training unit prescribes the method of organizing
@@ -969,16 +969,16 @@ works of students of Hanoi National University.
 3.  Responsibilities of the academic advisor
     a)  Master the training program, guide students in building a study
         plan, choosing and registering for courses suitable to the
-        students\' learning conditions and the goals and requirements of
+        students' learning conditions and the goals and requirements of
         the training program;
     b)  Provide guidance on learning methods, research, professional
         skills development, and supplementary skills for students;
-        regularly monitor students\' learning outcomes;
+        regularly monitor students' learning outcomes;
     c)  Help students solve difficulties in their studies; remind
         students when they see their academic performance decline;
     d)  Coordinate with the Training Department, the Department of
         Politics and Student Affairs, lecturers and related units to
-        create conditions for students to study and evaluate students\'
+        create conditions for students to study and evaluate students'
         training scores.
 4.  Benefits of academic advisors
     a)  Reduced standard teaching hours, enjoy allowances according to
@@ -1008,7 +1008,7 @@ works of students of Hanoi National University.
     discipline regulations. Violations will result in disciplinary
     action at the following levels:
     a)  Reprimand: applied to students who commit the mistake of looking
-        at other people\'s papers, exchanging papers, or discussing
+        at other people's papers, exchanging papers, or discussing
         papers during the exam. Students who are reprimanded during a
         subject test will have 25% of the score achieved for that
         subject test deducted;
@@ -1018,7 +1018,7 @@ works of students of Hanoi National University.
     - Having been reprimanded once but still violating the regulations
       during the exam of that subject;
     - Exchange homework and scratch paper with others;
-    - Copying someone else\'s work. Exams that are found to be similar
+    - Copying someone else's work. Exams that are found to be similar
       will be dealt with the same way, except in cases where the person
       being disciplined has sufficient evidence to prove that he/she has
       actually cheated, then the head of the training unit may consider
@@ -1034,7 +1034,7 @@ works of students of Hanoi National University.
       carrying unauthorized items;
     - Taking the exam papers out or receiving the answers from outside
       into the exam room. Students who are suspended from the exam will
-      receive zero (0) for that subject\'s exam and must leave the exam
+      receive zero (0) for that subject's exam and must leave the exam
       room immediately after the suspension decision is made. The
       invigilator will record the above disciplinary actions, collect
       the evidence and clearly state the disciplinary action.
@@ -1132,7 +1132,7 @@ works of students of Hanoi National University.
 4.  No later than one day after the end of the course, the lecturer
     shall send a list of students who are eligible to take the final
     exam and those who are not (with reasons clearly stated) to the
-    Training Department. Based on the lecturer\'s request and other
+    Training Department. Based on the lecturer's request and other
     obligations of the students, the Training Department shall make a
     list of students eligible to take the exam and assign exam rooms.
 5.  The head of the training unit specifies the examination and grading
@@ -1183,7 +1183,7 @@ examinations, and grading of examinations who violate regulations
 and disciplined according to the following forms, depending on the
 severity: 1. Reprimand: applied to those who violate one of the
 following errors: arriving late at the prescribed time, not signing the
-examination papers or students\' scratch papers, not concentrating
+examination papers or students' scratch papers, not concentrating
 during the examination, or missing one examination session without a
 valid reason. 2. Warning: applied to those who violate one of the
 following errors:
@@ -1274,12 +1274,12 @@ distorting scores on exam papers, exam marking records or grade books;
         but is not forced to drop out of school, he/she can still
         continue studying in the next semesters.
 6.  The X-level grading is applied to courses for which the Training
-    Department has not received the student\'s learning outcome report
+    Department has not received the student's learning outcome report
     from the lecturer in charge of the course.
 
 ### Article 39. Assessment of learning outcomes
 
-Students\' learning outcomes are evaluated after each main semester
+Students' learning outcomes are evaluated after each main semester
 according to the following criteria: 1. The amount of knowledge learned
 is the total number of credits of the courses (excluding free elective
 courses) that the student has registered to study during the semester.
@@ -1365,7 +1365,7 @@ prescribed in Clause 1, Article 16 of this Regulation;
 disciplined for the second time for taking an exam for someone else or
 having someone else take an exam for them as prescribed in Clause d,
 Clause 4, Article 32 of this Regulation or being disciplined to the
-extent of removing their name from the school\'s student list; No later
+extent of removing their name from the school's student list; No later
 than one month after the decision to force students to leave school, the
 training unit must notify the locality where the student has permanent
 residence.
@@ -1376,12 +1376,12 @@ Clause 3, Article 33 of these Regulations.
 ### Article 42. Academic ranking
 
 1.  The academic type is the basis for determining the academic load a
-    student can register for in the next semester. In case a student\'s
+    student can register for in the next semester. In case a student's
     academic type is determined after the student has registered for the
     course, the student must withdraw the course within the prescribed
     academic load limit.
-2.  After each semester, based on the semester\'s average score,
-    students\' academic performance is classified into the following
+2.  After each semester, based on the semester's average score,
+    students' academic performance is classified into the following
     categories:
     a)  Excellent: Semester GPA from 3.60 to 4.00
     b)  Excellent: Semester GPA from 3.20 to 3.59
@@ -1417,7 +1417,7 @@ Clause 3, Article 33 of these Regulations.
         designed time of the course.
 2.  Students who do not meet the requirements to graduate from a
     talented, high-quality, international standard training program will
-    be considered for graduation recognition and awarded a bachelor\'s
+    be considered for graduation recognition and awarded a bachelor's
     degree from a corresponding standard training program in the form of
     regular training.
 3.  Students who do not meet the graduation requirements are granted a
@@ -1427,10 +1427,10 @@ Clause 3, Article 33 of these Regulations.
 
 1.  Periodically 4 times a year (March; June and July; September;
     December), the Head of the training unit decides to establish a
-    Graduation Council for students who have completed the unit\'s
+    Graduation Council for students who have completed the unit's
     training program. The Graduation Council is chaired by the Head or
     Deputy Head of the training unit, a representative of the Training
-    Department\'s leadership as secretary and a number of other members.
+    Department's leadership as secretary and a number of other members.
 2.  Based on the proposal of the Graduation Council, the Principal of
     the member university decides to recognize graduation and grant
     university degrees to students trained at his/her school. The
@@ -1464,7 +1464,7 @@ Clause 3, Article 33 of these Regulations.
     Based on the transcripts in Vietnamese, the training unit creates
     and issues transcripts in foreign languages to students.
 9.  The training unit publicly announces the list of graduates (student
-    code, full name, date of birth, major) on the unit\'s website and is
+    code, full name, date of birth, major) on the unit's website and is
     responsible for the training quality and the value of the diplomas
     issued by the unit.
 10. Students who have not completed the national defense and security
@@ -1478,12 +1478,12 @@ Clause 3, Article 33 of these Regulations.
 1.  Hanoi National University issues diploma templates, prints, manages,
     and grants university diploma templates to training units.
 2.  Based on the graduation recognition decision, the Principal of the
-    member university signs and stamps the university\'s seal on the
+    member university signs and stamps the university's seal on the
     university diploma for students trained at his/her school.
 3.  Based on the graduation recognition decision, the Head of the
-    affiliated faculty signs (without the faculty\'s seal) and submits
+    affiliated faculty signs (without the faculty's seal) and submits
     it to the Director of Hanoi National University to sign and affix
-    the Hanoi National University\'s seal on the university graduation
+    the Hanoi National University's seal on the university graduation
     certificate for students trained at that affiliated faculty.
 
 ## Chapter IX: IMPLEMENTATION PROVISIONS

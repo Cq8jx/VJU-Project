@@ -121,7 +121,7 @@ organize and implement professional activities.
     directly and comprehensively manages the training work of affiliated
     training units.
 2.  Training units are responsible for organizing and managing training
-    in majors/specialties according to the State\'s list of
+    in majors/specialties according to the State's list of
     majors/specialties and piloting training in new majors/specialties
     to provide high-quality human resources and nurture talents for the
     country; implementing linkages and associations in the development
@@ -198,7 +198,7 @@ organize and implement professional activities.
 ### Article 8. Suitable industry/major
 
 A suitable major/specialization is a major at the undergraduate or
-master\'s level (or equivalent level or higher) that equips learners
+master's level (or equivalent level or higher) that equips learners
 with the necessary professional foundation to continue studying the
 doctoral training program of the corresponding major/specialization,
 specifically specified in the entrance standards of the doctoral
@@ -210,7 +210,7 @@ knowledge requirements must be completed before applying.
 Candidates applying for the doctoral training program must meet the
 following conditions: 1. Clear personal history, not serving a criminal
 sentence, or having a disciplinary record of warning level or higher. 2.
-Good enough health to study. 3. Graduated with a master\'s degree or a
+Good enough health to study. 3. Graduated with a master's degree or a
 regular university degree with a good grade or higher in a suitable
 field/major, or graduated with a level equivalent to level 7 according
 to the Vietnamese National Qualifications Framework in a number of
@@ -222,11 +222,11 @@ according to current regulations. 4. Meet the entrance requirements
 according to the training program standards issued by the Ministry of
 Education and Training and of the doctoral training program for which
 they are applying. 5. Have research experience demonstrated through a
-master\'s thesis of a research-oriented training program and published
+master's thesis of a research-oriented training program and published
 works according to the regulations of the training unit (if any).
-Candidates with an applied-oriented master\'s degree or a master\'s
+Candidates with an applied-oriented master's degree or a master's
 degree in a relevant field/specialty but must take additional knowledge
-or candidates applying from a bachelor\'s degree must be the author or
+or candidates applying from a bachelor's degree must be the author or
 co-author of at least 01 scientific publication. Scientific publications
 can be articles in specialized scientific journals or scientific reports
 published in the proceedings of national or international scientific
@@ -292,14 +292,14 @@ according to the regulations of the training unit.
 
 1.  Students taking additional courses must pay tuition fees for
     additional courses according to the tuition fees prescribed for the
-    corresponding undergraduate or master\'s degree.
+    corresponding undergraduate or master's degree.
 2.  The list of additional knowledge courses is clearly stated in the
     registration form for opening a training major/specialization and
     according to the requirements of the training unit.
 3.  The organization of additional knowledge and the granting of
     certificates with transcripts to candidates who have completed the
     additional knowledge program are carried out by training units with
-    corresponding undergraduate or master\'s training programs.
+    corresponding undergraduate or master's training programs.
 4.  The schedule for organizing knowledge supplement and regulations on
     knowledge supplement programs are publicly announced on the website
     of the unit organizing the knowledge supplement at least 15 days
@@ -321,7 +321,7 @@ according to the regulations of the training unit.
     d)  Enrollment plan, admission time, time to announce selection
         results and time to enroll;
     đ) List of suitable
-        undergraduate/master\'s degree majors/specializations that are
+        undergraduate/master's degree majors/specializations that are
         eligible for admission to each doctoral training program and
         regulations on cases that must complete additional knowledge
         courses;
@@ -344,13 +344,13 @@ according to the regulations of the training unit.
     jointly awarded by Vietnam National University, Hanoi.
 2.  Every year, the Director of Hanoi National University decides to
     establish the Postgraduate Admission Steering Committee (common for
-    both master\'s and doctoral levels) of Hanoi National University
+    both master's and doctoral levels) of Hanoi National University
     (abbreviated as Admission Steering Committee). The Training
     Department is the standing unit of the Admission Steering Committee,
     the focal point for directing, inspecting, and supervising Hanoi
     National University on admission work and resolving arising issues.
 3.  The head of the training unit decides to establish the Postgraduate
-    Admissions Council of his/her unit (common for both master\'s and
+    Admissions Council of his/her unit (common for both master's and
     doctoral levels for units that enroll/train for both levels) and
     reports to Hanoi National University (through the Training
     Department). The composition of the Admissions Council includes:
@@ -401,16 +401,16 @@ according to the regulations of the training unit.
     doctorate degree with 36 months of seniority from the date of the
     decision to recognize the doctoral degree and within 03 years from
     the date of joining the professional subcommittee must have at least
-    01 published work related to the candidate\'s field/specialization,
-    be knowledgeable in the field and the candidate\'s intended research
+    01 published work related to the candidate's field/specialization,
+    be knowledgeable in the field and the candidate's intended research
     problem, be a scientific staff, lecturer inside or outside the
     training unit. It is encouraged to invite qualified scientists who
     agree to receive thesis guidance to participate in the professional
-    subcommittee to evaluate the candidate\'s profile and research
+    subcommittee to evaluate the candidate's profile and research
     outline.
 3.  Candidates present their research proposal and implementation plan
     to the specialized subcommittee for the selection of doctoral
-    students. The candidate\'s proposed research problem must be
+    students. The candidate's proposed research problem must be
     consistent with the fields and research directions that the
     specialized unit is conducting, and must have qualified people who
     agree to receive guidance. Members of the specialized subcommittee
@@ -421,14 +421,14 @@ according to the regulations of the training unit.
 4.  Members of the professional subcommittee for the selection of
     doctoral students evaluate and classify candidates through their
     application documents (academic results at the undergraduate and
-    master\'s levels; foreign language proficiency; scientific research
+    master's levels; foreign language proficiency; scientific research
     achievements; professional experience; quality of research proposals
-    through the candidate\'s understanding of the professional field and
+    through the candidate's understanding of the professional field and
     research direction, research content and methods, expected research
     results and study plans presented in the doctoral proposal;
     comments, evaluations and support for candidates in the
     recommendation letter) and the presentation and answers to
-    candidates\' questions.
+    candidates' questions.
 5.  The professional subcommittee is responsible for organizing the
     review and evaluation of application documents and research
     proposals, and giving evaluation scores according to the Guidelines
@@ -438,7 +438,7 @@ according to the regulations of the training unit.
     the minimum score for the research proposal must be 25/40.
 6.  In case of necessity, the Director of Hanoi National University or
     the head of the training unit decides to defend the thesis in a
-    foreign language to test the candidate\'s ability to present and
+    foreign language to test the candidate's ability to present and
     express expertise in a foreign language.
 7.  Based on the requirements and assessment scale, the professional
     subcommittee synthesizes the assessment results of the members,
@@ -451,7 +451,7 @@ according to the regulations of the training unit.
     stipulates the admission principles and determines the admission
     scores based on the admission quota decided by the Director of Hanoi
     National University for each training major/specialization and the
-    results of the candidates\' classification, submits to the head of
+    results of the candidates' classification, submits to the head of
     the training unit for consideration and reports to the Postgraduate
     Admissions Steering Committee of Hanoi National University for
     approval.
@@ -481,18 +481,18 @@ to separate regulations.
 ### Article 16. Structure of the doctoral training program
 
 1.  The doctoral training program of Hanoi National University includes
-    a minimum of 90 credits for doctoral students with a master\'s
-    degree and 120 credits for doctoral students with a bachelor\'s
+    a minimum of 90 credits for doctoral students with a master's
+    degree and 120 credits for doctoral students with a bachelor's
     degree, including the following parts:
     a)  Part 1: Additional courses (for graduate students without a
-        master\'s degree)
+        master's degree)
 
     - Additional courses are courses that help graduate students have
       enough knowledge and professional qualifications to perform the
       tasks of a graduate student;
-    - PhD students who do not have a master\'s degree must accumulate at
+    - PhD students who do not have a master's degree must accumulate at
       least 30 credits of compulsory and elective additional courses.
-      Additional courses include courses of the corresponding master\'s
+      Additional courses include courses of the corresponding master's
       program, excluding foreign language courses and thesis.
     b)  Part 2: Courses in the doctoral training program with a maximum
         total of 16 credits.
@@ -504,14 +504,14 @@ to separate regulations.
       in which compulsory modules are basic modules, related to core
       knowledge/fundamental methods at a high level of the industry and
       specialty; elective modules have in-depth content suitable for the
-      doctoral student\'s research topic or support training in
+      doctoral student's research topic or support training in
       specialized and interdisciplinary research methods. Doctoral
       students choosing elective modules must have the consent of the
       main supervisor or independent supervisor;
     - The main supervisor or independent supervisor may request the head
       of the training unit to decide to replace some modules in the
       training program with other modules, necessary for the doctoral
-      student\'s thesis, within a maximum period of 06 months from the
+      student's thesis, within a maximum period of 06 months from the
       date of the decision to recognize the doctoral student.
     c)  Part 3: Doctoral topics, overview essays and scientific research
         with a maximum total of 10 credits, including:
@@ -590,7 +590,7 @@ to separate regulations.
     training orientation that learners need to meet in order to
     successfully study and complete the training program.
 3.  Entry standards for the doctoral training program: Students must
-    have graduated from a master\'s degree or a specialized training
+    have graduated from a master's degree or a specialized training
     program at level 7 in a suitable field or graduated from a regular
     university with good grades (or equivalent level or higher) in a
     suitable field; have a foreign language level 4 according to the
@@ -684,7 +684,7 @@ to separate regulations.
 3.  The standard training time for doctoral level (calculated from the
     effective date of the decision to recognize the doctoral student to
     the time the thesis is approved by the professional unit) for those
-    with a master\'s degree is 03 years; for those without a master\'s
+    with a master's degree is 03 years; for those without a master's
     degree is 04 years.
 4.  PhD students are allowed to extend their training period when there
     is a legitimate reason, but the total training period does not
@@ -738,7 +738,7 @@ to separate regulations.
 1.  PhD students must register to study and complete additional courses
     within a maximum period of 12 months from the date of the decision
     to recognize the PhD student. For additional courses, PhD students
-    can register to study together with the corresponding master\'s
+    can register to study together with the corresponding master's
     courses at the training unit or at other training units in Hanoi
     National University.
 2.  Doctoral students must register to study, carry out and complete the
@@ -749,7 +749,7 @@ to separate regulations.
     proposed by the professional unit based on the topic evaluated
     during the admission process. The head of the training unit shall
     issue a decision to recognize the thesis topic and thesis supervisor
-    for the doctoral student, along with the doctoral student\'s
+    for the doctoral student, along with the doctoral student's
     full-time study and research plan, no later than 06 months after the
     doctoral student enrolls.
 4.  The doctoral student is responsible for registering with the
@@ -772,8 +772,8 @@ to separate regulations.
         redo the overview and defend the overview essay before the
         evaluation subcommittee;
     c)  Re-registration or improvement of grades for additional courses
-        in the master\'s program is carried out according to the
-        Master\'s training regulations at Vietnam National University,
+        in the master's program is carried out according to the
+        Master's training regulations at Vietnam National University,
         Hanoi.
 6.  The retention period, the process of recognizing and converting the
     learning and research results of graduate students are regulated by
@@ -793,11 +793,11 @@ to separate regulations.
         or higher;
     b)  The organization of testing, evaluation, grading scale, minimum
         required score, and calculation of cumulative average score for
-        additional credits are carried out according to the Master\'s
+        additional credits are carried out according to the Master's
         training regulations at Hanoi National University.
 2.  PhD thesis and overview essay reviews
     a)  Evaluation of the doctoral theses and review essays is done by
-        scoring the doctoral student\'s presentation to the evaluation
+        scoring the doctoral student's presentation to the evaluation
         committee;
     b)  The head of the training unit or specialized department of the
         school decides to establish an evaluation subcommittee for each
@@ -896,7 +896,7 @@ to separate regulations.
 5.  After the PhD student has completed the training period (including
     any extension (if any)) or has completed the training program, the
     head of the training unit shall notify in writing the unit that sent
-    the PhD student to study and shall evaluate the PhD student\'s
+    the PhD student to study and shall evaluate the PhD student's
     learning and research results and attitude during the study period
     at the unit.
 6.  Graduate students are allowed to leave school if they submit a
@@ -910,13 +910,13 @@ to separate regulations.
         concluded by the professional council or competent authority;
     c)  Violation of training unit regulations to the extent of being
         forced to leave school.
-8.  PhD students who do not have a master\'s degree, if they are still
-    in the study period and have completed the modules of the master\'s
+8.  PhD students who do not have a master's degree, if they are still
+    in the study period and have completed the modules of the master's
     training program, wish to do a thesis in the same direction as the
-    research topic of the thesis to receive a master\'s degree, have the
+    research topic of the thesis to receive a master's degree, have the
     consent of the supervisor, are accepted by the training unit, and
-    meet the requirements of the master\'s training program on time,
-    will be considered to defend the thesis and receive a master\'s
+    meet the requirements of the master's training program on time,
+    will be considered to defend the thesis and receive a master's
     degree. The time to complete the thesis is counted as the time to
     train for the doctoral level.
 9.  The head of the member training unit shall issue detailed
@@ -939,9 +939,9 @@ to separate regulations.
     in the doctoral training program are reserved, considered for
     recognition and conversion in the following cases:
     a)  Postgraduate students who have dropped out of school and wish to
-        continue studying in a master\'s program in the corresponding
+        continue studying in a master's program in the corresponding
         field/specialization if they meet the regulations of the current
-        master\'s training regulations;
+        master's training regulations;
     b)  Graduate students change major/training major or training unit;
     c)  The graduate student has dropped out of school, re-registered
         and is recognized as a new graduate student by the training unit
@@ -963,7 +963,7 @@ to separate regulations.
 ### Article 25. Requirements for dissertations
 
 1.  The doctoral dissertation must meet the following requirements:
-    a)  A doctoral thesis is the result of a doctoral student\'s
+    a)  A doctoral thesis is the result of a doctoral student's
         scientific research, containing new theoretical and practical
         contributions in the specialized field, valuable in developing
         and increasing scientific knowledge and completely solving the
@@ -993,19 +993,19 @@ to separate regulations.
       drawn from research results; recommendations for further research;
     - List of references cited and used in the thesis;
     - List of published works/articles related to the doctoral
-      student\'s thesis topic, along with written consent from
+      student's thesis topic, along with written consent from
       co-authors (if any);
     - Appendix (if any).
     đ) Comply with the regulations on intellectual
       property protection as stipulated in the Law on Intellectual
       Property: The research results in the thesis must be the result of
-      the researcher\'s own labor, obtained mainly during the training
+      the researcher's own labor, obtained mainly during the training
       period. If using results and documents of others, the author must
       agree and be clearly cited. If the thesis is a scientific work or
       part of a scientific work of a collective in which the researcher
       contributes the main part, documents must be presented showing the
       agreement of the members of that collective agreeing to the
-      researcher using the collective\'s common results to write the
+      researcher using the collective's common results to write the
       thesis;
     e)  Thesis and all scientific research works must be checked for
         copying and duplication before being submitted for publication,
@@ -1017,12 +1017,12 @@ to separate regulations.
         Times New Roman font, font size 13, and not exceeding 200 A4
         pages for the fields of natural sciences, engineering,
         technology and not exceeding 300 pages for the remaining fields,
-        excluding appendices, including the researcher\'s commitment on
+        excluding appendices, including the researcher's commitment on
         the content of the thesis, at least 50% of the pages present the
-        researcher\'s own research results and arguments;
+        researcher's own research results and arguments;
     i)  The thesis summary must accurately reflect the structure, layout
         and content of the thesis, and must include the full text of the
-        thesis\'s conclusions. The thesis information sheet of about 03
+        thesis's conclusions. The thesis information sheet of about 03
         to 05 pages (300 to 500 words) in Vietnamese and English
         summarizes the basic content, new content and research results,
         and the most important contributions of the thesis;
@@ -1099,7 +1099,7 @@ Council.
         of this Regulation. The participants in the thesis evaluation
         session at the professional unit include the professional
         subcommittee, representatives of the professional unit,
-        representatives of the unit\'s postgraduate training management
+        representatives of the unit's postgraduate training management
         department and scientists interested in the thesis. The graduate
         student must present all results of the thesis at this seminar.
         Comments and suggestions during the evaluation session as well
@@ -1157,10 +1157,10 @@ Council.
     - Not working at the same agency as the doctoral student or doctoral
       supervisor;
     - No relationship between father, mother, wife, husband, child, or
-      sibling with the doctoral student and the doctoral student\'s
+      sibling with the doctoral student and the doctoral student's
       supervisor;
     - Not participating in the thesis evaluation session at the
-      professional unit. The independent reviewer\'s opinion has
+      professional unit. The independent reviewer's opinion has
       advisory value for the head of the member training unit and the
       Director of Hanoi National University to consider and decide to
       establish a doctoral thesis evaluation council for graduate
@@ -1168,7 +1168,7 @@ Council.
 3.  The training unit and the unit that receives the thesis evaluation
     dossier are responsible for keeping the information of the
     independent reviewer confidential. The doctoral student and the
-    doctoral student\'s supervisor are not allowed to learn about,
+    doctoral student's supervisor are not allowed to learn about,
     contact or communicate with the independent reviewer in any form.
 4.  The list of independent reviewers is a confidential document of the
     training unit.
@@ -1205,7 +1205,7 @@ Council.
     Department (maximum 02 months). After a maximum period of 03 months
     from the date the independent reviewer receives the thesis dossier,
     if the training unit or Training Board does not receive the
-    independent reviewer\'s comments, the training unit or Training
+    independent reviewer's comments, the training unit or Training
     Board may invite another independent reviewer to replace it.
 6.  Processing the results of independent thesis review
     a)  If both independent reviewers agree, the thesis will be defended
@@ -1229,7 +1229,7 @@ Council.
         continue to undergo the independent review process as prescribed
         (second independent review). The third independent review
         process is not performed;
-    d)  Comments from each independent reviewer (without the reviewer\'s
+    d)  Comments from each independent reviewer (without the reviewer's
         name) are sent to the postgraduate training management
         department of the training unit to request the doctoral student
         to accept and revise according to the comments of the
@@ -1247,7 +1247,7 @@ Council.
     exempted from the independent review process specified in Clause 2,
     Article 26 and Article 28 of this Regulation and go directly to the
     process of establishing a Thesis Evaluation Council. The assessment
-    of the article\'s content consistency with the thesis\' research
+    of the article's content consistency with the thesis' research
     topic as well as the request for exemption from the independent
     review process is carried out by the professional subcommittee
     during the thesis evaluation session at the professional unit. The
@@ -1339,11 +1339,11 @@ Council.
         doctoral student regarding the comments of the independent
         reviewer in writing and send them to the training unit at least
         15 working days before the Council meeting to evaluate the
-        doctoral student\'s thesis;
+        doctoral student's thesis;
     c)  The time and place of the thesis defense; thesis summary,
         information page on new points of the thesis in Vietnamese,
         English or foreign language are publicly announced on the
-        training unit\'s electronic information page at least 20 days
+        training unit's electronic information page at least 20 days
         before the Thesis Evaluation Council meeting, except for theses
         that are allowed to be protected confidentially according to the
         provisions of Article 30 of this Regulation;
@@ -1385,7 +1385,7 @@ Council.
         or \"Fail\" (according to the form in Appendix V). The thesis
         will not be approved if 02 or more members of the Evaluation
         Council present at the defense vote \"Fail\";
-    d)  The Council adopts a resolution on the thesis. The Council\'s
+    d)  The Council adopts a resolution on the thesis. The Council's
         resolution must address the following issues: The scientific and
         practical significance of the thesis; the modernity, rationality
         and reliability of the research method; the new results of the
@@ -1410,7 +1410,7 @@ Council.
         second Thesis Evaluation Council. In case of force majeure, the
         head of the member training unit or the Director of Hanoi
         National University shall consider and decide to extend the
-        Council\'s term of operation;
+        Council's term of operation;
     g)  No decision was made to establish a third Thesis Evaluation
         Council.
 6.  The change of members of the Thesis Evaluation Council shall only be
@@ -1421,7 +1421,7 @@ Council.
     be calculated from the date of signing the final decision on
     changing or adding members of the Thesis Evaluation Council.
 7.  Re-defend the thesis
-    a)  In case the doctoral student\'s thesis is not approved by the
+    a)  In case the doctoral student's thesis is not approved by the
         Thesis Evaluation Council and the Council recommends permission
         to defend again, the doctoral student is allowed to revise the
         thesis to defend for the second time. The second defense is at
@@ -1469,7 +1469,7 @@ Council.
     thesis summaries must be determined. The above documents must be
     stamped confidential.
 4.  All confidential session records are managed according to the
-    State\'s confidentiality regulations.
+    State's confidentiality regulations.
 5.  The procedure for a confidential thesis defense is the same as for a
     public thesis defense. The time and location of the defense are only
     announced to responsible persons and those who are allowed to
@@ -1489,7 +1489,7 @@ Council.
     biographical information of doctoral students who defended their
     theses in the previous 2 months. Hanoi National University reviews,
     selects, checks the training records and assesses the quality of the
-    doctoral students\' theses.
+    doctoral students' theses.
 2.  Checking training records and assessing thesis quality is carried
     out in the following cases:
     - Randomly check and evaluate according to the requirements of
@@ -1657,7 +1657,7 @@ Council.
       accordance with regulations and the Appraisal Council concludes
       that if those copied and quoted parts are removed, the thesis will
       not meet the requirements of this Regulation;
-    - The doctoral student\'s thesis is not approved according to the
+    - The doctoral student's thesis is not approved according to the
       provisions in Point e, Clause 5 of this Article.
 8.  Within a maximum of 60 working days from the date of receipt of the
     notification from Hanoi National University on the final results of
@@ -1692,7 +1692,7 @@ Council.
 1.  Doctoral students are considered for recognition of their academic
     degrees and are awarded doctoral degrees if they meet the following
     conditions:
-    a)  The doctoral student\'s thesis has been approved by the Thesis
+    a)  The doctoral student's thesis has been approved by the Thesis
         Evaluation Council and the doctoral student has completed the
         revision and supplementation of the thesis/thesis summary
         according to the resolution of the Thesis Evaluation Council
@@ -1724,7 +1724,7 @@ Council.
       Chairman of the Thesis Evaluation Council);
     - Thesis information (Vietnamese and English versions).
     c)  Published the full text of the thesis and thesis summary on the
-        training unit\'s website (except for theses evaluated under
+        training unit's website (except for theses evaluated under
         confidential regime) within 03 months from the date the doctoral
         student sent the final complete thesis to the training unit;
     d)  For doctoral students whose records/theses are subject to
@@ -1760,7 +1760,7 @@ Council.
         and notification of the inspection/assessment results must be
         accompanied by additional comments, corrections, explanations
         (if any) and the final completed thesis/thesis summary signed by
-        the graduate student, the supervisor\'s signature and
+        the graduate student, the supervisor's signature and
         confirmation from the head of the training unit, and the
         Assessment Council (if any);
     k)  Other documents as required by the training unit.
@@ -1784,7 +1784,7 @@ Council.
     University to issue a decision to recognize the academic degrees and
     award doctoral degrees to the graduate students of his/her unit.
 2.  The head of the training unit issues a Diploma Appendix to his/her
-    unit\'s doctoral students along with the awarded doctoral degree.
+    unit's doctoral students along with the awarded doctoral degree.
     The Diploma Appendix is written in Vietnamese and English, clearly
     stating the name of the major/specialization, type of training
     program; name of the subject, topic, overview essay; number of
@@ -1818,12 +1818,12 @@ Council.
         doctorate of science, doctorate, and have expertise appropriate
         to the subjects and topics in the training program. For
         instructors of practice or teaching assistants of subjects in
-        specific fields with a master\'s degree, the head of the
+        specific fields with a master's degree, the head of the
         training unit must consider, propose and submit to the Director
         of Hanoi National University for approval. For lecturers with a
         doctorate (without the title of professor or associate
         professor), they must have at least 01 year (12 months) of
-        teaching time at the university or master\'s level since
+        teaching time at the university or master's level since
         obtaining the doctorate;
     c)  Have foreign language skills, apply information technology to
         serve teaching, research and implement international exchange
@@ -1864,12 +1864,12 @@ Council.
         graduate students;
     g)  Notify the progress and learning results of graduate students to
         the unit/department managing the graduate students;
-    h)  Fully declare and regularly and timely update the individual\'s
+    h)  Fully declare and regularly and timely update the individual's
         scientific resume according to the form and regulations of Hanoi
         National University;
     i)  Perform other tasks as prescribed by law and as prescribed by
         the training unit.
-3.  Instructor\'s authority
+3.  Instructor's authority
     a)  Enjoy benefits according to current regulations of the State and
         of Hanoi National University;
     b)  Be guaranteed material conditions and equipment for teaching and
@@ -1903,7 +1903,7 @@ Council.
       tasks or participating in science and technology tasks at
       ministerial level or higher.
     b)  Within 05 years (60 months) from the date of the decision to
-        recognize the PhD student\'s guidance, the main supervisor,
+        recognize the PhD student's guidance, the main supervisor,
         independent supervisor, and co-supervisor (no distinction
         between main supervisor and secondary supervisor) must have
         additional research results in the specialized field related to
@@ -1932,7 +1932,7 @@ Council.
         National University or has a teaching and scientific research
         contract with the training unit according to the provisions of
         law; working full-time at the training unit with the contract
-        term in accordance with the doctoral student\'s full-time study
+        term in accordance with the doctoral student's full-time study
         and research plan. In case the thesis has two supervisors, the
         decision to assign supervisors must clearly state the main
         supervisor and the secondary supervisor or co-supervisor;
@@ -1946,7 +1946,7 @@ Council.
         approved by the Doctoral Thesis Evaluation Council for
         professional reasons according to the provisions of this
         Regulation.
-2.  Instructor\'s authority
+2.  Instructor's authority
     a)  Professors are allowed to independently supervise a maximum of
         07 PhD students; Associate Professors or Doctors of Science are
         allowed to independently supervise a maximum of 05 PhD students;
@@ -1993,7 +1993,7 @@ Council.
         report in writing to the professional unit and the doctoral
         student management unit;
     đ) Be responsible for the doctoral
-        student\'s thesis: Approve the doctoral student\'s thesis,
+        student's thesis: Approve the doctoral student's thesis,
         confirm the research results, new contributions of the thesis
         and decide to propose to submit the thesis for evaluation at the
         professional unit and defend it at the Thesis Evaluation Council
@@ -2017,7 +2017,7 @@ Council.
     learning process of the graduate student (if any) according to the
     regulations of the training unit and of Hanoi National University.
 4.  Implement study and scientific research plans within the prescribed
-    time limit according to the training unit\'s program and plan;
+    time limit according to the training unit's program and plan;
     report fully and on time on study, research, training results and
     other information as required by the training unit.
 5.  Honesty in science, respect for copyright and intellectual property
@@ -2118,7 +2118,7 @@ Council.
 11. Cooperate in research and doctoral training with domestic and
     foreign scientific and training institutions in accordance with the
     regulations of the State and of Hanoi National University.
-12. Publicly announce on the training unit\'s website: Documents
+12. Publicly announce on the training unit's website: Documents
     specifying admission, training programs, curriculum, teaching plans,
     training organization; annual admission plans and quotas for
     approved training majors/specializations; annual list of admitted,
@@ -2157,7 +2157,7 @@ Council.
       defended their thesis in the year; changes in doctoral students in
       the year; situation of organizing training of modules and
       arranging training support activities, scientific research for
-      doctoral students; results of doctoral students\' publications in
+      doctoral students; results of doctoral students' publications in
       the year; list of doctoral students with WoS/Scopus international
       publications; list of WoS/Scopus international articles of
       doctoral students; list of doctoral students who are exempted from
@@ -2259,7 +2259,7 @@ Council.
         balance between funding sources.
 2.  Use of training funds
     a)  The head of the training unit decides on the use of training
-        funds according to the unit\'s internal spending regulations;
+        funds according to the unit's internal spending regulations;
     b)  The unit managing the training funding source is responsible for
         paying the funding to the unit performing the training
         coordination tasks according to the rates and norms prescribed
@@ -2331,7 +2331,7 @@ Council.
       have a written explanation, confirmed by the relevant competent
       parties (working agency or local government and supervisor)
       requesting the training unit to consider and resolve the issue;
-    - After the doctoral student\'s thesis is approved by the
+    - After the doctoral student's thesis is approved by the
       professional unit, the submission of documents for independent
       review or after the results of independent review are available,
       the submission of documents for thesis defense is 06 months or
@@ -2410,7 +2410,7 @@ Council.
     Hanoi National University to consider and decide./.
 
   --------------------
-  \### Appendix I:
+  ### Appendix I:
   REPORT ON ENROLLMENT
   RESULTS (Attached to
   Decision No.
@@ -2421,7 +2421,7 @@ Council.
   University, Hanoi)
   Form 1.1
   --------------------
-  \### Appendix II:
+  ### Appendix II:
   ANNUAL REPORT ON PHD
   STUDENT TRAINING
   (Attached to
@@ -2553,7 +2553,7 @@ Council.
   enrollment plan for
   2020\...**
   (Specifically report
-  the next year\'s
+  the next year's
   plan, and prepare a
   table according to
   current regulations
@@ -2598,7 +2598,7 @@ THESIS** **(May ....)**
 **Head of training unit** *(Signed and sealed)*
 
   ----------------------------------------------------------------------------
-  \### Appendix IV: INVITATION LETTER FOR INDEPENDENT REVIEW (Attached to
+  ### Appendix IV: INVITATION LETTER FOR INDEPENDENT REVIEW (Attached to
   Decision No. 3638/QD-VNU dated October 21, 2022 of the Director of Vietnam
   National University, Hanoi) Form 4.1
 
@@ -2634,10 +2634,10 @@ THESIS** **(May ....)**
   internationally? Are the citations clear, complete, and honest? 3- What new
   contributions does the thesis make to the specialized scientific field:
   scientific significance, value and reliability of those results? 4- Do the
-  author\'s published works reflect the main results of the thesis? The
-  quality of the author\'s articles and the independent reviewer\'s assessment
-  of the quality of the journal that published the doctoral student\'s
-  articles. Pay special attention to the topicality of the author\'s articles.
+  author's published works reflect the main results of the thesis? The
+  quality of the author's articles and the independent reviewer's assessment
+  of the quality of the journal that published the doctoral student's
+  articles. Pay special attention to the topicality of the author's articles.
   5- Do the thesis summary and thesis summary fully and accurately reflect the
   content of the thesis? 6- Requirements requiring the doctoral student to
   supplement and complete the thesis. 7- Finally, please ......(academic
@@ -2681,18 +2681,18 @@ THESIS** **(May ....)**
 
   **Head of Training Unit**
 
-  **Note:** \* When evaluating at level B, unlike before, the PhD student\'s
-  thesis\'s complete addition does not need to be sent back to the independent
-  reviewer for comments. The independent reviewer\'s comments and the PhD
-  student\'s comments on acceptance, correction, addition and explanation will
+  **Note:** * When evaluating at level B, unlike before, the PhD student's
+  thesis's complete addition does not need to be sent back to the independent
+  reviewer for comments. The independent reviewer's comments and the PhD
+  student's comments on acceptance, correction, addition and explanation will
   be sent to the members of the Thesis Evaluation Council along with the
   thesis and the PhD student will explain and explain the acceptance and
-  correction of the thesis according to the independent reviewer\'s comments
+  correction of the thesis according to the independent reviewer's comments
   at the Council meeting. The Council will base on that content to evaluate.
-  \* The comments are typed and printed from the computer on A4 paper, no need
-  for the agency\'s confirmation stamp. One comment is signed and full name is
+  * The comments are typed and printed from the computer on A4 paper, no need
+  for the agency's confirmation stamp. One comment is signed and full name is
   clearly stated at the end. The second comment is unsigned and full name is
-  not stated. \* The thesis, thesis summary and published works do not need to
+  not stated. * The thesis, thesis summary and published works do not need to
   be returned, unless the independent reviewer has comments or corrections
   recorded on the thesis, thesis summary to be sent back to the PhD student.
   ----------------------------------------------------------------------------

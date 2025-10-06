@@ -34,11 +34,11 @@ managing and sorting references suitable for their fields.
 1\. Group the references by languages (Vietnamese, English, French,
 German, Russian, Chinese, Japanese, ....)
 
-2\. Sort references alphabetically by the author(s)\' last name(s).
+2\. Sort references alphabetically by the author(s)' last name(s).
 
 3\. Include the following details for books, theses, or reports:
 
-- author(s)\' name(s)
+- author(s)' name(s)
 
 - (year),
 
@@ -50,13 +50,13 @@ German, Russian, Chinese, Japanese, ....)
 
 Include the following details for articles in journals or books:
 
-- Author(s)\' name(s)
+- Author(s)' name(s)
 
 - (year),
 
-- "Article\'s title",
+- "Article's title",
 
-- *Journal\'s name or book title* ,
+- *Journal's name or book title* ,
 
 - volume
 
@@ -77,7 +77,7 @@ Examples:
     Publishing House, Hanoi.
 
 4.  Nguyen Thi Gam (1996), *Discovery and evaluation of some
-    temperature-induced male sterile lines,* Master\'s thesis in
+    temperature-induced male sterile lines,* Master's thesis in
     Agricultural Science, Vietnam Institute of Agricultural Science and
     Technology, Hanoi.
 
@@ -224,9 +224,9 @@ with the confirmation of the supervisor and student.
 
 At the same time, supervisor also clearly shows the amount of work of
 the instructor for that student, thereby serving as a basis for
-calculating the instructor\'s remuneration.
+calculating the instructor's remuneration.
 
-3\. Thesis Progress Log is also an important evidence for the student\'s
+3\. Thesis Progress Log is also an important evidence for the student's
 implementation process of thesis and is a condition for the student to
 submit the thesis.
 
@@ -235,7 +235,7 @@ Vietnam Japan University.
 
 *3.1.2. Record of meeting with supervisor:*
 
-**RECORD OF MEETINGS BETWEEN THE STUDENT AND SUPERVISOR(S)** (\*)
+**RECORD OF MEETINGS BETWEEN THE STUDENT AND SUPERVISOR(S)** (*)
 
 | **No.** ^1^ | **Time** ^2^ | **Date** | **Main points discussed and purpose of meeting** ^3^ | **Supervisor's comment** ^4^ | **Supervisor's signature** ^5^ | **Student's response** ^6^ | **Student's signature** ^7^ |
 |-----------|-------------|-----------|---------------------------------------------------------|--------------------------------|----------------------------------|------------------------------|--------------------------------|
@@ -253,7 +253,7 @@ Vietnam Japan University.
 
   ---------------------------------------------------------------------------------------------------------
 
-*(\*): Thesis Progress Log, specifically record the times working with
+*(*): Thesis Progress Log, specifically record the times working with
 the supervisor, including: Seminars and workshops related to the thesis
 topic... that the supervisor and students participated in are also
 considered as working sessions serving the guidance process.*
@@ -267,7 +267,7 @@ considered as working sessions serving the guidance process.*
 *\[4\] Clearly record the opinions of the instructor related to the
 content of the work session \[5\] The instructor signs and clearly
 writes their full name after the end of the work session \[6\] Clearly
-record the student\'s feedback based on the instructor\'s opinions. In
+record the student's feedback based on the instructor's opinions. In
 addition, the student can add other opinions (if any) related to the
 thesis/project*
 
@@ -319,15 +319,15 @@ made the following observations:
 >
 > ^1^ ***Comments following suggestions below* :**
 >
-> \+ The results of the thesis implementation (the necessity, scientific
+> + The results of the thesis implementation (the necessity, scientific
 > significance, research purposes and methods, the reasonableness and
 > reliability of research methods, evaluation of the achieved results,
 > new results, new contributions and the scientific value of those
 > contributions).
 >
-> \+ Attitude and sense of responsibility of students.
+> + Attitude and sense of responsibility of students.
 >
-> \+ Other.
+> + Other.
 
 *3.1.4. Application for thesis defense*
 
@@ -342,11 +342,11 @@ height="1.0416666666666666e-2in"}
 
 **APPLICATION FOR THESIS DEFENSE**
 
-Student\'s full name:
+Student's full name:
 
 Date of birth:
 
-Students\' ID: Cohort:
+Students' ID: Cohort:
 
 Bachelor/Engineer Program in .......................
 
@@ -356,7 +356,7 @@ Vietnam Japan University.
 
 Up to now, I have completed my thesis with the title: "..."
 
-With the supervisor\'s consent, I request that Vietnam Japan University,
+With the supervisor's consent, I request that Vietnam Japan University,
 Vietnam National University, Hanoi grant me permission to defend my
 thesis before the Undergraduate Thesis Evaluation Committee.
 
@@ -677,7 +677,7 @@ Absent::.../... (...%),
 
 \- Students report their thesis/project in the order of their names;
 
-\- Two reviewers read comments on each student\'s thesis/project after
+\- Two reviewers read comments on each student's thesis/project after
 the presentation ends;
 
 \- Members of the Evaluation Committee ask questions to the students;
@@ -692,7 +692,7 @@ and rankings of each student)
 
 4.3. Conclusion
 
-The meeting ends at ... o\'clock ... minutes of the same day.
+The meeting ends at ... o'clock ... minutes of the same day.
 
 +--------------------------------------+-------------------------------+
 |                                      | *Hanoi, date \... month \...  |
@@ -719,7 +719,7 @@ height="1.3888888888888888e-2in"}
 
 # **CONFIRMATION OF THE THESIS REVISION**
 
-Student full name: ...........................................Student\'s
+Student full name: ...........................................Student's
 ID: ...........................
 
 Date of Birth: ........./........./...................... Place of
@@ -743,7 +743,7 @@ committee, the thesis has been revised as follows:
 3\.
 
 +---------------------------------------+-------------------------------------+
-| **SUPERVISOR\'S CONFIRMATION**        | **Student Signature**               |
+| **SUPERVISOR'S CONFIRMATION**        | **Student Signature**               |
 +---------------------------------------+-------------------------------------+
 | **CONFIRMATION OF UNDERGRADUATE THESIS EVALUATION COMMITTEE**               |
 +=======================================+=====================================+

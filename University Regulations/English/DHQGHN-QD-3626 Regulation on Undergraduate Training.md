@@ -151,7 +151,7 @@ Director of Vietnam National University, Hanoi)*
         and evaluated.
 2.  Credits are a quantity that determines the amount of knowledge and
     skills that students accumulate from courses in 15 credit hours.
-3.  Credit hours are a measure of a student\'s study time, divided into
+3.  Credit hours are a measure of a student's study time, divided into
     three types according to teaching methods and determined as follows:
     a)  One theoretical credit hour is equal to one theoretical period;
         to acquire one theoretical credit hour, students must spend at
@@ -301,7 +301,7 @@ Director of Vietnam National University, Hanoi)*
         training are determined by the head of the training unit.
 2.  Use of training funds
     a)  The head of the training unit decides on the use of training
-        funds according to the unit\'s internal spending regulations.
+        funds according to the unit's internal spending regulations.
     b)  The unit managing the training funding source is responsible for
         paying the funding to the unit performing the tasks stated in
         Clause 2, Article 2 of this Regulation according to the rates
@@ -375,7 +375,7 @@ Director of Vietnam National University, Hanoi)*
         relevant legal provisions;
     b)  The training host unit is responsible for managing training
         quality; reporting training cooperation activities to the
-        People\'s Committee of the province where the training
+        People's Committee of the province where the training
         cooperation is taking place before organizing enrollment; if the
         training cooperation unit does not meet the quality assurance
         requirements as prescribed by the subject or training program,
@@ -465,7 +465,7 @@ Promoting the effectiveness of international cooperation.
     d)  Implement formal training.
 2.  Design training programs
     a)  The standard training program is designed with a minimum of 120
-        credits for bachelor\'s training, 150 credits for engineer
+        credits for bachelor's training, 150 credits for engineer
         training, 155 credits for pharmacist training and a minimum of
         205 credits for doctor training;
     b)  The high-quality training program is designed to have at least
@@ -522,7 +522,7 @@ Promoting the effectiveness of international cooperation.
 1.  Vietnam National University, Hanoi
     a)  Prescribe the structure of the training program according to
         Article 11 of this Regulation;
-    b)  Appraisal and approval of training unit\'s project to open new
+    b)  Appraisal and approval of training unit's project to open new
         majors;
     c)  Decision to issue training programs;
     d)  Assess quality assurance conditions and assign training
@@ -639,7 +639,7 @@ regulations of the training unit.
         the same course and are stable from the beginning to the end of
         each course. The course class is in charge of the homeroom
         teacher. The course class representative is the class committee.
-    b)  Course classes are named after the student\'s major and year of
+    b)  Course classes are named after the student's major and year of
         admission, with codes according to the regulations of Hanoi
         National University.
     c)  Students who are allowed to take a temporary leave of absence,
@@ -705,7 +705,7 @@ regulations of the training unit.
         converted and recognized in all training units of Hanoi National
         University;
     b)  Training units are responsible for notifying in writing and on
-        the unit\'s electronic information page the teaching plan and
+        the unit's electronic information page the teaching plan and
         course schedule 1 month before the registration period so that
         students know, creating all favorable conditions for students of
         other units to register for courses; transferring course
@@ -812,8 +812,8 @@ exceed 25% of the total volume of the training program.
 ### Article 23. Withdrawal of registered courses
 
 1.  Withdrawal of credits applies to the following cases:
-    a)  According to students\' needs and choices;
-    b)  After registering for a course, the student\'s academic standing
+    a)  According to students' needs and choices;
+    b)  After registering for a course, the student's academic standing
         is determined to require the student to withdraw a course within
         the prescribed volume limit;
     c)  Students with a semester GPA below 2.00 but not yet subject to
@@ -859,7 +859,7 @@ exceed 25% of the total volume of the training program.
     - Students who are not physically fit or have medical conditions
       that exempt them from military service according to current
       regulations;
-    - Students have completed military service, people\'s police.
+    - Students have completed military service, people's police.
     d)  Subjects who are temporarily suspended from school
 
     - Female students who are pregnant or on maternity leave according
@@ -912,7 +912,7 @@ exceed 25% of the total volume of the training program.
     for recognizing the transfer value of learning outcomes and the
     amount of knowledge and skills (if any) accumulated by learners
     exempted from studying a second degree training program on the
-    training unit\'s website before organizing the training.
+    training unit's website before organizing the training.
 
 ### Article 26. Studying two training programs at the same time
 
@@ -957,7 +957,7 @@ exceed 25% of the total volume of the training program.
     results of the courses with equivalent content and amount of
     knowledge in the first program.
 6.  The organizers of the first and second training programs update the
-    students\' learning results after each semester on the University
+    students' learning results after each semester on the University
     Training Information Portal of Hanoi National University. During the
     time a student studies two programs at the same time, if the
     cumulative average score of the first training program is below the
@@ -1184,7 +1184,7 @@ exceed 25% of the total volume of the training program.
 
 The organization and management of scientific research activities of
 students are decentralized as follows: 1. Training unit a) Develop a
-plan for scientific research activities of students in the unit\'s
+plan for scientific research activities of students in the unit's
 academic year tasks;
     c) Implement scientific research of students in
 association with scientific research topics, projects and other
@@ -1192,7 +1192,7 @@ scientific activities of the unit. Create conditions for students to
 participate in research, become members of research groups and
 participate in scientific and technological activities;
     d) Organize
-student scientific conferences, evaluate, classify and reward students\'
+student scientific conferences, evaluate, classify and reward students'
 research works;
     đ) Establish student scientific clubs, organize
 scientific thematic activities;
@@ -1202,10 +1202,10 @@ scientific research for each project. 2. Hanoi National University
 Organizes the review and awards for outstanding scientific research
 works of students of Hanoi National University.
 
-### Article 32. Bonus points for students\' scientific research achievements
+### Article 32. Bonus points for students' scientific research achievements
 
 1.  Bonus points for scientific research projects of award-winning
-    students are added to the semester\'s average score and cumulative
+    students are added to the semester's average score and cumulative
     average score to serve as a basis for considering scholarships,
     transfer to graduate school and other benefits. They are not used to
     classify academic performance or determine graduation rank.
@@ -1263,7 +1263,7 @@ works of students of Hanoi National University.
         and of Hanoi National University.
 2.  Instructor Benefits
     a)  Enjoy general benefits and incentives prescribed by the state,
-        compensation and remuneration regimes according to the unit\'s
+        compensation and remuneration regimes according to the unit's
         internal spending regulations.
     b)  In addition to the general benefits, lecturers participating in
         the high-quality talent training program also have the following
@@ -1286,11 +1286,11 @@ works of students of Hanoi National University.
       equipment of the training unit and of Hanoi National University;
     - Exploiting and using technical facilities to serve the improvement
       and innovation of teaching methods;
-    - Participate in evaluating and classifying students\' learning
+    - Participate in evaluating and classifying students' learning
       quality.
 3.  Instructor Benefits
     a)  Enjoy general benefits and incentives prescribed by the state,
-        compensation and remuneration regimes according to the unit\'s
+        compensation and remuneration regimes according to the unit's
         internal spending regulations.
     b)  In addition to the general benefits, lecturers participating in
         the high-quality talent training program enjoy the following
@@ -1344,7 +1344,7 @@ works of students of Hanoi National University.
 1.  The homeroom teacher is a lecturer who has completed the required
     probationary period, is ready to accept the task, is responsible and
     dedicated to the assigned work; The academic advisor is a staff
-    member with a master\'s degree or higher, has at least 2 years of
+    member with a master's degree or higher, has at least 2 years of
     direct teaching experience, and is knowledgeable about the training
     program. Special cases are determined by the head of the training
     unit.
@@ -1353,16 +1353,16 @@ works of students of Hanoi National University.
 3.  Responsibilities of homeroom teachers and academic advisors
     a)  Master the training program, guide students in building a study
         plan, choosing and registering for courses suitable to the
-        students\' learning conditions and the goals and requirements of
+        students' learning conditions and the goals and requirements of
         the training program;
     b)  Provide guidance on learning methods, research, and skill
-        development for students; regularly monitor students\' learning
+        development for students; regularly monitor students' learning
         outcomes;
     c)  Help students solve difficulties in their studies; remind
         students when they see their academic performance decline;
     d)  Coordinate with the Training Department, Student Affairs
         Department, lecturers and related units to create conditions for
-        students to study and evaluate students\' training scores.
+        students to study and evaluate students' training scores.
 4.  Benefits of academic advisors and homeroom teachers
     a)  Reduced standard teaching hours, enjoy allowances according to
         regulations of the training unit;
@@ -1390,7 +1390,7 @@ works of students of Hanoi National University.
     discipline regulations. Violations will result in disciplinary
     action at the following levels:
     a)  Reprimand: Applies to students who commit the mistake of looking
-        at other people\'s papers, exchanging papers, or discussing
+        at other people's papers, exchanging papers, or discussing
         papers during the exam. Students who are reprimanded during a
         subject test will have 25% of the score achieved for that
         subject test deducted;
@@ -1400,7 +1400,7 @@ works of students of Hanoi National University.
     - Having been reprimanded once but still violating the regulations
       during the exam of that subject;
     - Exchange homework and scratch paper with others;
-    - Copying someone else\'s work. Exams that are found to be similar
+    - Copying someone else's work. Exams that are found to be similar
       will be dealt with the same way, except in cases where the person
       being disciplined has sufficient evidence to prove that he/she has
       actually cheated, then the head of the training unit may consider
@@ -1545,7 +1545,7 @@ works of students of Hanoi National University.
 4.  No later than one day after the end of the course, the lecturer
     shall send a list of students who are eligible to take the final
     exam and those who are not (with reasons clearly stated) to the
-    Training Department. Based on the lecturer\'s request and other
+    Training Department. Based on the lecturer's request and other
     obligations of the students, the Training Department shall make a
     list of students eligible to take the exam and assign exam rooms.
 5.  The head of the training unit shall specify the examination and
@@ -1639,7 +1639,7 @@ exams, and grading exams and violate the regulations (discovered during
 or after performing their duties), depending on the severity, will be
 reviewed and disciplined in the following forms: 1. Reprimand: applied
 to those who violate one of the following errors: arriving late, not
-signing the exam papers or student\'s scratch paper, not concentrating
+signing the exam papers or student's scratch paper, not concentrating
 during the exam, or missing an exam session without a valid reason.
 
 ### Article 41. How to calculate component assessment scores and course scores
@@ -1700,7 +1700,7 @@ during the exam, or missing an exam session without a valid reason.
 
 ### Article 42. Assessment of learning outcomes
 
-Students\' learning outcomes are evaluated after each main semester
+Students' learning outcomes are evaluated after each main semester
 according to the following criteria: 1. The amount of knowledge learned
 is the total number of credits of the courses (excluding free elective
 courses) that the student has registered to study during the semester.
@@ -1801,12 +1801,12 @@ as prescribed in Clause 3, Article 36 of these Regulations.
 ### Article 45. Academic ranking
 
 1.  The academic type is the basis for determining the academic load a
-    student can register for in the next semester. In case a student\'s
+    student can register for in the next semester. In case a student's
     academic type is determined after the student has registered for the
     course, the student must withdraw the course within the prescribed
     academic load limit.
-2.  After each semester, based on the semester\'s average score,
-    students\' academic performance is classified into the following
+2.  After each semester, based on the semester's average score,
+    students' academic performance is classified into the following
     categories:
     a)  Excellent: Semester GPA from 3.60 to 4.00
     b)  Excellent: Semester GPA from 3.20 to 3.59
@@ -1896,7 +1896,7 @@ as prescribed in Clause 3, Article 36 of these Regulations.
     unit creates and issues a diploma appendix in a foreign language to
     students.
 9.  The training unit publicly announces the list of graduates (student
-    code, full name, date of birth, major) on the unit\'s website and is
+    code, full name, date of birth, major) on the unit's website and is
     responsible for the training quality and the value of the diplomas
     issued by the unit.
 10. Students who have not completed the national defense and security
@@ -1912,7 +1912,7 @@ as prescribed in Clause 3, Article 36 of these Regulations.
 1.  Hanoi National University issues diploma templates, prints, manages,
     and grants university diploma templates to training units.
 2.  Based on the graduation recognition decision, the Principal of the
-    member university signs and stamps the university\'s seal on the
+    member university signs and stamps the university's seal on the
     university diploma for students trained at his/her school.
 3.  Based on the graduation recognition decision, the Principal/Head of
     the affiliated faculty signs (without stamping the school/faculty)
@@ -1951,7 +1951,7 @@ training units.
         year, graduates who have jobs within 12 months; classified by
         input subjects, training majors, training courses and training
         forms;
-    b)  The training unit reports to the People\'s Committee of the
+    b)  The training unit reports to the People's Committee of the
         province where the training is associated for the work-study
         form (if any) on the recruitment and training situation in the
         locality.

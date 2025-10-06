@@ -19,7 +19,7 @@ undergraduate training at Hanoi National University; Pursuant to
 Instruction No. 1011/HD-DHQGHN dated March 23, 2023 of the Director of
 Hanoi National University on Organizing training of foreign language
 modules in the general knowledge block and determining output standards
-in undergraduate, master\'s and doctoral training programs at Hanoi
+in undergraduate, master's and doctoral training programs at Hanoi
 National University; Pursuant to Decision No. 3176/QD-DHNN dated
 November 6, 2023 of the University of Foreign Languages, Hanoi National
 University on promulgating the format of the test to assess foreign
@@ -77,7 +77,7 @@ course as follows:
 - English language certificate/certificate that is still valid at the
   time of submission. Students submit 01 notarized copy of the
   certificate/certificate to the Department of Training and Student
-  Affairs (Room 105, Rector\'s Office of Vietnam - Japan University, Hoa
+  Affairs (Room 105, Rector's Office of Vietnam - Japan University, Hoa
   Lac campus);
 - English language certificates/certificates taken online are not
   recognized at Vietnam-Japan University, Vietnam National University,
@@ -107,14 +107,14 @@ departments (for reporting); - Filed: VT, DT&CTSV, QH04.
 **KT. PRINCIPAL** **Vice Principal** *(signed)* **Nguyễn Hoàng Oanh**
 
   ----------------------------
-  \### Appendix 1. Reference
+  ### Appendix 1. Reference
   table for converting English
   language
   certificates/certificates
   corresponding to output
   standard requirements on
   foreign language proficiency
-  (\*)
+  (*)
 
   \| KNL NNVN \| IELTS \|
   TOEFL \| Aptis ESOL \|
@@ -145,7 +145,7 @@ departments (for reporting); - Filed: VT, DT&CTSV, QH04.
   Higher: 180 \| VSTEP.3-5
   (8.5) \| Level 5 \|
 
-  (\*) Pursuant to Appendix 2,
+  (*) Pursuant to Appendix 2,
   Instruction No.
   1011/HD-DHQGHN dated March
   23, 2023 of VNU on
@@ -154,7 +154,7 @@ departments (for reporting); - Filed: VT, DT&CTSV, QH04.
   the general knowledge block
   and determining output
   standards in undergraduate,
-  master\'s and doctoral
+  master's and doctoral
   training programs at Vietnam
   National University,
   Hanoi; - The above scores
@@ -184,7 +184,7 @@ departments (for reporting); - Filed: VT, DT&CTSV, QH04.
   taken online./.
   ----------------------------
 
-### Appendix 2: List of establishments granting English language certificates/diplomas according to the 6-level foreign language proficiency framework for Vietnam (\*\*)
+### Appendix 2: List of establishments granting English language certificates/diplomas according to the 6-level foreign language proficiency framework for Vietnam (**)
 
   -------------------------------------------------------------
   TT                             Foreign language
@@ -193,12 +193,12 @@ departments (for reporting); - Filed: VT, DT&CTSV, QH04.
   ------------------------------ ------------------------------
   1                              Thai Nguyen University
 
-  2                              People\'s Security Academy
+  2                              People's Security Academy
 
   3                              Academy of Journalism and
                                  Communication
 
-  4                              People\'s Police Academy
+  4                              People's Police Academy
 
   5                              Academy of Military Science
 
@@ -260,5 +260,5 @@ departments (for reporting); - Filed: VT, DT&CTSV, QH04.
   27                             Vinh University
   -------------------------------------------------------------
 
-(\*\*) Certificate form according to regulations of the Ministry of
+(**) Certificate form according to regulations of the Ministry of
 Education and Training in Notice No. 691/TB-QLCL dated May 8, 2020.

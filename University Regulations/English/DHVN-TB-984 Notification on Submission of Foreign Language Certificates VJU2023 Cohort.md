@@ -20,7 +20,7 @@ University on developing the training schedule for the 2022-2023
 academic year, Pursuant to Instruction No. 1011/HD-DHVN dated March 23,
 2023 on Organizing training of foreign language modules in the general
 knowledge block and determining output standards in undergraduate,
-master\'s and doctoral training programs at Vietnam National University,
+master's and doctoral training programs at Vietnam National University,
 Hanoi, Pursuant to Decision No. 292/QD-DHVN dated March 28, 2023 on
 promulgating the Regulations on tuition fees and other training fees at
 Vietnam-Japan University,
@@ -100,7 +100,7 @@ Finance Department (for reporting); - File: VT, DT&CTSV, QH04.
 **KT. PRINCIPAL** **Vice Principal** *(signed)* **Nguyễn Hoàng Oanh**
 
   ---------------
-  \###
+  ###
   Appendix 1.
   Reference table
   for converting
@@ -114,9 +114,9 @@ Finance Department (for reporting); - File: VT, DT&CTSV, QH04.
   foreign
   language
   proficiency
-  (\*)
+  (*)
 
-  \#### 1.1.
+  #### 1.1.
   English
 
   \| KNLNNVN | IELTS | TOEFL | Aptis ESOL | Cambridge Exam | Vietnamese Standardized Test of English Proficiency |
@@ -125,7 +125,7 @@ Finance Department (for reporting); - File: VT, DT&CTSV, QH04.
 | **Level 4** | 5.5 | 72 iBT | B2 | B1 Preliminary: 160<br>B2 First: 160<br>C1 Advanced: 160<br>B1 Business Preliminary: 160<br>B2 Business Vantage: 160<br>C1 Business Higher: 160 | VSTEP.3-5 (6.0) |
 | **Level 5** | 7.0 | 95 iBT | C1 | B2 First: 180<br>C1 Advanced: 180<br>C2 Proficiency: 180<br>B2 Business Vantage: 180<br>C1 Business Higher: 180 | VSTEP.3-5 (8.5) |
 
-  \#### 1.2.
+  #### 1.2.
   Japanese
 
   \| NLNNVN Framework | JLPT | NAT-TEST | J-TEST |
@@ -134,7 +134,7 @@ Finance Department (for reporting); - File: VT, DT&CTSV, QH04.
 | **Level 4** | N2 | 2Q | 600 |
 | **Level 5** | N1 | 1Q | 700 |
 
-  (\*) The above
+  (*) The above
   scores are the
   minimum scores
   that learners
@@ -197,12 +197,12 @@ Finance Department (for reporting); - File: VT, DT&CTSV, QH04.
   taken online./.
   ---------------
 
-### Appendix 2: List of institutions granting Foreign Language (English) certificates according to the 6-level Foreign Language Proficiency Framework for Vietnam (\*\*)
+### Appendix 2: List of institutions granting Foreign Language (English) certificates according to the 6-level Foreign Language Proficiency Framework for Vietnam (**)
 
 1.  Thai Nguyen University
-2.  People\'s Security Academy
+2.  People's Security Academy
 3.  Academy of Journalism and Communication
-4.  People\'s Police Academy
+4.  People's Police Academy
 5.  Academy of Military Science
 6.  Hanoi University of Science and Technology
 7.  Can Tho University
@@ -227,5 +227,5 @@ Finance Department (for reporting); - File: VT, DT&CTSV, QH04.
 26. Van Lang University
 27. Vinh University
 
-(\*\*) Certificate form according to regulations of the Ministry of
+(**) Certificate form according to regulations of the Ministry of
 Education and Training in Notice No. 691/TB-QLCL dated May 8, 2020.

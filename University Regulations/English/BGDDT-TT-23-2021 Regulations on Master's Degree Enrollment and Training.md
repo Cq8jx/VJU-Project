@@ -14,7 +14,7 @@ No: 23/2021/TT-BGDDT *Hanoi, August 30, 2021*
 
 ## CIRCULAR
 
-### Promulgating the Regulations on Master\'s degree enrollment and training
+### Promulgating the Regulations on Master's degree enrollment and training
 
 Pursuant to the Law on Education dated June 14, 2019;
 
@@ -34,22 +34,22 @@ structure of the Ministry of Education and Training;
 At the request of the Director of the Department of Higher Education;
 
 The Minister of Education and Training issued a Circular promulgating
-the Regulations on admission and training for master\'s degrees.
+the Regulations on admission and training for master's degrees.
 
 **Article 1. Promulgated together with this Circular are the Regulations
-on admission and training for master\'s degrees.**
+on admission and training for master's degrees.**
 
 **Article 2. This Circular takes effect from October 15, 2021,
 applicable to courses admitted from the effective date of the Circular.
 This Circular replaces Circular No. 15/2014/TT-BGDDT dated May 15, 2014
 of the Minister of Education and Training promulgating the Regulations
-on master\'s degree training.**
+on master's degree training.**
 
 **Article 3. Chief of Office, Director of the Department of Higher
 Education, heads of relevant units under the Ministry of Education and
 Training; directors of universities and academies; rectors of
 universities; rectors or directors of other educational institutions
-licensed to train master\'s degrees, relevant organizations and
+licensed to train master's degrees, relevant organizations and
 individuals are responsible for implementing this Circular./.**
 
 **KT. MINISTER** **DEPUTY MINISTER**
@@ -61,7 +61,7 @@ individuals are responsible for implementing this Circular./.**
 **MINISTRY OF EDUCATION AND TRAINING** **SOCIALIST REPUBLIC OF VIETNAM**
 **Independence - Freedom - Happiness**
 
-# REGULATIONS ON ADMISSION AND TRAINING FOR MASTER\'S DEGREE
+# REGULATIONS ON ADMISSION AND TRAINING FOR MASTER'S DEGREE
 
 *(Issued with Circular No. 23/2021/TT-BGDDT dated August 30, 2021 of the
 Minister of Education and Training)*
@@ -71,31 +71,31 @@ Minister of Education and Training)*
 ### Article 1. Scope of regulation and applicable subjects
 
 1.  These regulations provide for the enrollment, organization and
-    management of master\'s level training and the granting of master\'s
+    management of master's level training and the granting of master's
     degrees.
 2.  This Regulation applies to universities and other educational
-    institutions licensed to provide master\'s degree training
+    institutions licensed to provide master's degree training
     (hereinafter referred to as training institutions); relevant
     organizations and individuals.
 3.  This regulation is the basis for training institutions to develop
     and promulgate detailed regulations on enrollment, organization and
-    management of master\'s level training, and granting of master\'s
+    management of master's level training, and granting of master's
     degrees applicable at the training institution (hereinafter referred
     to as the regulations of the training institution).
 4.  This regulation does not apply to the enrollment and organization of
-    training for master\'s degree programs awarded by foreign
+    training for master's degree programs awarded by foreign
     educational institutions (including joint training programs with
     foreign countries according to regulations on foreign cooperation
     and investment in the field of education).
 
 ### Article 2. Training program
 
-1.  The master\'s training program is developed, assessed and issued by
+1.  The master's training program is developed, assessed and issued by
     the training institution according to the research or application
     orientation, meeting the requirements of the Vietnamese National
     Qualifications Framework and regulations on training program
     standards of the Ministry of Education and Training.
-2.  The training program is conducted to award a master\'s degree
+2.  The training program is conducted to award a master's degree
     according to the provisions of this Regulation; no other university
     education degree is awarded.
 3.  The training program applies generally to different forms, training
@@ -133,14 +133,14 @@ Minister of Education and Training)*
         part-time training program is at least 20% longer than the
         regular training program of the same training program;
     c)  The maximum time for students to complete the course is
-        specified in the training institution\'s regulations but does
+        specified in the training institution's regulations but does
         not exceed twice the time according to the standard full-course
         study plan for each form of training.
 
 ### Article 4. Recognition of learning outcomes and credit transfer
 
 1.  Learners are considered for recognition and transfer of credits of a
-    number of subjects when they have studied another master\'s training
+    number of subjects when they have studied another master's training
     program or have graduated from a specific specialized training
     program as prescribed in Article 14 of Decree No. 99/2019/ND-CP
     dated December 30, 2019 of the Government detailing and guiding the
@@ -151,19 +151,19 @@ Minister of Education and Training)*
 2.  Students studying an undergraduate program (or equivalent level or
     higher) with a cumulative grade point average of good or higher and
     other conditions prescribed by the training institution may register
-    to study some modules of the master\'s program at the same training
+    to study some modules of the master's program at the same training
     institution in advance. The number of credits recognized shall not
     exceed 15 credits.
 3.  Courses are considered for recognition and credit conversion
     according to the provisions in Clause 1 and Clause 2 of this Article
     when meeting the following requirements:
     a)  Meet output standards, requirements on lecturers, study volume
-        and other requirements of the courses in the master\'s training
+        and other requirements of the courses in the master's training
         program;
     b)  Assessment score is from C (or equivalent) or higher;
     c)  Completion time is not more than 05 years from the time of
         recognition and conversion.
-4.  The training facility\'s regulations specifically stipulate:
+4.  The training facility's regulations specifically stipulate:
     a)  Conditions, assessment criteria, procedures for recognition of
         learning outcomes and credit transfer;
     b)  Conditions and procedures for students to register for study as
@@ -193,22 +193,22 @@ Minister of Education and Training)*
     other articles of this Regulation are majors trained at the
     university level (or equivalent level or higher) that equip learners
     with the necessary professional foundation to continue studying the
-    master\'s training program of the corresponding major, specifically
-    stipulated in the entrance standards of the master\'s training
+    master's training program of the corresponding major, specifically
+    stipulated in the entrance standards of the master's training
     program, the training institution stipulates the cases where
     additional study requirements must be completed before applying. For
     administration and management majors, training according to the
-    applied-oriented master\'s program, the relevant majors at the
+    applied-oriented master's program, the relevant majors at the
     university level include majors directly related to the expertise
     and profession of the administration and management field.
 3.  Candidates meet the requirements specified in Point b, Clause 1 of
     this Article when they have one of the following diplomas or
     certificates:
-    a)  Bachelor\'s degree or higher in foreign languages; or
-        bachelor\'s degree or higher in which the program is conducted
+    a)  Bachelor's degree or higher in foreign languages; or
+        bachelor's degree or higher in which the program is conducted
         primarily in a foreign language;
     b)  A university degree or higher issued by the training institution
-        within a period of no more than 02 years, and the program\'s
+        within a period of no more than 02 years, and the program's
         output standards have met the foreign language requirement of
         Level 3 or higher according to the 6-level foreign language
         proficiency framework for Vietnam;
@@ -218,7 +218,7 @@ Minister of Education and Training)*
         the Appendix of this Regulation or other equivalent certificates
         announced by the Ministry of Education and Training, still valid
         as of the date of application.
-4.  Candidates who are foreign citizens and register to study master\'s
+4.  Candidates who are foreign citizens and register to study master's
     programs in Vietnamese must have Vietnamese proficiency at Level 4
     or higher according to the Vietnamese Proficiency Framework for
     Foreigners or have graduated from university (or equivalent level or
@@ -242,7 +242,7 @@ Minister of Education and Training)*
 
 1.  Admissions are organized one or more times a year as decided by the
     training institution when it meets the conditions to ensure the
-    quality of implementing the master\'s training program according to
+    quality of implementing the master's training program according to
     current regulations.
 2.  The admission method decided by the training institution includes
     entrance exam, selection or a combination of entrance exam and
@@ -252,7 +252,7 @@ Minister of Education and Training)*
     the quality assurance conditions so that the assessment results are
     as reliable and fair as for direct admission.
 3.  Admission notices are publicly announced on the training
-    institution\'s website at least 45 days before the closing date for
+    institution's website at least 45 days before the closing date for
     receiving application documents, including the following
     information:
     a)  Candidates and conditions;
@@ -269,7 +269,7 @@ Minister of Education and Training)*
 4.  The training institution decides to admit students when they fully
     meet the entry requirements of the training program with supporting
     evidence.
-5.  The training facility\'s regulations specifically stipulate:
+5.  The training facility's regulations specifically stipulate:
     a)  Admission plan, admission notice, admission method;
     b)  Procedures for organizing entrance exams, admissions, combining
         entrance exams and admissions, assessing input foreign language
@@ -295,7 +295,7 @@ Minister of Education and Training)*
     Government regulations, meets the requirements of the training
     program and must be clearly stated in the teaching plan.
 2.  The standards, responsibilities and powers of lecturers teaching at
-    the master\'s level must comply with current regulations in Articles
+    the master's level must comply with current regulations in Articles
     54, 55, 57 and 58 of the Law on Higher Education (amended and
     supplemented in 2018); regulations on training program standards of
     the Ministry of Education and Training and other relevant
@@ -342,7 +342,7 @@ Minister of Education and Training)*
     events, training institutions shall conduct online training and
     assessment of courses according to the instructions of the Ministry
     of Education and Training.
-10. The training institution\'s regulations provide details on:
+10. The training institution's regulations provide details on:
     a)  Organize teaching and learning activities;
     b)  Methods of assessment and scoring of courses; organization of
         guidance, implementation and assessment of practice, internship
@@ -352,7 +352,7 @@ Minister of Education and Training)*
         management and support units according to current legal
         regulations;
     đ) Collecting feedback from students and other
-        relevant regulations in organizing master\'s training activities
+        relevant regulations in organizing master's training activities
         of the training institution.
 
 ### Article 8. Thesis guidance
@@ -364,10 +364,10 @@ Minister of Education and Training)*
 2.  The thesis is a scientific report, synthesizing the main research
     results of the student, meeting the following requirements:
     a)  Contribute to theory, academics or technological development,
-        innovation; demonstrate the student\'s research capacity;
+        innovation; demonstrate the student's research capacity;
     b)  In accordance with Vietnamese cultural, ethical and traditional
         standards;
-    c)  Comply with the training institution\'s regulations on academic
+    c)  Comply with the training institution's regulations on academic
         integrity and current regulations of intellectual property law.
 3.  Each student has one or two thesis supervisors, one of whom must be
     a full-time lecturer at the training institution. At any one time,
@@ -376,7 +376,7 @@ Minister of Education and Training)*
     of the applied-oriented program); in the case of co-supervising 02
     students, it is equivalent to independently supervising 01 student.
 4.  Thesis supervisor criteria:
-    a)  Have a doctoral degree in a field appropriate to the student\'s
+    a)  Have a doctoral degree in a field appropriate to the student's
         training field and thesis topic;
     b)  Have foreign language skills and apply information technology to
         conduct research and international scientific exchanges;
@@ -385,7 +385,7 @@ Minister of Education and Training)*
     d)  Meet other requirements according to the training program
         standards of the industry, training field and regulations of the
         training institution.
-5.  The training institution\'s regulations provide details on:
+5.  The training institution's regulations provide details on:
     a)  Standards, responsibilities and authorities of the instructor;
     b)  Assignment of thesis topics and supervisors; change of topics
         and supervisors; thesis implementation time;
@@ -406,7 +406,7 @@ Minister of Education and Training)*
         Regulations; in which the chairman must be a full-time lecturer
         or full-time researcher of the training institution;
     c)  Instructors may serve on the board as members but may not score;
-        students\' parents, spouses, children, siblings, or biological
+        students' parents, spouses, children, siblings, or biological
         siblings may not serve on the board.
 3.  Conditions for students to defend their thesis:
     a)  Completed all modules of the training program;
@@ -428,12 +428,12 @@ Minister of Education and Training)*
     months from the date of the first evaluation council meeting; the
     third thesis evaluation will not be organized.
 7.  After successful defense, the full text of the thesis (edited and
-    supplemented according to the council\'s requirements, if any) must
+    supplemented according to the council's requirements, if any) must
     be submitted and stored in the library of the training institution;
-    and published on the training institution\'s website for at least 30
+    and published on the training institution's website for at least 30
     days, except for some topics in fields that require confidentiality
     in accordance with State regulations.
-8.  The training institution\'s regulations specify in detail the
+8.  The training institution's regulations specify in detail the
     criteria and procedures for evaluating dissertations; other
     regulations related to dissertation evaluation.
 
@@ -445,7 +445,7 @@ Minister of Education and Training)*
 2.  The thesis appraisal council has the same composition and standards
     as the thesis evaluation council; members of the thesis evaluation
     council do not participate in the appraisal council.
-3.  The training institution\'s regulations provide details on the
+3.  The training institution's regulations provide details on the
     establishment of the thesis appraisal council; the council meeting
     process and the handling of thesis appraisal results.
 
@@ -462,11 +462,11 @@ Minister of Education and Training)*
     implementation and implementation results, meeting the following
     requirements:
     a)  Propose and test new models and solutions to effectively solve
-        practical challenges; demonstrate students\' ability to apply
+        practical challenges; demonstrate students' ability to apply
         science, technology and solve problems;
     b)  In accordance with Vietnamese cultural, ethical and traditional
         standards;
-    c)  Comply with the training institution\'s regulations on academic
+    c)  Comply with the training institution's regulations on academic
         integrity and current regulations of intellectual property law.
 4.  Each student has one or two project supervisors, one of whom must be
     a full-time lecturer at the training institution. At any one time,
@@ -488,17 +488,17 @@ Minister of Education and Training)*
     45 days from the date of the first evaluation council meeting; the
     project will not be evaluated a third time.
 7.  After successful defense, the full text of the project report
-    (edited and supplemented according to the council\'s requirements,
-    if any) must be submitted and stored in the training institution\'s
-    library; and published on the training institution\'s website for at
+    (edited and supplemented according to the council's requirements,
+    if any) must be submitted and stored in the training institution's
+    library; and published on the training institution's website for at
     least 30 days, except for topics in areas requiring confidentiality
     as prescribed by the State.
-8.  The training institution\'s regulations are based on the provisions
+8.  The training institution's regulations are based on the provisions
     in Articles 8, 9 and 10 of this Regulation and the provisions in
     this Article to specify details on guidance, assessment and
     appraisal of projects.
 
-### Article 12. Recognition of graduation and granting of master\'s degrees
+### Article 12. Recognition of graduation and granting of master's degrees
 
 1.  Conditions for students to be recognized as graduates:
     a)  Completed the training program modules and defended the thesis
@@ -520,7 +520,7 @@ Minister of Education and Training)*
     decision to recognize graduation within 02 months from the date the
     student successfully defends the thesis or project; a maximum of 03
     additional months in case the thesis or project must be appraised.
-3.  The training institution shall grant master\'s degrees to students
+3.  The training institution shall grant master's degrees to students
     within 01 month from the date of graduation recognition decision.
 4.  The content recorded on the diploma and diploma appendix shall
     comply with the regulations of the Ministry of Education and
@@ -532,7 +532,7 @@ Minister of Education and Training)*
     referred to as the principal) shall issue a certificate of the
     results of the courses the student has accumulated in the training
     program.
-6.  The training institution\'s regulations provide details on how to
+6.  The training institution's regulations provide details on how to
     calculate the average score for the entire course, the process of
     considering and recognizing graduation; and the retention and
     issuance of certificates of recognition of accumulated learning
@@ -562,7 +562,7 @@ Minister of Education and Training)*
 3.  Students are decided by the training institution to leave school for
     personal reasons, except in cases where they are being considered
     for forced leave or disciplinary review.
-4.  The training institution\'s regulations specify in detail the
+4.  The training institution's regulations specify in detail the
     conditions, authority, and procedures for considering temporary
     leave of absence, readmission to study, and expulsion; and the
     retention and certification of accumulated learning results for
@@ -594,7 +594,7 @@ Minister of Education and Training)*
     credits for students in cases of transferring training institutions
     or training programs must ensure the provisions of Article 4 of
     these Regulations.
-3.  The training institution\'s regulations specify in detail the
+3.  The training institution's regulations specify in detail the
     conditions, processes and procedures for transferring training
     institutions, places of study and training programs.
 
@@ -605,10 +605,10 @@ Minister of Education and Training)*
     coordinating training institutions) according to the following
     requirements:
     a)  Domestic training institutions must be allowed to train in the
-        same field at the master\'s level,
+        same field at the master's level,
     b)  The training institution abroad must be a university, recognized
         for its quality by the competent educational authority of the
-        host country, and allowed to train and award master\'s degrees
+        host country, and allowed to train and award master's degrees
         in the corresponding field.
 2.  Principles for implementing student exchange:
     a)  The principals of the two training institutions agreed;
@@ -617,11 +617,11 @@ Minister of Education and Training)*
         the total number of credits of the training program the student
         is studying and shall comply with the provisions of Article 4 of
         this Regulation.
-3.  The training institution\'s regulations specify in detail the
+3.  The training institution's regulations specify in detail the
     conditions and procedures for implementing student exchanges;
     recognizing student credits accumulated when implementing training
     programs at the coordinating training institution and are made
-    public on the training institution\'s website.
+    public on the training institution's website.
 
 ### Article 16. Handling of violations by students
 
@@ -631,18 +631,18 @@ Minister of Education and Training)*
     them will be subject to 1-year suspension from school for the first
     offense and forced to leave school for the second offense.
 3.  Students who violate one of the following regulations will be forced
-    to leave school; their master\'s degree, if already granted, will be
+    to leave school; their master's degree, if already granted, will be
     revoked or canceled according to regulations of the Ministry of
     Education and Training:
     a)  Committing fraud in admission, studying, defending theses,
         projects or cheating in preparing documents to obtain degrees or
         certificates;
-    b)  Using other people\'s results or copying or quoting incorrectly
+    b)  Using other people's results or copying or quoting incorrectly
         in a thesis or project and the appraisal council concludes that
         if the used, copied or quoted parts are removed, the thesis or
         project will not meet the requirements;
     c)  Ask or hire someone else to do your thesis or project.
-4.  The training institution\'s regulations specify in detail how
+4.  The training institution's regulations specify in detail how
     violations will be handled by students.
 
 ## Chapter V: IMPLEMENTATION ORGANIZATION
@@ -662,13 +662,13 @@ Minister of Education and Training)*
         develop sanctions and strictly handle violations; ensure the
         integrity of the content of theses, projects and other research
         topics;
-    d)  Develop policies to promote gender equality in master\'s
+    d)  Develop policies to promote gender equality in master's
         training to contribute to the implementation of the goals of the
         national strategy on gender equality in the field of education
         and training.
 2.  Training facility organizes implementation:
     a)  Disseminate and guide candidates on regulations related to the
-        training institution\'s admission policies;
+        training institution's admission policies;
     b)  Disseminate and guide students on the regulations of the
         training institution and regulations related to the learning
         process, regulations on obligations and rights of students at
@@ -686,7 +686,7 @@ Minister of Education and Training)*
     education sector issued by the Minister of Education and Training.
 2.  Training institutions are responsible for completing the database at
     the training institution and fully and accurately updating data on
-    master\'s training into the national database system on higher
+    master's training into the national database system on higher
     education; exporting data to summarize reports from the system,
     signing confirmation of the training institution and sending it to
     the Ministry of Education and Training before December 31 every
@@ -709,7 +709,7 @@ Minister of Education and Training)*
     before organizing recruitment and training:
     a)  Regulations of training institutions, training management
         regulations related to enrollment, training organization and
-        granting of master\'s degrees;
+        granting of master's degrees;
     b)  Decisions to open training courses;
     c)  Quality assurance conditions according to current regulations of
         the Ministry of Education and Training and other information as
@@ -738,7 +738,7 @@ Minister of Education and Training)*
 
 **Reference table for converting some foreign language diplomas or
 certificates equivalent to Level 3 and Level 4 of the 6-level foreign
-language proficiency framework for Vietnam applied in master\'s degree
+language proficiency framework for Vietnam applied in master's degree
 recruitment and training**
 
   ------------------------------------------------------------------------------------------

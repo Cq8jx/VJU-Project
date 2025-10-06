@@ -24,7 +24,7 @@ Hanoi; Pursuant to Instruction No. 1011/HD-VNU dated March 23, 2023 of
 the Director of Vietnam National University, Hanoi on promulgating
 guidelines for organizing training of foreign language modules in the
 general knowledge block and determining output standards in
-undergraduate, master\'s and doctoral training programs at Vietnam
+undergraduate, master's and doctoral training programs at Vietnam
 National University, Hanoi; Pursuant to Official Dispatch No.
 4162/VNU-DT dated November 3, 2023 of the Director of VNU on agreeing on
 the test format and assigning the organization of the foreign language
@@ -180,11 +180,11 @@ departments (for reporting); - Filed: VT, DT&CTSV, QH04.
 **Nguyễn Hoàng Oanh**
 
   ------------------------------------------------------------------------------------------------------
-  \### APPENDIX 1 \*\*REFERENCE TABLE FOR CONVERSION OF CERTIFICATES AND FOREIGN LANGUAGE CERTIFICATES
-  CORRESPONDING TO OUTPUT STANDARD REQUIREMENTS ON FOREIGN LANGUAGE PROFICIENCY (\*)\*\* *(Attached to
+  ### APPENDIX 1 **REFERENCE TABLE FOR CONVERSION OF CERTIFICATES AND FOREIGN LANGUAGE CERTIFICATES
+  CORRESPONDING TO OUTPUT STANDARD REQUIREMENTS ON FOREIGN LANGUAGE PROFICIENCY (*)** *(Attached to
   Instruction No. /HD-DHVN dated month year 2025 of the President of Vietnam-Japan University, VNU)*
   ------------------------------------------------------------------------------------------------------
-  \### APPENDIX 2 **AUTHORIZATION FORM FOR STUDENTS REGISTERING FOR JLPT JAPANESE LANGUAGE TEST**
+  ### APPENDIX 2 **AUTHORIZATION FORM FOR STUDENTS REGISTERING FOR JLPT JAPANESE LANGUAGE TEST**
   *(Attached to Instruction No. /HD-DHVN dated month year 2025 of the President of Vietnam-Japan
   University, VNU)*
 
@@ -199,9 +199,9 @@ departments (for reporting); - Filed: VT, DT&CTSV, QH04.
   Social ID Number: .......................................................................... JLPT
   certification number: ................................................................
 
-  I\'m currently a student of VNU-Vietnam Japan University (VJU). According to VJU regulation, I have to
+  I'm currently a student of VNU-Vietnam Japan University (VJU). According to VJU regulation, I have to
   submit my scanned copy of JLPT test result verified by Japan Foundation for the purpose of students
-  records/ Japanese subjects\' exemptions.
+  records/ Japanese subjects' exemptions.
 
   I hereby authorize the Attorney: Mr. Cao Anh Duy Position: Student affairs Officer, Department of
   Academic and Student affairs, Phone number: 0365262357; Email: ca.duy@vju.ac.vn; Contact address: R501

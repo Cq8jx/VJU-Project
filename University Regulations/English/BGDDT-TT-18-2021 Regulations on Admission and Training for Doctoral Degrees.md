@@ -150,7 +150,7 @@ Minister of Education and Training)*
         doctoral training program.
 2.  People who do not have the title of professor or associate professor
     must meet the following additional requirements:
-    a)  Have teaching experience at university or master\'s level of 01
+    a)  Have teaching experience at university or master's level of 01
         year (12 months) or more since obtaining a doctorate degree;
     b)  Within 05 years (60 months) up to the time of being assigned to
         teach, there have been publications related to teaching
@@ -163,7 +163,7 @@ Minister of Education and Training)*
         publishers (hereinafter referred to as the main author);
     c)  For lecturers teaching programs in the field of art, the
         requirement at Point b of this Clause can be replaced by the
-        title of People\'s Artist awarded by the State.
+        title of People's Artist awarded by the State.
 
 ### Article 5. Standards of graduate student supervisors
 
@@ -171,7 +171,7 @@ Minister of Education and Training)*
     of doctoral students must meet the standards of doctoral lecturers
     as prescribed in Article 4 of this Regulation.
 2.  Within 05 years (60 months) from the date of the decision to
-    recognize the PhD student\'s supervision, the main supervisor,
+    recognize the PhD student's supervision, the main supervisor,
     independent supervisor, and co-supervisor, regardless of the
     distinction between main supervisor and secondary supervisor, must
     have additional research results in the specialized field related to
@@ -200,7 +200,7 @@ Minister of Education and Training)*
     and scientific research contract with the training institution
     according to the provisions of law; working full-time at the
     training institution with the contract term consistent with the
-    graduate student\'s full-time study and research plan.
+    graduate student's full-time study and research plan.
 
 ### Article 6. Rights and responsibilities of lecturers teaching at doctoral level and supervisors of doctoral students
 
@@ -235,7 +235,7 @@ Minister of Education and Training)*
 ### Article 7. Candidates and conditions for recruitment
 
 1.  General requirements for candidates:
-    a)  Have graduated with a master\'s degree or a university degree
+    a)  Have graduated with a master's degree or a university degree
         with honors or higher in a relevant field, or have graduated
         with a level equivalent to Level 7 according to the Vietnamese
         National Qualifications Framework in a number of specific
@@ -243,7 +243,7 @@ Minister of Education and Training)*
     b)  Meet the entry requirements according to the training program
         standards issued by the Ministry of Education and Training and
         of the doctoral training program for which you are applying;
-    c)  Have research experience demonstrated through a master\'s thesis
+    c)  Have research experience demonstrated through a master's thesis
         of a research-oriented training program; or published scientific
         articles and reports; or have worked for 02 years (24 months) or
         more as a lecturer or researcher at training institutions,
@@ -257,7 +257,7 @@ Minister of Education and Training)*
         institution, a branch of a foreign training institution in
         Vietnam or a Vietnamese training institution to a full-time
         student in a foreign language;
-    b)  Bachelor\'s degree in foreign languages issued by Vietnamese
+    b)  Bachelor's degree in foreign languages issued by Vietnamese
         training institutions;
     c)  Have one of the foreign language certificates specified in
         Appendix II of this Regulation that is still valid as of the
@@ -272,7 +272,7 @@ Minister of Education and Training)*
     meet the second foreign language requirements decided by the
     training institution, except in the case of being a native speaker
     of the language used in the doctoral training program.
-4.  The training institution\'s regulations specify in detail the
+4.  The training institution's regulations specify in detail the
     requirements for appropriate professional qualifications, foreign
     language proficiency, work experience and other requirements for
     candidates depending on the characteristics of each field, training
@@ -293,7 +293,7 @@ Minister of Education and Training)*
     they meet the same quality assurance conditions as for direct
     admissions.
 3.  Admission notices are publicly announced on the training
-    institution\'s website at least 30 working days before the
+    institution's website at least 30 working days before the
     enrollment is organized, including information on the subjects and
     conditions for enrollment, the enrollment major and appropriate
     professional requirements; enrollment quotas; application documents,
@@ -310,7 +310,7 @@ Minister of Education and Training)*
     expected thesis topic, supervisor or co-supervisor, professional
     unit managing the doctoral student, training period with study plan
     and research plan for the entire course of the doctoral student.
-6.  The training institution\'s regulations provide detailed regulations
+6.  The training institution's regulations provide detailed regulations
     on enrollment plans, enrollment announcements, enrollment methods,
     enrollment organization and recognition of graduate students;
     regulations on archiving for management, assessment, supervision,
@@ -330,7 +330,7 @@ Minister of Education and Training)*
     online training activities that can be carried out outside the
     facility according to the regulations of the training institution.
 2.  Training institutions are agreed to organize the teaching of common
-    courses and recognize each other\'s learning outcomes.
+    courses and recognize each other's learning outcomes.
 3.  Training institutions are allowed to organize teaching and
     assessment of courses online or a combination of online and
     in-person when they meet current regulations on the application of
@@ -364,7 +364,7 @@ Minister of Education and Training)*
         concluded by the professional council or competent authority;
     c)  Violation of training institution regulations to the extent of
         being forced to leave school.
-3.  The training institution\'s regulations provide detailed regulations
+3.  The training institution's regulations provide detailed regulations
     on:
     a)  Change thesis topic, add or change supervisor, change
         specialized unit in charge and transfer training institution;
@@ -378,8 +378,8 @@ Minister of Education and Training)*
     in the doctoral training program are reserved, considered for
     recognition and conversion in the following cases:
     a)  Postgraduate students who have dropped out of school and wish to
-        continue studying in a master\'s program in the corresponding
-        field if they meet the regulations of the current master\'s
+        continue studying in a master's program in the corresponding
+        field if they meet the regulations of the current master's
         degree admission and training regulations;
     b)  Graduate students change training majors or training
         institutions;
@@ -393,7 +393,7 @@ Minister of Education and Training)*
     training institutions or being a new doctoral student, the
     recognition and conversion of learning and research results must not
     exceed 50% of the total volume of the training program.
-3.  The training institution\'s regulations specify in detail the
+3.  The training institution's regulations specify in detail the
     retention period, the composition of the professional council, and
     the process of recognizing and converting the learning and research
     results of graduate students.
@@ -413,12 +413,12 @@ professional unit about changes in the study and research process. 3.
 Participate in scientific activities at the professional unit as an
 assistant lecturer or a full-time researcher; participate in performing
 tasks and research topics as assigned by the supervisor. 4. Comply with
-the training institution\'s regulations on academic integrity, ensuring
+the training institution's regulations on academic integrity, ensuring
 that published results originate from individual research with the
 support of the instructor; fully acknowledge and cite the participation
 of other individuals, groups or organizations (if any). 5. Exercise
 other rights and responsibilities according to the training
-institution\'s regulations.
+institution's regulations.
 
 ### Article 13. Rights and responsibilities of professional units
 
@@ -429,7 +429,7 @@ and research plan of the doctoral student; facilitate, support, urge,
 supervise and inspect the implementation of the study and research plan
 of the doctoral student. 3. Organize regular scientific activities for
 the doctoral student; implement the assessment of the doctoral
-student\'s thesis at the professional unit; approve the proposal for the
+student's thesis at the professional unit; approve the proposal for the
 doctoral student to defend the thesis at the Thesis Assessment Council
 of the training institution. 4. Exercise other rights and
 responsibilities according to the regulations of the training
@@ -479,7 +479,7 @@ institution.
 ### Article 15. Independent review of thesis
 
 1.  Independent review is a mandatory process before a doctoral
-    student\'s thesis is submitted for defense at the Thesis Evaluation
+    student's thesis is submitted for defense at the Thesis Evaluation
     Council of the training institution. No later than 06 months from
     the time the doctoral student completes the thesis submission
     procedure after being approved by the professional unit, the
@@ -488,7 +488,7 @@ institution.
     independent review opinions for the second time according to the
     provisions of Clause 3 of this Article, the time limit shall be
     extended by a maximum of 03 months.
-2.  The doctoral student\'s thesis is sent for review by 02 scientists
+2.  The doctoral student's thesis is sent for review by 02 scientists
     or experts who are not staff of the training institution, have
     expertise appropriate to the thesis topic, and meet the standards
     for independent supervisors specified in Article 5 of this
@@ -499,7 +499,7 @@ institution.
     expertise related to the thesis content and supervisor during the
     thesis implementation process.
 3.  Independent review must ensure objectivity and transparency. The
-    independent reviewer\'s concluding opinion on the thesis must
+    independent reviewer's concluding opinion on the thesis must
     clearly state whether he agrees or disagrees with the subject
     matter. The thesis is considered to have passed the independent
     review process when two independent reviewers agree. If one reviewer
@@ -515,7 +515,7 @@ institution.
     does not contact or request the doctoral student to provide
     information or explain the review. All contact with the reviewer
     during the independent review process is the responsibility of the
-    training institution. The doctoral student\'s explanations are sent
+    training institution. The doctoral student's explanations are sent
     to the training institution and presented at the thesis defense.
 5.  The training institution shall specify the process of selecting,
     submitting and processing independent review comments; and the
@@ -534,13 +534,13 @@ institution.
         problems arising in the research field in specific practical
         circumstances;
     b)  Achieve independent review process;
-    c)  Comply with the training institution\'s regulations on
+    c)  Comply with the training institution's regulations on
         presentation format, plagiarism control and academic integrity
         standards; transparently reference the research results of the
         doctoral student and other authors (if any) and comply with
         other regulations of intellectual property law.
 2.  The establishment of the Thesis Evaluation Council of the training
-    institution is specified in detail in the training institution\'s
+    institution is specified in detail in the training institution's
     regulations, ensuring the following requirements:
     a)  The minimum number of Council members is 05 people, of which the
         number of members without the title of professor or associate
@@ -564,7 +564,7 @@ institution.
     d)  The father, mother, wife or husband, children, brothers,
         sisters, and siblings of the graduate student shall not
         participate in the Council.
-3.  Within a maximum of 03 months from the date the doctoral student\'s
+3.  Within a maximum of 03 months from the date the doctoral student's
     thesis passes the independent review process, the training
     institution must organize a meeting of the Thesis Evaluation
     Council. The organization of the thesis evaluation session for the
@@ -572,7 +572,7 @@ institution.
     the following requirements:
     a)  The time and location of the thesis evaluation session and
         thesis summary are publicly announced on the training
-        institution\'s website (except for the case of confidential
+        institution's website (except for the case of confidential
         thesis evaluation);
     b)  Do not organize a thesis evaluation session when there are less
         than 05 Council members present or more than 01 person absent;
@@ -593,7 +593,7 @@ institution.
     progress of the thesis evaluation session is recorded in minutes; in
     case of online organization, it must be fully recorded and stored at
     the training institution.
-5.  The training institution\'s regulations specify the thesis
+5.  The training institution's regulations specify the thesis
     evaluation in detail, including: requirements for graduate students
     before thesis evaluation; the process of establishing the Thesis
     Evaluation Council, standards and tasks for each member of the
@@ -623,7 +623,7 @@ institution.
 
 ### Article 18. Thesis re-evaluation at the training institution
 
-1.  In case the doctoral student\'s thesis is not approved by the Thesis
+1.  In case the doctoral student's thesis is not approved by the Thesis
     Evaluation Council of the training institution at the first defense
     but the Council recommends permission to defend again, no later than
     06 months from the time of the first thesis evaluation, the training
@@ -633,7 +633,7 @@ institution.
 2.  Do not re-evaluate the thesis without the recommendation of the
     first Thesis Evaluation Council; do not re-evaluate the thesis a
     third time.
-3.  The training institution\'s regulations specify the time, process,
+3.  The training institution's regulations specify the time, process,
     and procedures for the second thesis evaluation. The second thesis
     evaluation council of the training institution must have at least 03
     members who participated in the first council, including all members
@@ -644,22 +644,22 @@ institution.
 1.  Doctoral candidates are considered for recognition of qualifications
     and awarded doctoral degrees when they meet the following
     requirements:
-    a)  The doctoral student\'s thesis has been approved by the Thesis
+    a)  The doctoral student's thesis has been approved by the Thesis
         Evaluation Council of the training institution;
     b)  The doctoral student has submitted to the training institution
         (both printed and electronic copies) the final complete thesis
-        with the doctoral student\'s signature, confirmation from the
+        with the doctoral student's signature, confirmation from the
         supervisor; confirmation from the Chairman of the Thesis
         Evaluation Council after completing the thesis editing and
         supplementing (if any);
     c)  The PhD student has submitted to the National Library of Vietnam
         (both electronic and printed copies) a summary of the thesis and
         the final complete thesis text signed by the PhD student, the
-        supervisor\'s signature and confirmation from the training
+        supervisor's signature and confirmation from the training
         institution.
 2.  The training institution shall post the full text of the final
     completed thesis of the doctoral student on the training
-    institution\'s website (except for theses evaluated under
+    institution's website (except for theses evaluated under
     confidential regime) within 03 months from the date the doctoral
     student meets all requirements as prescribed in Clause 1 of this
     Article.
@@ -674,7 +674,7 @@ institution.
         of the training institution;
     c)  Minutes of vote counting and thesis evaluation form signed by
         all Council members present at the thesis evaluation session;
-    d)  Comments and evaluations of the doctoral student\'s supervisor;
+    d)  Comments and evaluations of the doctoral student's supervisor;
         confirmation of completion of thesis editing and supplementation
         by the supervisor and Chairman of the Thesis Evaluation Council
         (if any);
@@ -805,7 +805,7 @@ institution.
         accordance with regulations in the thesis and the Appraisal
         Council concludes that if those copied and quoted parts are
         removed, the thesis does not meet the requirements of this
-        Regulation; the doctoral student\'s thesis is not approved by
+        Regulation; the doctoral student's thesis is not approved by
         the Appraisal Council according to the provisions of Point d,
         Clause 4 of this Article.
 6.  Within a maximum of 60 working days from the date of receipt of the
@@ -1023,7 +1023,7 @@ EVERY MONTHS OF THE YEAR**
   STT   Full name of Number and  Topic   Industry,   Thesis defense   Evaluation   Note
         researcher   date of     name    code        date at the      results
                      decision to                     training
-                     recognize                       institution\'s
+                     recognize                       institution's
                      PhD student                     Evaluation
                                                      Council
   ----- ------------ ----------- ------- ----------- ---------------- ------------ -------
@@ -1073,11 +1073,11 @@ other authors published domestically and internationally? Are the
 citations clear, complete, and honest? 3- What new contributions does
 the thesis make to the specialized scientific field: scientific
 significance, value and reliability of those results? 4- Do the
-author\'s published works reflect the main results of the thesis? The
-quality of the author\'s articles and the independent reviewer\'s
+author's published works reflect the main results of the thesis? The
+quality of the author's articles and the independent reviewer's
 assessment of the quality of the journal that published the doctoral
-student\'s articles. Pay special attention to the topicality of the
-author\'s articles. 5- Do the thesis summary and thesis summary fully
+student's articles. Pay special attention to the topicality of the
+author's articles. 5- Do the thesis summary and thesis summary fully
 and accurately reflect the content of the thesis? 6- Requirements
 requiring the doctoral student to supplement and complete the thesis. 7-
 Finally, please ......(academic title/degree of the independent
@@ -1122,19 +1122,19 @@ Sincerely thank you.
 
 **Head of Training Unit**
 
-**Note:** \* When evaluating at level B, unlike before, the PhD
-student\'s thesis\'s complete addition does not need to be sent back to
-the independent reviewer for comments. The independent reviewer\'s
-comments and the PhD student\'s comments on acceptance, correction,
+**Note:** * When evaluating at level B, unlike before, the PhD
+student's thesis's complete addition does not need to be sent back to
+the independent reviewer for comments. The independent reviewer's
+comments and the PhD student's comments on acceptance, correction,
 addition and explanation will be sent to the members of the Thesis
 Evaluation Council along with the thesis and the PhD student will
 explain and explain the acceptance and correction of the thesis
-according to the independent reviewer\'s comments at the Council
-meeting. The Council will base on that content to evaluate. \* The
+according to the independent reviewer's comments at the Council
+meeting. The Council will base on that content to evaluate. * The
 comments are typed and printed from the computer on A4 paper, no need
-for the agency\'s confirmation stamp. One comment is signed and full
+for the agency's confirmation stamp. One comment is signed and full
 name is clearly stated at the end. The second comment is unsigned and
-full name is not stated. \* The thesis, thesis summary and published
+full name is not stated. * The thesis, thesis summary and published
 works do not need to be returned, unless the independent reviewer has
 comments or corrections recorded on the thesis, thesis summary to be
 sent back to the PhD student.
