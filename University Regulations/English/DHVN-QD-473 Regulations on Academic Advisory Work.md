@@ -69,12 +69,12 @@ individuals in VJU.
 1.  Support and help students to perform well in their studies and
     training tasks; advise on study orientation, scientific research and
     career for students throughout their time at the School.
-2.  Help VNU, Faculty/Training Program grasp information on students\'
+2.  Help VNU, Faculty/Training Program grasp information on students'
     learning situation to have appropriate support measures.
 3.  Is one of the criteria for evaluating and classifying lecturers
     annually according to current regulations.
 4.  Strengthen the connection between the School, lecturers, students
-    and students\' families in student management and support.
+    and students' families in student management and support.
 
 ### Article 3. Requirements for academic advisors
 
@@ -102,7 +102,7 @@ students to build and update personal study plans; advise on choosing
 courses suitable to their abilities, aspirations and requirements of the
 training program. - Guide students on effective study methods,
 scientific research skills and critical thinking; encourage students to
-participate in academic activities and seminars. - Monitor students\'
+participate in academic activities and seminars. - Monitor students'
 learning outcomes, early detect cases showing signs of learning decline
 to coordinate with functional units to handle and support promptly.
     b)  Personal and career development - Advise and introduce students to
@@ -116,7 +116,7 @@ activities, experiential learning, to comprehensively develop students.
     c) Connect - coordinate organization - Support the Director/Program
 Coordinator in organizing learning activities, seminars, professional
 activities, and periodic class activities for each semester/school
-year. - Contact students\' families when necessary to coordinate support
+year. - Contact students' families when necessary to coordinate support
 for students in terms of learning, psychology, learning conditions or
 other arising situations. - Coordinate with the Department of Training
 and Student Affairs, Faculty/Training Program and related units in
@@ -183,11 +183,11 @@ functional units.
 1.  Completion of CVHT tasks is one of the annual emulation and reward
     criteria.
 2.  CVHT who complete their tasks well and excellently will be
-    considered for commendation according to the school\'s regulations.
+    considered for commendation according to the school's regulations.
 3.  CVHT who does not complete the task will be subject to disciplinary
-    action according to the school\'s regulations.
+    action according to the school's regulations.
 
-### Article 9. Students\' responsibilities for academic advising
+### Article 9. Students' responsibilities for academic advising
 
 1.  Proactively contact CVHT when you need advice on studying,
     registering for courses, career orientation or any difficulties that
@@ -229,15 +229,15 @@ functional units.
 
 This Regulation takes effect from the date of signing and replaces
 Decision No. 311/QD-DHVN dated May 10, 2021 of Vietnam-Japan University.
-\### 8.2 Authority to amend, adjust and supplement: During the
+### 8.2 Authority to amend, adjust and supplement: During the
 implementation process, this Decision may be amended, adjusted and
-supplemented to suit the unit\'s practice based on the approval of the
+supplemented to suit the unit's practice based on the approval of the
 Principal./.
 
 **PRINCIPAL** *(signed)* **Furuta Motoo**
 
   ------------------
-  \### Appendix 1.
+  ### Appendix 1.
   Course meeting
   minutes
 
@@ -332,7 +332,7 @@ Principal./.
   research\...) 4.
   Other contents
 
-  **III. STUDENTS\'
+  **III. STUDENTS'
   OPINIONS** 1.
   Training 2.
   Student affairs 3.
@@ -373,7 +373,7 @@ ADVISORS**
           group                              performed        (In-person/Online/Hybrid)   (hours)
   ------- --------------- ------------------ ---------------- --------------------------- ----------
   1       Support for     Consulting on      According to the
-          learning and    course             Faculty\'s plan
+          learning and    course             Faculty's plan
           research        registration,
                           guidance on
                           building study
@@ -383,7 +383,7 @@ ADVISORS**
                           etc.
 
   2       Support for     Regular working    According to the
-          learning and    sessions with the  Faculty\'s plan
+          learning and    sessions with the  Faculty's plan
           research        class
                           (consultation,
                           guidance,
@@ -408,7 +408,7 @@ ADVISORS**
           coordinating    meetings when      situation
           organizations   problems arise
 
-  6       Connecting and  Contact student\'s According to the
+  6       Connecting and  Contact student's According to the
           coordinating    family when        situation
           organizations   support is needed
 

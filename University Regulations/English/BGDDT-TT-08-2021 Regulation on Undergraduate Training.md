@@ -264,7 +264,7 @@ Minister of Education and Training)*
         Regulation and other relevant legal provisions;
     b)  The training host institution is responsible for managing
         training quality; reporting training cooperation activities to
-        the People\'s Committee of the province where the training
+        the People's Committee of the province where the training
         cooperation is taking place before organizing enrollment; if the
         training cooperation institution does not meet the quality
         assurance requirements as prescribed by the subject or training
@@ -310,14 +310,14 @@ Minister of Education and Training)*
     throughout the weeks of the semester. In case it is necessary to
     arrange a concentrated study schedule, the number of teaching hours
     for any course must not exceed 15 hours/week and 4 hours/day.
-5.  The training institution\'s regulations clearly stipulate the
+5.  The training institution's regulations clearly stipulate the
     allocation of semesters, time, location, and form of arrangement of
     class hours according to the provisions of this Regulation.
 
 #### Article 7. Organization of study registration
 
 1.  Before the start of each semester, the training institution guides
-    students to register for studies on the school\'s registration
+    students to register for studies on the school's registration
     system.
 2.  Students studying by credit must register for the courses they plan
     to take in the semester, including: new courses, some failed courses
@@ -329,10 +329,10 @@ Minister of Education and Training)*
     register for courses to improve their grades, or register for
     elective courses according to the regulations of the training
     program.
-4.  The training institution\'s regulations stipulate the process,
+4.  The training institution's regulations stipulate the process,
     procedures, organization, management, and storage of student
     registration in each semester, the withdrawal of registered credits;
-    and specific regulations limit the student\'s study volume in each
+    and specific regulations limit the student's study volume in each
     semester within the following framework:
     a)  The minimum volume is not less than 2/3 of the average volume of
         a semester according to the standard study plan;
@@ -351,7 +351,7 @@ Minister of Education and Training)*
         training quality and effectiveness;
     c)  There is an internal inspection and monitoring mechanism and a
         quality improvement system based on collecting and evaluating
-        learners\' feedback.
+        learners' feedback.
 2.  Online teaching and learning:
     a)  Training establishments are allowed to organize online classes
         when they meet current regulations on the application of
@@ -364,13 +364,13 @@ Minister of Education and Training)*
         In case of natural disasters, complicated epidemics and other
         force majeure circumstances, training institutions shall follow
         the instructions of the Ministry of Education and Training.
-3.  The training facility\'s regulations stipulate:
+3.  The training facility's regulations stipulate:
     a)  Assigning lecturers to classes, teaching lecturers, lecturers
         guiding students in experiments, practices, internships,
         projects, theses and carrying out other learning activities;
-    b)  Collecting learners\' feedback on conditions to ensure quality
+    b)  Collecting learners' feedback on conditions to ensure quality
         and learning effectiveness for all classes of the training
-        institution and publicizing learners\' feedback, including
+        institution and publicizing learners' feedback, including
         content, level and form of publicity;
     c)  Responsibilities and authorities of lecturers assigned to teach
         or guide students; responsibilities of specialized units and
@@ -427,8 +427,8 @@ Minister of Education and Training)*
     b)  Students who have achieved a passing grade can register to
         retake the course to improve their grade according to the
         regulations of the training institution.
-5.  The training facility\'s regulations stipulate:
-    a)  Organizing the assessment of students\' learning process and
+5.  The training facility's regulations stipulate:
+    a)  Organizing the assessment of students' learning process and
         experiences, including experimental activities, practice,
         homework, and report presentation as part of the course;
     b)  Organization of exams and tests, including regulations on exam
@@ -447,7 +447,7 @@ Minister of Education and Training)*
         re-evaluation is limited to a D or C grade;
     e)  Retaking is allowed to improve grades and the official grading
         rules of the course in case the subsequent grade is lower.
-6.  The training institution\'s regulations on assessment and grading of
+6.  The training institution's regulations on assessment and grading of
     coursework must comply with the following principles and
     requirements:
     a)  Serious, objective, trustworthy and honest;
@@ -456,7 +456,7 @@ Minister of Education and Training)*
 
 #### Article 10. Assessment of learning outcomes by semester and school year
 
-1.  Students\' learning outcomes are evaluated after each semester or
+1.  Students' learning outcomes are evaluated after each semester or
     after each school year, based on the results of the courses within
     the requirements of the training program that the student has
     studied and has scores according to the following criteria:
@@ -481,13 +481,13 @@ Minister of Education and Training)*
 3.  Letter grades not specified in Clause 2 of this Article shall not be
     counted towards semester, year or cumulative grade point averages.
     Courses not included in the requirements of the training program
-    shall not be counted towards the criteria for assessing students\'
+    shall not be counted towards the criteria for assessing students'
     learning outcomes.
 4.  Training institutions that are training according to the academic
     year system and using the 10-point scale shall calculate average
     scores based on course scores on the 10-point scale, without
     converting letter grades to the 4-point scale. In this case, the
-    training institution\'s regulations shall specifically stipulate the
+    training institution's regulations shall specifically stipulate the
     levels of handling learning outcomes to be equivalent to and replace
     the provisions in Article 12 of this Regulation.
 5.  Students are classified according to their semester average, yearly
@@ -528,7 +528,7 @@ Minister of Education and Training)*
         institution;
     b)  Study time exceeds the limit prescribed in Clause 5, Article 2
         of these Regulations.
-3.  The training facility\'s regulations specifically stipulate:
+3.  The training facility's regulations specifically stipulate:
     a)  The option to apply certain academic warning conditions,
         limiting the number or level of academic warnings but not
         exceeding 2 consecutive warnings;
@@ -557,7 +557,7 @@ Minister of Education and Training)*
 3.  Students not covered by Clause 1 and Clause 2 of this Article shall
     be placed in the same class as the next class to improve their
     learning outcomes.
-4.  The training facility\'s regulations specifically stipulate:
+4.  The training facility's regulations specifically stipulate:
     a)  The choice to apply a number of similar academic warning
         conditions prescribed for credit-based training in Clause 1,
         Article 11 of this Regulation;
@@ -623,7 +623,7 @@ Minister of Education and Training)*
 5.  Students who do not graduate are awarded a certificate for the
     credits accumulated in the training program of the training
     institution.
-6.  The training facility\'s regulations stipulate:
+6.  The training facility's regulations stipulate:
     a)  Process, procedures for graduation review and recognition, time
         and number of graduation reviews per year;
     b)  Retention and recognition of accumulated learning outcomes for
@@ -658,7 +658,7 @@ Minister of Education and Training)*
     cases of forced withdrawal or disciplinary action. These students
     who wish to return to school must take the entrance exam like other
     candidates.
-4.  The training institution\'s regulations specifically stipulate the
+4.  The training institution's regulations specifically stipulate the
     conditions, authority, and procedures for considering temporary
     leave of absence, readmission, and expulsion; and the retention and
     recognition of accumulated learning results for students requesting
@@ -704,7 +704,7 @@ Minister of Education and Training)*
     work-study or distance learning form of the training institution if
     they still have enough study time according to the regulations for
     the transfer form.
-4.  The training institution\'s regulations specify the authority,
+4.  The training institution's regulations specify the authority,
     conditions, and procedures for transferring training programs,
     majors, places of study, schools, or forms of study; and the
     recognition of learning outcomes or the transfer of accumulated
@@ -727,10 +727,10 @@ Minister of Education and Training)*
     assessment and mutual recognition of the number of credits
     accumulated by students at other training cooperation institutions
     shall not exceed 25% of the total volume of the training program.
-4.  The training institution\'s regulations stipulate the conditions for
+4.  The training institution's regulations stipulate the conditions for
     student exchange, training cooperation, recognition of learning
     outcomes and credit transfer for students when implementing training
-    programs and are made public on the training institution\'s website.
+    programs and are made public on the training institution's website.
 
 #### Article 18. Studying two programs at the same time
 
@@ -839,8 +839,8 @@ Minister of Education and Training)*
         targets and methods, training locations, training coordination
         facilities, and other relevant information;
     c)  Organize dissemination and guidance for students on the training
-        institution\'s regulations and regulations related to the
-        learning process, regulations on students\' obligations and
+        institution's regulations and regulations related to the
+        learning process, regulations on students' obligations and
         rights at the beginning of the course;
     d)  Organize internal inspection and audit of the implementation of
         plans, programs, regulations of training institutions and other
@@ -864,7 +864,7 @@ Minister of Education and Training)*
         year, and graduates who have found jobs within 12 months;
         classified by input subjects, training majors, training courses
         and training forms;
-    b)  Training institutions report to the People\'s Committee of the
+    b)  Training institutions report to the People's Committee of the
         province where they have training cooperation on the recruitment
         and training situation in the locality.
 2.  Training institutions are responsible for storing and safely

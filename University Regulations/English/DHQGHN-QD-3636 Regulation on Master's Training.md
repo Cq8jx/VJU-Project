@@ -10,7 +10,7 @@ Table recognition is technically challenging, so table layouts and contents may 
 
 # DECISION
 
-**Promulgating the Regulations on Master\'s training at Hanoi National
+**Promulgating the Regulations on Master's training at Hanoi National
 University**
 
 **DIRECTOR OF HANOI NATIONAL UNIVERSITY**
@@ -25,19 +25,19 @@ promulgating the Regulation on Organization and Operation of National
 Universities and member higher education institutions; Pursuant to
 Circular No. 23/2021/TT-BGDDT dated August 30, 2021 of the Minister of
 Education and Training promulgating the Regulation on admission and
-training for master\'s degrees; Pursuant to Resolution No. 3349/NQ-HD
+training for master's degrees; Pursuant to Resolution No. 3349/NQ-HD
 dated October 4, 2022 of the Council of Hanoi National University for
-the 2018-2023 term on approving the Master\'s training regulations at
+the 2018-2023 term on approving the Master's training regulations at
 Hanoi National University; At the request of the Head of the Training
 Department.
 
 **DECISION:**
 
 **Article 1.** Promulgated together with this Decision are the
-Regulations on Master\'s training at Hanoi National University.
+Regulations on Master's training at Hanoi National University.
 
 **Article 2.** This Decision takes effect from the date of signing and
-replaces the Master\'s training regulations at Vietnam National
+replaces the Master's training regulations at Vietnam National
 University, Hanoi (issued together with Decision No. 4668/QD-VNU, dated
 December 10, 2014 of the Director of Vietnam National University, Hanoi.
 
@@ -55,7 +55,7 @@ and Communications (posting on website); - File: VT, DT, M50.
 
 # REGULATIONS
 
-**Master\'s training at Hanoi National University** *(Issued with
+**Master's training at Hanoi National University** *(Issued with
 Decision No. 3636/QD-VNU, dated October 21, 2022 of the Director of
 Vietnam National University, Hanoi)*
 
@@ -63,28 +63,28 @@ Vietnam National University, Hanoi)*
 
 ### Article 1. Scope of regulation and applicable subjects
 
-1.  This regulation regulates master\'s training at Hanoi National
+1.  This regulation regulates master's training at Hanoi National
     University, including: enrollment; training organization;
     recognition of degrees and diplomas; responsibilities of training
     units, obligations and rights of lecturers and students; finance for
     training; inspection, settlement and handling of violations.
 2.  This regulation applies to units and individuals participating in
-    master\'s training at Hanoi National University.
-3.  This regulation does not apply to master\'s training programs in
+    master's training at Hanoi National University.
+3.  This regulation does not apply to master's training programs in
     association with foreign educational institutions, with degrees
     awarded by foreign educational institutions.
 
 ### Article 2. Training objectives
 
-Master\'s level training to provide students with basic scientific
+Master's level training to provide students with basic scientific
 knowledge, specialized skills for research in a scientific field or
 effective professional activities, the ability to work independently,
 creatively and the ability to detect and solve problems in the trained
 major.
 
-### Article 3. Master\'s training unit
+### Article 3. Master's training unit
 
-1.  Master\'s training units at Hanoi National University include:
+1.  Master's training units at Hanoi National University include:
     a)  Member universities (hereinafter referred to as universities);
     b)  Affiliated faculty, affiliated school, scientific research
         institute.
@@ -106,27 +106,27 @@ major.
     d)  Organize and manage the training process of training programs
         approved by Hanoi National University when registering to open
         training majors according to regulations;
-    đ) Manage students\'
+    đ) Manage students'
         learning and scientific research; reward and discipline students
         according to regulations; organize professional activities and
         scientific research for students suitable to the training major;
         decide or propose the Director of Hanoi National University to
         decide (according to the task hierarchy) to recognize academic
-        degrees and grant master\'s degrees to students;
+        degrees and grant master's degrees to students;
     e)  Manage funding, exploit and create additional funding sources;
-        invest, use and manage other resources in master\'s training in
+        invest, use and manage other resources in master's training in
         accordance with regulations;
     g)  Self-assess and publicly announce the results of self-assessment
         of training quality; register to participate in the quality
-        assessment of master\'s training programs with competent
+        assessment of master's training programs with competent
         authorities; fully implement regulations on educational quality
         assessment;
-    h)  Publicly announce on the training unit\'s website: documents
-        specifying admission and organization of master\'s level
+    h)  Publicly announce on the training unit's website: documents
+        specifying admission and organization of master's level
         training; list of training majors, annual enrollment plans and
         targets for majors that have been permitted to train; training
         programs, teaching plans; list of students admitted, graduated
-        and awarded master\'s degrees for each course; commitment to
+        and awarded master's degrees for each course; commitment to
         education quality and actual education quality, quality
         assurance conditions (including teaching staff and thesis
         guidance, facilities, equipment to ensure meeting the training
@@ -158,7 +158,7 @@ major.
     National University; directly manages the training of training units
     whose degrees are granted by the Director.
 2.  Training units are responsible for organizing and managing training
-    in the fields according to the State\'s training list and piloting
+    in the fields according to the State's training list and piloting
     training in new fields to provide high-quality human resources and
     nurture talents for the country. Training units carry out linkages
     and associations in the development and implementation of training
@@ -207,12 +207,12 @@ major.
 
 ### Article 6. Form, language and training time
 
-1.  Master\'s training at Hanoi National University is conducted in a
+1.  Master's training at Hanoi National University is conducted in a
     full-time form.
-2.  The official language used in master\'s training is Vietnamese.
-    Master\'s training in foreign languages is decided by the Director
+2.  The official language used in master's training is Vietnamese.
+    Master's training in foreign languages is decided by the Director
     of Hanoi National University.
-3.  The duration of master\'s degree training is from one to two years,
+3.  The duration of master's degree training is from one to two years,
     specifically stipulated in each training program, ensuring that the
     majority of students complete the training program and do not exceed
     the time specified in the Framework of the national education
@@ -224,21 +224,21 @@ major.
 4.  Time for organizing teaching activities is implemented according to
     the University Training Regulations at Hanoi National University.
 
-### Article 7. Master\'s degree training program
+### Article 7. Master's degree training program
 
 1.  The training unit shall organize the development of a project to
-    open a master\'s degree training program, submit it to the Director
+    open a master's degree training program, submit it to the Director
     of Hanoi National University for appraisal, issue the program and
     assign training tasks. For new majors not yet included in the
     approved list of planned majors, the training unit shall submit the
     project to the Director of Hanoi National University for approval
     before developing the project.
-2.  The training program is designed to award a master\'s degree
+2.  The training program is designed to award a master's degree
     according to the provisions of this Regulation; it does not award
     another university degree.
-3.  Master\'s training programs at Vietnam National University, Hanoi
-    include 2 types: Research-oriented master\'s training programs and
-    Application-oriented master\'s training programs.
+3.  Master's training programs at Vietnam National University, Hanoi
+    include 2 types: Research-oriented master's training programs and
+    Application-oriented master's training programs.
 4.  The training program must stipulate:
     a)  List of training majors suitable for learners who have graduated
         from university (or equivalent level or higher);
@@ -254,7 +254,7 @@ major.
 ### Article 8. Recognition of learning outcomes and credit transfer
 
 1.  Learners are considered for recognition and transfer of credits of
-    some subjects when they have studied another master\'s degree
+    some subjects when they have studied another master's degree
     program or have graduated from a specific specialized training
     program according to the provisions of Article 14 of Decree No.
     99/2019/ND-CP dated December 30, 2019 of the Government detailing
@@ -264,7 +264,7 @@ major.
     not exceed 30 credits.
 2.  Students studying a regular university training program (or
     equivalent level or higher) with a cumulative average grade of good
-    or higher may register to study some modules of a master\'s training
+    or higher may register to study some modules of a master's training
     program at the same training unit in advance. The number of
     recognized credits shall not exceed 15 credits.
 3.  Only recognize learning outcomes and transfer credits for courses
@@ -280,7 +280,7 @@ major.
         recognition and credit conversion is not contrary to Clause 3 of
         this Article;
     d)  The subjects (or groups of subjects) and the number of credits
-        recognized and converted according to the learner and master\'s
+        recognized and converted according to the learner and master's
         training major at Vietnam National University, Hanoi are
         determined on the basis of the university-level training major
         or the appropriate major in the entrance requirements of the
@@ -295,15 +295,15 @@ major.
     allowed to organize online admissions when they meet quality
     assurance conditions so that the assessment results are as reliable
     and fair as those of direct admissions.
-2.  Admission to master\'s level training is organized a maximum of 2
+2.  Admission to master's level training is organized a maximum of 2
     times per year according to the general schedule of Hanoi National
     University.
 3.  The entrance exam is held at the training unit. The organization of
     exams and admission outside the training unit must be approved by
     the Director of Hanoi National University.
-4.  The training unit\'s regulations on admission methods, number of
+4.  The training unit's regulations on admission methods, number of
     admissions, admission time during the year and admission location
-    must be posted on the training unit\'s website and Hanoi National
+    must be posted on the training unit's website and Hanoi National
     University.
 
 ### Article 10. Enrollment quotas
@@ -325,24 +325,24 @@ major.
 1.  The entrance exam consists of 2 subjects, determined by the head of
     the training unit and approved by Hanoi National University,
     including a key subject of the training program, determined
-    according to the requirements of the master\'s training program.
+    according to the requirements of the master's training program.
     Each exam can test knowledge of a subject or integrate knowledge
     testing of a number of university-level subjects. The training unit
     can replace an exam subject specified in this Clause with another
     competency assessment suitable to the requirements of the training
     program and industry. This replacement (if any) must be carried out
     for all candidates taking the exam for the training program.
-2.  The entrance exam subjects and methods of assessing candidates\'
+2.  The entrance exam subjects and methods of assessing candidates'
     abilities as prescribed in Clause 1 of this Article must be
-    determined in the master\'s degree training program opening project.
+    determined in the master's degree training program opening project.
     The change of entrance exam subjects or methods of assessing
-    candidates\' abilities shall be selected by the head of the training
+    candidates' abilities shall be selected by the head of the training
     unit upon the proposal of the training science council and reported
     to Hanoi National University for approval before announcing
     enrollment.
 3.  For training programs that only organize entrance exams, or entrance
     exams combined with entrance exams, units develop admission methods
-    and announce them in the unit\'s annual admission plan, and report
+    and announce them in the unit's annual admission plan, and report
     to Hanoi National University for review and approval before
     promulgation.
 
@@ -350,19 +350,19 @@ major.
 
 A suitable major is a major trained at the university level (or
 equivalent level or higher) that equips learners with the necessary
-professional foundation to continue studying a master\'s program in the
+professional foundation to continue studying a master's program in the
 corresponding major, specifically specified in the entrance standards of
-the master\'s program; the training unit stipulates cases that must
+the master's program; the training unit stipulates cases that must
 complete additional study requirements before applying. For
 administration and management majors, trained according to an
-application-oriented master\'s program, a suitable major at the
+application-oriented master's program, a suitable major at the
 university level includes majors directly related to the expertise and
 profession of the management field.
 
 ### Article 13. Requirements for candidates
 
 1.  Have graduated from university (or equivalent level or higher) in a
-    relevant field; for research-oriented master\'s programs, a
+    relevant field; for research-oriented master's programs, a
     graduation grade of good or higher is required or have scientific
     publications related to the field of study and research.
 2.  Have foreign language proficiency that meets the requirements of the
@@ -370,11 +370,11 @@ profession of the management field.
     foreign language proficiency framework for Vietnam. Foreign language
     proficiency is demonstrated through one of the following diplomas or
     certificates:
-    a)  Bachelor\'s degree or higher in foreign languages; or
-        bachelor\'s degree or higher in which the program is conducted
+    a)  Bachelor's degree or higher in foreign languages; or
+        bachelor's degree or higher in which the program is conducted
         primarily in a foreign language;
-    b)  Bachelor\'s degree or higher issued by Hanoi National University
-        within a period of no more than 02 years, and the program\'s
+    b)  Bachelor's degree or higher issued by Hanoi National University
+        within a period of no more than 02 years, and the program's
         output standards have met the requirements of Level 3 or higher
         according to the 6-level Foreign Language Proficiency Framework
         for Vietnam;
@@ -382,14 +382,14 @@ profession of the management field.
         or higher according to the 6-level foreign language proficiency
         framework for Vietnam, or equivalent within 2 years from the
         date of the foreign language certificate exam to the date of
-        registration for the master\'s degree exam, issued by
+        registration for the master's degree exam, issued by
         institutions recognized by the Ministry of Education and
         Training and Hanoi National University. The head of the training
         unit or the Principal of the University of Foreign Languages
         shall assess and be responsible for the authenticity of foreign
         language certificates issued by foreign organizations before
         recognizing their equivalence.
-3.  Candidates who are foreign citizens and register to study master\'s
+3.  Candidates who are foreign citizens and register to study master's
     programs in Vietnamese must have Vietnamese proficiency at Level 4
     or higher according to the Vietnamese Proficiency Framework for
     Foreigners or have graduated from university (or equivalent level or
@@ -414,7 +414,7 @@ profession of the management field.
 ### Article 14. Organization of supplementary knowledge learning
 
 1.  Those who have a university degree in a field relevant to the
-    master\'s program but must take additional courses in the university
+    master's program but must take additional courses in the university
     program must complete additional courses before taking the exam.
     Students must pay tuition for additional courses according to the
     tuition fees prescribed for university level.
@@ -432,12 +432,12 @@ profession of the management field.
 
 ### Article 15. Contest subjects and conditions
 
-Candidates for the master\'s degree training exam are citizens of the
+Candidates for the master's degree training exam are citizens of the
 Socialist Republic of Vietnam who meet the following conditions: 1.
 Regarding diplomas a) Graduated from a university in a field suitable
-for the field registered for the master\'s degree training exam
+for the field registered for the master's degree training exam
 according to the provisions of Article 12 of this Regulation; for
-research-oriented master\'s training programs, a graduation grade of
+research-oriented master's training programs, a graduation grade of
 good or higher is required or there is a scientific publication related
 to the field of study and research;
     c) A university degree granted by a
@@ -477,14 +477,14 @@ as prescribed by the training unit.
         have a decision to accept work or transfer or second work from a
         competent agency or organization;
     b)  War invalids and people enjoying policies like war invalids;
-    c)  Martyr\'s child;
+    c)  Martyr's child;
     d)  Heroes of the armed forces, heroes of labor;
     đ) Ethnic
         minorities with permanent residence registration for 2 years or
         more (as of the deadline for submitting application documents)
         in the locality specified in Point a of this Clause;
     e)  Children of resistance fighters infected with toxic chemicals,
-        recognized by the Provincial People\'s Committee as having
+        recognized by the Provincial People's Committee as having
         deformities, disabilities, and reduced ability to self-reliant
         in daily life and study due to the consequences of toxic
         chemicals.
@@ -499,7 +499,7 @@ as prescribed by the training unit.
 
 1.  No later than 45 days from the closing date for applications, the
     training unit will issue an admission notice. The admission notice
-    must be posted on the bulletin board and on the training unit\'s
+    must be posted on the bulletin board and on the training unit's
     website.
 2.  The content of the admission notice includes: subjects and
     conditions for admission; list of suitable majors for each training
@@ -521,15 +521,15 @@ as prescribed by the training unit.
     exam notices to candidates are carried out according to regulations
     of the head of the training unit.
 2.  The list of qualified candidates must be publicly announced on the
-    training unit\'s website at least 02 weeks before the first exam.
+    training unit's website at least 02 weeks before the first exam.
 
 ### Article 19. Admissions Council and support committees
 
-1.  The organization of the entrance exam for master\'s training is
+1.  The organization of the entrance exam for master's training is
     organized uniformly for training programs awarded by or jointly
     awarded by Hanoi National University. Every year, the Director of
     Hanoi National University decides to establish the Hanoi National
-    University\'s Master\'s Admission Steering Committee (abbreviated as
+    University's Master's Admission Steering Committee (abbreviated as
     the Admission Steering Committee). The Training Department is the
     standing unit of the Admission Steering Committee, the focal point
     for implementing the direction, supervision, and inspection of Hanoi
@@ -575,21 +575,21 @@ as prescribed by the training unit.
     School Graduation Exam Regulations.
 5.  Duties and powers of the council chairman, vice chairman, standing
     member and members; organization, participation standards, duties
-    and powers of the council\'s support committees shall comply with
+    and powers of the council's support committees shall comply with
     regulations of the head of the training unit.
 6.  People who themselves take the exam in one of the two rounds of the
     year or whose father, mother, wife, husband, child, or sibling takes
     the exam are not allowed to join the admissions council or the
-    council\'s support committees.
+    council's support committees.
 
 ### Article 20. Entrance exam
 
-1.  The content of the entrance exam for master\'s level training must
+1.  The content of the entrance exam for master's level training must
     ensure the following requirements:
     a)  Suitable for university training programs, assess and classify
-        candidates\' qualifications;
+        candidates' qualifications;
     b)  Ensure scientific, accurate, clear, rigorous, closely following
-        and covering the exam content announced in the training unit\'s
+        and covering the exam content announced in the training unit's
         enrollment announcement, within the scope of the university
         training program;
     c)  Suitable for the time limit for each exam.
@@ -655,7 +655,7 @@ as prescribed by the training unit.
     examination results, the review of examination scores and other
     necessary matters as required for the examination. Rounding of
     scores shall not be carried out in the entrance examination for
-    master\'s level training.
+    master's level training.
 2.  The Head of the Examination Board, the Head of the Re-examination
     Board, and the Head of the Examination Board are responsible for
     organizing the marking of entrance exams in accordance with the
@@ -672,7 +672,7 @@ as prescribed by the training unit.
     objective, and in accordance with the correct answers; is
     responsible for the examination marking results and will be subject
     to disciplinary action if the marking is incorrect, leading to
-    changes in the candidate\'s admission results.
+    changes in the candidate's admission results.
 4.  In case of necessity, the Director of Hanoi National University
     decides to establish or authorize a training unit or a specialized
     unit in the right field to establish a council to evaluate part or
@@ -690,7 +690,7 @@ as prescribed by the training unit.
     scale score for each exam subject and capacity assessment (after
     adding priority points, if any).
 2.  Based on the announced quota and the total score of the exam
-    subjects or the assessment of each candidate\'s ability, the
+    subjects or the assessment of each candidate's ability, the
     admissions council proposes the admission score for each major.
     Hanoi National University approves the admission score for each
     training major.
@@ -705,7 +705,7 @@ as prescribed by the training unit.
     c)  People with university degrees from talent training programs,
         international standard training programs, high quality training
         programs.
-4.  Foreign citizens wishing to study for a master\'s degree in Vietnam
+4.  Foreign citizens wishing to study for a master's degree in Vietnam
     will be considered for admission by the head of the training unit
     based on the training major, academic results at the university
     level, language proficiency as required by the training program and
@@ -713,7 +713,7 @@ as prescribed by the training unit.
     in case there is an international treaty or cooperation agreement
     between the Vietnamese Government and a foreign government or
     international organization on receiving foreign citizens to Vietnam
-    to study for a master\'s degree, the provisions of that
+    to study for a master's degree, the provisions of that
     international treaty or cooperation agreement shall apply.
 
 ### Article 24. Decision on admission and recognition of students
@@ -736,12 +736,12 @@ as prescribed by the training unit.
     University (according to the information system integrated in the
     training management software) and of the training unit.
 4.  The university president issues a decision to recognize students of
-    the master\'s degree training course for the successful candidates
+    the master's degree training course for the successful candidates
     who have registered for admission, and reports to Hanoi National
     University. The heads of affiliated faculties, principals of
     affiliated schools, and directors of scientific research institutes
     request the director of Hanoi National University to issue a
-    decision to recognize students of the master\'s degree training
+    decision to recognize students of the master's degree training
     course for the successful candidates who have registered for
     admission at their unit.
 
@@ -761,14 +761,14 @@ as prescribed by the training unit.
     Hanoi National University.
 4.  Those who themselves take part in one of the two exams of the year
     or whose parents, spouses, children, brothers, or sisters take part
-    in the master\'s degree entrance exam in the same year are not
+    in the master's degree entrance exam in the same year are not
     allowed to participate in the work of inspection, examination, or
     supervision of admissions.
 
 ### Article 26. Recruitment of foreigners
 
 Admission of foreigners or Vietnamese people with foreign nationality to
-study for a master\'s degree at Vietnam National University, Hanoi is
+study for a master's degree at Vietnam National University, Hanoi is
 carried out according to separate regulations.
 
 ## Chapter III: TRAINING ORGANIZATION
@@ -794,7 +794,7 @@ carried out according to separate regulations.
     majors, training at practice facilities must comply with Government
     regulations, meet the requirements of the training program and must
     be clearly stated in the teaching plan.
-2.  The organization of teaching contents in the master\'s training
+2.  The organization of teaching contents in the master's training
     program must be carried out by combining in-class learning with
     self-study and self-research; attaching importance to the ability to
     detect and solve problems in the field of training and the ability
@@ -879,7 +879,7 @@ carried out according to separate regulations.
         University. The results of these courses are converted and
         recognized in all training units of Hanoi National University;
     b)  Training units are responsible for notifying in writing and on
-        the unit\'s website about the teaching plan and timetable of the
+        the unit's website about the teaching plan and timetable of the
         courses before the registration period so that students inside
         and outside the unit know, creating all favorable conditions for
         students of other units to register for courses, transferring
@@ -891,16 +891,16 @@ carried out according to separate regulations.
         student management;
     d)  Students studying advanced, international standard, high-quality
         programs of Hanoi National University, when admitted to the
-        master\'s degree of Hanoi National University, may be exempted
+        master's degree of Hanoi National University, may be exempted
         from some specific subjects that have been studied at the
         advanced level at the university level. The head of the
-        master\'s training unit considers and decides on the exempted
+        master's training unit considers and decides on the exempted
         subjects and the scores of the exempted subjects for each major,
         training major and each student group according to the following
         criteria: the subject at the university level is nearly
-        equivalent to the subject at the master\'s level or the subject
+        equivalent to the subject at the master's level or the subject
         at the university level meets the output standards of the
-        subject at the master\'s level;
+        subject at the master's level;
 3.  Time to register for courses and thesis/project topics
     a)  Courses in the training program are registered by semester;
     b)  The thesis/project topic and thesis/project supervisor for
@@ -908,7 +908,7 @@ carried out according to separate regulations.
         the head of the training unit at least 06 months before
         organizing the thesis/project defense;
     c)  The change of thesis/project topic is decided by the head of the
-        training unit, based on the student\'s request, agreed by the
+        training unit, based on the student's request, agreed by the
         supervisor and head of the professional unit and must be done at
         least 06 months before the thesis/project defense. The change of
         topic in other cases is determined by the head of the training
@@ -919,12 +919,12 @@ carried out according to separate regulations.
     b)  For elective courses, if students do not get a grade of C or
         higher, they must re-register for that course or register for
         another elective course with the same knowledge to replace it.
-5.  Registering reserved courses For students who have a master\'s
+5.  Registering reserved courses For students who have a master's
     degree, students who transfer training units, students who stop
     studying, based on the training program, the head of the training
     unit decides which courses are reserved. The points of the reserved
     courses must be determined before starting to implement the new
-    program\'s study plan. During the course registration period,
+    program's study plan. During the course registration period,
     students only need to register the study volume of the courses that
     are not reserved in the training program.
 6.  Course registration results
@@ -941,7 +941,7 @@ carried out according to separate regulations.
 ### Article 31. Examination, testing and assessment
 
 1.  Course assessment must ensure the following requirements:
-    a)  Objective, accurate, fair, able to classify learners\'
+    a)  Objective, accurate, fair, able to classify learners'
         abilities; public and transparent regulations on assessment and
         results of course assessment;
     b)  Exams and tests of a course must be consistent with the content
@@ -954,7 +954,7 @@ carried out according to separate regulations.
     đ) Combine a number of assessment forms (exercises,
         essays, practice results, thematic reports, written exams, oral
         exams, etc.) suitable to the requirements of the course;
-    e)  Combine assessment of learners\' diligence in studying and
+    e)  Combine assessment of learners' diligence in studying and
         independence and creativity;
     g)  The weights of the component assessment scores and the final
         exam scores are specified in the course syllabus and announced
@@ -962,7 +962,7 @@ carried out according to separate regulations.
         exam score is mandatory and has a weight of no less than 60%;
     h)  Online assessment is applied when it ensures reliability,
         fairness and objectivity like direct assessment, and contributes
-        no more than 50% of the subject\'s score, except for graduation
+        no more than 50% of the subject's score, except for graduation
         subjects implemented according to the provisions of Article 37
         and Article 39 of this Regulation.
 2.  The head of the training unit shall prescribe and assign tasks to
@@ -979,9 +979,9 @@ carried out according to separate regulations.
     symbol I (score I) is used. Students with a score I must take a
     supplementary test, take a supplementary final exam as arranged by
     the training unit to have enough data to determine the score. For
-    courses that have not received the student\'s learning results, when
+    courses that have not received the student's learning results, when
     assigning the assessment level, the symbol X (score X) is used. When
-    there is enough data and the student\'s learning results are
+    there is enough data and the student's learning results are
     received, the score I, score X will be replaced by the corresponding
     score. For courses that are reserved when transferring from another
     training unit or transferring between training programs, when
@@ -989,10 +989,10 @@ carried out according to separate regulations.
     the results.
 5.  Test scores, final exam scores and course grades must be notified to
     students no later than 15 working days from the final exam date, on
-    the unit\'s website. Course grades must be recorded in the
-    student\'s diploma appendix according to the unified form prescribed
+    the unit's website. Course grades must be recorded in the
+    student's diploma appendix according to the unified form prescribed
     by the training unit, in accordance with the regulations of Hanoi
-    National University. The student\'s course grades must be saved in
+    National University. The student's course grades must be saved in
     the general grade book of the training unit.
 6.  The head of the training unit shall prescribe the preservation and
     storage of test papers and records related to the test.
@@ -1050,7 +1050,7 @@ and cannot continue studying at the training unit, except in the case
 specified in Point c of this Clause;
     m) Conditions for transferring
 training units: the training unit to which the student is transferring
-is training in the same major as the student; the student\'s wish to
+is training in the same major as the student; the student's wish to
 transfer training units must be approved by the heads of the training
 units from which the student is transferring and the training units to
 which the student is transferring;
@@ -1066,11 +1066,11 @@ the two training units. 4. The university principal decides and reports
 to Hanoi National University on transferring or accepting students to
 his/her unit. The Director of Hanoi National University decides on
 transferring or accepting students of affiliated faculties, affiliated
-schools, and scientific research institutes. 5. The training unit\'s
+schools, and scientific research institutes. 5. The training unit's
 regulations specify in detail the conditions and procedures for
 implementing student exchanges; recognize student credits accumulated
 when implementing training programs at the coordinating training unit
-and are made public on the training unit\'s website.
+and are made public on the training unit's website.
 
 ## Chapter IV: THESIS AND THESIS EVALUATION
 
@@ -1083,10 +1083,10 @@ and are made public on the training unit\'s website.
 2.  The thesis is a scientific report, synthesizing the main research
     results of the student, meeting the following requirements:
     a)  Contribute to theory, academics or technological development,
-        innovation; demonstrate the student\'s research capacity;
+        innovation; demonstrate the student's research capacity;
     b)  In accordance with Vietnamese cultural, ethical and traditional
         standards;
-    c)  Comply with the training institution\'s regulations on academic
+    c)  Comply with the training institution's regulations on academic
         integrity and current regulations of intellectual property law;
     d)  The thesis is about 70 A4 pages long, it can be more or less
         depending on the specific research field of the thesis but not
@@ -1114,7 +1114,7 @@ and are made public on the training unit\'s website.
     c)  Thesis supervisor criteria:
 
     - Have a doctoral degree of 02 years or more, with expertise
-      appropriate to the student\'s training field and thesis topic;
+      appropriate to the student's training field and thesis topic;
     - Have foreign language skills and apply information technology to
       conduct research and international scientific exchanges;
     - Have scientific research results related to the thesis topic
@@ -1130,7 +1130,7 @@ and are made public on the training unit\'s website.
         Framework for Vietnam; proven through one of the following
         diplomas or certificates:
 
-    - Have a university, master\'s or doctoral degree from a full-time
+    - Have a university, master's or doctoral degree from a full-time
       training program abroad, and have the degree recognized by a
       competent authority according to current regulations;
     - Have a university degree in foreign languages;
@@ -1167,7 +1167,7 @@ and are made public on the training unit\'s website.
     c)  Thesis supervisor criteria:
 
     - Have a doctoral degree of 02 years or more, with expertise
-      appropriate to the student\'s training field and thesis topic;
+      appropriate to the student's training field and thesis topic;
     - Have foreign language skills and apply information technology to
       conduct research and international scientific exchanges;
     - Have scientific research results related to the thesis topic
@@ -1183,7 +1183,7 @@ and are made public on the training unit\'s website.
         Framework for Vietnam; proven through one of the following
         diplomas or certificates:
 
-    - Have a university, master\'s or doctoral degree from a full-time
+    - Have a university, master's or doctoral degree from a full-time
       training program abroad, and have the degree recognized by a
       competent authority according to current regulations;
     - Have a university degree in foreign languages;
@@ -1267,7 +1267,7 @@ and are made public on the training unit\'s website.
     implementation of the research objectives, the content and quality
     of the thesis, the level of meeting the requirements for the thesis
     as prescribed in Article 34 of this Regulation, ensuring the correct
-    assessment of the student\'s knowledge and ability to apply
+    assessment of the student's knowledge and ability to apply
     knowledge to solve the problems posed by the thesis topic. Online
     defense can be carried out with the consent of the council members
     and the student; the entire process of the online defense is
@@ -1321,12 +1321,12 @@ and are made public on the training unit\'s website.
         comments on the research necessity of the thesis topic, its
         suitability to the major; the non-duplication of the topic,
         content, and research results with published works; honesty and
-        transparency in using and citing other people\'s materials;
+        transparency in using and citing other people's materials;
         layout and presentation form; content, methods, results,
         significance, and reliability of the results achieved;
         assessment of the success and limitations of the thesis, and
         confirmation of the level of meeting the requirements of a
-        master\'s thesis;
+        master's thesis;
     b)  Thesis appraisal is carried out according to the provisions in
         Clauses 1, 2, 4, Article 37 of this Regulation;
     c)  The thesis author, supervisor, and thesis evaluation council
@@ -1336,9 +1336,9 @@ and are made public on the training unit\'s website.
 3.  Handling of unsatisfactory thesis appraisal results If the appraisal
     council concludes that the thesis does not meet the requirements,
     the head of the training unit will stop granting the degree or
-    revoke or cancel the master\'s degree (if already granted). In cases
+    revoke or cancel the master's degree (if already granted). In cases
     where the thesis does not meet the requirements for reasons other
-    than illegal copying, the student\'s rights and responsibilities are
+    than illegal copying, the student's rights and responsibilities are
     resolved as follows:
     a)  If the thesis has not been re-defended and the topic still needs
         to be researched, the student may revise, supplement and
@@ -1373,11 +1373,11 @@ and are made public on the training unit\'s website.
     implementation and implementation results; meeting the following
     requirements:
     a)  Propose and test new models and solutions to effectively solve
-        practical challenges; demonstrate students\' ability to apply
+        practical challenges; demonstrate students' ability to apply
         science, technology and solve problems;
     b)  In accordance with Vietnamese cultural, ethical and traditional
         standards;
-    c)  Checked for plagiarism; Comply with the training institution\'s
+    c)  Checked for plagiarism; Comply with the training institution's
         regulations on academic integrity and current regulations of
         intellectual property law.
 4.  Each student has one or two project supervisors, one of whom must be
@@ -1403,31 +1403,31 @@ and are made public on the training unit\'s website.
     specify details on guidance, assessment and appraisal of the
     project.
 
-## Chapter V: RECOGNITION OF DEGREE AND AWARDING OF MASTER\'S DEGREE
+## Chapter V: RECOGNITION OF DEGREE AND AWARDING OF MASTER'S DEGREE
 
 ### Article 40. Management of embryos by
 
 The Director of Hanoi National University issues diploma templates,
-prints diploma templates, manages and grants master\'s diploma templates
+prints diploma templates, manages and grants master's diploma templates
 to training units.
 
 ### Article 41. Graduation conditions
 
 1.  Students are considered for recognition of graduation from the
-    master\'s program if they meet the following conditions:
+    master's program if they meet the following conditions:
     a)  Thesis/graduation project score meets requirements;
     b)  After successful evaluation, the full text of the graduation
         thesis/project (with confirmation from the supervisor and the
         council chairman that the graduation thesis/project has been
-        edited according to the council\'s conclusion, if any, attached
+        edited according to the council's conclusion, if any, attached
         with a copy of the conclusion of the graduation thesis/project
         evaluation council and comments from the reviewers for the
         training unit to use as reference material in the library) is
-        published on the training unit\'s electronic information page
+        published on the training unit's electronic information page
         for at least 30 days, except for some topics in fields that
         require confidentiality according to state regulations. In the
         case that the student does not edit the graduation
-        thesis/project according to the council\'s conclusion within 01
+        thesis/project according to the council's conclusion within 01
         month from the date of successful evaluation of the graduation
         thesis/project, depending on the level, the head of the unit
         decides on the form of disciplinary action of suspending the
@@ -1445,21 +1445,21 @@ to training units.
     qualified students, and proposes to the competent authority to
     recognize graduation.
 
-### Article 42. Recognition of academic degrees and granting of master\'s degrees
+### Article 42. Recognition of academic degrees and granting of master's degrees
 
 1.  The training unit shall complete the application for recognition of
-    degrees and grant of master\'s degrees to students who meet the
+    degrees and grant of master's degrees to students who meet the
     conditions specified in Clause 1, Article 41 of this Regulation,
     within 02 months from the date the student successfully defends
     his/her graduation thesis/project; a maximum of 03 additional months
     in case of having to organize an appraisal of the thesis/project.
 2.  The Director of Hanoi National University decides to recognize
-    degrees and award master\'s degrees to students who have completed
-    master\'s training programs at affiliated faculties, affiliated
+    degrees and award master's degrees to students who have completed
+    master's training programs at affiliated faculties, affiliated
     schools, and scientific research institutes upon the proposal of the
     graduation examination council and the Head of the Training
     Department. The university president decides to recognize degrees
-    and award master\'s degrees to students upon the proposal of the
+    and award master's degrees to students upon the proposal of the
     graduation examination council and the head of the postgraduate
     training department/faculty.
 3.  The diploma appendix granted to students must clearly state:
@@ -1473,7 +1473,7 @@ to training units.
 
 1.  Reporting mode
     a)  Every December, the head of the training unit reports to Hanoi
-        National University on the master\'s training work of that year,
+        National University on the master's training work of that year,
         including: the number of permanent lecturers with a doctorate
         degree or higher of the training unit and data on the
         implementation of the enrollment plan for each training major;
@@ -1496,7 +1496,7 @@ to training units.
         conclusion of the thesis evaluation council and comments from
         reviewers are stored and preserved for at least 30 years from
         the date of graduation;
-    d)  Other documents related to master\'s degree enrollment and
+    d)  Other documents related to master's degree enrollment and
         training are stored and preserved for at least 05 years from the
         date of graduation;
     đ) Documents that have expired must be
@@ -1506,14 +1506,14 @@ to training units.
 
 ### Article 44. Standards, responsibilities and rights of lecturers
 
-1.  Lecturers for master\'s degree training include full-time lecturers
-    and guest lecturers, assigned to teach courses in the master\'s
+1.  Lecturers for master's degree training include full-time lecturers
+    and guest lecturers, assigned to teach courses in the master's
     degree training program or guide students in practice, internship,
-    and implementation of master\'s thesis/project topics.
+    and implementation of master's thesis/project topics.
 2.  Standards for lecturers In addition to the general requirements for
-    lecturers, lecturers teaching master\'s training programs must have
+    lecturers, lecturers teaching master's training programs must have
     a doctorate, doctor of science or the title of associate professor
-    or professor. People with a master\'s degree can participate in
+    or professor. People with a master's degree can participate in
     teaching some practical modules in application-oriented programs and
     must be approved by the Head of the training unit.
 3.  Responsibilities of lecturers
@@ -1542,7 +1542,7 @@ to training units.
         graduate students;
     g)  Notify the progress and learning results of graduate students to
         the unit/department managing the graduate students;
-    h)  Fully declare and regularly and timely update the individual\'s
+    h)  Fully declare and regularly and timely update the individual's
         scientific resume according to the form and regulations of Hanoi
         National University;
     i)  Perform other tasks as prescribed by law and as prescribed by
@@ -1552,7 +1552,7 @@ to training units.
         of Hanoi National University;
     b)  Be guaranteed material conditions and equipment for teaching and
         scientific research activities; be provided with information and
-        use the unit\'s training, science and technology services;
+        use the unit's training, science and technology services;
     c)  Receive remuneration for doctoral training according to
         regulations of the state, of Hanoi National University and of
         the training unit;
@@ -1578,7 +1578,7 @@ Regulations.
     there are changes during the study process and after graduation
     according to the regulations of Hanoi National University.
 4.  Implement study and scientific research plans within the prescribed
-    time limit according to the training unit\'s program and plan;
+    time limit according to the training unit's program and plan;
     report fully and on time on study, research, training results and
     other information as required by the training unit.
 5.  Participate in activities as a member of the training unit
@@ -1597,7 +1597,7 @@ Regulations.
         determined by the head of the training unit.
 6.  Report on research results during the study and research period at
     the training unit (if any) in a standard format for the training
-    unit to post on the unit\'s website and provide to the website of
+    unit to post on the unit's website and provide to the website of
     Hanoi National University.
 7.  Be aware of building, preserving, protecting and promoting the brand
     of Hanoi National University and training units.
@@ -1638,7 +1638,7 @@ Regulations.
     assistant and scientific research activities according to the
     regulations of the training unit.
 5.  Tuition fees will be refunded if there is no fault, but due to
-    violations by the training unit, the master\'s degree is not
+    violations by the training unit, the master's degree is not
     awarded.
 6.  The training unit is requested to replace the thesis or project
     supervisor if, after one month from the date of receiving the
@@ -1648,7 +1648,7 @@ Regulations.
 7.  To express opinions to competent authorities of the training unit
     about the training program, teaching activities of lecturers and
     activities related to the enrollment process, organization and
-    management of master\'s training.
+    management of master's training.
 8.  Be respected, treated equally and provided with full information
     relevant to their studies.
 9.  Other rights as prescribed by law.
@@ -1684,7 +1684,7 @@ Regulations.
         balance between funding sources.
 2.  Use of training funds
     a)  The head of the training unit decides on the use of training
-        funds according to the unit\'s internal spending regulations;
+        funds according to the unit's internal spending regulations;
     b)  The unit managing the training funding source is responsible for
         paying the funding to the unit performing the training
         coordination tasks according to the rates and norms prescribed
@@ -1724,7 +1724,7 @@ Regulations.
     inspection, supervision and supervision by Hanoi National University
     and competent authorities according to current regulations.
 2.  Hanoi National University inspects and checks the implementation of
-    regulations on enrollment, training, and granting of master\'s
+    regulations on enrollment, training, and granting of master's
     degrees of training units according to the provisions of law.
 3.  Hanoi National University is subject to inspection and supervision
     by the Ministry of Education and Training within the scope of
@@ -1755,7 +1755,7 @@ Regulations.
         take the exam for them, or use fake diplomas or certificates in
         their admission documents will be forced to leave school; if
         discovered after the degree is awarded, the head of the training
-        unit will revoke or cancel the master\'s degree that has been
+        unit will revoke or cancel the master's degree that has been
         awarded to that person.
     b)  Civil servants, public employees, and employees participating in
         management, teaching, guidance, and thesis evaluation at

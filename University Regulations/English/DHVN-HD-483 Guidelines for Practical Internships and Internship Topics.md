@@ -41,7 +41,7 @@ internships and internship topics for full-time students as follows:
 
 - Meet the output standards of the training program through practical
   experience activities.
-- Encourage students\' autonomy and creativity, increasing employment
+- Encourage students' autonomy and creativity, increasing employment
   opportunities while studying and after graduation.
 - Provide opportunities for students to demonstrate their abilities,
   analyze and evaluate work, enhance self-confidence, personal
@@ -58,7 +58,7 @@ internships and internship topics for full-time students as follows:
   combining classroom learning with practical activities and internships
   at the internship facility.
 - Practical and internship activities are carried out continuously and
-  flexibly throughout the students\' training process at school.
+  flexibly throughout the students' training process at school.
 - Internship activities are carried out flexibly in terms of time, in
   which the total internship time and study time do not exceed the
   maximum total time of the course according to current training
@@ -91,7 +91,7 @@ internships and internship topics for full-time students as follows:
 - Internship facilities are businesses, factories, workshops,
   enterprises, corporations, socio-political organizations, schools,
   research institutes, and other internship facilities related to the
-  student\'s major.
+  student's major.
 - Internship facilities must be legally guaranteed (have a business
   registration, have a registered address for businesses, organizations
   or those with educational and training functions) to ensure the
@@ -101,11 +101,11 @@ internships and internship topics for full-time students as follows:
   necessary supplementary skills for students to complete the training
   program output standards.
 - Internship facilities arrange staff with appropriate professional
-  qualifications and facilities to serve students\' internship
+  qualifications and facilities to serve students' internship
   activities; support and create conditions for staff and students to
   participate in study and practical internship.
 - The internship facility shares scientific and technological databases,
-  library information, lecture materials, and data related to students\'
+  library information, lecture materials, and data related to students'
   practical internship activities.
 - Students who complete practical and internship activities at
   internship facilities must have confirmation of internship completion
@@ -113,11 +113,11 @@ internships and internship topics for full-time students as follows:
 
 ### 5. Student internship data and results
 
-- Information on students\' actual internship results and data of the
+- Information on students' actual internship results and data of the
   actual internship facility used during the internship period are
   confidential information and relevant parties may not disclose them to
   other units without the written consent of relevant parties.
-- Students\' practical internship results are used to assess the
+- Students' practical internship results are used to assess the
   completion of course output standards in the training program.
 - Internship data, research, inventions and patents of students during
   the practical internship are the intellectual property of Vietnam -
@@ -193,7 +193,7 @@ internships and internship topics for full-time students as follows:
   where the internship is held.
 - Basic functional activities of an enterprise such as: production,
   business, finance, organization - human resources, etc.
-- Specialized knowledge directly related to the student\'s training
+- Specialized knowledge directly related to the student's training
   field.
 - Format and presentation: Depending on the internship content of the
   training program, the Faculties shall specify the format and
@@ -224,9 +224,9 @@ internships and internship topics for full-time students as follows:
 
 **11.1. Department of Training and Student Affairs** + Organize students
 to register for internship courses on the registration system according
-to the Faculty\'s plan. + Issue letters of introduction for students to
+to the Faculty's plan. + Issue letters of introduction for students to
 do internships if the internship facility requests. + Resolve problems
-arising related to students\' internships. + Announce internship course
+arising related to students' internships. + Announce internship course
 scores on the University Training Information Portal. + Support and
 coordinate in confirming teaching hours for lecturers participating in
 practical internship activities. **11.2. Department of Research
@@ -235,7 +235,7 @@ organize cooperation agreements with businesses and organizations to
 create internship opportunities for students. + Provide a list of
 partners that can send interns to instructors. **11.3. Department of
 Examination and Quality Assurance** + Orient and develop a process for
-evaluating students\' internship and practical results in accordance
+evaluating students' internship and practical results in accordance
 with the examination regulations of Vietnam - Japan University and
 VNU. + Ensure the quality of internships is consistent with the criteria
 of the training program. + Collect feedback from students and businesses
@@ -248,7 +248,7 @@ internships (if any). **11.5. Faculties** + Develop specialized
 internship content that closely follows the standard output content of
 the course, assign instructors to guide students during the
 internship. + Coordinate with businesses and organizations to implement
-internship plans for students. + Monitor and evaluate students\'
+internship plans for students. + Monitor and evaluate students'
 internship results, propose improvements if necessary. + Coordinate with
 relevant functional departments in organizing internship and practical
 activities; + Timely report on issues arising related to students during
@@ -270,14 +270,14 @@ departments (for reporting); - Filed: VT, DT&CTSV, QH04.
 Hoang Oanh**
 
   ------------------
-  \### Appendix 1.
+  ### Appendix 1.
   Procedure for
   implementing
   practical
   internship
   activities
   ------------------
-  \### Appendix 2.
+  ### Appendix 2.
   List of interns,
   internship
   facilities and
@@ -389,7 +389,7 @@ Happiness**
 
 **INTERNSHIP LOG**
 
-1.  **Student\'s full name:** **Student ID:** **Class:**
+1.  **Student's full name:** **Student ID:** **Class:**
 2.  **Internship Company/Institution:**
 3.  **Supervisor:**
 
@@ -403,7 +403,7 @@ Happiness**
   (from...to...)**
   ------------------------------------------------------------------
 
-4.  **Comments about student\'s internship log:**
+4.  **Comments about student's internship log:**
     ........................................................................
     ........................................................................
 

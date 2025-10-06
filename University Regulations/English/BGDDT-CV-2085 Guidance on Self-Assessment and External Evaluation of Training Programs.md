@@ -1050,18 +1050,18 @@ Ratio of converted scientific research and technology transfer projects per perm
 
 47. Number of permanent staff members of the unit implementing the program participating in scientific research projects in the past 5 years:
 
-| Number of projects | Staff involved in national-level projects | Staff involved in ministry-level projects\* | Staff involved in institutional-level projects | Notes |
+| Number of projects | Staff involved in national-level projects | Staff involved in ministry-level projects* | Staff involved in institutional-level projects | Notes |
 | :--- | :---: | :---: | :---: | :--- |
 | 1–3 projects | | | | |
 | 4–6 projects | | | | |
 | More than 6 projects | | | | |
 | **Total staff participating** | | | | |
 
-\* Including ministry-level or equivalent projects and sub-projects at the national level.
+* Including ministry-level or equivalent projects and sub-projects at the national level.
 
 48. Number of books published by the unit implementing the program in the past 5 years:
 
-| No. | Type of book | Coefficient\*\* | **20...** | **20...** | **20...** | **20...** | **20...** | Total (converted) |
+| No. | Type of book | Coefficient** | **20...** | **20...** | **20...** | **20...** | **20...** | Total (converted) |
 | :- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | Monographs | 2.0 | | | | | | |
 | 2 | Textbooks | 1.5 | | | | | | |
@@ -1069,7 +1069,7 @@ Ratio of converted scientific research and technology transfer projects per perm
 | 4 | Handbooks | 0.5 | | | | | | |
 | | **Total** | | | | | | | |
 
-\*\* Conversion coefficients are based on the scoring principles of the State Professorship Council (with adjustments).
+** Conversion coefficients are based on the scoring principles of the State Professorship Council (with adjustments).
 
 Total number of books (converted): ......................................................
 
@@ -1086,14 +1086,14 @@ Ratio of published books (converted) per permanent staff member: ...............
 
 50. Number of journal articles published by permanent staff members of the unit implementing the program in the past 5 years:
 
-| No. | Type of journal | Coefficient\*\* | **20..** | **20..** | **20..** | **20..** | **20..** | Total (converted) |
+| No. | Type of journal | Coefficient** | **20..** | **20..** | **20..** | **20..** | **20..** | Total (converted) |
 | :- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | International scientific journals | 1.5 | | | | | | |
 | 2 | Domestic discipline-specific journals | 1.0 | | | | | | |
 | 3 | Institutional journals/newsletters | 0.5 | | | | | | |
 | | **Total** | | | | | | | |
 
-\*\* Conversion coefficients are based on the scoring principles of the State Professorship Council (with adjustments).
+** Conversion coefficients are based on the scoring principles of the State Professorship Council (with adjustments).
 
 ---
 
@@ -1113,7 +1113,7 @@ Ratio of journal articles (converted) per permanent staff member: ..............
 
 52. Number of scientific reports presented by permanent staff members of the unit implementing the program at conferences/seminars and published in full in proceedings in the past 5 years:
 
-| No. | Type of conference | Coefficient\*\* | **20...** | **20...** | **20...** | **20...** | **20...** | Total (converted) |
+| No. | Type of conference | Coefficient** | **20...** | **20...** | **20...** | **20...** | **20...** | Total (converted) |
 | :- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | International conferences | 1.0 | | | | | | |
 | 2 | Domestic conferences | 0.5 | | | | | | |
@@ -1122,7 +1122,7 @@ Ratio of journal articles (converted) per permanent staff member: ..............
 
 (When counting domestic conferences, exclude conferences organized by the education institution to avoid double counting.)
 
-\*\* Conversion coefficients are based on the scoring principles of the State Professorship Council.
+** Conversion coefficients are based on the scoring principles of the State Professorship Council.
 
 Total number of reports (converted): .....................................................
 
@@ -1154,14 +1154,14 @@ Ratio of reports (converted) per permanent staff member: .......................
 
 55.1. Number of scientific research projects in which learners of the unit implementing the program participated in the past 5 years:
 
-| Number of projects | Learners participating in national-level projects | Learners participating in ministry-level projects\* | Learners participating in institutional-level projects | Notes |
+| Number of projects | Learners participating in national-level projects | Learners participating in ministry-level projects* | Learners participating in institutional-level projects | Notes |
 | :--- | :---: | :---: | :---: | :--- |
 | 1–3 projects | | | | |
 | 4–6 projects | | | | |
 | More than 6 projects | | | | |
 | **Total learners participating** | | | | |
 
-\* Including ministry-level or equivalent projects and sub-projects at the national level.
+* Including ministry-level or equivalent projects and sub-projects at the national level.
 
 55.2. Scientific research achievements of students:
 
