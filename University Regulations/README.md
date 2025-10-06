@@ -1,16 +1,16 @@
 # University Regulations Archive
 
-This directory organizes regulatory documents relevant to VJU operations. Materials are grouped by issuing body to make it easier to locate applicable policies and procedural guidance.
+This directory organizes regulatory documents relevant to VJU operations. Materials are now grouped by language so that the desired working copy can be opened directly, regardless of issuing body.
 
 ## Structure
 
-- **MOET** – Circulars from Vietnam's Ministry of Education and Training that govern national admission, training, and curriculum standards for undergraduate, master's, and doctoral programs. Key documents include the 2021 circulars on undergraduate training (`BGDĐT-TT-08-2021`), master's admissions and training (`BGDĐT-TT-23-2021`), and doctoral admissions and training (`BGDĐT-TT-18-2021`), each available in Vietnamese, English, and Japanese translations alongside the official PDFs.
-- **VNU** – Decisions issued by Vietnam National University, Hanoi that define university-wide regulations such as the 2022 undergraduate training framework (`ĐHQGHN-QĐ-3626`), master's training regulations (`ĐHQGHN-QĐ-3636`), doctoral training regulations (`ĐHQGHN-QĐ-3638`), and diploma management policies (`ĐHQGHN-QĐ-4455`). Documents are provided in Vietnamese originals, English translations, and Japanese translations when available, plus the promulgating decision PDFs.
-- **VJU** – Vietnam Japan University guidance notes, notices, and templates that supplement national and VNU regulations. These include instructions on foreign language certificate submissions (`ĐHVN-TB-984`, `ĐHVN-TB-1010`, `ĐHVN-TB-911`), thesis and graduation project organization (`ĐHVN-HD-1534`), internship guidance (`ĐHVN-HD-483`), academic advising regulations (`ĐHVN-QĐ-473`), and forms such as JLPT authorization letters and annex templates in both Vietnamese and English. The `Original` subdirectory stores the authoritative PDFs and editable `.docx` templates together for quick access while language-specific folders provide translations and localized guidance.
--   *Note:* Vietnamese template filenames keep the official `ĐHVN` prefix. Earlier glob-based moves that targeted only `DHVN-*` skipped these diacritic-prefixed files, leaving them behind in the legacy `pdf` directory. The files have now been migrated manually into `Original`, and the redundant `pdf` folder has been removed.
+- **English/** – English translations and guidance notes for MOET circulars, VNU decisions, and VJU procedures. Typical examples include `BGDDT-TT-23-2021 Regulations on Master's Degree Enrollment and Training.md` and `DHVN-HD-483 Guidelines for Practical Internships and Internship Topics.md`.
+- **Japanese/** – Japanese localizations used for faculty and administrative reference. Files retain official numbering (e.g., `DHQGHN-QD-3626 学部教育に関する規則.md`, `DHVN-TB-911 外国語証明書提出通知 VJU2024.md`).
+- **Vietnamese/** – Vietnamese originals or OCR-converted texts (`*_source.md`). These mirror the wording of promulgated decisions and circulars, preserving diacritics and official terminology.
+- **Source/** – Authoritative PDFs, DOC/DOCX templates, and other non-Markdown assets. File names align with the corresponding Markdown so each bundle stays together.
 
 ## Usage tips
 
-- Use the Vietnamese filenames (prefixed with `ĐHQGHN` or `BGDĐT`) to cross-reference official decision or circular numbers.
-- When working with bilingual resources, refer to the English or Japanese Markdown summaries for quick reference before consulting the authoritative PDF.
-- Templates and appendices in the VJU subfolder are provided in editable formats (`.docx`) and supporting PDFs to streamline administrative workflows.
+- Use the Vietnamese filenames (prefixed with `ĐHQGHN`, `BGDĐT`, `ĐHVN`, etc.) when cross-referencing decision numbers with official gazettes.
+- For bilingual work, start with the English or Japanese Markdown files, then consult the matching PDF in `Source/` for the signed original or template.
+- When adding new documents, drop Markdown into the appropriate language folder and place supporting PDFs or editable templates into `Source/` to keep the archive consistent.
