@@ -70,6 +70,9 @@ Bạn cũng có thể thêm Google Group (danh sách thư). Nếu số người 
 3. Trong lúc trình chiếu, Meet sẽ hiển thị hình thu nhỏ hoặc biểu ngữ cho biết bạn đang chia sẻ. Khi hoàn tất, nhấp **Dừng trình bày**.
 4. Nếu cần phát video kèm âm thanh, hãy chọn chia sẻ thẻ Chrome và đánh dấu vào tùy chọn **Chia sẻ âm thanh của thẻ**.
 
+- **Chia sẻ bằng thẻ Chrome khi cần truyền âm thanh:** Trong hộp thoại chia sẻ của Chrome, chọn **Thẻ** và bật **Chia sẻ âm thanh của thẻ**. Chế độ chia sẻ cửa sổ hoặc toàn màn hình sẽ không gửi âm thanh, vì vậy hãy mở sẵn nội dung cần phát trong thẻ mà bạn dự định trình chiếu.
+- **Giữ lại âm thanh nhúng trong tệp .pptx:** Mở .pptx trực tiếp trên Google Drive sẽ chuyển sang Google Slides và làm mất chức năng phát âm thanh. Nếu cần trình chiếu tệp có âm thanh, hãy tải lên OneDrive hoặc mở bằng PowerPoint cho web (Microsoft 365), rồi chia sẻ thẻ trình duyệt đó với tùy chọn **Chia sẻ âm thanh của thẻ**.
+
 > **Lưu ý:** Nếu bạn thường xuyên chuyển qua lại giữa Meet và các ứng dụng khác (Docs, Sheets, Slides) hoặc trình chiếu PDF toàn màn hình, hãy cài ứng dụng Google Meet để thao tác mượt hơn.
 
 ## 5. Chuẩn bị và vận hành phòng thảo luận nhóm

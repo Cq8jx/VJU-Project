@@ -70,6 +70,9 @@ You can also add a Google Group (mailing list). If you expect many attendees, as
 3. During the presentation, a thumbnail or banner indicates your screen is live. When you are finished, click **Stop presenting**.
 4. To include audio from a video clip, pick the Chrome tab option and select **Share tab audio** in the dialog.
 
+- **Share a Chrome tab whenever you need to send audio:** In the Chrome sharing dialog, choose **Tab** and enable **Share tab audio**. Window or entire-screen sharing does not transmit sound, so queue any media in the tab you plan to present.
+- **Preserve embedded audio in .pptx files:** Opening a .pptx directly from Google Drive converts it to Google Slides, which cannot play the embedded audio tracks. Upload the deck to OneDrive or open it in Microsoft 365 PowerPoint for the web instead, then present that browser tab with **Share tab audio** enabled.
+
 > **Note:** If you frequently switch between Meet and other apps (Docs, Sheets, Slides) or present PDFs in full screen, installing the Google Meet app makes transitions smoother.
 
 ## 5. Prepare and run breakout rooms
