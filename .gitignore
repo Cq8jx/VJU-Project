@@ -1,0 +1,8 @@
+.DS_Store
+
+# Ignore archived screenshots in Google Meet guide
+Guide/Google Meet/Fig/Unused/
+Guide/Google Meet/Fig/Unused/**
+
+# Ignore workspace-specific config artifacts
+Guide/.clasp.json
