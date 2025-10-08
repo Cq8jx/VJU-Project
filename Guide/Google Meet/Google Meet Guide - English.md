@@ -30,8 +30,9 @@ This document is designed to resolve the most common issues that arise when you 
 ![Entering meeting details in Google Calendar](Fig/google-calendar-event-details.png)
 You can also add a Google Group (mailing list). If you expect many attendees, ask your assistant for the appropriate group address.
 2. In the event details panel, click **Add Google Meet video conferencing** to generate the meeting link automatically.
-3. Open **Video conferencing settings** and select **Add co-hosts**.
-4. Search for the Gmail addresses of the co-hosts you want to add and review the actions co-hosts are allowed to take (mute participants, start breakout rooms, etc.).
+3. Click the gear icon next to the Meet link and open **Video conferencing settings**.
+![Opening the Meet video conferencing options in Google Calendar](Fig/google-calendar-video-call-options.png)
+4. In the sidebar, choose **Guests**. Under **Co-hosts**, search for the people you want to promote and add them. Review the actions co-hosts are allowed to take (mute participants, start breakout rooms, etc.) and adjust as needed.
 ![Adding a co-host in the meeting options](Fig/google-meet-add-cohost.png)
 5. Confirm the notification settings for participants and click **Save**. Co-hosts receive meeting management privileges automatically.
 
@@ -43,7 +44,7 @@ You can also add a Google Group (mailing list). If you expect many attendees, as
 
 ### Computer (Chrome browser)
 - Visit [https://meet.google.com](https://meet.google.com) in Chrome and click the **Install** icon (down arrow) on the right side of the address bar.
-![Installing Google Meet from the Chrome address bar](Fig/google-meet-chrome-install-icon.jpg)
+![Installing Google Meet from the Chrome address bar](Fig/google-meet-chrome-install-icon.png)
 - When prompted, click **Install**. The Google Meet progressive web app (PWA) is added so you can launch Meet directly from your Dock or taskbar.
 
 ### Smartphone
@@ -75,8 +76,9 @@ You can also add a Google Group (mailing list). If you expect many attendees, as
 1. While scheduling the meeting, open **Video conferencing settings** → **Create breakout rooms** to configure the number of rooms and their duration (available with Google Workspace Business Standard or higher).
 2. Choose **Manually** to drag-and-drop participants into each room. For large classes, you can upload a CSV to assign people in bulk.
 3. During the meeting, open **Meeting tools (Activities)** → **Breakout rooms** to start the activity, set timers, or move people between rooms. Co-hosts can perform the same actions.
-![Breakout room controls inside Meeting tools](Fig/google-meet-extra-04.png)
+![Breakout room controls before the session starts](Fig/google-meet-extra-01.png)
 4. When it is time to regroup, click **Bring everyone back to the main session** and leave a few minutes for debrief. Share follow-up notes or surveys so takeaways stick.
+![Returning everyone to the main session](Fig/google-meet-extra-04.png)
 
 > **Hint:** Before launching breakout rooms, show participants where the **Return to main call** button is and remind them that the main chat stays visible even when they are in a breakout room.
 
@@ -87,10 +89,24 @@ You can also add a Google Group (mailing list). If you expect many attendees, as
 - **Screen share is choppy:** Close unnecessary applications and confirm your network is stable. Use a wired LAN connection if possible.
 - **Breakout rooms are unavailable:** Ask your Google Workspace administrator to confirm that the feature is enabled for your organizational unit.
 
-## Tips for successful sessions
+## 6. Recording considerations
+
+- Google Workspace for Education treats Meet recordings as “temporary recordings.” They automatically expire 30 days after the recording date. Move any critical footage to Classroom or another long-term storage location as soon as possible.
+- Temporary recordings cannot be shared outside the organizer’s domain or downloaded, even within the 30-day window. Only people in the same domain as the host can view them.
+- These constraints prevent unapproved redistribution of course content and help protect intellectual property. Document the policy in faculty guidelines and remind lecturers how to handle recordings responsibly.
+
+## 7. Tips for successful sessions
 - Configure Meet through Google Calendar so invitations and updates are sent automatically. Participants who accept the invitation receive reminders before the meeting.
 - Install the desktop or mobile Meet app for a smoother experience, especially when presenting or switching windows frequently.
 - Join the meeting from a smartphone as well as your computer to monitor how your slides, videos, and audio appear to others.
 - Prefer tab sharing for the highest image quality, followed by window sharing, then entire-screen sharing.
 - Set your Google Account display name appropriately so students and guests can recognize you.
 - Use institutional accounts whenever possible. Some organizations block external addresses from joining, and attendance tracking works more reliably with managed accounts.
+
+## References
+- University of Tokyo utelecon, “Google Meet”: https://utelecon.adm.u-tokyo.ac.jp/google/meet/
+- Carnegie Mellon University Computing Services, “Google Meet How-To”: https://www.cmu.edu/computing/services/comm-collab/web-conferencing/meet/how-to/index.html
+- University of Cambridge UIS, “Google Meet” guide: https://help.uis.cam.ac.uk/google-meet
+- Boston University TechWeb, “Google Meet for Remote Learning”: https://www.bu.edu/tech/services/cccs/collaboration/online/google-meet/meet-remote-learning/
+- John Colet School, “A Student Guide to Using Google Meet for Online Tutorials”: https://www.johncolet.co.uk/assets/Uploads/A-Student-Guide-to-Using-Google-Meet-for-Online-Tutorials.pdf
+- Georgetown University UIS, “Google Meet” support: https://uis.georgetown.edu/google-meet/
