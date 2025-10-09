@@ -5,7 +5,8 @@ This repository catalogs Vietnam Japan University (VJU) regulations, public disc
 ## Repository Structure (Updated 2025-10-09)
 - **University Regulations/** 今回の整理で英語・日本語・ベトナム語（`_source.md`）・原本（PDF/DOC）を通達番号単位で揃えました。未翻訳や付録のみの資料は `University Regulations/Unprossed/` に集約しています（現時点では BGDDT-CV-2085 Annex / BGDDT-QD-4998 Annex）。
 - **Quality Assurance/** `Vietnamese/` には `_source.md` のみを保持し、原本は `Source/`、翻訳ファイルは各言語ディレクトリへ配置しました。旧来の整形済みベトナム語版は削除済みです。
-- フォルダ別の件数が一致するよう更新しているため、新規追加時も同じ構造で配置してください。
+- フォルダ別の件数が一致するよう更新しているため、新規追加時も同じ構造で配置してください。未整備の資料や付録のみのファイルは `Unprossed/` に一時保管し、翻訳／整形完了後に言語別フォルダへ戻します。
+- Appendix や Annex を扱う場合は通達番号ごとに独立したファイルとして整理し、対応する言語セット（英語・日本語・ベトナム語 `_source.md`・原本）を揃えてから移動します。
 
 ### Recently Issued Documents (past 12 months)
 - **2025-09-09 – DHVN-TB-1010 Notification on Submission of English Language Certificates** (VJU2025 cohort)  \
