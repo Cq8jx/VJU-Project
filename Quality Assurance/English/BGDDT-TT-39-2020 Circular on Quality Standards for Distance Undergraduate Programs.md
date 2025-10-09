@@ -5,7 +5,7 @@ Table recognition is technically challenging, so table layouts and contents may 
 
 **MINISTRY OF EDUCATION AND TRAINING** | **SOCIALIST REPUBLIC OF VIỆT NAM**
 :--- | :---
-| **Independence - Freedom - Happiness**
+| **Independence - Freedom - Happiness** | |
 No. 39/2020/TT-BGDĐT | *Hà Nội, 9 October 2020*
 
 # CIRCULAR

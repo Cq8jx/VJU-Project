@@ -5,7 +5,7 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 :--- | :---
-| **Độc lập - Tự do - Hạnh phúc**
+| **Độc lập - Tự do - Hạnh phúc** | |
 Số: 39/2020/TT-BGDĐT | *Hà Nội, ngày 09 tháng 10 năm 2020*
 
 # THÔNG TƯ
