@@ -5,7 +5,7 @@ Table recognition is technically challenging, so table layouts and contents may 
 
 **MINISTRY OF EDUCATION AND TRAINING** | **SOCIALIST REPUBLIC OF VIỆT NAM**
 :--- | :---
-| **Independence - Freedom - Happiness**
+| **Independence - Freedom - Happiness** | |
 No. 04/2016/TT-BGDĐT | *Hà Nội, 14 March 2016*
 
 # CIRCULAR
@@ -41,7 +41,7 @@ No. 04/2016/TT-BGDĐT | *Hà Nội, 14 March 2016*
 
 **MINISTRY OF EDUCATION AND TRAINING** | **SOCIALIST REPUBLIC OF VIỆT NAM**
 :--- | :---
-| **Independence - Freedom - Happiness**
+| **Independence - Freedom - Happiness** | |
 
 ## REGULATIONS
 **On Quality Standards for Training Programs**  

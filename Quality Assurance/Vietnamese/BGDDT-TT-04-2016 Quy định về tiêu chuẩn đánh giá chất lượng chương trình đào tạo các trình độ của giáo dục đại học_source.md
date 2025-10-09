@@ -5,7 +5,7 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 :--- | :---
-| **Độc lập - Tự do - Hạnh phúc**
+| **Độc lập - Tự do - Hạnh phúc** | |
 Số: 04/2016/TT-BGDĐT | *Hà Nội, ngày 14 tháng 3 năm 2016*
 
 # **THÔNG TƯ**
@@ -42,7 +42,7 @@ Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư ban hành Q
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 :--- | :---
-| **Độc lập - Tự do - Hạnh phúc**
+| **Độc lập - Tự do - Hạnh phúc** | |
 
 ## **QUY ĐỊNH**
 **Về tiêu chuẩn đánh giá chất lượng chương trình đào tạo**

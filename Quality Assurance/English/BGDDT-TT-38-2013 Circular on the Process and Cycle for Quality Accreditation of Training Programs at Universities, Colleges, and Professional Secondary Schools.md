@@ -5,7 +5,7 @@ Table recognition is technically challenging, so table layouts and contents may 
 
 **MINISTRY OF EDUCATION AND TRAINING** | **SOCIALIST REPUBLIC OF VIỆT NAM**
 :--- | :---
-| **Independence - Freedom - Happiness**
+| **Independence - Freedom - Happiness** | |
 No. 38/2013/TT-BGDĐT | *Hà Nội, 29 November 2013*
 
 # CIRCULAR

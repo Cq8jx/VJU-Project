@@ -5,7 +5,7 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO** | **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 :--- | :---
-| **Độc lập - Tự do - Hạnh phúc**
+| **Độc lập - Tự do - Hạnh phúc** | |
 Số: 38/2013/TT-BGDĐT | *Hà Nội, ngày 29 tháng 11 năm 2013*
 
 # **THÔNG TƯ**
@@ -42,7 +42,7 @@ Số: 38/2013/TT-BGDĐT | *Hà Nội, ngày 29 tháng 11 năm 2013*
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO** | **CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 :--- | :---
-| **Độc lập - Tự do - Hạnh phúc**
+| **Độc lập - Tự do - Hạnh phúc** | |
 
 ## **QUY ĐỊNH**
 **Về quy trình và chu kỳ kiểm định chất lượng chương trình đào tạo của các trường đại học, cao đẳng và trung cấp chuyên nghiệp**
