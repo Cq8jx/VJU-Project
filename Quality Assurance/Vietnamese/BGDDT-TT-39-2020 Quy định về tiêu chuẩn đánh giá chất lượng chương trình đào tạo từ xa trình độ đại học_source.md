@@ -5,7 +5,7 @@ Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố c
 
 **BỘ GIÁO DỤC VÀ ĐÀO TẠO** | **CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**
 :--- | :---
-| **Độc lập - Tự do - Hạnh phúc** | |
+| **Độc lập - Tự do - Hạnh phúc**
 Số: 39/2020/TT-BGDĐT | *Hà Nội, ngày 09 tháng 10 năm 2020*
 
 # THÔNG TƯ
@@ -72,7 +72,7 @@ Trong Thông tư này, một số từ ngữ dưới đây được hiểu như 
 
 1. Bản mô tả chương trình đào tạo đầy đủ thông tin, cập nhật, xác định rõ hình thức đào tạo từ xa, được công bố công khai và dễ dàng tiếp cận.
 2. Đề cương chi tiết các môn học hoặc học phần đầy đủ thông tin, cập nhật, được công bố công khai và các bên liên quan dễ dàng tiếp cận.
-3. Nội dung chương trình đào tạo được thiết kế dựa trên chuẩn đầu ra và chương trình đào tạo chính quy, cập nhật, có cấu trúc linh loạt, trình tự logic và gắn kết giữa các môn học hoặc học phần trong việc đạt được chuẩn đầu ra.
+3. Nội dung chương trình đào tạo được thiết kế dựa trên chuẩn đầu ra và chương trình đào tạo chính quy, cập nhật, có cấu trúc linh hoạt, trình tự logic và gắn kết giữa các môn học hoặc học phần trong việc đạt được chuẩn đầu ra.
 
 **Điều 7. Tiêu chuẩn 3: Hoạt động dạy và học**
 
