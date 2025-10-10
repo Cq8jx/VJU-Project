@@ -2,12 +2,6 @@
 
 This repository catalogs Vietnam Japan University (VJU) regulations, public disclosure files, and internal guidance collected for academic and administrative use. Use the multilingual tables of contents below to navigate directly to each language's Markdown notes and the corresponding source files.
 
-## Repository Structure (Updated 2025-10-09)
-- **University Regulations/** 今回の整理で英語・日本語・ベトナム語（`_source.md`）・原本（PDF/DOC）を通達番号単位で揃えました。未翻訳や付録のみの資料は `University Regulations/Unprossed/` に集約しています（現時点では BGDDT-CV-2085 Annex / BGDDT-QD-4998 Annex）。
-- **Quality Assurance/** `Vietnamese/` には `_source.md` のみを保持し、原本は `Source/`、翻訳ファイルは各言語ディレクトリへ配置しました。旧来の整形済みベトナム語版は削除済みです。
-- フォルダ別の件数が一致するよう更新しているため、新規追加時も同じ構造で配置してください。未整備の資料や付録のみのファイルは `Unprossed/` に一時保管し、翻訳／整形完了後に言語別フォルダへ戻します。
-- Appendix や Annex を扱う場合は通達番号ごとに独立したファイルとして整理し、対応する言語セット（英語・日本語・ベトナム語 `_source.md`・原本）を揃えてから移動します。
-
 ### Recently Issued Documents (past 12 months)
 - **2025-09-09 – DHVN-TB-1010 Notification on Submission of English Language Certificates** (VJU2025 cohort)  \
   [Markdown](<University Regulations/English/DHVN-TB-1010 Notification on Submission of English Language Certificates.md>) · [Source File](<University Regulations/Source/DHVN-TB-1010 Submission of English Language Certificates_source.pdf>)
@@ -42,9 +36,9 @@ This repository catalogs Vietnam Japan University (VJU) regulations, public disc
   - [Source File](<University Regulations/Source/TTCP-QD-78-2022 Decision Approving Quality Assurance and Accreditation Program 2022-2030_source.pdf>)
 
 ### University Regulations – MOET
-- **BGDDT-CV-774 Official Letter on Adjusting Appendices**
-  - [Markdown](<University Regulations/English/BGDDT-CV-774 Official Letter on Adjusting Appendices.md>)
-  - [Source File](<University Regulations/Source/BGDDT-CV-774 Official Letter on Adjusting Appendices_source.pdf>)
+- **BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD**
+  - [Markdown](<University Regulations/English/BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD.md>)
+  - [Source File](<University Regulations/Source/BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD_source.pdf>)
 - **BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs**
   - [Markdown](<University Regulations/English/BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs.md>)
   - [Source File](<University Regulations/Source/BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs_source.pdf>)
@@ -157,9 +151,9 @@ This repository catalogs Vietnam Japan University (VJU) regulations, public disc
   - [Tệp gốc](<University Regulations/Source/TTCP-QD-78-2022 Decision Approving Quality Assurance and Accreditation Program 2022-2030_source.pdf>)
 
 ### Quy định – Bộ Giáo dục và Đào tạo
-- **BGDDT-CV-774 Công văn điều chỉnh một số phụ lục**
-  - [Bản Markdown](<University Regulations/Vietnamese/BGDDT-CV-774 Công văn điều chỉnh một số phụ lục_source.md>)
-  - [Tệp gốc](<University Regulations/Source/BGDDT-CV-774 Official Letter on Adjusting Appendices_source.pdf>)
+- **BGDDT-CV-774 Công văn điều chỉnh phụ lục Công văn 2085-QLCL-KĐCLGD**
+  - [Bản Markdown](<University Regulations/Vietnamese/BGDDT-CV-774 Công văn điều chỉnh phụ lục Công văn 2085-QLCL-KĐCLGD_source.md>)
+  - [Tệp gốc](<University Regulations/Source/BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD_source.pdf>)
 - **BGDDT-CV-2085 Hướng dẫn tự đánh giá và đánh giá ngoài chương trình đào tạo**
   - [Bản Markdown](<University Regulations/Vietnamese/BGDDT-CV-2085 Hướng dẫn tự đánh giá và đánh giá ngoài chương trình đào tạo_source.md>)
   - [Tệp gốc](<University Regulations/Source/BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs_source.pdf>)
@@ -265,9 +259,9 @@ This repository catalogs Vietnam Japan University (VJU) regulations, public disc
   - [原本ファイル](<University Regulations/Source/TTCP-QD-78-2022 Decision Approving Quality Assurance and Accreditation Program 2022-2030_source.pdf>)
 
 ### 規程 – 教育訓練省（MOET）
-- **BGDDT-CV-774 一部付属書の調整に関する公文**
-  - [Markdown版](<University Regulations/Japanese/BGDDT-CV-774 一部付属書の調整に関する公文.md>)
-  - [原本ファイル](<University Regulations/Source/BGDDT-CV-774 Official Letter on Adjusting Appendices_source.pdf>)
+- **BGDDT-CV-774 公文2085-QLCL-KDCLGD付属書の調整に関する公文**
+  - [Markdown版](<University Regulations/Japanese/BGDDT-CV-774 公文2085-QLCL-KDCLGD付属書の調整に関する公文.md>)
+  - [原本ファイル](<University Regulations/Source/BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD_source.pdf>)
 - **BGDDT-CV-2085 自己評価および外部評価に関する指針**
   - [Markdown版](<University Regulations/Japanese/BGDDT-CV-2085 自己評価および外部評価に関する指針.md>)
   - [原本ファイル](<University Regulations/Source/BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs_source.pdf>)
