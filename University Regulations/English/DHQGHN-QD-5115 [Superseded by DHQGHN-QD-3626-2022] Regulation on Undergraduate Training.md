@@ -1,6 +1,8 @@
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.
 
+**Effectiveness notice:** This regulation is no longer in force and was replaced by the undergraduate training regulation issued with Decision No. 3626/QD-VNU dated October 21, 2022.
+
 **Vietnam National University, Hanoi** **SOCIALIST REPUBLIC OF VIETNAM**
 **Independence -- Freedom -- Happiness**
 
