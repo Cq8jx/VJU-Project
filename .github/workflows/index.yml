@@ -20,6 +20,9 @@ jobs:
           python-version: "3.11"
       - run: pip install pyyaml
       - run: python scripts/build-index.py
+      - name: Remove stale refresh branch
+        run: |
+          git branch -D chore/refresh-indexes 2>/dev/null || true
       - name: Create pull request for refreshed indexes
         uses: peter-evans/create-pull-request@v6
         with:
