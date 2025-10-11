@@ -1,3 +1,17 @@
+---
+id: BGDDT-TT-39-2020
+title: Circular on Quality Standards for Distance Undergraduate Programs
+issuer: Bộ Giáo dục và Đào tạo
+category: Quality Assurance
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [quality-assurance]
+---
 This file is a text transcription of the information published at https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=201316, and the authoritative content is the version available there.
 Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.
 

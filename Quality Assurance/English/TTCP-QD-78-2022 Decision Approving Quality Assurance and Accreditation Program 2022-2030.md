@@ -1,3 +1,17 @@
+---
+id: TTCP-QD-78-2022
+title: Decision Approving Quality Assurance and Accreditation Program 2022-2030
+issuer: Thủ tướng Chính phủ
+category: Quality Assurance
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [quality-assurance]
+---
 This file is a transcription from https://vanban.chinhphu.vn/?pageid=27160&docid=205104 and the information is accurate based on the content published there.
 Recognizing tables encountered technical difficulties, so the layout and table content may not be completely accurate.
 

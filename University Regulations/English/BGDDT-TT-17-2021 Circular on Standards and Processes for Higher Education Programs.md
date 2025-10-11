@@ -1,3 +1,17 @@
+---
+id: BGDDT-TT-17-2021
+title: Circular on Standards and Processes for Higher Education Programs
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 This file is a text transcription of the information published at https://vanban.chinhphu.vn/?pageid=27160&docid=203478, and the authoritative content is the version available there.
 Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.
 

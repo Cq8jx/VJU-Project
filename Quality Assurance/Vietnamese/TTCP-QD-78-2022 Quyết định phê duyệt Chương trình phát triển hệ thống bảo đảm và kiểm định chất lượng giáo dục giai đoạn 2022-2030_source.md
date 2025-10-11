@@ -1,3 +1,17 @@
+---
+id: TTCP-QD-78-2022
+title: Quyết định phê duyệt Chương trình phát triển hệ thống bảo đảm và kiểm định chất lượng giáo dục giai đoạn 2022-2030
+issuer: Thủ tướng Chính phủ
+category: Quality Assurance
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [quality-assurance]
+---
 Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=27160&docid=205104 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

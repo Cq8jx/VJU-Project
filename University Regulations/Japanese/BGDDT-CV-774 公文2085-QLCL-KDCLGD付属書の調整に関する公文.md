@@ -1,3 +1,17 @@
+---
+id: BGDDT-CV-774
+title: 付属書
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Cong-van-dieu-chinh-mot-so-phu-luc-Cong-van-so-2085-QLCL-KDCLGD-19421/ を基に作成したものであり、内容は同サイトで公表された情報に依拠しています。
 表の文字認識には技術的な制約があり、表のレイアウトや内容が完全には正確でない可能性があります。
 原資料には詳細な技術基準を定めた多数の表が含まれているため、最新かつ完全な情報については上記の公式ウェブサイトを参照してください。

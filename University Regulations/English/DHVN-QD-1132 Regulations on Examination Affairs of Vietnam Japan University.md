@@ -1,3 +1,17 @@
+---
+id: DHVN-QD-1132
+title: REGULATIONS
+issuer: Trường Đại học Việt Nhật
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 # REGULATIONS
 **on Examination Affairs of Vietnam Japan University**
 **(Promulgated together with Decision No. 1132/QĐ-ĐHVN dated 1 October 2025)**

@@ -1,3 +1,17 @@
+---
+id: GUIDE-PROFESSIONAL-MANNER-AND-WORKSTYLE-ENGLISH
+title: Professional Manner and Workstyle Guide
+issuer: Trường Đại học Việt Nhật
+category: Guide
+issue_date: null
+status: active
+languages: [en]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [guide]
+---
 # Professional Manner and Workstyle Guide
 
 ## Table of Contents

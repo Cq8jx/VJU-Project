@@ -1,3 +1,17 @@
+---
+id: BGDDT-QD-4998
+title: QUY ĐỊNH KỸ THUẬT VỀ DỮ LIỆU CỦA CƠ SỞ DỮ LIỆU GIÁO DỤC VÀ ĐÀO TẠO
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 Tệp này là bản chuyển văn bản từ https://e-ict.gov.vn/index.php/laws/detail/Quyet-dinh-Ban-hanh-Quy-dinh-ky-thuat-ve-du-lieu-cua-co-so-du-lieu-giao-duc-va-dao-tao-751/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 Do tài liệu gốc chứa một lượng lớn các bảng quy định kỹ thuật chi tiết, để có thông tin đầy đủ và chính xác nhất, vui lòng tham khảo trực tiếp tại trang web chính thức đã nêu.

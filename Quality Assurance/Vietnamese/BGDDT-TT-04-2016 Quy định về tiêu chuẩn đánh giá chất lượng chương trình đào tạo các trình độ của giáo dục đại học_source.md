@@ -1,3 +1,17 @@
+---
+id: BGDDT-TT-04-2016
+title: Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học
+issuer: Bộ Giáo dục và Đào tạo
+category: Quality Assurance
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [quality-assurance]
+---
 Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=184794 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

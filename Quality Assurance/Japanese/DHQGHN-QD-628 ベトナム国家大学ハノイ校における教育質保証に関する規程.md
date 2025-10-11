@@ -1,3 +1,17 @@
+---
+id: DHQGHN-QD-628
+title: 規程
+issuer: Đại học Quốc gia Hà Nội
+category: Quality Assurance
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [quality-assurance]
+---
 このファイルは https://ussh.vnu.edu.vn/eng/van-ban/detail/Quy-dinh-ve-Dam-bao-chat-luong-trong-DHQGHN-19418/ に掲載された文書を転記したものであり、同サイトで公表された内容に基づいて正確な情報を提供する。
 表の認識には技術的な困難があるため、表のレイアウトおよび内容が完全には正確でない可能性がある。
 

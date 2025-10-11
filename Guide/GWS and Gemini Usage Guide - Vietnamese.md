@@ -1,3 +1,17 @@
+---
+id: GUIDE-GWS-AND-GEMINI-USAGE-GUIDE-VIETNAMESE
+title: Cẩm nang sử dụng GWS/Gemini (Tiếng Việt)
+issuer: Trường Đại học Việt Nhật
+category: Guide
+issue_date: null
+status: active
+languages: [vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [guide]
+---
 # Cẩm nang sử dụng GWS/Gemini (Tiếng Việt)
 
 Tài liệu này dành cho giảng viên và nhân viên trong trường đại học nhằm khai thác có hệ thống Google Workspace (GWS), họ dịch vụ AI sinh Gemini, cùng các công nghệ liên quan như Apps Script, Retrieval-Augmented Generation (RAG) và Multi-Channel Processing (MCP). Đi theo từng chương từ chia sẻ tệp cơ bản đến tự động hóa nâng cao, bạn có thể nắm được cách thiết lập môi trường, vận hành hàng ngày và quản trị theo từng bước.

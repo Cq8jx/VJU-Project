@@ -1,3 +1,17 @@
+---
+id: GUIDE-GOOGLE-MEET-GOOGLE-MEET-GUIDE-ENGLISH
+title: Google Meet
+issuer: Trường Đại học Việt Nhật
+category: Guide
+issue_date: null
+status: active
+languages: [en]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [guide]
+---
 # Google Meet
 
 This guide is for first-time Google Meet users. It walks through meeting creation, co-host configuration, app installation, link sharing, screen sharing, and breakout room management. Features that require Google Workspace Education (faculty edition) are called out explicitly.
