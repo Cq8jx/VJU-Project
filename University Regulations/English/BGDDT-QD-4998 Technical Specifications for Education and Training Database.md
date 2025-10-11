@@ -1,3 +1,17 @@
+---
+id: BGDDT-QD-4998
+title: TECHNICAL SPECIFICATIONS ON DATA OF THE EDUCATION AND TRAINING DATABASE
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 This file is a transcription of the document at https://e-ict.gov.vn/index.php/laws/detail/Quyet-dinh-Ban-hanh-Quy-dinh-ky-thuat-ve-du-lieu-cua-co-so-du-lieu-giao-duc-va-dao-tao-751/ and the accuracy of its information is based on the content published there.
 The recognition of tables encountered technical difficulties, so the layout and content of the tables may not be completely accurate.
 Because the original document contains a large number of tables with detailed technical specifications, please refer directly to the official website mentioned above for the most complete and accurate information.

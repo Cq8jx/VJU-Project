@@ -1,3 +1,17 @@
+---
+id: DHVN-HD-259
+title: 付録2
+issuer: Trường Đại học Việt Nhật
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 本ファイルは https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ に掲載された情報をテキスト化したものであり、正確な内容は同サイトで公開されている情報に従ってください。
 
 *番号: 259/HD-ĐHVN — 署名日時: 2024年11月18日 11:53:40（UTC+07:00）*

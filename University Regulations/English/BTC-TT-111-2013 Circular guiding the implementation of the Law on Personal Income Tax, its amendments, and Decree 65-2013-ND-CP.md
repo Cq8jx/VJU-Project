@@ -1,3 +1,17 @@
+---
+id: BTC-TT-111-2013
+title: Chapter I
+issuer: Bộ Tài chính
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 This file is a transcription of https://vanban.chinhphu.vn/?pageid=27160&docid=169566 .
 Layout and table contents may deviate from the official gazette because of technical limitations during recognition.
 

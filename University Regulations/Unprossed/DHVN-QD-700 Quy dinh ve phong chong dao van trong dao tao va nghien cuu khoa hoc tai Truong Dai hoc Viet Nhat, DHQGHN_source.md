@@ -1,3 +1,17 @@
+---
+id: DHVN-QD-700
+title: Quy dinh ve phong chong dao van trong dao tao va nghien cuu khoa hoc tai Truong Dai hoc Viet Nhat, DHQGHN
+issuer: Trường Đại học Việt Nhật
+category: University Regulations
+issue_date: null
+status: active
+languages: [en]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations, unprocessed]
+---
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật. Bố cục và nội dung của bảng có thể không chính xác.
 【Lưu ý】

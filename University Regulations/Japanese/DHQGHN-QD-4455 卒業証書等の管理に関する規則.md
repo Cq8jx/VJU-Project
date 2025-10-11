@@ -1,3 +1,17 @@
+---
+id: DHQGHN-QD-4455
+title: 決定
+issuer: Đại học Quốc gia Hà Nội
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 本ファイルは https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ に掲載された情報をテキスト化したものであり、正確な内容は同サイトで公開されている情報に従ってください。
 表の認識には技術的な制約があるため、表のレイアウトや内容が完全に正確でない可能性があります。
 

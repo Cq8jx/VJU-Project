@@ -1,3 +1,17 @@
+---
+id: DHVN-TB-911
+title: 通知
+issuer: Trường Đại học Việt Nhật
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 本ファイルは https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ に掲載された情報をテキスト化したものであり、正確な内容は同サイトで公開されている情報に従ってください。
 
 **ベトナム国家大学ハノイ校** **日越大学**

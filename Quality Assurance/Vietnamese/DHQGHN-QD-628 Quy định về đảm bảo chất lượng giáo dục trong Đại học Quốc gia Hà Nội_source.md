@@ -1,3 +1,17 @@
+---
+id: DHQGHN-QD-628
+title: QUY ĐỊNH
+issuer: Đại học Quốc gia Hà Nội
+category: Quality Assurance
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [quality-assurance]
+---
 Tệp này là bản chuyển văn bản từ https://ussh.vnu.edu.vn/eng/van-ban/detail/Quy-dinh-ve-Dam-bao-chat-luong-trong-DHQGHN-19418/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

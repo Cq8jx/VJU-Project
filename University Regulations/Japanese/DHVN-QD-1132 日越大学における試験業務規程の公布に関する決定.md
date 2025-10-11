@@ -1,3 +1,17 @@
+---
+id: DHVN-QD-1132
+title: 決定
+issuer: Trường Đại học Việt Nhật
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 # 決定
 **日越大学における試験業務規程の公布について**
 

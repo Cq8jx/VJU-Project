@@ -1,3 +1,17 @@
+---
+id: DHQGHN-QD-628
+title: Regulation on Educational Quality Assurance in Vietnam National University, Hanoi
+issuer: Đại học Quốc gia Hà Nội
+category: Quality Assurance
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [quality-assurance]
+---
 This file transcribes the document published at https://ussh.vnu.edu.vn/eng/van-ban/detail/Quy-dinh-ve-Dam-bao-chat-luong-trong-DHQGHN-19418/ and reproduces the information accurately on the basis of the content disclosed there.
 Because of technical limitations in table recognition, table layouts and contents may not be entirely precise.
 

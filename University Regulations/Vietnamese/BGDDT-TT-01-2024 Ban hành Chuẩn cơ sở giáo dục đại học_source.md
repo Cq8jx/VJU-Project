@@ -1,3 +1,17 @@
+---
+id: BGDDT-TT-01-2024
+title: Ban hành Chuẩn cơ sở giáo dục đại học
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 Tệp này là bản chuyển văn bản từ https://chinhphu.vn/?pageid=27160&docid=209786&classid=1 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 
