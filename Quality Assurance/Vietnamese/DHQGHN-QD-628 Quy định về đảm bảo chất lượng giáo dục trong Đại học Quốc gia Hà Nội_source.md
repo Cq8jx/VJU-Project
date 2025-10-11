@@ -12,7 +12,10 @@ replaced_by: []
 revision_history: []
 tags: [quality-assurance]
 ---
+> Versions: [VI](DHQGHN-QD-628%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20%C4%91%E1%BA%A3m%20b%E1%BA%A3o%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20gi%C3%A1o%20d%E1%BB%A5c%20trong%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Qu%E1%BB%91c%20gia%20H%C3%A0%20N%E1%BB%99i_source.md) | [EN](../English/DHQGHN-QD-628%20Regulation%20on%20Educational%20Quality%20Assurance%20in%20Vietnam%20National%20University%2C%20Hanoi.md) | [JA](../Japanese/DHQGHN-QD-628%20%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%AD%A6%E3%83%8F%E3%83%8E%E3%82%A4%E6%A0%A1%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%95%99%E8%82%B2%E8%B3%AA%E4%BF%9D%E8%A8%BC%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A6%8F%E7%A8%8B.md)
+
 Tệp này là bản chuyển văn bản từ https://ussh.vnu.edu.vn/eng/van-ban/detail/Quy-dinh-ve-Dam-bao-chat-luong-trong-DHQGHN-19418/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
+
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 
 ---
