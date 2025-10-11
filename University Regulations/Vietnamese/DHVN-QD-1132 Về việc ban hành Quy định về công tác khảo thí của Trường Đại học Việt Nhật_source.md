@@ -5,7 +5,7 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
+languages: [vi]
 source_pdf: ""
 replaces: []
 replaced_by: []
