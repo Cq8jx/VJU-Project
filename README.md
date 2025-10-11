@@ -16,6 +16,22 @@ tags: [general]
 
 This repository catalogs Vietnam Japan University (VJU) regulations, public disclosure files, and internal guidance collected for academic and administrative use. Use the multilingual tables of contents below to navigate directly to each language's Markdown notes and the corresponding source files.
 
+## Git Branch Maintenance
+
+Stale feature branches can accumulate quickly in this repository. Follow the checklist below to remove branches safely after their work has been merged.
+
+### Remove Local Branches
+
+1. Fetch the latest references so that your branch list reflects the current remote state: `git fetch --prune`.
+2. Review branches that have already been merged into the current branch: `git branch --merged`.
+3. Delete each fully merged local branch you no longer need: `git branch -d <branch-name>`.
+
+### Remove Remote Branches
+
+1. Confirm that the branch is not referenced by an open pull request or deployment process.
+2. Delete the remote branch explicitly: `git push origin --delete <branch-name>`.
+3. Ask collaborators to run `git fetch --prune` so the removed branch disappears from their local repositories as well.
+
 ### Recently Issued Documents (past 12 months)
 - **2025-09-09 – DHVN-TB-1010 Notification on Submission of English Language Certificates** (VJU2025 cohort)  \
   [Markdown](<University Regulations/English/DHVN-TB-1010 Notification on Submission of English Language Certificates.md>) · [Source File](<University Regulations/Source/DHVN-TB-1010 Submission of English Language Certificates_source.pdf>)
