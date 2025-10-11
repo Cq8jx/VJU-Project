@@ -6,7 +6,7 @@ category: Quality Assurance
 issue_date: null
 status: active
 languages: [en, ja, vi]
-source_pdf: ""
+source_pdf: "../Source/BGDDT-TT-39-2020 Circular on Quality Standards for Distance Undergraduate Programs_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []

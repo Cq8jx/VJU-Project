@@ -6,7 +6,7 @@ category: Quality Assurance
 issue_date: null
 status: active
 languages: [en, ja, vi]
-source_pdf: ""
+source_pdf: "../Source/BGDDT-TT-38-2013 Circular on the Process and Cycle for Quality Accreditation of Training Programs at Universities, Colleges, and Professional Secondary Schools_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []
