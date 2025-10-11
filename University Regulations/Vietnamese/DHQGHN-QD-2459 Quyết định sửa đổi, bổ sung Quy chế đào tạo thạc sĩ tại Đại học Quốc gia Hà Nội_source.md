@@ -1,17 +1,25 @@
 ---
 id: DHQGHN-QD-2459
-title: Quyết định sửa đổi, bổ sung Quy chế đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội
+title: Quyết định sửa đổi, bổ sung Quy chế đào tạo thạc sĩ tại Đại học Quốc gia Hà
+  Nội
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHQGHN-QD-2459 Decision Amending and Supplementing the Regulation
+  on Masters Training_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](DHQGHN-QD-2459%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%2C%20b%E1%BB%95%20sung%20Quy%20ch%E1%BA%BF%20%C4%91%C3%A0o%20t%E1%BA%A1o%20th%E1%BA%A1c%20s%C4%A9%20t%E1%BA%A1i%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Qu%E1%BB%91c%20gia%20H%C3%A0%20N%E1%BB%99i_source.md) | [EN](../English/DHQGHN-QD-2459%20Decision%20Amending%20and%20Supplementing%20the%20Regulation%20on%20Masters%20Training.md) | [JA](../Japanese/DHQGHN-QD-2459%20%E4%BF%AE%E5%A3%AB%E8%AA%B2%E7%A8%8B%E6%95%99%E8%82%B2%E8%A6%8F%E7%A8%8B%E6%94%B9%E6%AD%A3%E6%B1%BA%E5%AE%9A.md)
+
 Tệp này là bản chuyển văn bản từ https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-dao-tao-thac-si-tai-Dai-hoc-Quoc-gia-Ha-Noi-19465/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

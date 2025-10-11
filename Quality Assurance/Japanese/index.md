@@ -1,8 +1,8 @@
 ---
-title: 文書 – 品質保証 (日本語)
+title: Documents – Quality Assurance （日本語）
 layout: folder-index
 ---
-# 品質保証 文書一覧 (日本語)
+# Quality Assurance Documents （日本語）
 
 - [BGDDT-TT-04-2016](./BGDDT-TT-04-2016%20%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E8%B3%AA%E8%A9%95%E4%BE%A1%E5%9F%BA%E6%BA%96%E8%A6%8F%E7%A8%8B%E3%81%AE%E5%88%B6%E5%AE%9A%E9%80%9A%E9%81%94.md) — 通達
 - [BGDDT-TT-38-2013](./BGDDT-TT-38-2013%20%E5%A4%A7%E5%AD%A6%E7%AD%89%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E8%B3%AA%E4%BF%9D%E8%A8%BC%E8%A9%95%E4%BE%A1%E6%89%8B%E9%A0%86%E3%83%BB%E5%91%A8%E6%9C%9F%E8%A6%8F%E7%A8%8B%E9%80%9A%E9%81%94.md) — 通達

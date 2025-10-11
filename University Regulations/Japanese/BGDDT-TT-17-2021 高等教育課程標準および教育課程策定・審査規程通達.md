@@ -5,13 +5,20 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-TT-17-2021 Circular on Standards and Processes for Higher
+  Education Programs_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/BGDDT-TT-17-2021%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20chu%E1%BA%A9n%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o%2C%20x%C3%A2y%20d%E1%BB%B1ng%2C%20th%E1%BA%A9m%20%C4%91%E1%BB%8Bnh%20v%C3%A0%20ban%20h%C3%A0nh%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o%20c%C3%A1c%20tr%C3%ACnh%20%C4%91%E1%BB%99%20c%E1%BB%A7a%20gi%C3%A1o%20d%E1%BB%A5c%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc_source.md) | [EN](../English/BGDDT-TT-17-2021%20Circular%20on%20Standards%20and%20Processes%20for%20Higher%20Education%20Programs.md) | [JA](BGDDT-TT-17-2021%20%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E6%A8%99%E6%BA%96%E3%81%8A%E3%82%88%E3%81%B3%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E7%AD%96%E5%AE%9A%E3%83%BB%E5%AF%A9%E6%9F%BB%E8%A6%8F%E7%A8%8B%E9%80%9A%E9%81%94.md)
+
 本ファイルは https://vanban.chinhphu.vn/?pageid=27160&docid=203478 に公開された情報をもとに文字起こししたものであり、正式な内容は同サイトに掲載された版をご確認ください。
 表の認識には技術的な制約があるため、体裁や内容が完全には一致しない可能性があります。
 

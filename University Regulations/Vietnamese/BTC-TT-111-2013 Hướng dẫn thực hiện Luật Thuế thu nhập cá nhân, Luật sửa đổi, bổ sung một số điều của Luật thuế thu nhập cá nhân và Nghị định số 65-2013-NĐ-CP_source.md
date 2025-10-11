@@ -5,13 +5,20 @@ issuer: Bộ Tài chính
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BTC-TT-111-2013 Circular guiding the implementation of the Law
+  on Personal Income Tax, its amendments, and Decree 65-2013-ND-CP_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](BTC-TT-111-2013%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%E1%BB%B1c%20hi%E1%BB%87n%20Lu%E1%BA%ADt%20Thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20c%C3%A1%20nh%C3%A2n%2C%20Lu%E1%BA%ADt%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%2C%20b%E1%BB%95%20sung%20m%E1%BB%99t%20s%E1%BB%91%20%C4%91i%E1%BB%81u%20c%E1%BB%A7a%20Lu%E1%BA%ADt%20thu%E1%BA%BF%20thu%20nh%E1%BA%ADp%20c%C3%A1%20nh%C3%A2n%20v%C3%A0%20Ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91%2065-2013-N%C4%90-CP_source.md) | [EN](../English/BTC-TT-111-2013%20Circular%20guiding%20the%20implementation%20of%20the%20Law%20on%20Personal%20Income%20Tax%2C%20its%20amendments%2C%20and%20Decree%2065-2013-ND-CP.md) | [JA](../Japanese/BTC-TT-111-2013%20%E5%80%8B%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E%E6%B3%95%E7%AD%89%E3%81%AE%E5%AE%9F%E6%96%BD%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%82%AC%E3%82%A4%E3%83%80%E3%83%B3%E3%82%B9%E9%80%9A%E9%81%94.md)
+
 Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=27160&docid=169566 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 
@@ -2119,4 +2126,3 @@ Phụ lục: 02/PL-TNCN
 | 5 | Trên 27,25 trđ đến 42,25 trđ | (TNQĐ – 3,25 trđ)/0,75 |
 | 6 | Trên 42,25 trđ đến 61,85 trđ | (TNQĐ – 5,85 trđ)/0,7 |
 | 7 | Trên 61,85 trđ | (TNQĐ – 9,85 trđ)/0,65 |
-

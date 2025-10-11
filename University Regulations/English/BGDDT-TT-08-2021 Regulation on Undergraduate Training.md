@@ -5,13 +5,19 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-TT-08-2021 Regulation on Undergraduate Training_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/BGDDT-TT-08-2021%20Th%C3%B4ng%20t%C6%B0%20ban%20h%C3%A0nh%20Quy%20ch%E1%BA%BF%20%C4%91%C3%A0o%20t%E1%BA%A1o%20tr%C3%ACnh%20%C4%91%E1%BB%99%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc_source.md) | [EN](BGDDT-TT-08-2021%20Regulation%20on%20Undergraduate%20Training.md) | [JA](../Japanese/BGDDT-TT-08-2021%20%E5%A4%A7%E5%AD%A6%E7%A0%94%E4%BF%AE%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A6%8F%E5%89%87.md)
+
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.
 

@@ -5,13 +5,20 @@ issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHQGHN-QD-2486 Decision Amending and Supplementing the Regular
+  Undergraduate Admission Regulation_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/DHQGHN-QD-2486%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20s%E1%BB%ADa%20%C4%91%E1%BB%95i%2C%20b%E1%BB%95%20sung%20Quy%20ch%E1%BA%BF%20tuy%E1%BB%83n%20sinh%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%20ch%C3%ADnh%20quy%20t%E1%BA%A1i%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Qu%E1%BB%91c%20gia%20H%C3%A0%20N%E1%BB%99i_source.md) | [EN](../English/DHQGHN-QD-2486%20Decision%20Amending%20and%20Supplementing%20the%20Regular%20Undergraduate%20Admission%20Regulation.md) | [JA](DHQGHN-QD-2486%20%E6%AD%A3%E8%A6%8F%E5%AD%A6%E9%83%A8%E5%85%A5%E5%AD%A6%E8%A6%8F%E7%A8%8B%E6%94%B9%E6%AD%A3%E6%B1%BA%E5%AE%9A.md)
+
 このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-tuyen-sinh-dai-hoc-chinh-quy-tai-Dai-hoc-Quoc-gia-Ha-Noi-19464/ を転写したものであり、正式な情報は同サイトで公開された内容に基づきます。
 表の認識には技術的な困難があったため、表のレイアウトおよび内容が完全に正確でない場合があります。
 

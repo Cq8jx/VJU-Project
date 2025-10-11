@@ -5,13 +5,19 @@ issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/DHQGHN-QD-4455%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20qu%E1%BA%A3n%20l%C3%BD%20v%C4%83n%20b%E1%BA%B1ng%2C%20ch%E1%BB%A9ng%20ch%E1%BB%89%2C%20ch%E1%BB%A9ng%20nh%E1%BA%ADn%20t%E1%BA%A1i%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Qu%E1%BB%91c%20gia%20H%C3%A0%20N%E1%BB%99i_source.md) | [EN](DHQGHN-QD-4455%20Regulation%20on%20Management%20of%20Diplomas%20and%20Certificates.md) | [JA](../Japanese/DHQGHN-QD-4455%20%E5%8D%92%E6%A5%AD%E8%A8%BC%E6%9B%B8%E7%AD%89%E3%81%AE%E7%AE%A1%E7%90%86%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A6%8F%E5%89%87.md)
+
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.
 

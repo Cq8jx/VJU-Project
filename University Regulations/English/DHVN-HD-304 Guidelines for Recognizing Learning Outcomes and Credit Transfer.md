@@ -5,13 +5,19 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-HD-304 Recognizing Learning Outcomes and Credit Transfer_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/DHVN-HD-304%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20C%C3%B4ng%20nh%E1%BA%ADn%20k%E1%BA%BFt%20qu%E1%BA%A3%20h%E1%BB%8Dc%20t%E1%BA%ADp%20v%C3%A0%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20t%C3%ADn%20ch%E1%BB%89_source.md) | [EN](DHVN-HD-304%20Guidelines%20for%20Recognizing%20Learning%20Outcomes%20and%20Credit%20Transfer.md) | [JA](../Japanese/DHVN-HD-304%20%E5%AD%A6%E7%BF%92%E6%88%90%E6%9E%9C%E8%AA%8D%E5%AE%9A%E3%83%BB%E5%8D%98%E4%BD%8D%E4%BA%92%E6%8F%9B%E6%8C%87%E9%87%9D.md)
+
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 
 **Vietnam National University, Hanoi**

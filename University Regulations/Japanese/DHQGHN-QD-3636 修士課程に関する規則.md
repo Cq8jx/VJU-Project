@@ -5,13 +5,20 @@ issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHQGHN-QD-3636 Decision Promulgating the Regulation on Masters
+  Training_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/DHQGHN-QD-3636%20Quy%E1%BA%BFt%20%C4%91%E1%BB%8Bnh%20ban%20h%C3%A0nh%20Quy%20ch%E1%BA%BF%20%C4%91%C3%A0o%20t%E1%BA%A1o%20th%E1%BA%A1c%20s%C4%A9%20t%E1%BA%A1i%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Qu%E1%BB%91c%20gia%20H%C3%A0%20N%E1%BB%99i_source.md) | [EN](../English/DHQGHN-QD-3636%20Regulation%20on%20Master%27s%20Training.md) | [JA](DHQGHN-QD-3636%20%E4%BF%AE%E5%A3%AB%E8%AA%B2%E7%A8%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A6%8F%E5%89%87.md)
+
 本ファイルは https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ に掲載された情報をテキスト化したものであり、正確な内容は同サイトで公開されている情報に従ってください。
 表の認識には技術的な制約があるため、表のレイアウトや内容が完全に正確でない可能性があります。
 

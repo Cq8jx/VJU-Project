@@ -5,13 +5,20 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-TT-18-2021 Regulation on Admission and Training for Doctoral
+  Degrees_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](BGDDT-TT-18-2021%20Th%C3%B4ng%20t%C6%B0%20ban%20h%C3%A0nh%20Quy%20ch%E1%BA%BF%20tuy%E1%BB%83n%20sinh%20v%C3%A0%20%C4%91%C3%A0o%20t%E1%BA%A1o%20tr%C3%ACnh%20%C4%91%E1%BB%99%20ti%E1%BA%BFn%20s%C4%A9_source.md) | [EN](../English/BGDDT-TT-18-2021%20Regulations%20on%20Admission%20and%20Training%20for%20Doctoral%20Degrees.md) | [JA](../Japanese/BGDDT-TT-18-2021%20%E5%8D%9A%E5%A3%AB%E8%AA%B2%E7%A8%8B%E5%85%A5%E5%AD%A6%E5%8F%8A%E3%81%B3%E7%A0%94%E4%BF%AE%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A6%8F%E5%89%87.md)
+
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

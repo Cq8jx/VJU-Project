@@ -5,13 +5,19 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-HD-483 Practical Internship Guidance_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](DHVN-HD-483%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20C%C3%B4ng%20t%C3%A1c%20th%E1%BB%B1c%20t%E1%BA%ADp%20th%E1%BB%B1c%20t%E1%BA%BF%20v%C3%A0%20chuy%C3%AAn%20%C4%91%E1%BB%81%20th%E1%BB%B1c%20t%E1%BA%ADp_source.md) | [EN](../English/DHVN-HD-483%20Guidelines%20for%20Practical%20Internships%20and%20Internship%20Topics.md) | [JA](../Japanese/DHVN-HD-483%20%E5%AE%9F%E5%8B%99%E5%AE%9F%E7%BF%92%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%B2%E9%A1%8C%E6%8C%87%E9%87%9D.md)
+
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

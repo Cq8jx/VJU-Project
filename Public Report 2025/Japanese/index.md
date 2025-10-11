@@ -1,8 +1,8 @@
 ---
-title: 文書 – 公開レポート2025 (日本語)
+title: Documents – Public Report 2025 （日本語）
 layout: folder-index
 ---
-# 公開レポート2025 文書一覧 (日本語)
+# Public Report 2025 Documents （日本語）
 
 - [DHVN-KT&DBCL-826](./DHVN-KT%26DBCL-826%202024-2025%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%85%AC%E9%96%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.md) — 2024-2025年度の公開レポート
 - [DHVN-QD-1592](./DHVN-QD-1592%202025%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E8%A6%8B%E7%A9%8D%E3%82%8A%E5%85%AC%E8%A1%A8.md) — 2025年度 国家予算収支見積り

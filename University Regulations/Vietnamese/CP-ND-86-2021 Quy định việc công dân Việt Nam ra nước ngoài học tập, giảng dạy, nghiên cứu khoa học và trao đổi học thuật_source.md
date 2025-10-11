@@ -5,13 +5,20 @@ issuer: Chính phủ
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/CP-ND-86-2021 Decree on Vietnamese Citizens Studying, Teaching,
+  Conducting Scientific Research, and Academic Exchange Overseas_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](CP-ND-86-2021%20Quy%20%C4%91%E1%BB%8Bnh%20vi%E1%BB%87c%20c%C3%B4ng%20d%C3%A2n%20Vi%E1%BB%87t%20Nam%20ra%20n%C6%B0%E1%BB%9Bc%20ngo%C3%A0i%20h%E1%BB%8Dc%20t%E1%BA%ADp%2C%20gi%E1%BA%A3ng%20d%E1%BA%A1y%2C%20nghi%C3%AAn%20c%E1%BB%A9u%20khoa%20h%E1%BB%8Dc%20v%C3%A0%20trao%20%C4%91%E1%BB%95i%20h%E1%BB%8Dc%20thu%E1%BA%ADt_source.md) | [EN](../English/CP-ND-86-2021%20Decree%20on%20Vietnamese%20Citizens%20Studying%2C%20Teaching%2C%20Conducting%20Scientific%20Research%2C%20and%20Academic%20Exchange%20Overseas.md) | [JA](../Japanese/CP-ND-86-2021%20%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%9B%BD%E6%B0%91%E3%81%AE%E6%B5%B7%E5%A4%96%E3%81%A7%E3%81%AE%E5%AD%A6%E7%BF%92%E3%83%BB%E6%95%99%E8%82%B2%E3%83%BB%E7%A0%94%E7%A9%B6%E3%83%BB%E5%AD%A6%E8%A1%93%E4%BA%A4%E6%B5%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%94%BF%E4%BB%A4.md)
+
 Tệp này là bản chuyển văn bản từ https://thuvienphapluat.vn/van-ban/Giao-duc/Nghi-dinh-86-2021-ND-CP-cong-dan-Viet-Nam-ra-nuoc-ngoai-hoc-tap-giang-day-nghien-cuu-khoa-hoc-489274.aspx và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

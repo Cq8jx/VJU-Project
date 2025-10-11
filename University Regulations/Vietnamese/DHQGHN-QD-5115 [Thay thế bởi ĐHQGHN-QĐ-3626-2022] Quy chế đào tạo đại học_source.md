@@ -5,13 +5,20 @@ issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null
 status: repealed
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHQGHN-QD-5115 [Superseded by DHQGHN-QD-3626-2022] Regulation
+  on Undergraduate Training_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](DHQGHN-QD-5115%20%5BThay%20th%E1%BA%BF%20b%E1%BB%9Fi%20%C4%90HQGHN-Q%C4%90-3626-2022%5D%20Quy%20ch%E1%BA%BF%20%C4%91%C3%A0o%20t%E1%BA%A1o%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc_source.md) | [EN](../English/DHQGHN-QD-5115%20%5BSuperseded%20by%20DHQGHN-QD-3626-2022%5D%20Regulation%20on%20Undergraduate%20Training.md) | [JA](../Japanese/DHQGHN-QD-5115%20%5BDHQGHN-QD-3626-2022%E3%81%AB%E3%82%88%E3%82%8A%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%5D%20%E5%AD%A6%E9%83%A8%E6%95%99%E8%82%B2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A6%8F%E5%89%87.md)
+
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

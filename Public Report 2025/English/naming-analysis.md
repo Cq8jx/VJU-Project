@@ -5,12 +5,14 @@ issuer: Trường Đại học Việt Nhật
 category: Public Report
 issue_date: null
 status: active
-languages: [en]
-source_pdf: ""
+languages:
+- en
+source_pdf: ''
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [public-report]
+tags:
+- public-report
 ---
 # Naming analysis for DHVN-KT&ĐBCL-826 (2024-2025)
 

@@ -5,13 +5,20 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-TT-01-2024 Circular Promulgating Standards for Higher
+  Education Institutions_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](BGDDT-TT-01-2024%20Ban%20h%C3%A0nh%20Chu%E1%BA%A9n%20c%C6%A1%20s%E1%BB%9F%20gi%C3%A1o%20d%E1%BB%A5c%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc_source.md) | [EN](../English/BGDDT-TT-01-2024%20Circular%20Promulgating%20Standards%20for%20Higher%20Education%20Institutions.md) | [JA](../Japanese/BGDDT-TT-01-2024%20%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E6%A9%9F%E9%96%A2%E5%9F%BA%E6%BA%96%E3%81%AE%E5%88%B6%E5%AE%9A%E9%80%9A%E9%81%94.md)
+
 Tệp này là bản chuyển văn bản từ https://chinhphu.vn/?pageid=27160&docid=209786&classid=1 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

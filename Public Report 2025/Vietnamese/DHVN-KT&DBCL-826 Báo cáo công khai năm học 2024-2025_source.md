@@ -5,13 +5,19 @@ issuer: Trường Đại học Việt Nhật
 category: Public Report
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [public-report]
+tags:
+- public-report
 ---
+> Versions: [VI](DHVN-KT%26DBCL-826%20B%C3%A1o%20c%C3%A1o%20c%C3%B4ng%20khai%20n%C4%83m%20h%E1%BB%8Dc%202024-2025_source.md) | [EN](../English/DHVN-KT%26DBCL-826%20Public%20Report%20for%20the%202024-2025%20School%20Year.md) | [JA](../Japanese/DHVN-KT%26DBCL-826%202024-2025%E5%B9%B4%E5%BA%A6%E3%81%AE%E5%85%AC%E9%96%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.md)
+
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/dam-bao-chat-luong/thuc-hien-cong-khai-doi-voi-csgd-dai-hoc/dieu-kien-dam-bao-chat-luong/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 ---

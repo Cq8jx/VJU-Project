@@ -5,13 +5,19 @@ issuer: Trường Đại học Việt Nhật
 category: Public Report
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [public-report]
+tags:
+- public-report
 ---
+> Versions: [VI](../Vietnamese/DHVN-QD-323%20C%C3%B4ng%20khai%20th%E1%BB%B1c%20hi%E1%BB%87n%20d%E1%BB%B1%20to%C3%A1n%20Qu%C3%BD%201%20n%C4%83m%202025_source.md) | [EN](DHVN-QD-323%20Q1%202025%20Budget%20Execution%20Disclosure.md) | [JA](../Japanese/DHVN-QD-323%202025%E5%B9%B4%E7%AC%AC1%E5%9B%9B%E5%8D%8A%E6%9C%9F%E4%BA%88%E7%AE%97%E5%9F%B7%E8%A1%8C%E5%85%AC%E8%A1%A8.md)
+
 This file is a text transcription of https://vju.vnu.edu.vn/dam-bao-chat-luong/thuc-hien-cong-khai-doi-voi-csgd-dai-hoc/dieu-kien-dam-bao-chat-luong/ and reflects the information published there.
 Because table recognition is technically challenging, table layouts and contents may not be reproduced exactly.
 

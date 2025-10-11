@@ -5,13 +5,20 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency
+  Table_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/DHVN-HD-259%20Ph%E1%BB%A5%20l%E1%BB%A5c%201%20B%E1%BA%A3ng%20tham%20chi%E1%BA%BFu%20quy%20%C4%91%E1%BB%95i%20ch%E1%BB%A9ng%20ch%E1%BB%89%20ngo%E1%BA%A1i%20ng%E1%BB%AF_source.md) | [EN](../English/DHVN-HD-259%20Appendix%202%20JLPT%20Authorization%20Letter%20Template.md) | [JA](DHVN-HD-259%20%E4%BB%98%E9%8C%B22%20JLPT%E5%8F%97%E9%A8%93%E5%A7%94%E4%BB%BB%E7%8A%B6.md)
+
 本ファイルは https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ に掲載された情報をテキスト化したものであり、正確な内容は同サイトで公開されている情報に従ってください。
 
 *番号: 259/HD-ĐHVN — 署名日時: 2024年11月18日 11:53:40（UTC+07:00）*

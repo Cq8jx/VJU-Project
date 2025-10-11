@@ -1,17 +1,25 @@
 ---
 id: BGDDT-TT-04-2020
-title: Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign Cooperation and Investment in Education
+title: Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign Cooperation
+  and Investment in Education
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-TT-04-2020 Circular Detailing a Number of Articles of
+  Decree 86-2018-ND-CP on Foreign Cooperation and Investment in the Education Sector_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/BGDDT-TT-04-2020%20Quy%20%C4%91%E1%BB%8Bnh%20chi%20ti%E1%BA%BFt%20m%E1%BB%99t%20s%E1%BB%91%20%C4%91i%E1%BB%81u%20c%E1%BB%A7a%20Ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh%20s%E1%BB%91%2086-2018-N%C4%90-CP%20v%E1%BB%81%20h%E1%BB%A3p%20t%C3%A1c%2C%20%C4%91%E1%BA%A7u%20t%C6%B0%20c%E1%BB%A7a%20n%C6%B0%E1%BB%9Bc%20ngo%C3%A0i%20trong%20l%C4%A9nh%20v%E1%BB%B1c%20gi%C3%A1o%20d%E1%BB%A5c_source.md) | [EN](BGDDT-TT-04-2020%20Circular%20Detailing%20Provisions%20of%20Decree%2086-2018-ND-CP%20on%20Foreign%20Cooperation%20and%20Investment%20in%20Education.md) | [JA](../Japanese/BGDDT-TT-04-2020%20%E6%95%99%E8%82%B2%E5%88%86%E9%87%8E%E3%81%AE%E5%A4%96%E5%9B%BD%E5%8D%94%E5%8A%9B%E3%83%BB%E6%8A%95%E8%B3%87%E6%94%BF%E4%BB%A486-2018%E5%AE%9F%E6%96%BD%E7%B4%B0%E5%89%87%E9%80%9A%E9%81%94.md)
+
 This file is a text transcription of the information published at https://chinhphu.vn/default.aspx?pageid=27160&docid=199525, and the authoritative content is the version available there.
 Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.
 

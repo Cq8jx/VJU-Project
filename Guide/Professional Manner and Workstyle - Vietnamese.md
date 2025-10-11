@@ -5,12 +5,14 @@ issuer: Trường Đại học Việt Nhật
 category: Guide
 issue_date: null
 status: active
-languages: [vi]
-source_pdf: ""
+languages:
+- vi
+source_pdf: ''
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [guide]
+tags:
+- guide
 ---
 # Cẩm nang Tác phong & Phong cách làm việc chuyên nghiệp
 

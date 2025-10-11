@@ -5,13 +5,20 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-CV-774 Official Letter on Adjusting Appendices of Official
+  Letter 2085-QLCL-KDCLGD_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/BGDDT-CV-774%20C%C3%B4ng%20v%C4%83n%20%C4%91i%E1%BB%81u%20ch%E1%BB%89nh%20ph%E1%BB%A5%20l%E1%BB%A5c%20C%C3%B4ng%20v%C4%83n%202085-QLCL-K%C4%90CLGD_source.md) | [EN](../English/BGDDT-CV-774%20Official%20Letter%20on%20Adjusting%20Appendices%20of%20Official%20Letter%202085-QLCL-KDCLGD.md) | [JA](BGDDT-CV-774%20%E5%85%AC%E6%96%872085-QLCL-KDCLGD%E4%BB%98%E5%B1%9E%E6%9B%B8%E3%81%AE%E8%AA%BF%E6%95%B4%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%85%AC%E6%96%87.md)
+
 このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Cong-van-dieu-chinh-mot-so-phu-luc-Cong-van-so-2085-QLCL-KDCLGD-19421/ を基に作成したものであり、内容は同サイトで公表された情報に依拠しています。
 表の文字認識には技術的な制約があり、表のレイアウトや内容が完全には正確でない可能性があります。
 原資料には詳細な技術基準を定めた多数の表が含まれているため、最新かつ完全な情報については上記の公式ウェブサイトを参照してください。

@@ -5,13 +5,20 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-TT-23-2021 Regulation on Admission and Training for Masters
+  Degrees_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/BGDDT-TT-23-2021%20Th%C3%B4ng%20t%C6%B0%20ban%20h%C3%A0nh%20Quy%20ch%E1%BA%BF%20tuy%E1%BB%83n%20sinh%20v%C3%A0%20%C4%91%C3%A0o%20t%E1%BA%A1o%20tr%C3%ACnh%20%C4%91%E1%BB%99%20th%E1%BA%A1c%20s%C4%A9_source.md) | [EN](../English/BGDDT-TT-23-2021%20Regulations%20on%20Master%27s%20Degree%20Enrollment%20and%20Training.md) | [JA](BGDDT-TT-23-2021%20%E4%BF%AE%E5%A3%AB%E8%AA%B2%E7%A8%8B%E3%81%AE%E5%85%A5%E5%AD%A6%E5%8F%8A%E3%81%B3%E7%A0%94%E4%BF%AE%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A6%8F%E5%89%87.md)
+
 本ファイルは https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ に掲載された情報をテキスト化したものであり、正確な内容は同サイトで公開されている情報に従ってください。
 表の認識には技術的な制約があるため、表のレイアウトや内容が完全に正確でない可能性があります。
 

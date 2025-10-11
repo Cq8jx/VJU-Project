@@ -5,13 +5,20 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-QD-4998 Technical Specifications for Education and Training
+  Database_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/BGDDT-QD-4998%20Quy%20%C4%91%E1%BB%8Bnh%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%E1%BB%81%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%A7a%20c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20gi%C3%A1o%20d%E1%BB%A5c%20v%C3%A0%20%C4%91%C3%A0o%20t%E1%BA%A1o_source.md) | [EN](BGDDT-QD-4998%20Technical%20Specifications%20for%20Education%20and%20Training%20Database.md) | [JA](../Japanese/BGDDT-QD-4998%20%E6%95%99%E8%82%B2%E8%A8%93%E7%B7%B4%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93%E4%BB%95%E6%A7%98.md)
+
 This file is a transcription of the document at https://e-ict.gov.vn/index.php/laws/detail/Quyet-dinh-Ban-hanh-Quy-dinh-ky-thuat-ve-du-lieu-cua-co-so-du-lieu-giao-duc-va-dao-tao-751/ and the accuracy of its information is based on the content published there.
 The recognition of tables encountered technical difficulties, so the layout and content of the tables may not be completely accurate.
 Because the original document contains a large number of tables with detailed technical specifications, please refer directly to the official website mentioned above for the most complete and accurate information.

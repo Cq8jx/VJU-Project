@@ -5,13 +5,19 @@ issuer: Trường Đại học Việt Nhật
 category: Public Report
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-QD-1592 Budget Estimate Disclosure 2025_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [public-report]
+tags:
+- public-report
 ---
+> Versions: [VI](DHVN-QD-1592%20C%C3%B4ng%20khai%20d%E1%BB%B1%20to%C3%A1n%20ng%C3%A2n%20s%C3%A1ch%20n%C4%83m%202025_source.md) | [EN](../English/DHVN-QD-1592%20Budget%20Estimate%20Disclosure%202025.md) | [JA](../Japanese/DHVN-QD-1592%202025%E5%B9%B4%E5%BA%A6%E4%BA%88%E7%AE%97%E8%A6%8B%E7%A9%8D%E3%82%8A%E5%85%AC%E8%A1%A8.md)
+
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/dam-bao-chat-luong/thuc-hien-cong-khai-doi-voi-csgd-dai-hoc/dieu-kien-dam-bao-chat-luong/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

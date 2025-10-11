@@ -5,13 +5,20 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency
+  Table_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](DHVN-HD-259%20Ph%E1%BB%A5%20l%E1%BB%A5c%201%20B%E1%BA%A3ng%20tham%20chi%E1%BA%BFu%20quy%20%C4%91%E1%BB%95i%20ch%E1%BB%A9ng%20ch%E1%BB%89%20ngo%E1%BA%A1i%20ng%E1%BB%AF_source.md) | [EN](../English/DHVN-HD-259%20Appendix%202%20JLPT%20Authorization%20Letter%20Template.md) | [JA](../Japanese/DHVN-HD-259%20%E5%A4%96%E5%9B%BD%E8%AA%9E%E8%A8%BC%E6%98%8E%E6%9B%B8%E6%B4%BB%E7%94%A8%E6%8C%87%E9%87%9D%20VJU2020-VJU2021.md)
+
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

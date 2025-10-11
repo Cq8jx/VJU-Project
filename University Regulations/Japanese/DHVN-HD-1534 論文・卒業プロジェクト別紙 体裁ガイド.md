@@ -5,13 +5,19 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-HD-1534 Organizing Theses and Graduation Projects_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/DHVN-HD-1534%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20T%E1%BB%95%20ch%E1%BB%A9c%20th%E1%BB%B1c%20hi%E1%BB%87n%20kh%C3%B3a%20lu%E1%BA%ADn%2C%20%C4%91%E1%BB%93%20%C3%A1n%20t%E1%BB%91t%20nghi%E1%BB%87p_source.md) | [EN](../English/DHVN-HD-1534%20Guidelines%20for%20Theses%20and%20Graduation%20Projects.md) | [JA](DHVN-HD-1534%20%E8%AB%96%E6%96%87%E3%83%BB%E5%8D%92%E6%A5%AD%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%88%A5%E7%B4%99%20%E4%BD%93%E8%A3%81%E3%82%AC%E3%82%A4%E3%83%89.md)
+
 本ファイルは https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ に掲載された情報をテキスト化したものであり、正確な内容は同サイトで公開されている情報に従ってください。
 
 **付録2：論文と卒業プロジェクトのレイアウト**

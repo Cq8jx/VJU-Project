@@ -5,13 +5,19 @@ issuer: Trường Đại học Ngoại ngữ, ĐHQGHN
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHNN-TB-2184 VNU-TESTS Foreign Language Assessment Plan_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/DHNN-TB-2184%20Th%C3%B4ng%20b%C3%A1o%20K%E1%BA%BF%20ho%E1%BA%A1ch%20t%E1%BB%95%20ch%E1%BB%A9c%20thi%20%C4%91%C3%A1nh%20gi%C3%A1%20n%C4%83ng%20l%E1%BB%B1c%20ngo%E1%BA%A1i%20ng%E1%BB%AF%20%28VNU-TESTS%29_source.md) | [EN](../English/DHNN-TB-2184%20Notification%20on%20Organizing%20the%20VNU-TESTS%20Foreign%20Language%20Assessment.md) | [JA](DHNN-TB-2184%20VNU-TESTS%E5%AE%9F%E6%96%BD%E8%A8%88%E7%94%BB%E9%80%9A%E7%9F%A5.md)
+
 本ファイルは https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ に掲載された情報をテキスト化したものであり、正確な内容は同サイトで公開されている情報に従ってください。
 
 **ベトナム国家大学ハノイ校**

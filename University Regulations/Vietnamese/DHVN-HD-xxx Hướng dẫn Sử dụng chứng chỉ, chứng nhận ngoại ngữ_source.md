@@ -5,13 +5,19 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-HD-XXX Using Foreign Language Certificates 2022 Onwards_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](DHVN-HD-xxx%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20S%E1%BB%AD%20d%E1%BB%A5ng%20ch%E1%BB%A9ng%20ch%E1%BB%89%2C%20ch%E1%BB%A9ng%20nh%E1%BA%ADn%20ngo%E1%BA%A1i%20ng%E1%BB%AF_source.md) | [EN](../English/DHVN-HD-xxx%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20and%20Certifications.md) | [JA](../Japanese/DHVN-HD-xxx%20%E5%A4%96%E5%9B%BD%E8%AA%9E%E8%A8%BC%E6%98%8E%E6%9B%B8%E6%B4%BB%E7%94%A8%E6%8C%87%E9%87%9D%20VJU2022%E4%BB%A5%E9%99%8D.md)
+
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

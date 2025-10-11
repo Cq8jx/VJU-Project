@@ -1,8 +1,8 @@
 ---
-title: 文書 – 大学規程 (日本語)
+title: Documents – University Regulations （日本語）
 layout: folder-index
 ---
-# 大学規程 文書一覧 (日本語)
+# University Regulations Documents （日本語）
 
 - [24-2023-ND-CP](./24-2023-ND-CP%20%E5%B9%B9%E9%83%A8%E3%83%BB%E5%85%AC%E5%8B%99%E5%93%A1%E3%83%BB%E5%85%AC%E7%9A%84%E6%A9%9F%E9%96%A2%E8%81%B7%E5%93%A1%E3%81%8A%E3%82%88%E3%81%B3%E6%AD%A6%E8%A3%85%E9%83%A8%E9%9A%8A%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%9F%BA%E6%9C%AC%E7%B5%A6%E3%82%92%E8%A6%8F%E5%AE%9A%E3%81%99%E3%82%8B%E6%94%BF%E4%BB%A4.md) — 政令
 - [BGDDT-CV-2085](./BGDDT-CV-2085%20%E8%87%AA%E5%B7%B1%E8%A9%95%E4%BE%A1%E3%81%8A%E3%82%88%E3%81%B3%E5%A4%96%E9%83%A8%E8%A9%95%E4%BE%A1%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%8C%87%E9%87%9D.md) — 教育訓練省

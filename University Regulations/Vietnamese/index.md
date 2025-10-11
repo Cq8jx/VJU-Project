@@ -1,8 +1,8 @@
 ---
-title: Văn bản – Quy định Trường Đại học (Tiếng Việt)
+title: Documents – University Regulations  (Tiếng Việt)
 layout: folder-index
 ---
-# Danh mục văn bản Quy định Trường Đại học (Tiếng Việt)
+# University Regulations Documents  (Tiếng Việt)
 
 - [24-2023-ND-CP](./24-2023-ND-CP%20Quy%20%C4%91%E1%BB%8Bnh%20m%E1%BB%A9c%20l%C6%B0%C6%A1ng%20c%C6%A1%20s%E1%BB%9F%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%A1n%20b%E1%BB%99%2C%20c%C3%B4ng%20ch%E1%BB%A9c%2C%20vi%C3%AAn%20ch%E1%BB%A9c%20v%C3%A0%20l%E1%BB%B1c%20l%C6%B0%E1%BB%A3ng%20v%C5%A9%20trang_source.md) — NGHỊ ĐỊNH
 - [BGDDT-CV-2085](./BGDDT-CV-2085%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%E1%BB%B1%20%C4%91%C3%A1nh%20gi%C3%A1%20v%C3%A0%20%C4%91%C3%A1nh%20gi%C3%A1%20ngo%C3%A0i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o_source.md) — BỘ GIÁO DỤC VÀ ĐÀO TẠO

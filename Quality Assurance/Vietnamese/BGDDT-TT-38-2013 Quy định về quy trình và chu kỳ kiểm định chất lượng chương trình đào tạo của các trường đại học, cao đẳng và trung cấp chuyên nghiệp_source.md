@@ -1,17 +1,26 @@
 ---
 id: BGDDT-TT-38-2013
-title: Quy định về quy trình và chu kỳ kiểm định chất lượng chương trình đào tạo của các trường đại học, cao đẳng và trung cấp chuyên nghiệp
+title: Quy định về quy trình và chu kỳ kiểm định chất lượng chương trình đào tạo của
+  các trường đại học, cao đẳng và trung cấp chuyên nghiệp
 issuer: Bộ Giáo dục và Đào tạo
 category: Quality Assurance
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-TT-38-2013 Circular on the Process and Cycle for Quality
+  Accreditation of Training Programs at Universities, Colleges, and Professional Secondary
+  Schools_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [quality-assurance]
+tags:
+- quality-assurance
 ---
+> Versions: [VI](BGDDT-TT-38-2013%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20quy%20tr%C3%ACnh%20v%C3%A0%20chu%20k%E1%BB%B3%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o%20c%E1%BB%A7a%20c%C3%A1c%20tr%C6%B0%E1%BB%9Dng%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%2C%20cao%20%C4%91%E1%BA%B3ng%20v%C3%A0%20trung%20c%E1%BA%A5p%20chuy%C3%AAn%20nghi%E1%BB%87p_source.md) | [EN](../English/BGDDT-TT-38-2013%20Circular%20on%20the%20Process%20and%20Cycle%20for%20Quality%20Accreditation%20of%20Training%20Programs%20at%20Universities%2C%20Colleges%2C%20and%20Professional%20Secondary%20Schools.md) | [JA](../Japanese/BGDDT-TT-38-2013%20%E5%A4%A7%E5%AD%A6%E7%AD%89%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E8%B3%AA%E4%BF%9D%E8%A8%BC%E8%A9%95%E4%BE%A1%E6%89%8B%E9%A0%86%E3%83%BB%E5%91%A8%E6%9C%9F%E8%A6%8F%E7%A8%8B%E9%80%9A%E9%81%94.md)
+
 Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=171225 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 
@@ -307,4 +316,3 @@ Chương trình đào tạo được công nhận đạt tiêu chuẩn chất l�
 | | **KT. BỘ TRƯỞNG** <br> **THỨ TRƯỞNG** |
 | :--- | :--- |
 | | *(đã ký)* <br><br><br> **Bùi Văn Ga** |
-

@@ -5,13 +5,19 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-QD-473 Regulations on Academic Advisory Work_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](DHVN-QD-473%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20C%C3%B4ng%20t%C3%A1c%20C%E1%BB%91%20v%E1%BA%A5n%20h%E1%BB%8Dc%20t%E1%BA%ADp_source.md) | [EN](../English/DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.md) | [JA](../Japanese/DHVN-QD-473%20%E5%AD%A6%E8%A1%93%E9%A1%A7%E5%95%8F%E6%A5%AD%E5%8B%99%E8%A6%8F%E7%A8%8B.md)
+
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

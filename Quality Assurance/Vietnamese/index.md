@@ -1,8 +1,8 @@
 ---
-title: Văn bản – ĐBCL (Tiếng Việt)
+title: Documents – Quality Assurance  (Tiếng Việt)
 layout: folder-index
 ---
-# Danh mục văn bản Đảm bảo chất lượng (Tiếng Việt)
+# Quality Assurance Documents  (Tiếng Việt)
 
 - [BGDDT-TT-04-2016](./BGDDT-TT-04-2016%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20ti%C3%AAu%20chu%E1%BA%A9n%20%C4%91%C3%A1nh%20gi%C3%A1%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o%20c%C3%A1c%20tr%C3%ACnh%20%C4%91%E1%BB%99%20c%E1%BB%A7a%20gi%C3%A1o%20d%E1%BB%A5c%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc_source.md) — Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học
 - [BGDDT-TT-38-2013](./BGDDT-TT-38-2013%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20quy%20tr%C3%ACnh%20v%C3%A0%20chu%20k%E1%BB%B3%20ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o%20c%E1%BB%A7a%20c%C3%A1c%20tr%C6%B0%E1%BB%9Dng%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc%2C%20cao%20%C4%91%E1%BA%B3ng%20v%C3%A0%20trung%20c%E1%BA%A5p%20chuy%C3%AAn%20nghi%E1%BB%87p_source.md) — Quy định về quy trình và chu kỳ kiểm định chất lượng chương trình đào tạo của các trường đại học, cao đẳng và trung cấp chuyên nghiệp

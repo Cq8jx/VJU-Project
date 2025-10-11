@@ -5,13 +5,20 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-QD-1132 Appendix Decision on the Promulgation of Regulations
+  on Examination Affairs of Vietnam Japan University_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/DHVN-QD-1132%20V%E1%BB%81%20vi%E1%BB%87c%20ban%20h%C3%A0nh%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20c%C3%B4ng%20t%C3%A1c%20kh%E1%BA%A3o%20th%C3%AD%20c%E1%BB%A7a%20Tr%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Vi%E1%BB%87t%20Nh%E1%BA%ADt_source.md) | [EN](DHVN-QD-1132%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.md) | [JA](../Japanese/DHVN-QD-1132%20%E6%97%A5%E8%B6%8A%E5%A4%A7%E5%AD%A6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%A9%A6%E9%A8%93%E6%A5%AD%E5%8B%99%E8%A6%8F%E7%A8%8B.md)
+
 # REGULATIONS
 **on Examination Affairs of Vietnam Japan University**
 **(Promulgated together with Decision No. 1132/QĐ-ĐHVN dated 1 October 2025)**

@@ -5,13 +5,20 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation
+  of Training Programs_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/BGDDT-CV-2085%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%E1%BB%B1%20%C4%91%C3%A1nh%20gi%C3%A1%20v%C3%A0%20%C4%91%C3%A1nh%20gi%C3%A1%20ngo%C3%A0i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o_source.md) | [EN](BGDDT-CV-2085%20Guidance%20on%20Self-Assessment%20and%20External%20Evaluation%20of%20Training%20Programs.md) | [JA](../Japanese/BGDDT-CV-2085%20%E8%87%AA%E5%B7%B1%E8%A9%95%E4%BE%A1%E3%81%8A%E3%82%88%E3%81%B3%E5%A4%96%E9%83%A8%E8%A9%95%E4%BE%A1%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%8C%87%E9%87%9D.md)
+
 This file is a transcription of the document published at https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ and accurate information is based on the contents released there.
 Because recognizing tables poses technical difficulties, table layouts and contents may not be entirely precise.
 The source material contains a large number of detailed technical specifications, so please consult the cited official website directly for the most complete and accurate information.

@@ -5,12 +5,14 @@ issuer: Trường Đại học Việt Nhật
 category: Guide
 issue_date: null
 status: active
-languages: [ja]
-source_pdf: ""
+languages:
+- ja
+source_pdf: ''
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [guide]
+tags:
+- guide
 ---
 # GWS／Gemini 活用ガイド（日本語版）
 

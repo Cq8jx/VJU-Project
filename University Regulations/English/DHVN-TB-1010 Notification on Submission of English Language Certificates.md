@@ -5,13 +5,19 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
+languages:
+- vi
+- en
+- ja
+source_pdf: ../Source/DHVN-TB-1010 Submission of English Language Certificates_source.pdf
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
 ---
+> Versions: [VI](../Vietnamese/DHVN-TB-1010%20Th%C3%B4ng%20b%C3%A1o%20N%E1%BB%99p%20ch%E1%BB%A9ng%20ch%E1%BB%89%20ngo%E1%BA%A1i%20ng%E1%BB%AF%20ti%E1%BA%BFng%20Anh_source.md) | [EN](DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.md) | [JA](../Japanese/DHVN-TB-1010%20%E8%8B%B1%E8%AA%9E%E8%A8%BC%E6%98%8E%E6%9B%B8%E6%8F%90%E5%87%BA%E9%80%9A%E7%9F%A5%20VJU2025.md)
+
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 Table recognition may encounter technical limitations, so table layouts and contents may not be perfectly accurate.
 
