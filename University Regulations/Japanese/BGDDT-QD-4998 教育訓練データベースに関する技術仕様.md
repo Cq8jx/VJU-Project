@@ -1,3 +1,17 @@
+---
+id: BGDDT-QD-4998
+title: 教育訓練データベースのデータに関する技術仕様
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 このファイルは https://e-ict.gov.vn/index.php/laws/detail/Quyet-dinh-Ban-hanh-Quy-dinh-ky-thuat-ve-du-lieu-cua-co-so-du-lieu-giao-duc-va-dao-tao-751/ に掲載されている文書を文字起こししたものであり、記載内容の正確性は同サイトで公開されている情報に基づいています。
 表の文字認識には技術的な困難があったため、表のレイアウトや内容が完全には正確でない可能性があります。
 原文書には詳細な技術仕様を示す多数の表が含まれているため、最も完全で正確な情報については上記の公式ウェブサイトを直接参照してください。

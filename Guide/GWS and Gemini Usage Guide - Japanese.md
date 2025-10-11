@@ -1,3 +1,17 @@
+---
+id: GUIDE-GWS-AND-GEMINI-USAGE-GUIDE-JAPANESE
+title: GWS／Gemini 活用ガイド（日本語版）
+issuer: Trường Đại học Việt Nhật
+category: Guide
+issue_date: null
+status: active
+languages: [ja]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [guide]
+---
 # GWS／Gemini 活用ガイド（日本語版）
 
 本書は大学で働く教職員・職員が Google Workspace（以下 GWS）と生成 AI（Gemini ファミリー）、さらに Apps Script や RAG（Retrieval-Augmented Generation）、MCP（Multi-Channel Processing）といった連携技術を体系的に活用するための教科書です。基礎的なファイル共有から高度な自動化まで、章立てに沿って読み進めれば、環境構築・活用・運用のすべてを段階的に理解できる構成になっています。

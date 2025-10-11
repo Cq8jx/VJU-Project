@@ -1,3 +1,17 @@
+---
+id: DHVN-QD-323
+title: ASSESSMENT OF THE IMPLEMENTATION OF THE BUDGET REVENUE AND EXPENDITURE ESTIMATE
+issuer: Trường Đại học Việt Nhật
+category: Public Report
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [public-report]
+---
 This file is a text transcription of https://vju.vnu.edu.vn/dam-bao-chat-luong/thuc-hien-cong-khai-doi-voi-csgd-dai-hoc/dieu-kien-dam-bao-chat-luong/ and reflects the information published there.
 Because table recognition is technically challenging, table layouts and contents may not be reproduced exactly.
 

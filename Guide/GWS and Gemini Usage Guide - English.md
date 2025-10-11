@@ -1,3 +1,17 @@
+---
+id: GUIDE-GWS-AND-GEMINI-USAGE-GUIDE-ENGLISH
+title: GWS/Gemini Usage Guide (English Edition)
+issuer: Trường Đại học Việt Nhật
+category: Guide
+issue_date: null
+status: active
+languages: [en]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [guide]
+---
 # GWS/Gemini Usage Guide (English Edition)
 
 This book is a handbook for faculty and staff members working at the university to utilize Google Workspace (hereafter GWS), the Gemini family of generative AI services, and related technologies such as Apps Script, Retrieval-Augmented Generation (RAG), and Multi-Channel Processing (MCP) in a systematic way. By following the chapters from basic file sharing to advanced automation, readers can gradually understand environment setup, daily use, and operations.

@@ -1,3 +1,17 @@
+---
+id: DHQGHN-QD-4618
+title: Regulation on Management and Use of Scholarships
+issuer: Đại học Quốc gia Hà Nội
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 This file is based on https://ussh.vnu.edu.vn/vi/van-ban/detail/Quy-dinh-ve-cong-tac-quan-ly-va-su-dung-hoc-bong-tai-Dai-hoc-Quoc-gia-Ha-Noi-19468/, and its contents rely on the information published on that website.
 Because of technical challenges in recognizing tables, table layouts and contents may not be entirely accurate.
 

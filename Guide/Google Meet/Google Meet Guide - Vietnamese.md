@@ -1,3 +1,17 @@
+---
+id: GUIDE-GOOGLE-MEET-GOOGLE-MEET-GUIDE-VIETNAMESE
+title: Google Meet
+issuer: Trường Đại học Việt Nhật
+category: Guide
+issue_date: null
+status: active
+languages: [vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [guide]
+---
 # Google Meet
 
 Tài liệu này dành cho người lần đầu sử dụng Google Meet. Nội dung hướng dẫn cách tạo cuộc họp, thiết lập đồng chủ trì, cài đặt ứng dụng, chia sẻ liên kết, trình chiếu màn hình và quản lý phòng thảo luận nhóm. Các tính năng yêu cầu Google Workspace Education dành cho giảng viên sẽ được ghi chú rõ ràng.

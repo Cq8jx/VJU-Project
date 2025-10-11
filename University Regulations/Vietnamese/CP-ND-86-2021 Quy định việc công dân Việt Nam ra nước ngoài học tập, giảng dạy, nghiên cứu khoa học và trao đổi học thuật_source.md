@@ -1,3 +1,17 @@
+---
+id: CP-ND-86-2021
+title: CHÍNH PHỦ
+issuer: Chính phủ
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 Tệp này là bản chuyển văn bản từ https://thuvienphapluat.vn/van-ban/Giao-duc/Nghi-dinh-86-2021-ND-CP-cong-dan-Viet-Nam-ra-nuoc-ngoai-hoc-tap-giang-day-nghien-cuu-khoa-hoc-489274.aspx và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

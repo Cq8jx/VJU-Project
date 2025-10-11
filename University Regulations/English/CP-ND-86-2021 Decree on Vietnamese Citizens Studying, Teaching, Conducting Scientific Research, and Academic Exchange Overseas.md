@@ -1,3 +1,17 @@
+---
+id: CP-ND-86-2021
+title: GOVERNMENT
+issuer: Chính phủ
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 This file is a text conversion based on https://thuvienphapluat.vn/van-ban/Giao-duc/Nghi-dinh-86-2021-ND-CP-cong-dan-Viet-Nam-ra-nuoc-ngoai-hoc-tap-giang-day-nghien-cuu-khoa-hoc-489274.aspx, and accuracy is determined by the official content published there.
 Table recognition encountered technical difficulties, so table layouts and contents may not be entirely accurate.
 

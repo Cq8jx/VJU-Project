@@ -1,3 +1,17 @@
+---
+id: README
+title: VJU-Project Repository Guide
+issuer: Trường Đại học Việt Nhật
+category: General
+issue_date: null
+status: active
+languages: [en]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [general]
+---
 # VJU-Project Repository Guide
 
 This repository catalogs Vietnam Japan University (VJU) regulations, public disclosure files, and internal guidance collected for academic and administrative use. Use the multilingual tables of contents below to navigate directly to each language's Markdown notes and the corresponding source files.

@@ -1,3 +1,17 @@
+---
+id: GUIDE-GOOGLE-MEET-GOOGLE-MEET-GUIDE-JAPANESE
+title: Google Meet
+issuer: Trường Đại học Việt Nhật
+category: Guide
+issue_date: null
+status: active
+languages: [ja]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [guide]
+---
 # Google Meet
 
 Google Meet を初めて利用する方向けに、会議作成から共同主催者の設定、アプリのインストール、リンク共有、画面共有、ブレイクアウト ルームの活用までを丁寧にまとめました。Google Workspace Education（教員版）限定の機能にはその旨を明記しています。

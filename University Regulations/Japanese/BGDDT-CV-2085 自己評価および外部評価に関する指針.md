@@ -1,3 +1,17 @@
+---
+id: BGDDT-CV-2085
+title: 教育訓練省
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ に掲載された文書を転記したものであり、正確な情報は同サイトに基づいています。
 表の認識には技術的な制約があるため、表のレイアウトや内容が完全には正確でない可能性があります。
 原資料には詳細な技術仕様が多数含まれているため、最も完全で正確な情報については前掲の公式ウェブサイトを直接参照してください。

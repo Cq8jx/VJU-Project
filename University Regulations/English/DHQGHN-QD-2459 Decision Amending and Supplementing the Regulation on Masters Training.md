@@ -1,3 +1,17 @@
+---
+id: DHQGHN-QD-2459
+title: Decision Amending and Supplementing the Regulation on Masters Training
+issuer: Đại học Quốc gia Hà Nội
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 This file is a transcription of the document published at https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-dao-tao-thac-si-tai-Dai-hoc-Quoc-gia-Ha-Noi-19465/. For accurate information, please refer to the version released on that site.
 Table recognition faces technical limitations, so table layouts and contents may not be entirely accurate.
 

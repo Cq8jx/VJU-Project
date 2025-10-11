@@ -1,3 +1,17 @@
+---
+id: BGDDT-TT-17-2021
+title: 通達
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 本ファイルは https://vanban.chinhphu.vn/?pageid=27160&docid=203478 に公開された情報をもとに文字起こししたものであり、正式な内容は同サイトに掲載された版をご確認ください。
 表の認識には技術的な制約があるため、体裁や内容が完全には一致しない可能性があります。
 

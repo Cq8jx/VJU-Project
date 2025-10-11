@@ -1,3 +1,17 @@
+---
+id: NAMING-ANALYSIS
+title: Naming analysis for DHVN-KT&ĐBCL-826 (2024-2025)
+issuer: Trường Đại học Việt Nhật
+category: Public Report
+issue_date: null
+status: active
+languages: [en]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [public-report]
+---
 # Naming analysis for DHVN-KT&ĐBCL-826 (2024-2025)
 
 ## Observed file set

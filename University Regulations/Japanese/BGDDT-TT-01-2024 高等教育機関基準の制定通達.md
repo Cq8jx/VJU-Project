@@ -1,3 +1,17 @@
+---
+id: BGDDT-TT-01-2024
+title: 通達
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 このファイルは https://chinhphu.vn/?pageid=27160&docid=209786&classid=1 に掲載された情報を転記したものであり、正式な内容は同サイトで公開されている版をご確認ください。
 表の認識には技術的な制約があるため、表組みの体裁や内容が完全には再現できていない可能性があります。
 

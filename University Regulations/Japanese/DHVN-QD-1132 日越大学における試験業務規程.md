@@ -1,3 +1,17 @@
+---
+id: DHVN-QD-1132
+title: 試験業務規程
+issuer: Trường Đại học Việt Nhật
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 # 試験業務規程
 **（2025年10月1日付決定第1132/QĐ-ĐHVN号に添付）**
 

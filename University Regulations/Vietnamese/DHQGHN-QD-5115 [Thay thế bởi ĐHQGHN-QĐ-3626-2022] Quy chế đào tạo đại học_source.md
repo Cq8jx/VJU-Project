@@ -1,3 +1,17 @@
+---
+id: DHQGHN-QD-5115
+title: QUY CHẾ ĐÀO TẠO ĐẠI HỌC
+issuer: Đại học Quốc gia Hà Nội
+category: University Regulations
+issue_date: null
+status: repealed
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
 

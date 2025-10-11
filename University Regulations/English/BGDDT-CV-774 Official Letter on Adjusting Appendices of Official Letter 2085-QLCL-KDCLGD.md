@@ -1,3 +1,17 @@
+---
+id: BGDDT-CV-774
+title: APPENDICES
+issuer: Bộ Giáo dục và Đào tạo
+category: University Regulations
+issue_date: null
+status: active
+languages: [en, ja, vi]
+source_pdf: ""
+replaces: []
+replaced_by: []
+revision_history: []
+tags: [university-regulations]
+---
 This file is produced based on https://ussh.vnu.edu.vn/vi/van-ban/detail/Cong-van-dieu-chinh-mot-so-phu-luc-Cong-van-so-2085-QLCL-KDCLGD-19421/ and reflects the information published on that website.
 Because of technical limitations in table recognition, the layout and contents of tables may not be entirely accurate.
 The original material contains numerous tables with detailed technical specifications; please consult the official website above for the most complete and up-to-date information.
