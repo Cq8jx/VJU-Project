@@ -6,7 +6,7 @@ category: Quality Assurance
 issue_date: null
 status: active
 languages: [en, ja, vi]
-source_pdf: ""
+source_pdf: "../Source/DHQGHN-QD-628 Regulation on Educational Quality Assurance in Vietnam National University, Hanoi_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []

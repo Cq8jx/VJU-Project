@@ -6,7 +6,7 @@ category: Quality Assurance
 issue_date: null
 status: active
 languages: [en, ja, vi]
-source_pdf: ""
+source_pdf: "../Source/TTCP-QD-78-2022 Decision Approving Quality Assurance and Accreditation Program 2022-2030_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []
