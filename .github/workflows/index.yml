@@ -1,0 +1,33 @@
+name: Build indexes
+
+on:
+  push:
+    paths:
+      - "**/*.md"
+      - "scripts/**"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pyyaml
+      - run: python scripts/build-index.py
+      - name: Create pull request for refreshed indexes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: chore: refresh folder indexes
+          title: chore: refresh folder indexes
+          body: |
+            Automated update of Quality Assurance folder index pages.
+          branch: chore/refresh-indexes
+          delete-branch: true
+          add-paths: |
+            Quality Assurance/**/index.md

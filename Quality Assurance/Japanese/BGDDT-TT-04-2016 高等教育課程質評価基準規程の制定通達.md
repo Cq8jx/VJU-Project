@@ -12,7 +12,10 @@ replaced_by: []
 revision_history: []
 tags: [quality-assurance]
 ---
+> Versions: [VI](../Vietnamese/BGDDT-TT-04-2016%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20ti%C3%AAu%20chu%E1%BA%A9n%20%C4%91%C3%A1nh%20gi%C3%A1%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o%20c%C3%A1c%20tr%C3%ACnh%20%C4%91%E1%BB%99%20c%E1%BB%A7a%20gi%C3%A1o%20d%E1%BB%A5c%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc_source.md) | [EN](../English/BGDDT-TT-04-2016%20Circular%20Promulgating%20Regulations%20on%20Quality%20Standards%20for%20Higher%20Education%20Programs.md) | [JA](BGDDT-TT-04-2016%20%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E8%B3%AA%E8%A9%95%E4%BE%A1%E5%9F%BA%E6%BA%96%E8%A6%8F%E7%A8%8B%E3%81%AE%E5%88%B6%E5%AE%9A%E9%80%9A%E9%81%94.md)
+
 このファイルは https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=184794 に掲載された情報を転記したものであり、正式な内容は同サイトで公開されている版をご確認ください。
+
 表の認識には技術的な制約があるため、表組みの体裁や内容が完全には再現できていない可能性があります。
 
 ---
