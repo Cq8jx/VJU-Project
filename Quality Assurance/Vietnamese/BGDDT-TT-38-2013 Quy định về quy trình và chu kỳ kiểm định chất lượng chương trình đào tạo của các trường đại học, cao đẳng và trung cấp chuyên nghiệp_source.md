@@ -19,9 +19,11 @@ version:
 lang: vi
 ---
 
+<div class="doc-note">
 Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=171225 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
+</div>
 
 --- 
 
