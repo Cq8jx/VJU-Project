@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-08-2021
-title: CÔNG BÁO/Số 569 + 570/Ngày 04-5-2021
+title: Thông tư ban hành Quy chế đào tạo trình độ đại học_source
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

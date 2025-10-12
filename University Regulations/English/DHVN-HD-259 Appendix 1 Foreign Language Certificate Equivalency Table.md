@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259
-title: Appendix 1 — Foreign Language Certificate Equivalency Table
+title: Appendix 1 Foreign Language Certificate Equivalency Table
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

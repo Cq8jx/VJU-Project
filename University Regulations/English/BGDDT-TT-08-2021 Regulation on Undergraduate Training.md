@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-08-2021
-title: OFFICIAL GAZETTE/No. 569 + 570/May 4, 2021
+title: Regulation on Undergraduate Training
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

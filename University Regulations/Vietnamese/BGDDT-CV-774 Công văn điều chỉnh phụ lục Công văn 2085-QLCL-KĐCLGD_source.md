@@ -1,6 +1,6 @@
 ---
 id: BGDDT-CV-774
-title: PHỤ LỤC
+title: Công văn điều chỉnh phụ lục Công văn 2085-QLCL-KĐCLGD_source
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

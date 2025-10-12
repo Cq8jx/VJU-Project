@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-304
-title: 指針
+title: 学習成果認定・単位互換指針
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

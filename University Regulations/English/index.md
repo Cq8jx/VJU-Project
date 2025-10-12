@@ -1,43 +1,14 @@
 ---
-title: University Regulations (English)
+title: index
 layout: page
 ---
 
-# University Regulations — English
+# University Regulations
 
-- [Decree prescribing base salary for cadres, civil servants, public employees and armed forces]({{ '/University Regulations/English/24-2023-ND-CP Decree prescribing base salary for cadres, civil servants, public employees and armed forces.html' | relative_url }})
-- [MINISTRY OF EDUCATION AND TRAINING]({{ '/University Regulations/English/BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs.html' | relative_url }})
-- [APPENDICES]({{ '/University Regulations/English/BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD.html' | relative_url }})
-- [TECHNICAL SPECIFICATIONS ON DATA OF THE EDUCATION AND TRAINING DATABASE]({{ '/University Regulations/English/BGDDT-QD-4998 Technical Specifications for Education and Training Database.html' | relative_url }})
-- [Circular Promulgating Standards for Higher Education Institutions]({{ '/University Regulations/English/BGDDT-TT-01-2024 Circular Promulgating Standards for Higher Education Institutions.html' | relative_url }})
-- [Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign Cooperation and Investment in Education]({{ '/University Regulations/English/BGDDT-TT-04-2020 Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign Cooperation and Investment in Education.html' | relative_url }})
-- [OFFICIAL GAZETTE/No. 569 + 570/May 4, 2021]({{ '/University Regulations/English/BGDDT-TT-08-2021 Regulation on Undergraduate Training.html' | relative_url }})
-- [Circular on Standards and Processes for Higher Education Programs]({{ '/University Regulations/English/BGDDT-TT-17-2021 Circular on Standards and Processes for Higher Education Programs.html' | relative_url }})
-- [OFFICIAL GAZETTE/No. 669 + 670/July 16, 2021]({{ '/University Regulations/English/BGDDT-TT-18-2021 Regulations on Admission and Training for Doctoral Degrees.html' | relative_url }})
-- [OFFICIAL GAZETTE/No. 809 + 810/September 19, 2021]({{ '/University Regulations/English/BGDDT-TT-23-2021 Regulations on Master's Degree Enrollment and Training.html' | relative_url }})
-- [Chapter I]({{ '/University Regulations/English/BTC-TT-111-2013 Circular guiding the implementation of the Law on Personal Income Tax, its amendments, and Decree 65-2013-ND-CP.html' | relative_url }})
-- [GOVERNMENT]({{ '/University Regulations/English/CP-ND-86-2021 Decree on Vietnamese Citizens Studying, Teaching, Conducting Scientific Research, and Academic Exchange Overseas.html' | relative_url }})
-- [Notification on Organizing the VNU-TESTS Foreign Language Assessment]({{ '/University Regulations/English/DHNN-TB-2184 Notification on Organizing the VNU-TESTS Foreign Language Assessment.html' | relative_url }})
-- [Decision Amending and Supplementing the Regulation on Masters Training]({{ '/University Regulations/English/DHQGHN-QD-2459 Decision Amending and Supplementing the Regulation on Masters Training.html' | relative_url }})
-- [Decision Amending and Supplementing the Regular Undergraduate Admission Regulation]({{ '/University Regulations/English/DHQGHN-QD-2486 Decision Amending and Supplementing the Regular Undergraduate Admission Regulation.html' | relative_url }})
-- [Regulation on Undergraduate Training]({{ '/University Regulations/English/DHQGHN-QD-3626 Regulation on Undergraduate Training.html' | relative_url }})
-- [Regulation on Master's Training]({{ '/University Regulations/English/DHQGHN-QD-3636 Regulation on Master's Training.html' | relative_url }})
-- [Regulation on Doctoral Training]({{ '/University Regulations/English/DHQGHN-QD-3638 Regulation on Doctoral Training.html' | relative_url }})
-- [Regulation on Management of Diplomas and Certificates]({{ '/University Regulations/English/DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates.html' | relative_url }})
-- [Regulation on Management and Use of Scholarships]({{ '/University Regulations/English/DHQGHN-QD-4618 Regulation on Management and Use of Scholarships.html' | relative_url }})
-- [UNIVERSITY TRAINING REGULATIONS]({{ '/University Regulations/English/DHQGHN-QD-5115 [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training.html' | relative_url }})
-- [Guidelines for Theses and Graduation Projects]({{ '/University Regulations/English/DHVN-HD-1534 Guidelines for Theses and Graduation Projects.html' | relative_url }})
-- [Comments ^1^]({{ '/University Regulations/English/DHVN-HD-1534 Thesis and Graduation Project Annex Templates - English Format.html' | relative_url }})
-- [Thesis and Graduation Project Annex Templates - Layout Guide]({{ '/University Regulations/English/DHVN-HD-1534 Thesis and Graduation Project Annex Templates - Layout Guide.html' | relative_url }})
-- [APPENDIX 1]({{ '/University Regulations/English/DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency Table.html' | relative_url }})
-- [APPENDIX 2]({{ '/University Regulations/English/DHVN-HD-259 Appendix 2 JLPT Authorization Letter Template.html' | relative_url }})
-- [Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts]({{ '/University Regulations/English/DHVN-HD-259 Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts.html' | relative_url }})
-- [Guidelines for Recognizing Learning Outcomes and Credit Transfer]({{ '/University Regulations/English/DHVN-HD-304 Guidelines for Recognizing Learning Outcomes and Credit Transfer.html' | relative_url }})
-- [INSTRUCT]({{ '/University Regulations/English/DHVN-HD-483 Guidelines for Practical Internships and Internship Topics.html' | relative_url }})
-- [Guidelines on Using Foreign Language Certificates and Certifications]({{ '/University Regulations/English/DHVN-HD-xxx Guidelines on Using Foreign Language Certificates and Certifications.html' | relative_url }})
-- [Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University]({{ '/University Regulations/English/DHVN-QD-1132 Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University.html' | relative_url }})
-- [REGULATIONS]({{ '/University Regulations/English/DHVN-QD-1132 Regulations on Examination Affairs of Vietnam Japan University.html' | relative_url }})
-- [Regulations on Academic Advisory Work]({{ '/University Regulations/English/DHVN-QD-473 Regulations on Academic Advisory Work.html' | relative_url }})
-- [Notification on Submission of English Language Certificates]({{ '/University Regulations/English/DHVN-TB-1010 Notification on Submission of English Language Certificates.html' | relative_url }})
-- [Notification on Submission of Foreign Language Certificates VJU2024 Cohort]({{ '/University Regulations/English/DHVN-TB-911 Notification on Submission of Foreign Language Certificates VJU2024 Cohort.html' | relative_url }})
-- [Notification on Submission of Foreign Language Certificates VJU2023 Cohort]({{ '/University Regulations/English/DHVN-TB-984 Notification on Submission of Foreign Language Certificates VJU2023 Cohort.html' | relative_url }})
+{% assign docs = site.pages | where: "category", "University Regulations" %}
+{% assign docs = docs | where_exp: "doc", "doc.path contains '/University Regulations/English/'" %}
+{% assign docs = docs | sort: "id" %}
+
+{% for doc in docs %}
+- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+{% endfor %}

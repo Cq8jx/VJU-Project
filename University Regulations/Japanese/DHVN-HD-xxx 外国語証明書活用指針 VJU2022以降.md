@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-XXX
-title: 説明書
+title: DHVN-HD-xxx 外国語証明書活用指針 VJU2022以降
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

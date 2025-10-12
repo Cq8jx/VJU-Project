@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259
-title: 付録2
+title: 付録2 JLPT受験委任状
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-18-2021
-title: CÔNG BÁO/Số 669 + 670/Ngày 16-7-2021
+title: Thông tư ban hành Quy chế tuyển sinh và đào tạo trình độ tiến sĩ_source
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

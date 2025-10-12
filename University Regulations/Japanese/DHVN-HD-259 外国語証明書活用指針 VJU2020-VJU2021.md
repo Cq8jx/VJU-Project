@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259
-title: 指針
+title: 外国語証明書活用指針 VJU2020-VJU2021
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

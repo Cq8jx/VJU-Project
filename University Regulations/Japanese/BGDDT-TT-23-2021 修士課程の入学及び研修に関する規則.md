@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-23-2021
-title: 官報／第809号＋第810号／2021年9月19日
+title: 修士課程の入学及び研修に関する規則
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

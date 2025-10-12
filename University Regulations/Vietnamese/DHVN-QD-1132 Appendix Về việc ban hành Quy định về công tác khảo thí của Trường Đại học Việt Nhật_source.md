@@ -1,6 +1,7 @@
 ---
 id: DHVN-QD-1132
-title: CHƯƠNG I. NHỮNG QUY ĐỊNH CHUNG
+title: Appendix Về việc ban hành Quy định về công tác khảo thí của Trường Đại học
+  Việt Nhật_source
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

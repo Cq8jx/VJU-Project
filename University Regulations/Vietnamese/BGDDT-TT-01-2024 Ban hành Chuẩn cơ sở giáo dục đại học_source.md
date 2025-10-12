@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-01-2024
-title: Ban hành Chuẩn cơ sở giáo dục đại học
+title: Ban hành Chuẩn cơ sở giáo dục đại học_source
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

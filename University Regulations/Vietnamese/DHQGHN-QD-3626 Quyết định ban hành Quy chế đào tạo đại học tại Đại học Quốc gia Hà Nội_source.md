@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-3626
-title: Quyết định ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội
+title: Quyết định ban hành Quy chế đào tạo đại học tại Đại học Quốc gia Hà Nội_source
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

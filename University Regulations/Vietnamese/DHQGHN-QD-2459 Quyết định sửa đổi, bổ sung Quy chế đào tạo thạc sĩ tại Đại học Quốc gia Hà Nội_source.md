@@ -1,7 +1,7 @@
 ---
 id: DHQGHN-QD-2459
 title: Quyết định sửa đổi, bổ sung Quy chế đào tạo thạc sĩ tại Đại học Quốc gia Hà
-  Nội
+  Nội_source
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

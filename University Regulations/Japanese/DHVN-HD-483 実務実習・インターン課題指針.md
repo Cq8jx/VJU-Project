@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-483
-title: 指示する
+title: 実務実習・インターン課題指針
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
@@ -24,7 +24,7 @@ version:
 
 *番号: 483 /HD-DHVN* *ハノイ、2025年5月20日*
 
-# 指示する
+# 指針
 
 **日越大学のフルタイム大学生向けの実践的なインターンシップとインターンシップのトピック**
 

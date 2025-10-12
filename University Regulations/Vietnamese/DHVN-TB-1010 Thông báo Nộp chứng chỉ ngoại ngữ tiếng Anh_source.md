@@ -1,6 +1,6 @@
 ---
 id: DHVN-TB-1010
-title: Thông báo Nộp chứng chỉ ngoại ngữ tiếng Anh
+title: Thông báo Nộp chứng chỉ ngoại ngữ tiếng Anh_source
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-23-2021
-title: OFFICIAL GAZETTE/No. 809 + 810/September 19, 2021
+title: Regulations on Master's Degree Enrollment and Training
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

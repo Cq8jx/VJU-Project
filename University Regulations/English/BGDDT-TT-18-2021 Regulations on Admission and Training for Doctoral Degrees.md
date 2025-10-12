@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-18-2021
-title: OFFICIAL GAZETTE/No. 669 + 670/July 16, 2021
+title: Regulations on Admission and Training for Doctoral Degrees
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-23-2021
-title: CÔNG BÁO/Số 809 + 810/Ngày 19-9-2021
+title: Thông tư ban hành Quy chế tuyển sinh và đào tạo trình độ thạc sĩ_source
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

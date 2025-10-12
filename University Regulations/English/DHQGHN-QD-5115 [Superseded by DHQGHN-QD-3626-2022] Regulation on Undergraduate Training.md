@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-5115
-title: Regulation on Undergraduate Training (Superseded)
+title: '[Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training'
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

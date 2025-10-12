@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259
-title: PHỤ LỤC 1
+title: Phụ lục 1 Bảng tham chiếu quy đổi chứng chỉ ngoại ngữ_source
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

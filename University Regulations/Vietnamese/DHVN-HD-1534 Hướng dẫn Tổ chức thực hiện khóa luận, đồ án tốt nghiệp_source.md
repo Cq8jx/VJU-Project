@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-1534
-title: HƯỚNG DẪN
+title: Hướng dẫn Tổ chức thực hiện khóa luận, đồ án tốt nghiệp_source
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

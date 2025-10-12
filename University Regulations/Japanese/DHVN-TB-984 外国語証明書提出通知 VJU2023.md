@@ -1,6 +1,6 @@
 ---
 id: DHVN-TB-984
-title: 通知
+title: 外国語証明書提出通知 VJU2023
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHVN-QD-1132
-title: Regulations on Examination Affairs of VNU – Vietnam-Japan University
+title: Regulations on Examination Affairs of Vietnam Japan University
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
