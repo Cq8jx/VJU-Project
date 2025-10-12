@@ -5,7 +5,7 @@ layout: page
 permalink: /
 ---
 
-> Language: **EN** | [VI](/vi/) | [JA](/ja/)
+> Language: **EN** | [VI]({{ '/vi/' | relative_url }}) | [JA]({{ '/ja/' | relative_url }})
 
 # VJU Project Documentation (English)
 
@@ -13,16 +13,16 @@ This site centralizes documentation for VNU – Vietnam-Japan University. Englis
 
 ## Quality Assurance
 
-- [Open collection](./Quality%20Assurance/)
+- [Open collection]({{ '/Quality Assurance/' | relative_url }})
 
 ## University Regulations
 
-- [Open collection](./University%20Regulations/)
+- [Open collection]({{ '/University Regulations/' | relative_url }})
 
 ## Public Report 2025
 
-- [Open collection](./Public%20Report%202025/)
+- [Open collection]({{ '/Public Report 2025/' | relative_url }})
 
 ## Guides
 
-- [Open collection](./Guide/)
+- [Open collection]({{ '/Guide/' | relative_url }})

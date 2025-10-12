@@ -5,7 +5,7 @@ layout: page
 permalink: /ja/
 ---
 
-> Language: [EN](/) | [VI](/vi/) | **JA**
+> Language: [EN]({{ '/' | relative_url }}) | [VI]({{ '/vi/' | relative_url }}) | **JA**
 
 # VJU プロジェクト文書（日本語）
 
@@ -13,12 +13,12 @@ VNU – Vietnam-Japan University 関連の日本語資料にアクセスでき�
 
 ## 品質保証
 
-- [コレクションを開く](./Quality%20Assurance/)
+- [コレクションを開く]({{ '/Quality Assurance/' | relative_url }})
 
 ## 大学規程
 
-- [コレクションを開く](./University%20Regulations/)
+- [コレクションを開く]({{ '/University Regulations/' | relative_url }})
 
 ## 公開レポート 2025
 
-- [コレクションを開く](./Public%20Report%202025/)
+- [コレクションを開く]({{ '/Public Report 2025/' | relative_url }})

@@ -5,7 +5,7 @@ layout: page
 permalink: /vi/
 ---
 
-> Language: [EN](/) | **VI** | [JA](/ja/)
+> Language: [EN]({{ '/' | relative_url }}) | **VI** | [JA]({{ '/ja/' | relative_url }})
 
 # Tài liệu Dự án VJU (Tiếng Việt)
 
@@ -13,12 +13,12 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
 
 ## Đảm bảo chất lượng
 
-- [Mở bộ sưu tập](./Quality%20Assurance/)
+- [Mở bộ sưu tập]({{ '/Quality Assurance/' | relative_url }})
 
 ## Quy định của trường
 
-- [Mở bộ sưu tập](./University%20Regulations/)
+- [Mở bộ sưu tập]({{ '/University Regulations/' | relative_url }})
 
 ## Báo cáo công khai 2025
 
-- [Mở bộ sưu tập](./Public%20Report%202025/)
+- [Mở bộ sưu tập]({{ '/Public Report 2025/' | relative_url }})
