@@ -1,6 +1,6 @@
 ---
 id: CP-ND-86-2021
-title: GOVERNMENT
+title: Decree on Vietnamese Citizens Studying, Teaching, Conducting Scientific Research, and Academic Exchange Overseas
 issuer: Chính phủ
 category: University Regulations
 issue_date: null
@@ -813,4 +813,3 @@ I hereby certify that the above information is true and take responsibility befo
 
 | No. | Full name | Gender | Date of birth | ID/Passport No. | Program type | Scholarship/funding source | Host country | Duration | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-

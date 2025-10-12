@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-5115
-title: UNIVERSITY TRAINING REGULATIONS
+title: Regulation on Undergraduate Training (Superseded)
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null
