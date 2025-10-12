@@ -5,11 +5,17 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-version: [en, vi, ja, source]
+version:
+- en
+- vi
+- ja
+- source
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
+lang: en
 ---
 This file is a transcription of the document at https://e-ict.gov.vn/index.php/laws/detail/Quyet-dinh-Ban-hanh-Quy-dinh-ky-thuat-ve-du-lieu-cua-co-so-du-lieu-giao-duc-va-dao-tao-751/ and the accuracy of its information is based on the content published there.
 The recognition of tables encountered technical difficulties, so the layout and content of the tables may not be completely accurate.

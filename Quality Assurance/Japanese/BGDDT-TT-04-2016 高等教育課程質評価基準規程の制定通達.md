@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: ja
 ---
 
 このファイルは https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=184794 に掲載された情報を転記したものであり、正式な内容は同サイトで公開されている版をご確認ください。

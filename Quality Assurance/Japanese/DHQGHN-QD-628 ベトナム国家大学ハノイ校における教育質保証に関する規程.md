@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: ja
 ---
 
 このファイルは https://ussh.vnu.edu.vn/eng/van-ban/detail/Quy-dinh-ve-Dam-bao-chat-luong-trong-DHQGHN-19418/ に掲載された文書を転記したものであり、同サイトで公表された内容に基づいて正確な情報を提供する。

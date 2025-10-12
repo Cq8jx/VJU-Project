@@ -5,11 +5,17 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-version: [en, vi, ja, source]
+version:
+- en
+- vi
+- ja
+- source
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
+lang: en
 ---
 This file is produced based on https://ussh.vnu.edu.vn/vi/van-ban/detail/Cong-van-dieu-chinh-mot-so-phu-luc-Cong-van-so-2085-QLCL-KDCLGD-19421/ and reflects the information published on that website.
 Because of technical limitations in table recognition, the layout and contents of tables may not be entirely accurate.

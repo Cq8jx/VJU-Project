@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: en
 ---
 This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
 

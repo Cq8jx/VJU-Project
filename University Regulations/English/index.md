@@ -1,6 +1,7 @@
 ---
 title: index
 layout: page
+lang: en
 ---
 
 # University Regulations

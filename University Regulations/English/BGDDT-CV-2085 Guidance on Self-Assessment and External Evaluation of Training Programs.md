@@ -5,11 +5,17 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-version: [en, vi, ja, source]
+version:
+- en
+- vi
+- ja
+- source
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
+lang: en
 ---
 This file is a transcription of the document published at https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ and accurate information is based on the contents released there.
 Because recognizing tables poses technical difficulties, table layouts and contents may not be entirely precise.

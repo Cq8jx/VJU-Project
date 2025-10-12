@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: vi
 ---
 
 Tệp này là bản chuyển văn bản từ https://ussh.vnu.edu.vn/eng/van-ban/detail/Quy-dinh-ve-Dam-bao-chat-luong-trong-DHQGHN-19418/ và thông tin chính xác dựa trên nội dung được công bố tại đó.

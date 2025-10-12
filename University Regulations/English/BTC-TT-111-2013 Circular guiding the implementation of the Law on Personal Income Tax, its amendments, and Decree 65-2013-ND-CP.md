@@ -16,6 +16,7 @@ version:
 - ja
 - source
 - vi
+lang: en
 ---
 This file is a transcription of https://vanban.chinhphu.vn/?pageid=27160&docid=169566 .
 Layout and table contents may deviate from the official gazette because of technical limitations during recognition.

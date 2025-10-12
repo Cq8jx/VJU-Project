@@ -16,6 +16,7 @@ version:
 - ja
 - source
 - vi
+lang: vi
 ---
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/khao-thi/van-ban-quy-dinh-cua-truong/ và thông tin dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật. Bố cục và nội dung của bảng có thể không chính xác.

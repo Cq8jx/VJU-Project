@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: ja
 ---
 このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Cong-van-dieu-chinh-mot-so-phu-luc-Cong-van-so-2085-QLCL-KDCLGD-19421/ を基に作成したものであり、内容は同サイトで公表された情報に依拠しています。
 表の文字認識には技術的な制約があり、表のレイアウトや内容が完全には正確でない可能性があります。

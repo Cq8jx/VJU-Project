@@ -16,6 +16,7 @@ version:
 - ja
 - source
 - vi
+lang: en
 ---
 # DECISION
 **On the promulgation of the Regulations on Examination Affairs of Vietnam Japan University**

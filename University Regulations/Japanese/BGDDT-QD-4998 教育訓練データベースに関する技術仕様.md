@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: ja
 ---
 このファイルは https://e-ict.gov.vn/index.php/laws/detail/Quyet-dinh-Ban-hanh-Quy-dinh-ky-thuat-ve-du-lieu-cua-co-so-du-lieu-giao-duc-va-dao-tao-751/ に掲載されている文書を文字起こししたものであり、記載内容の正確性は同サイトで公開されている情報に基づいています。
 表の文字認識には技術的な困難があったため、表のレイアウトや内容が完全には正確でない可能性があります。

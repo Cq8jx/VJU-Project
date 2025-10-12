@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: en
 ---
 This file is a text transcription of https://vju.vnu.edu.vn/dam-bao-chat-luong/thuc-hien-cong-khai-doi-voi-csgd-dai-hoc/dieu-kien-dam-bao-chat-luong/ and reflects the information published there.
 Because table recognition is technically challenging, table layouts and contents may not be reproduced exactly.

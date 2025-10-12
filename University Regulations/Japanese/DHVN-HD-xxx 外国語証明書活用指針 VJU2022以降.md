@@ -14,6 +14,7 @@ version:
 - en
 - ja
 - vi
+lang: ja
 ---
 本ファイルは https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/ に掲載された情報をテキスト化したものであり、正確な内容は同サイトで公開されている情報に従ってください。
 

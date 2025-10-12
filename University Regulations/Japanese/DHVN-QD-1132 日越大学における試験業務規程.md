@@ -13,6 +13,7 @@ tags:
 version:
 - ja
 - source
+lang: ja
 ---
 # 試験業務規程
 **（2025年10月1日付決定第1132/QĐ-ĐHVN号に添付）**

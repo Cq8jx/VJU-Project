@@ -1,6 +1,7 @@
 ---
 title: 大学規程
 layout: page
+lang: ja
 ---
 
 # 大学規程

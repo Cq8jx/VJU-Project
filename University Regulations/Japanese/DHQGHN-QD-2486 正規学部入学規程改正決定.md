@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: ja
 ---
 このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-tuyen-sinh-dai-hoc-chinh-quy-tai-Dai-hoc-Quoc-gia-Ha-Noi-19464/ を転写したものであり、正式な情報は同サイトで公開された内容に基づきます。
 表の認識には技術的な困難があったため、表のレイアウトおよび内容が完全に正確でない場合があります。

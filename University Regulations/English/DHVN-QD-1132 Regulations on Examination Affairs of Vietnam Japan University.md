@@ -13,6 +13,7 @@ tags:
 version:
 - en
 - source
+lang: en
 ---
 # REGULATIONS
 **on Examination Affairs of Vietnam Japan University**

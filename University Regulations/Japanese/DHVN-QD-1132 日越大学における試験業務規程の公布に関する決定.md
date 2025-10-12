@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: ja
 ---
 # 決定
 **日越大学における試験業務規程の公布について**

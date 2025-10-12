@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: ja
 ---
 このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ に掲載された文書を転記したものであり、正確な情報は同サイトに基づいています。
 表の認識には技術的な制約があるため、表のレイアウトや内容が完全には正確でない可能性があります。

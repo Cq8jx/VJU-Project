@@ -5,11 +5,17 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-version: [en, vi, ja, source]
+version:
+- en
+- vi
+- ja
+- source
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
+lang: en
 ---
 This file is a text transcription of the information published at https://chinhphu.vn/?pageid=27160&docid=209786&classid=1, and the authoritative content is the version available there.
 Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.

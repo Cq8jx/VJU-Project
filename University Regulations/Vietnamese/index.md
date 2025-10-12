@@ -1,6 +1,7 @@
 ---
 title: Quy định của trường
 layout: page
+lang: vi
 ---
 
 # Quy định của trường

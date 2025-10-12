@@ -16,6 +16,7 @@ version:
 - ja
 - source
 - vi
+lang: en
 ---
 
 This file transcribes the document published at https://ussh.vnu.edu.vn/eng/van-ban/detail/Quy-dinh-ve-Dam-bao-chat-luong-trong-DHQGHN-19418/ and reproduces the information accurately on the basis of the content disclosed there.

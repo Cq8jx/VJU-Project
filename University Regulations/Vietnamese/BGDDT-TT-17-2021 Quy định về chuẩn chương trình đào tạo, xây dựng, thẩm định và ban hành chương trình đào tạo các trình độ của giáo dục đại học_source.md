@@ -16,6 +16,7 @@ version:
 - ja
 - source
 - vi
+lang: vi
 ---
 Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=27160&docid=203478 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.

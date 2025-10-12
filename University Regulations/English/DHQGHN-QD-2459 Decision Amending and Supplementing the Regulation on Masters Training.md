@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: en
 ---
 This file is a transcription of the document published at https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-dao-tao-thac-si-tai-Dai-hoc-Quoc-gia-Ha-Noi-19465/. For accurate information, please refer to the version released on that site.
 Table recognition faces technical limitations, so table layouts and contents may not be entirely accurate.

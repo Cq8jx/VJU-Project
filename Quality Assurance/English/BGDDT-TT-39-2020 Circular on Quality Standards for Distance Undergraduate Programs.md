@@ -15,6 +15,7 @@ version:
 - ja
 - source
 - vi
+lang: en
 ---
 
 This file is a text transcription of the information published at https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=201316, and the authoritative content is the version available there.
