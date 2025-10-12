@@ -6,7 +6,7 @@ category: University Regulations
 issue_date: null
 status: active
 languages: [en, ja, vi]
-source_pdf: ""
+source_pdf: "/University Regulations/Source/BGDDT-QD-4998 Technical Specifications for Education and Training Database_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []

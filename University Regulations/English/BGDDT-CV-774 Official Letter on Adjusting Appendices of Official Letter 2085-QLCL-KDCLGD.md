@@ -6,7 +6,7 @@ category: University Regulations
 issue_date: null
 status: active
 languages: [en, ja, vi]
-source_pdf: ""
+source_pdf: "/University Regulations/Source/BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []

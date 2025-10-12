@@ -6,7 +6,7 @@ category: University Regulations
 issue_date: null
 status: active
 languages: [en, ja, vi]
-source_pdf: ""
+source_pdf: "/University Regulations/Source/BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []

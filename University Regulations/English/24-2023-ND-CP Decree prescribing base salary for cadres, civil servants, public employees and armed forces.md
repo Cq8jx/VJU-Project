@@ -6,7 +6,7 @@ category: University Regulations
 issue_date: null
 status: active
 languages: [en, ja, vi]
-source_pdf: ""
+source_pdf: "/University Regulations/Source/24-2023-ND-CP Decree prescribing base salary for cadres, civil servants, public employees and armed forces_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []
@@ -122,4 +122,3 @@ Salary and allowance beneficiaries specified in Article 1 of this Decree include
 *(signed)*
 
 **Lê Minh Khái**
-

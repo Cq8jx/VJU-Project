@@ -6,7 +6,7 @@ category: University Regulations
 issue_date: null
 status: active
 languages: [en, ja, vi]
-source_pdf: ""
+source_pdf: "/University Regulations/Source/BGDDT-TT-01-2024 Circular Promulgating Standards for Higher Education Institutions_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []
@@ -479,4 +479,3 @@ Average number of science and technology publications per full-time lecturer; av
 | 5 | Total expenditure (VND) | | | | |
 | 6 | Operating margin (%) | | | | |
 | 7 | Sustainable growth index (%) | | | | |
-
