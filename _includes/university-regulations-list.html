@@ -1,6 +1,6 @@
 {% assign lang_dir = include.lang_dir | default: "English" %}
 {% assign regs = site.pages | where: "category", "University Regulations" %}
-{% capture scope_path %}/University Regulations/{{ lang_dir }}/{% endcapture %}
+{% capture scope_path %}University Regulations/{{ lang_dir }}/{% endcapture %}
 {% assign scope_path = scope_path | strip %}
 {% assign regs = regs | where_exp: "doc", "doc.path contains scope_path" %}
 {% assign regs = regs | sort: "id" %}

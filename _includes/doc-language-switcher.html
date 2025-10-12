@@ -1,7 +1,7 @@
 {% if page.id %}
   {% assign doc_variants = site.pages | where: "id", page.id %}
   {% assign lang_dirs = "English|Japanese|Vietnamese" | split: "|" %}
-  {% assign lang_labels = "English|日本語|Tiếng Việt" | split: "|" %}
+  {% assign lang_labels = "English|Japanese|Vietnamese" | split: "|" %}
   {% assign has_variants = 0 %}
   {% for variant in doc_variants %}
     {% assign has_variants = has_variants | plus: 1 %}
@@ -13,7 +13,7 @@
   {% if has_variants > 1 or source_files.size > 0 %}
     <nav class="doc-language-switcher" aria-label="Document language and source links">
       <div class="doc-language-switcher__group">
-        <span class="doc-language-switcher__label">Languages:</span>
+        <span class="doc-language-switcher__label">Language:</span>
         {% for dir in lang_dirs %}
           {% capture fragment %}/{{ dir }}/{% endcapture %}
           {% assign variant = doc_variants | where_exp: "item", "item.path contains fragment" | first %}
