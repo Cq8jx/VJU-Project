@@ -3,7 +3,10 @@ theme: minima
 collections:
   docs:
     output: true
-header_pages: []
+header_pages:
+  - index.md
+  - index-vi.md
+  - index-ja.md
 defaults:
   - scope:
       path: ""

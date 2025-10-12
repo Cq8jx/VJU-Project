@@ -3,6 +3,7 @@ title: VJU プロジェクト文書（日本語）
 lang: ja
 layout: page
 permalink: /ja/
+nav_exclude: false
 ---
 
 <style>
@@ -52,10 +53,10 @@ permalink: /ja/
 </style>
 
 <div class="language-switcher" role="navigation" aria-label="言語切替">
-  <span>言語:</span>
+  <span>Language</span>
   <a href="{{ '/' | relative_url }}">EN</a>
-  <strong>JA</strong>
   <a href="{{ '/vi/' | relative_url }}">VI</a>
+  <strong>JA</strong>
 </div>
 
 # VJU プロジェクト文書（日本語）

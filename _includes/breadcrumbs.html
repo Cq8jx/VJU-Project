@@ -1,0 +1,67 @@
+{% assign lang_code = page.lang %}
+{% if lang_code == nil or lang_code == "" %}
+  {% if page.url contains "/ja/" or page.url contains "/Japanese/" %}
+    {% assign lang_code = "ja" %}
+  {% elsif page.url contains "/vi/" or page.url contains "/Vietnamese/" %}
+    {% assign lang_code = "vi" %}
+  {% else %}
+    {% assign lang_code = "en" %}
+  {% endif %}
+{% endif %}
+
+{% case lang_code %}
+  {% when "ja" %}
+    {% assign root_label = "Japanese version" %}
+    {% assign root_path = "/ja/" %}
+  {% when "vi" %}
+    {% assign root_label = "Vietnamese version" %}
+    {% assign root_path = "/vi/" %}
+  {% else %}
+    {% assign root_label = "English version" %}
+    {% assign root_path = "/" %}
+{% endcase %}
+
+{% assign segments = page.url | split: "/" %}
+{% assign crumb_count = 0 %}
+{% for segment in segments %}
+  {% if segment == "" or segment == "index.html" %}
+    {% continue %}
+  {% endif %}
+  {% assign crumb_count = crumb_count | plus: 1 %}
+{% endfor %}
+
+{% if crumb_count > 0 %}
+  <nav aria-label="Breadcrumb" style="margin: 0 0 1.2rem; font-size: 0.9rem;">
+    <ol style="list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center;">
+      <li style="display: flex; align-items: center; gap: 0.35rem;">
+        <a href="{{ root_path | relative_url }}" style="text-decoration: none; color: #0b4d91; font-weight: 600;">{{ root_label }}</a>
+        {% if crumb_count > 0 %}
+          <span aria-hidden="true" style="color: #7a869a;">›</span>
+        {% endif %}
+      </li>
+      {% assign path = "" %}
+      {% assign processed = 0 %}
+      {% for segment in segments %}
+        {% if segment == "" or segment == "index.html" %}
+          {% continue %}
+        {% endif %}
+        {% assign processed = processed | plus: 1 %}
+        {% assign path = path | append: "/" | append: segment %}
+        {% assign is_last = processed == crumb_count %}
+        {% if is_last %}
+          <li style="display: flex; align-items: center; gap: 0.35rem;">
+            <span aria-current="page" style="color: #2d3e52; font-weight: 600;">{{ page.title | default: segment }}</span>
+          </li>
+        {% else %}
+          {% assign label = segment | replace: "%20", " " | replace: "-", " " %}
+          {% assign link = path | append: "/" %}
+          {% assign link = link | replace: " ", "%20" %}
+          <li style="display: flex; align-items: center; gap: 0.35rem;">
+            <a href="{{ link | relative_url }}" style="text-decoration: none; color: #0b4d91;">{{ label }}</a>
+            <span aria-hidden="true" style="color: #7a869a;">›</span>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+  </nav>
+{% endif %}

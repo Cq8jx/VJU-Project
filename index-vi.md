@@ -3,6 +3,7 @@ title: Tài liệu Dự án VJU (Tiếng Việt)
 lang: vi
 layout: page
 permalink: /vi/
+nav_exclude: false
 ---
 
 <style>
@@ -52,7 +53,7 @@ permalink: /vi/
 </style>
 
 <div class="language-switcher" role="navigation" aria-label="Chuyển đổi ngôn ngữ">
-  <span>Ngôn ngữ:</span>
+  <span>Language</span>
   <a href="{{ '/' | relative_url }}">EN</a>
   <strong>VI</strong>
   <a href="{{ '/ja/' | relative_url }}">JA</a>
