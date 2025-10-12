@@ -21,21 +21,45 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Show repository context
+        run: |
+          set -euxo pipefail
+          git status
+          git log -1 --oneline
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install pyyaml
+        shell: bash
+        run: |
+          set -euxo pipefail
+          python -m pip install --upgrade pip
+          pip install pyyaml
 
       - name: Refresh folder indexes
-        run: python scripts/build-index.py
+        shell: bash
+        run: |
+          set -euxo pipefail
+          python scripts/build-index.py
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
+
+      - name: Inspect generated site
+        if: always()
+        shell: bash
+        run: |
+          set -euxo pipefail
+          if [ -d _site ]; then
+            find _site -maxdepth 2 -type f | sort | head -n 200
+          else
+            echo "_site directory not found; build may have failed before artifact generation."
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
