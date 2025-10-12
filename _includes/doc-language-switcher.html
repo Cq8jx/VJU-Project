@@ -5,87 +5,118 @@
 
   {% assign entry_string = "" %}
   {% if page.version %}
-    {% assign entry_string = page.version | join: "," %}
+    {% assign entry_string = page.version | join: "|" %}
   {% else %}
     {% if page.languages %}
-      {% assign entry_string = page.languages | join: "," %}
+      {% assign entry_string = page.languages | join: "|" %}
     {% endif %}
     {% if source_files.size > 0 %}
       {% if entry_string == "" %}
         {% assign entry_string = "source" %}
       {% else %}
-        {% assign entry_string = entry_string | append: ",source" %}
+        {% assign entry_string = entry_string | append: "|source" %}
       {% endif %}
     {% endif %}
   {% endif %}
 
-  {% assign raw_entries = entry_string | split: "," %}
-  {% assign valid_entries = "" %}
-  {% assign language_codes = "" %}
-  {% assign language_count = 0 %}
-  {% assign source_requested = false %}
-
-  {% for code in raw_entries %}
-    {% assign code = code | strip %}
-    {% if code != "" %}
-      {% if code == "source" %}
-        {% assign source_requested = true %}
-      {% else %}
-        {% if language_codes == "" %}
-          {% assign language_codes = code %}
+  {% assign raw_entries = entry_string | split: "|" %}
+  {% assign cleaned_entries = "" %}
+  {% for entry in raw_entries %}
+    {% assign entry = entry | strip %}
+    {% if entry != "" %}
+      {% capture needle %}|{{ entry }}|{% endcapture %}
+      {% capture haystack %}|{{ cleaned_entries }}|{% endcapture %}
+      {% unless haystack contains needle %}
+        {% if cleaned_entries == "" %}
+          {% assign cleaned_entries = entry %}
         {% else %}
-          {% assign language_codes = language_codes | append: "|" | append: code %}
+          {% assign cleaned_entries = cleaned_entries | append: "|" | append: entry %}
         {% endif %}
-        {% assign language_count = language_count | plus: 1 %}
-      {% endif %}
+      {% endunless %}
     {% endif %}
   {% endfor %}
 
-  {% assign show_switcher = false %}
-  {% if language_count > 1 or (source_requested and language_count > 0) %}
-    {% assign show_switcher = true %}
-  {% elsif source_requested and language_count == 0 %}
-    {% assign show_switcher = source_files.size > 0 %}
+  {% if cleaned_entries == "" %}
+    {% assign version_list = nil %}
+  {% else %}
+    {% assign version_list = cleaned_entries | split: "|" %}
   {% endif %}
 
-  {% if show_switcher %}
-    <nav class="doc-language-switcher" aria-label="Document language and source links">
-      {% if language_count > 0 %}
-        <div class="doc-language-switcher__group">
-          <span class="doc-language-switcher__label">Language:</span>
-          {% assign language_entries = language_codes | split: "|" %}
-          {% for code in language_entries %}
-            {% assign variant = doc_variants | where: "lang", code | first %}
-            {% if variant %}
-              {% case code %}
-                {% when "en" %}
-                  {% assign label = "English" %}
-                {% when "ja" %}
-                  {% assign label = "Japanese" %}
-                {% when "vi" %}
-                  {% assign label = "Vietnamese" %}
-                {% else %}
-                  {% assign label = code %}
-              {% endcase %}
-              {% if variant.url == page.url %}
-                <span class="doc-language-switcher__link is-current">{{ label }}</span>
-              {% else %}
-                <a class="doc-language-switcher__link" href="{{ variant.url | relative_url }}">{{ label }}</a>
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-        </div>
+  {% assign language_priority = "en|vi|ja" | split: "|" %}
+  {% assign language_sequence = "" %}
+  {% if version_list %}
+    {% for code in language_priority %}
+      {% if version_list contains code %}
+        {% if language_sequence == "" %}
+          {% assign language_sequence = code %}
+        {% else %}
+          {% assign language_sequence = language_sequence | append: "|" | append: code %}
+        {% endif %}
       {% endif %}
+    {% endfor %}
+    {% for entry in version_list %}
+      {% unless language_priority contains entry or entry == "source" %}
+        {% if language_sequence == "" %}
+          {% assign language_sequence = entry %}
+        {% else %}
+          {% assign language_sequence = language_sequence | append: "|" | append: entry %}
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
+  {% endif %}
 
-      {% if source_requested and source_files.size > 0 %}
-        <div class="doc-language-switcher__group">
-          <span class="doc-language-switcher__label">Source:</span>
-          {% for src in source_files %}
-            {% assign display_name = src.name | replace: '_source', '' %}
-            <a class="doc-language-switcher__link" href="{{ src.path | relative_url }}">{{ display_name }}</a>
-          {% endfor %}
-        </div>
+  {% assign display_entries = language_sequence %}
+  {% assign source_link = "" %}
+  {% if version_list and version_list contains "source" %}
+    {% for src in source_files %}
+      {% if src.path contains '.pdf' %}
+        {% assign source_link = src.path %}
+        {% break %}
       {% endif %}
+    {% endfor %}
+    {% if source_link == "" and source_files.size > 0 %}
+      {% assign source_link = source_files[0].path %}
+    {% endif %}
+    {% if source_link != "" %}
+      {% if display_entries == "" %}
+        {% assign display_entries = "source" %}
+      {% else %}
+        {% assign display_entries = display_entries | append: "|source" %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+
+  {% if display_entries != "" %}
+    {% assign display_array = display_entries | split: "|" %}
+  {% else %}
+    {% assign display_array = nil %}
+  {% endif %}
+
+  {% if display_array %}
+    <nav class="doc-language-switcher" aria-label="Available versions">
+      <span class="doc-language-switcher__label">Version:</span>
+      {% for code in display_array %}
+        {% if code == "source" %}
+          {% if source_link != "" %}
+            <a class="doc-language-switcher__link" href="{{ source_link | relative_url }}">Source</a>
+          {% endif %}
+        {% else %}
+          {% case code %}
+            {% when "en" %}{% assign label = "EN" %}
+            {% when "vi" %}{% assign label = "VI" %}
+            {% when "ja" %}{% assign label = "JA" %}
+            {% else %}{% assign label = code | upcase %}
+          {% endcase %}
+          {% assign variant = doc_variants | where: "lang", code | first %}
+          {% if variant %}
+            {% if variant.url == page.url %}
+              <span class="doc-language-switcher__link is-current">{{ label }}</span>
+            {% else %}
+              <a class="doc-language-switcher__link" href="{{ variant.url | relative_url }}">{{ label }}</a>
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
     </nav>
   {% endif %}
 {% endif %}

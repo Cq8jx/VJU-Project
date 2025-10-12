@@ -5,14 +5,15 @@ layout: default
 <article class="post">
   <style>
     .doc-language-switcher {
-      display: flex;
+      display: inline-flex;
+      align-items: center;
       flex-wrap: wrap;
-      gap: 0.75rem;
-      margin: 0 0 1.2rem;
-      padding: 0.6rem 0.8rem;
-      border-radius: 10px;
-      background: #f5f8ff;
-      border: 1px solid rgba(11, 77, 145, 0.12);
+      gap: 0.6rem;
+      padding: 0.45rem 0.75rem;
+      border-radius: 999px;
+      background: linear-gradient(135deg, #eef4ff 0%, #ffffff 100%);
+      box-shadow: inset 0 0 0 1px rgba(11, 77, 145, 0.12);
+      margin: 0 0 1.5rem;
       font-size: 0.95rem;
     }
 
@@ -34,40 +35,40 @@ layout: default
       line-height: 1.2;
     }
 
-    .doc-language-switcher__group {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.45rem;
-      align-items: center;
-    }
-
     .doc-language-switcher__label {
       font-weight: 600;
-      color: #0b4d91;
+      color: #2d3e52;
     }
 
     .doc-language-switcher__link {
+      padding: 0.3rem 0.85rem;
+      border-radius: 999px;
       text-decoration: none;
+      font-weight: 600;
       color: #0b4d91;
-      font-weight: 500;
+      background: #ffffff;
+      box-shadow: 0 1px 3px rgba(11, 77, 145, 0.15);
+      transition: background 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
     }
 
     .doc-language-switcher__link:hover,
     .doc-language-switcher__link:focus-visible {
-      text-decoration: underline;
+      background: #0b4d91;
+      color: #ffffff;
+      box-shadow: 0 4px 10px rgba(11, 77, 145, 0.2);
     }
 
     .doc-language-switcher__link.is-current {
-      color: #2d3e52;
-      font-weight: 600;
+      color: #ffffff;
+      background: #0b4d91;
+      box-shadow: 0 1px 3px rgba(11, 77, 145, 0.15);
       pointer-events: none;
-      text-decoration: none;
     }
 
     @media (max-width: 640px) {
       .doc-language-switcher {
-        flex-direction: column;
-        align-items: flex-start;
+        width: 100%;
+        justify-content: flex-start;
       }
     }
   </style>
