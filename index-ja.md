@@ -13,12 +13,12 @@ VNU – Vietnam-Japan University 関連の日本語資料にアクセスでき�
 
 ## 品質保証
 
-- [文書一覧（日本語）](./Quality%20Assurance/Japanese/index.md)
+- [文書一覧（日本語）](./Quality%20Assurance/Japanese/)
 
 ## 大学規程
 
-- [文書一覧（日本語）](./University%20Regulations/Japanese/index.md)
+- [文書一覧（日本語）](./University%20Regulations/Japanese/)
 
 ## 公開レポート 2025
 
-- [文書一覧（日本語）](./Public%20Report%202025/Japanese/index.md)
+- [文書一覧（日本語）](./Public%20Report%202025/Japanese/)

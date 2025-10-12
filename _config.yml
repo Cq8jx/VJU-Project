@@ -3,9 +3,15 @@ theme: minima
 collections:
   docs:
     output: true
+header_pages: []
 defaults:
   - scope:
       path: ""
     values:
       layout: page
+  - scope:
+      path: ""
+      type: pages
+    values:
+      nav_exclude: true
 markdown_ext: "md,markdown"

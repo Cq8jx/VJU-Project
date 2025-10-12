@@ -13,15 +13,15 @@ This site centralizes documentation for VNU – Vietnam-Japan University. Englis
 
 ## Quality Assurance
 
-- [Documents (English)](./Quality%20Assurance/English/index.md)
+- [Documents (English)](./Quality%20Assurance/English/)
 
 ## University Regulations
 
-- [Documents (English)](./University%20Regulations/English/index.md)
+- [Documents (English)](./University%20Regulations/English/)
 
 ## Public Report 2025
 
-- [Documents (English)](./Public%20Report%202025/English/index.md)
+- [Documents (English)](./Public%20Report%202025/English/)
 
 ## Guides
 

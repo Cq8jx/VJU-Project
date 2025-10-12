@@ -13,12 +13,12 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
 
 ## Đảm bảo chất lượng
 
-- [Danh mục tài liệu (Tiếng Việt)](./Quality%20Assurance/Vietnamese/index.md)
+- [Danh mục tài liệu (Tiếng Việt)](./Quality%20Assurance/Vietnamese/)
 
 ## Quy định của trường
 
-- [Danh mục tài liệu (Tiếng Việt)](./University%20Regulations/Vietnamese/index.md)
+- [Danh mục tài liệu (Tiếng Việt)](./University%20Regulations/Vietnamese/)
 
 ## Báo cáo công khai 2025
 
-- [Danh mục tài liệu (Tiếng Việt)](./Public%20Report%202025/Vietnamese/index.md)
+- [Danh mục tài liệu (Tiếng Việt)](./Public%20Report%202025/Vietnamese/)
