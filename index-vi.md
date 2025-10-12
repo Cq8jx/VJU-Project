@@ -110,7 +110,13 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
 
 ## Quy định của trường
 
-- [Xem danh sách tài liệu]({{ '/University Regulations/Vietnamese/' | relative_url }})
+{% assign regs_vi = site.pages | where: "category", "University Regulations" %}
+{% assign regs_vi = regs_vi | where_exp: "doc", "doc.path contains '/University Regulations/Vietnamese/'" %}
+{% assign regs_vi = regs_vi | sort: "id" %}
+{% for doc in regs_vi limit: 12 %}
+- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+{% endfor %}
+- [Xem toàn bộ tài liệu]({{ '/University Regulations/Vietnamese/' | relative_url }})
 
 ## Báo cáo công khai 2025
 

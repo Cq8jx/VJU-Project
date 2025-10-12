@@ -110,7 +110,13 @@ This site centralizes documentation for VNU – Vietnam-Japan University. Englis
 
 ## University Regulations
 
-- [View documents]({{ '/University Regulations/English/' | relative_url }})
+{% assign regs = site.pages | where: "category", "University Regulations" %}
+{% assign regs = regs | where_exp: "doc", "doc.path contains '/University Regulations/English/'" %}
+{% assign regs = regs | sort: "id" %}
+{% for doc in regs limit: 12 %}
+- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+{% endfor %}
+- [View all documents]({{ '/University Regulations/English/' | relative_url }})
 
 ## Public Report 2025
 
@@ -119,7 +125,6 @@ This site centralizes documentation for VNU – Vietnam-Japan University. Englis
 - [DHVN-QD-1592 — Budget Estimate Disclosure 2025]({{ '/Public Report 2025/English/DHVN-QD-1592 Budget Estimate Disclosure 2025.html' | relative_url }})
 - [DHVN-QD-323 — Q1 2025 Budget Execution Disclosure (English)]({{ '/Public Report 2025/English/DHVN-QD-323 Q1 2025 Budget Execution Disclosure English.html' | relative_url }})
 - [DHVN-QD-323 — Q1 2025 Budget Execution Disclosure]({{ '/Public Report 2025/English/DHVN-QD-323 Q1 2025 Budget Execution Disclosure.html' | relative_url }})
-- [Naming analysis notes]({{ '/Public Report 2025/English/naming-analysis.html' | relative_url }})
 
 ## Guides
 
