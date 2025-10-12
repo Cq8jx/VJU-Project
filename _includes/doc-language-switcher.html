@@ -1,0 +1,42 @@
+{% if page.id %}
+  {% assign doc_variants = site.pages | where: "id", page.id %}
+  {% assign lang_dirs = "English|Japanese|Vietnamese" | split: "|" %}
+  {% assign lang_labels = "English|日本語|Tiếng Việt" | split: "|" %}
+  {% assign has_variants = 0 %}
+  {% for variant in doc_variants %}
+    {% assign has_variants = has_variants | plus: 1 %}
+  {% endfor %}
+
+  {% assign source_files = site.static_files | where_exp: "file", "file.path contains '/Source/'" %}
+  {% assign source_files = source_files | where_exp: "file", "file.path contains page.id" %}
+
+  {% if has_variants > 1 or source_files.size > 0 %}
+    <nav class="doc-language-switcher" aria-label="Document language and source links">
+      <div class="doc-language-switcher__group">
+        <span class="doc-language-switcher__label">Languages:</span>
+        {% for dir in lang_dirs %}
+          {% capture fragment %}/{{ dir }}/{% endcapture %}
+          {% assign variant = doc_variants | where_exp: "item", "item.path contains fragment" | first %}
+          {% assign label = lang_labels[forloop.index0] %}
+          {% if variant %}
+            {% if variant.url == page.url %}
+              <span class="doc-language-switcher__link is-current">{{ label }}</span>
+            {% else %}
+              <a class="doc-language-switcher__link" href="{{ variant.url | relative_url }}">{{ label }}</a>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+
+      {% if source_files.size > 0 %}
+        <div class="doc-language-switcher__group">
+          <span class="doc-language-switcher__label">Source:</span>
+          {% for src in source_files %}
+            {% assign display_name = src.name | replace: '_source', '' %}
+            <a class="doc-language-switcher__link" href="{{ src.path | relative_url }}">{{ display_name }}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </nav>
+  {% endif %}
+{% endif %}

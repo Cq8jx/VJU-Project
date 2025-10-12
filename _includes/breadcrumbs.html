@@ -50,7 +50,11 @@
         {% assign is_last = processed == crumb_count %}
         {% if is_last %}
           <li style="display: flex; align-items: center; gap: 0.35rem;">
-            <span aria-current="page" style="color: #2d3e52; font-weight: 600;">{{ page.title | default: segment }}</span>
+            {% if page.id %}
+              <span aria-current="page" style="color: #2d3e52; font-weight: 600;">{{ page.id }}</span>
+            {% else %}
+              <span aria-current="page" style="color: #2d3e52; font-weight: 600;">{{ page.title | default: segment }}</span>
+            {% endif %}
           </li>
         {% else %}
           {% assign label = segment | replace: "%20", " " | replace: "-", " " %}

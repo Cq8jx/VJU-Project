@@ -51,6 +51,42 @@ nav_title: English
     color: #ffffff;
     background: #0b4d91;
   }
+
+  details.collection-toggle {
+    margin-top: 1.1rem;
+    border-radius: 12px;
+    border: 1px solid rgba(11, 77, 145, 0.12);
+    background: #f7fbff;
+    padding: 0.75rem 1rem;
+  }
+
+  details.collection-toggle summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: #0b4d91;
+    list-style: none;
+  }
+
+  details.collection-toggle summary::-webkit-details-marker {
+    display: none;
+  }
+
+  details.collection-toggle[open] {
+    box-shadow: 0 8px 20px rgba(11, 77, 145, 0.12);
+  }
+
+  .collection-toggle__body {
+    margin-top: 0.7rem;
+  }
+
+  .collection-toggle__body .document-list {
+    margin: 0;
+    padding-left: 1.1rem;
+  }
+
+  .collection-toggle__body .document-list li {
+    margin-bottom: 0.4rem;
+  }
 </style>
 
 <div class="language-switcher" role="navigation" aria-label="Language switcher">
@@ -75,6 +111,13 @@ This site centralizes documentation for VNU – Vietnam-Japan University. Englis
 ## University Regulations
 
 - [View documents]({{ '/University Regulations/English/' | relative_url }})
+
+<details class="collection-toggle">
+  <summary>Browse English documents inline</summary>
+  <div class="collection-toggle__body">
+    {% include university-regulations-list.html lang_dir="English" %}
+  </div>
+</details>
 
 ## Public Report 2025
 

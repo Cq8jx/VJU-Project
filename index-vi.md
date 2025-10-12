@@ -51,6 +51,42 @@ nav_title: Vietnamese
     color: #ffffff;
     background: #0b4d91;
   }
+
+  details.collection-toggle {
+    margin-top: 1.1rem;
+    border-radius: 12px;
+    border: 1px solid rgba(11, 77, 145, 0.12);
+    background: #f7fbff;
+    padding: 0.75rem 1rem;
+  }
+
+  details.collection-toggle summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: #0b4d91;
+    list-style: none;
+  }
+
+  details.collection-toggle summary::-webkit-details-marker {
+    display: none;
+  }
+
+  details.collection-toggle[open] {
+    box-shadow: 0 8px 20px rgba(11, 77, 145, 0.12);
+  }
+
+  .collection-toggle__body {
+    margin-top: 0.7rem;
+  }
+
+  .collection-toggle__body .document-list {
+    margin: 0;
+    padding-left: 1.1rem;
+  }
+
+  .collection-toggle__body .document-list li {
+    margin-bottom: 0.4rem;
+  }
 </style>
 
 <div class="language-switcher" role="navigation" aria-label="Chuyển đổi ngôn ngữ">
@@ -75,6 +111,13 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
 ## Quy định của trường
 
 - [Xem danh sách tài liệu]({{ '/University Regulations/Vietnamese/' | relative_url }})
+
+<details class="collection-toggle">
+  <summary>Hiển thị danh sách ngay trên trang</summary>
+  <div class="collection-toggle__body">
+    {% include university-regulations-list.html lang_dir="Vietnamese" %}
+  </div>
+</details>
 
 ## Báo cáo công khai 2025
 
