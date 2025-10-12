@@ -102,27 +102,22 @@ VNU – Vietnam-Japan University 関連の日本語資料にアクセスでき�
 
 ## 品質保証
 
-- [BGDDT-TT-04-2016 高等教育課程質評価基準規程の制定通達]({{ '/Quality Assurance/Japanese/BGDDT-TT-04-2016 高等教育課程質評価基準規程の制定通達.html' | relative_url }})
-- [BGDDT-TT-38-2013 大学等教育課程質保証評価手順・周期規程通達]({{ '/Quality Assurance/Japanese/BGDDT-TT-38-2013 大学等教育課程質保証評価手順・周期規程通達.html' | relative_url }})
-- [BGDDT-TT-39-2020 遠隔大学課程質保証基準通達]({{ '/Quality Assurance/Japanese/BGDDT-TT-39-2020 遠隔大学課程質保証基準通達.html' | relative_url }})
-- [DHQGHN-QD-628 ベトナム国家大学ハノイ校における教育質保証に関する規程]({{ '/Quality Assurance/Japanese/DHQGHN-QD-628 ベトナム国家大学ハノイ校における教育質保証に関する規程.html' | relative_url }})
-- [TTCP-QD-78-2022 品質保証・教育質認証制度発展プログラム承認決定 2022-2030]({{ '/Quality Assurance/Japanese/TTCP-QD-78-2022 品質保証・教育質認証制度発展プログラム承認決定 2022-2030.html' | relative_url }})
+{% assign qa_docs_ja = site.data.quality_assurance_ja %}
+{% for doc in qa_docs_ja %}
+- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+{% endfor %}
 
 ## 大学規程
 
-{% assign regs_ja = site.pages | where: "category", "University Regulations" %}
-{% assign regs_ja = regs_ja | where_exp: "doc", "doc.path contains '/University Regulations/Japanese/'" %}
-{% assign regs_ja = regs_ja | sort: "id" %}
-{% for doc in regs_ja limit: 12 %}
+{% assign regs_ja = site.data.university_regulations_ja %}
+{% for doc in regs_ja %}
 - [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
 {% endfor %}
 - [全文書を表示]({{ '/University Regulations/Japanese/' | relative_url }})
 
 ## 公開レポート 2025
 
-{% assign reports_ja = site.pages | where: "category", "Public Report" %}
-{% assign reports_ja = reports_ja | where_exp: "doc", "doc.path contains '/Public Report 2025/Japanese/'" %}
-{% assign reports_ja = reports_ja | sort: "id" %}
+{% assign reports_ja = site.data.public_report_2025_ja %}
 {% for doc in reports_ja %}
 - [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
 {% endfor %}

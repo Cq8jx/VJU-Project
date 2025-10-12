@@ -102,27 +102,22 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
 
 ## Đảm bảo chất lượng
 
-- [BGDDT-TT-04-2016 Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học]({{ '/Quality Assurance/Vietnamese/BGDDT-TT-04-2016 Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo các trình độ của giáo dục đại học_source.html' | relative_url }})
-- [BGDDT-TT-38-2013 Quy định về quy trình và chu kỳ kiểm định chất lượng chương trình đào tạo của các trường đại học, cao đẳng và trung cấp chuyên nghiệp]({{ '/Quality Assurance/Vietnamese/BGDDT-TT-38-2013 Quy định về quy trình và chu kỳ kiểm định chất lượng chương trình đào tạo của các trường đại học, cao đẳng và trung cấp chuyên nghiệp_source.html' | relative_url }})
-- [BGDDT-TT-39-2020 Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo từ xa trình độ đại học]({{ '/Quality Assurance/Vietnamese/BGDDT-TT-39-2020 Quy định về tiêu chuẩn đánh giá chất lượng chương trình đào tạo từ xa trình độ đại học_source.html' | relative_url }})
-- [ĐHQGHN-QĐ-628 Quy định về đảm bảo chất lượng giáo dục trong Đại học Quốc gia Hà Nội]({{ '/Quality Assurance/Vietnamese/DHQGHN-QD-628 Quy định về đảm bảo chất lượng giáo dục trong Đại học Quốc gia Hà Nội_source.html' | relative_url }})
-- [TTCP-QĐ-78-2022 Quyết định phê duyệt Chương trình phát triển hệ thống bảo đảm và kiểm định chất lượng giáo dục giai đoạn 2022-2030]({{ '/Quality Assurance/Vietnamese/TTCP-QD-78-2022 Quyết định phê duyệt Chương trình phát triển hệ thống bảo đảm và kiểm định chất lượng giáo dục giai đoạn 2022-2030_source.html' | relative_url }})
+{% assign qa_docs_vi = site.data.quality_assurance_vi %}
+{% for doc in qa_docs_vi %}
+- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+{% endfor %}
 
 ## Quy định của trường
 
-{% assign regs_vi = site.pages | where: "category", "University Regulations" %}
-{% assign regs_vi = regs_vi | where_exp: "doc", "doc.path contains '/University Regulations/Vietnamese/'" %}
-{% assign regs_vi = regs_vi | sort: "id" %}
-{% for doc in regs_vi limit: 12 %}
+{% assign regs_vi = site.data.university_regulations_vi %}
+{% for doc in regs_vi %}
 - [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
 {% endfor %}
 - [Xem toàn bộ tài liệu]({{ '/University Regulations/Vietnamese/' | relative_url }})
 
 ## Báo cáo công khai 2025
 
-{% assign reports_vi = site.pages | where: "category", "Public Report" %}
-{% assign reports_vi = reports_vi | where_exp: "doc", "doc.path contains '/Public Report 2025/Vietnamese/'" %}
-{% assign reports_vi = reports_vi | sort: "id" %}
+{% assign reports_vi = site.data.public_report_2025_vi %}
 {% for doc in reports_vi %}
 - [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
 {% endfor %}

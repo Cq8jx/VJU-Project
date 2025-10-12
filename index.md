@@ -102,28 +102,23 @@ This site centralizes documentation for VNU – Vietnam-Japan University. Englis
 
 ## Quality Assurance
 
-- [BGDDT-TT-04-2016 — Circular Promulgating Regulations on Quality Standards for Higher Education Programs]({{ '/Quality Assurance/English/BGDDT-TT-04-2016 Circular Promulgating Regulations on Quality Standards for Higher Education Programs.html' | relative_url }})
-- [BGDDT-TT-38-2013 — Circular on the Process and Cycle for Quality Accreditation of Training Programs at Universities, Colleges, and Professional Secondary Schools]({{ '/Quality Assurance/English/BGDDT-TT-38-2013 Circular on the Process and Cycle for Quality Accreditation of Training Programs at Universities, Colleges, and Professional Secondary Schools.html' | relative_url }})
-- [BGDDT-TT-39-2020 — Circular on Quality Standards for Distance Undergraduate Programs]({{ '/Quality Assurance/English/BGDDT-TT-39-2020 Circular on Quality Standards for Distance Undergraduate Programs.html' | relative_url }})
-- [DHQGHN-QD-628 — Regulation on Educational Quality Assurance in Vietnam National University, Hanoi]({{ '/Quality Assurance/English/DHQGHN-QD-628 Regulation on Educational Quality Assurance in Vietnam National University, Hanoi.html' | relative_url }})
-- [TTCP-QD-78-2022 — Decision Approving Quality Assurance and Accreditation Program 2022-2030]({{ '/Quality Assurance/English/TTCP-QD-78-2022 Decision Approving Quality Assurance and Accreditation Program 2022-2030.html' | relative_url }})
+{% assign qa_docs = site.data.quality_assurance_en %}
+{% for doc in qa_docs %}
+- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+{% endfor %}
 
 ## University Regulations
 
-{% assign regs = site.pages | where: "category", "University Regulations" %}
-{% assign regs = regs | where_exp: "doc", "doc.path contains '/University Regulations/English/'" %}
-{% assign regs = regs | sort: "id" %}
-{% for doc in regs limit: 12 %}
+{% assign reg_docs = site.data.university_regulations_en %}
+{% for doc in reg_docs %}
 - [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
 {% endfor %}
 - [View all documents]({{ '/University Regulations/English/' | relative_url }})
 
 ## Public Report 2025
 
-{% assign reports = site.pages | where: "category", "Public Report" %}
-{% assign reports = reports | where_exp: "doc", "doc.path contains '/Public Report 2025/English/'" %}
-{% assign reports = reports | sort: "id" %}
-{% for doc in reports %}
+{% assign report_docs = site.data.public_report_2025_en %}
+{% for doc in report_docs %}
 - [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
 {% endfor %}
 
