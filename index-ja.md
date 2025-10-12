@@ -4,6 +4,7 @@ lang: ja
 layout: page
 permalink: /ja/
 nav_exclude: false
+nav_title: Japanese
 ---
 
 <style>

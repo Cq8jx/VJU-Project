@@ -4,6 +4,7 @@ lang: en
 layout: page
 permalink: /
 nav_exclude: false
+nav_title: English
 ---
 
 <style>

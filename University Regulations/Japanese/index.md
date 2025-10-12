@@ -1,0 +1,43 @@
+---
+title: 大学規程（日本語）
+layout: page
+---
+
+# 大学規程（日本語）
+
+- [政令]({{ '/University Regulations/Japanese/24-2023-ND-CP 幹部・公務員・公的機関職員および武装部隊に対する基本給を規定する政令.html' | relative_url }})
+- [教育訓練省]({{ '/University Regulations/Japanese/BGDDT-CV-2085 自己評価および外部評価に関する指針.html' | relative_url }})
+- [付属書]({{ '/University Regulations/Japanese/BGDDT-CV-774 公文2085-QLCL-KDCLGD付属書の調整に関する公文.html' | relative_url }})
+- [教育訓練データベースのデータに関する技術仕様]({{ '/University Regulations/Japanese/BGDDT-QD-4998 教育訓練データベースに関する技術仕様.html' | relative_url }})
+- [通達]({{ '/University Regulations/Japanese/BGDDT-TT-01-2024 高等教育機関基準の制定通達.html' | relative_url }})
+- [通達]({{ '/University Regulations/Japanese/BGDDT-TT-04-2020 教育分野の外国協力・投資政令86-2018実施細則通達.html' | relative_url }})
+- [官報／第569号＋第570号／2021年5月4日]({{ '/University Regulations/Japanese/BGDDT-TT-08-2021 大学研修に関する規則.html' | relative_url }})
+- [通達]({{ '/University Regulations/Japanese/BGDDT-TT-17-2021 高等教育課程標準および教育課程策定・審査規程通達.html' | relative_url }})
+- [官報／第669号＋第670号／2021年7月16日]({{ '/University Regulations/Japanese/BGDDT-TT-18-2021 博士課程入学及び研修に関する規則.html' | relative_url }})
+- [官報／第809号＋第810号／2021年9月19日]({{ '/University Regulations/Japanese/BGDDT-TT-23-2021 修士課程の入学及び研修に関する規則.html' | relative_url }})
+- [第I章]({{ '/University Regulations/Japanese/BTC-TT-111-2013 個人所得税法等の実施に関するガイダンス通達.html' | relative_url }})
+- [政府]({{ '/University Regulations/Japanese/CP-ND-86-2021 ベトナム国民の海外での学習・教育・研究・学術交流に関する政令.html' | relative_url }})
+- [通知]({{ '/University Regulations/Japanese/DHNN-TB-2184 VNU-TESTS実施計画通知.html' | relative_url }})
+- [決定]({{ '/University Regulations/Japanese/DHQGHN-QD-2459 修士課程教育規程改正決定.html' | relative_url }})
+- [決定]({{ '/University Regulations/Japanese/DHQGHN-QD-2486 正規学部入学規程改正決定.html' | relative_url }})
+- [決定]({{ '/University Regulations/Japanese/DHQGHN-QD-3626 学部教育に関する規則.html' | relative_url }})
+- [決定]({{ '/University Regulations/Japanese/DHQGHN-QD-3636 修士課程に関する規則.html' | relative_url }})
+- [決定]({{ '/University Regulations/Japanese/DHQGHN-QD-3638 博士課程に関する規則.html' | relative_url }})
+- [決定]({{ '/University Regulations/Japanese/DHQGHN-QD-4455 卒業証書等の管理に関する規則.html' | relative_url }})
+- [決定]({{ '/University Regulations/Japanese/DHQGHN-QD-4618 奨学金の管理及び使用に関する規程.html' | relative_url }})
+- [大学研修規則]({{ '/University Regulations/Japanese/DHQGHN-QD-5115 [DHQGHN-QD-3626-2022により置き換え] 学部教育に関する規則.html' | relative_url }})
+- [論文・卒業プロジェクト別紙 体裁ガイド]({{ '/University Regulations/Japanese/DHVN-HD-1534 論文・卒業プロジェクト別紙 体裁ガイド.html' | relative_url }})
+- [コメント^1^]({{ '/University Regulations/Japanese/DHVN-HD-1534 論文・卒業プロジェクト別紙 英語テンプレート.html' | relative_url }})
+- [指針]({{ '/University Regulations/Japanese/DHVN-HD-1534 論文・卒業プロジェクト実施指針.html' | relative_url }})
+- [付録1]({{ '/University Regulations/Japanese/DHVN-HD-259 付録1 外国語証明書換算表.html' | relative_url }})
+- [付録2]({{ '/University Regulations/Japanese/DHVN-HD-259 付録2 JLPT受験委任状.html' | relative_url }})
+- [指針]({{ '/University Regulations/Japanese/DHVN-HD-259 外国語証明書活用指針 VJU2020-VJU2021.html' | relative_url }})
+- [指針]({{ '/University Regulations/Japanese/DHVN-HD-304 学習成果認定・単位互換指針.html' | relative_url }})
+- [指示する]({{ '/University Regulations/Japanese/DHVN-HD-483 実務実習・インターン課題指針.html' | relative_url }})
+- [説明書]({{ '/University Regulations/Japanese/DHVN-HD-xxx 外国語証明書活用指針 VJU2022以降.html' | relative_url }})
+- [試験業務規程]({{ '/University Regulations/Japanese/DHVN-QD-1132 日越大学における試験業務規程.html' | relative_url }})
+- [決定]({{ '/University Regulations/Japanese/DHVN-QD-1132 日越大学における試験業務規程の公布に関する決定.html' | relative_url }})
+- [決定]({{ '/University Regulations/Japanese/DHVN-QD-473 学術顧問業務規程.html' | relative_url }})
+- [通知]({{ '/University Regulations/Japanese/DHVN-TB-1010 英語証明書提出通知 VJU2025.html' | relative_url }})
+- [通知]({{ '/University Regulations/Japanese/DHVN-TB-911 外国語証明書提出通知 VJU2024.html' | relative_url }})
+- [通知]({{ '/University Regulations/Japanese/DHVN-TB-984 外国語証明書提出通知 VJU2023.html' | relative_url }})

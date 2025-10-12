@@ -4,6 +4,7 @@ lang: vi
 layout: page
 permalink: /vi/
 nav_exclude: false
+nav_title: Vietnamese
 ---
 
 <style>
