@@ -109,11 +109,17 @@ VNU – Vietnam-Japan University 関連の日本語資料にアクセスでき�
 
 ## 大学規程
 
-{% assign regs_ja = site.data.university_regulations_ja %}
-{% for doc in regs_ja %}
-- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
-{% endfor %}
-- [全文書を表示]({{ '/University Regulations/Japanese/' | relative_url }})
+{% assign regulations_ja = site.data.university_regulations_ja %}
+<details class="collection-toggle" open>
+  <summary>大学規程 ({{ regulations_ja | size }})</summary>
+  <div class="collection-toggle__body">
+    <ul class="document-list">
+    {% for doc in regulations_ja %}
+      <li><a href="{{ doc.url | relative_url }}">{{ doc.id }} — {{ doc.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+</details>
 
 ## 公開レポート 2025
 

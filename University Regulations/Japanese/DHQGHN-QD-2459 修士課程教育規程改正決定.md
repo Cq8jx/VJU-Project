@@ -17,8 +17,11 @@ version:
 - vi
 lang: ja
 ---
-本ファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-dao-tao-thac-si-tai-Dai-hoc-Quoc-gia-Ha-Noi-19465/ に掲載された文書をテキスト化したものであり、正確な内容は当該サイトにて公開されている情報に従ってください。
-表の認識には技術的な制約があるため、表のレイアウトや内容が完全に正確でない可能性があります。
+<div class="source-note" role="note" aria-label="出典メモ">
+  <p><strong>出典メモ。</strong> 本ファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-dao-tao-thac-si-tai-Dai-hoc-Quoc-gia-Ha-Noi-19465/ に掲載された文書をテキスト化したものであり、正確な内容は当該サイトにて公開されている情報に従ってください。</p>
+  <p><em>表の認識には技術的な制約があるため、表のレイアウトや内容が完全に正確でない可能性があります。</em></p>
+</div>
+
 
 ---
 

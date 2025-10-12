@@ -17,9 +17,11 @@ version:
 - vi
 lang: ja
 ---
-このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ に掲載された文書を転記したものであり、正確な情報は同サイトに基づいています。
-表の認識には技術的な制約があるため、表のレイアウトや内容が完全には正確でない可能性があります。
-原資料には詳細な技術仕様が多数含まれているため、最も完全で正確な情報については前掲の公式ウェブサイトを直接参照してください。
+<div class="source-note" role="note" aria-label="出典メモ">
+  <p><strong>出典メモ。</strong> このファイルは https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ に掲載された文書を転記したものであり、正確な情報は同サイトに基づいています。</p>
+  <p><em>表の認識には技術的な制約があるため、表のレイアウトや内容が完全には正確でない可能性があります。</em></p>
+  <p><em>原資料には詳細な技術仕様が多数含まれているため、最も完全で正確な情報については前掲の公式ウェブサイトを直接参照してください。</em></p>
+</div>
 
 ---
 

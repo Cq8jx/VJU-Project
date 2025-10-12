@@ -109,11 +109,17 @@ This site centralizes documentation for VNU – Vietnam-Japan University. Englis
 
 ## University Regulations
 
-{% assign reg_docs = site.data.university_regulations_en %}
-{% for doc in reg_docs %}
-- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
-{% endfor %}
-- [View all documents]({{ '/University Regulations/English/' | relative_url }})
+{% assign regulations = site.data.university_regulations_en %}
+<details class="collection-toggle" open>
+  <summary>University Regulations ({{ regulations | size }})</summary>
+  <div class="collection-toggle__body">
+    <ul class="document-list">
+    {% for doc in regulations %}
+      <li><a href="{{ doc.url | relative_url }}">{{ doc.id }} — {{ doc.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+</details>
 
 ## Public Report 2025
 

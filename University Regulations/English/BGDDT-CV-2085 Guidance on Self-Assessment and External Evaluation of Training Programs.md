@@ -17,9 +17,11 @@ tags:
 - university-regulations
 lang: en
 ---
-This file is a transcription of the document published at https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ and accurate information is based on the contents released there.
-Because recognizing tables poses technical difficulties, table layouts and contents may not be entirely precise.
-The source material contains a large number of detailed technical specifications, so please consult the cited official website directly for the most complete and accurate information.
+<div class="source-note" role="note" aria-label="Source note">
+  <p><strong>Source note.</strong> This file is a transcription of the document published at https://ussh.vnu.edu.vn/vi/van-ban/detail/Huong-dan-tu-danh-gia-va-danh-gia-ngoai-co-so-giao-duc-19436/ and accurate information is based on the contents released there.</p>
+  <p><em>Because recognizing tables poses technical difficulties, table layouts and contents may not be entirely precise.</em></p>
+  <p><em>The source material contains many detailed technical specifications, so please consult the cited official website directly for the most complete and accurate information.</em></p>
+</div>
 
 ---
 

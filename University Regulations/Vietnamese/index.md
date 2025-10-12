@@ -1,6 +1,5 @@
 # Index
 
-- [24-2023-ND-CP](24-2023-ND-CP%20Quy%20%C4%91%E1%BB%8Bnh%20m%E1%BB%A9c%20l%C6%B0%C6%A1ng%20c%C6%A1%20s%E1%BB%9F%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%A1n%20b%E1%BB%99%2C%20c%C3%B4ng%20ch%E1%BB%A9c%2C%20vi%C3%AAn%20ch%E1%BB%A9c%20v%C3%A0%20l%E1%BB%B1c%20l%C6%B0%E1%BB%A3ng%20v%C5%A9%20trang_source.md) — Quy định mức lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng vũ trang_source
 - [BGDDT-CV-2085](BGDDT-CV-2085%20H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20t%E1%BB%B1%20%C4%91%C3%A1nh%20gi%C3%A1%20v%C3%A0%20%C4%91%C3%A1nh%20gi%C3%A1%20ngo%C3%A0i%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o_source.md) — Hướng dẫn tự đánh giá và đánh giá ngoài chương trình đào tạo_source
 - [BGDDT-CV-774](BGDDT-CV-774%20C%C3%B4ng%20v%C4%83n%20%C4%91i%E1%BB%81u%20ch%E1%BB%89nh%20ph%E1%BB%A5%20l%E1%BB%A5c%20C%C3%B4ng%20v%C4%83n%202085-QLCL-K%C4%90CLGD_source.md) — Công văn điều chỉnh phụ lục Công văn 2085-QLCL-KĐCLGD_source
 - [BGDDT-QD-4998](BGDDT-QD-4998%20Quy%20%C4%91%E1%BB%8Bnh%20k%E1%BB%B9%20thu%E1%BA%ADt%20v%E1%BB%81%20d%E1%BB%AF%20li%E1%BB%87u%20c%E1%BB%A7a%20c%C6%A1%20s%E1%BB%9F%20d%E1%BB%AF%20li%E1%BB%87u%20gi%C3%A1o%20d%E1%BB%A5c%20v%C3%A0%20%C4%91%C3%A0o%20t%E1%BA%A1o_source.md) — Quy định kỹ thuật về dữ liệu của cơ sở dữ liệu giáo dục và đào tạo_source
@@ -34,3 +33,4 @@
 - [DHVN-TB-1010](DHVN-TB-1010%20Th%C3%B4ng%20b%C3%A1o%20N%E1%BB%99p%20ch%E1%BB%A9ng%20ch%E1%BB%89%20ngo%E1%BA%A1i%20ng%E1%BB%AF%20ti%E1%BA%BFng%20Anh_source.md) — Thông báo Nộp chứng chỉ ngoại ngữ tiếng Anh_source
 - [DHVN-TB-911](DHVN-TB-911%20Th%C3%B4ng%20b%C3%A1o%20N%E1%BB%99p%20ch%E1%BB%A9ng%20nh%E1%BA%ADn%20ngo%E1%BA%A1i%20ng%E1%BB%AF%20kh%C3%B3a%20VJU2024_source.md) — Thông báo Nộp chứng nhận ngoại ngữ khóa VJU2024_source
 - [DHVN-TB-984](DHVN-TB-984%20Th%C3%B4ng%20b%C3%A1o%20N%E1%BB%99p%20ch%E1%BB%A9ng%20ch%E1%BB%89%20ngo%E1%BA%A1i%20ng%E1%BB%AF%20kh%C3%B3a%20VJU2023_source.md) — Thông báo Nộp chứng chỉ ngoại ngữ khóa VJU2023_source
+- [ND-CP-24-2023](ND-CP-24-2023%20Quy%20%C4%91%E1%BB%8Bnh%20m%E1%BB%A9c%20l%C6%B0%C6%A1ng%20c%C6%A1%20s%E1%BB%9F%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20c%C3%A1n%20b%E1%BB%99%2C%20c%C3%B4ng%20ch%E1%BB%A9c%2C%20vi%C3%AAn%20ch%E1%BB%A9c%20v%C3%A0%20l%E1%BB%B1c%20l%C6%B0%E1%BB%A3ng%20v%C5%A9%20trang_source.md) — Quy định mức lương cơ sở đối với cán bộ, công chức, viên chức và lực lượng vũ trang_source

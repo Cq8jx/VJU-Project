@@ -18,8 +18,10 @@ version:
 - vi
 lang: en
 ---
-This file is a transcription of https://vanban.chinhphu.vn/?pageid=27160&docid=169566 .
-Layout and table contents may deviate from the official gazette because of technical limitations during recognition.
+<div class="source-note" role="note" aria-label="Source note">
+  <p><strong>Source note.</strong> This file is a transcription of https://vanban.chinhphu.vn/?pageid=27160&docid=169566 and the information is aligned with the contents published there.</p>
+  <p><em>Layout and table contents may deviate from the official gazette because of technical limitations during recognition.</em></p>
+</div>
 
 *Note: The present translation covers Article 1. Remaining provisions will be translated in a subsequent update.*
 

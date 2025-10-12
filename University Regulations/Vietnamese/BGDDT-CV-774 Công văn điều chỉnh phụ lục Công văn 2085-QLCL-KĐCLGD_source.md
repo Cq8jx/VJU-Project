@@ -17,12 +17,16 @@ version:
 - vi
 lang: vi
 ---
-Tệp này là bản chuyển văn bản từ ttps://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.
-Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật. Bố cục và nội dung của bảng có thể không chính xác.
-【Lưu ý】
-Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý. Để có thông tin chính xác, vui lòng tham khảo văn bản gốc. Ngoài ra, có thể có các phiên bản ngôn ngữ khác được đơn vị ban hành công bố chính thức.
+<div class="source-note" role="note" aria-label="Ghi chú nguồn">
+  <p><strong>Ghi chú nguồn.</strong> Tệp này là bản chuyển văn bản từ ttps://vanban.chinhphu.vn/?pageid=473& và thông tin dựa trên nội dung được công bố tại đó.</p>
+  <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật.</em></p>
+  <p><em>Bố cục và nội dung của bảng có thể không chính xác.</em></p>
+  <p><em>【Lưu ý】 Tệp này chỉ mang tính chất tham khảo và không có giá trị pháp lý.</em></p>
+  <p><em>Để có thông tin chính xác, vui lòng tham khảo văn bản gốc.</em></p>
+  <p><em>Ngoài ra, có thể có các phiên bản ngôn ngữ khác được đơn vị ban hành công bố chính thức.</em></p>
+  <p><em>Do tài liệu gốc chứa một lượng lớn các bảng quy định kỹ thuật chi tiết, để có thông tin đầy đủ và chính xác nhất, vui lòng tham khảo trực tiếp tại trang web chính thức đã nêu.</em></p>
+</div>
 
-Do tài liệu gốc chứa một lượng lớn các bảng quy định kỹ thuật chi tiết, để có thông tin đầy đủ và chính xác nhất, vui lòng tham khảo trực tiếp tại trang web chính thức đã nêu.
 
 ---
 

@@ -1,0 +1,24 @@
+---
+---
+@import "minima";
+
+.source-note {
+  margin: 1.5rem 0;
+  padding: 0.85rem 1rem;
+  border-left: 4px solid #0b4d91;
+  background-color: #f7fbff;
+  box-shadow: inset 0 0 0 1px rgba(11, 77, 145, 0.08);
+  border-radius: 8px;
+}
+
+.source-note p {
+  margin: 0.25rem 0;
+}
+
+.source-note strong {
+  color: #0b4d91;
+}
+
+.source-note em {
+  color: #2d3e52;
+}

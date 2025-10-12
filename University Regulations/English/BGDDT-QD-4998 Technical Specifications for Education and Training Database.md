@@ -17,9 +17,11 @@ tags:
 - university-regulations
 lang: en
 ---
-This file is a transcription of the document at https://e-ict.gov.vn/index.php/laws/detail/Quyet-dinh-Ban-hanh-Quy-dinh-ky-thuat-ve-du-lieu-cua-co-so-du-lieu-giao-duc-va-dao-tao-751/ and the accuracy of its information is based on the content published there.
-The recognition of tables encountered technical difficulties, so the layout and content of the tables may not be completely accurate.
-Because the original document contains a large number of tables with detailed technical specifications, please refer directly to the official website mentioned above for the most complete and accurate information.
+<div class="source-note" role="note" aria-label="Source note">
+  <p><strong>Source note.</strong> This file is a transcription of the document at https://e-ict.gov.vn/index.php/laws/detail/Quyet-dinh-Ban-hanh-Quy-dinh-ky-thuat-ve-du-lieu-cua-co-so-du-lieu-giao-duc-va-dao-tao-751/ and the accuracy of its information is based on the content published there.</p>
+  <p><em>The recognition of tables encountered technical difficulties, so the layout and content of the tables may not be completely accurate.</em></p>
+  <p><em>Because the original document contains many tables with detailed technical specifications, please refer to the official website for the most complete and accurate information.</em></p>
+</div>
 
 ---
 

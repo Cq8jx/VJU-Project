@@ -1,6 +1,5 @@
 # Index
 
-- [24-2023-ND-CP](24-2023-ND-CP%20Decree%20prescribing%20base%20salary%20for%20cadres%2C%20civil%20servants%2C%20public%20employees%20and%20armed%20forces.md) — Decree prescribing base salary for cadres, civil servants, public employees and armed forces
 - [BGDDT-CV-2085](BGDDT-CV-2085%20Guidance%20on%20Self-Assessment%20and%20External%20Evaluation%20of%20Training%20Programs.md) — Guidance on Self-Assessment and External Evaluation of Training Programs
 - [BGDDT-CV-774](BGDDT-CV-774%20Official%20Letter%20on%20Adjusting%20Appendices%20of%20Official%20Letter%202085-QLCL-KDCLGD.md) — Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD
 - [BGDDT-QD-4998](BGDDT-QD-4998%20Technical%20Specifications%20for%20Education%20and%20Training%20Database.md) — Technical Specifications for Education and Training Database
@@ -36,3 +35,4 @@
 - [DHVN-TB-1010](DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.md) — Notification on Submission of English Language Certificates
 - [DHVN-TB-911](DHVN-TB-911%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024%20Cohort.md) — Notification on Submission of Foreign Language Certificates VJU2024 Cohort
 - [DHVN-TB-984](DHVN-TB-984%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2023%20Cohort.md) — Notification on Submission of Foreign Language Certificates VJU2023 Cohort
+- [ND-CP-24-2023](ND-CP-24-2023%20Decree%20prescribing%20base%20salary%20for%20cadres%2C%20civil%20servants%2C%20public%20employees%20and%20armed%20forces.md) — Decree prescribing base salary for cadres, civil servants, public employees and armed forces

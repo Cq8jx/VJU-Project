@@ -18,9 +18,10 @@ version:
 lang: ja
 ---
 
-このファイルは https://ussh.vnu.edu.vn/eng/van-ban/detail/Quy-dinh-ve-Dam-bao-chat-luong-trong-DHQGHN-19418/ に掲載された文書を転記したものであり、同サイトで公表された内容に基づいて正確な情報を提供する。
-
-表の認識には技術的な困難があるため、表のレイアウトおよび内容が完全には正確でない可能性がある。
+<div class="source-note" role="note" aria-label="出典メモ">
+  <p><strong>出典メモ。</strong> このファイルは https://ussh.vnu.edu.vn/eng/van-ban/detail/Quy-dinh-ve-Dam-bao-chat-luong-trong-DHQGHN-19418/ に掲載された文書を転記したものであり、同サイトで公表された内容に基づいて正確な情報を提供します。</p>
+  <p><em>表の認識には技術的な困難があるため、表のレイアウトおよび内容が完全には正確でない可能性があります。</em></p>
+</div>
 
 ---
 

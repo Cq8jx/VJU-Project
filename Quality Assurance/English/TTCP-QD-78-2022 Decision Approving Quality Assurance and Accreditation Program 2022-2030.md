@@ -18,9 +18,10 @@ version:
 lang: en
 ---
 
-This file is a transcription from https://vanban.chinhphu.vn/?pageid=27160&docid=205104 and the information is accurate based on the content published there.
-
-Recognizing tables encountered technical difficulties, so the layout and table content may not be completely accurate.
+<div class="source-note" role="note" aria-label="Source note">
+  <p><strong>Source note.</strong> This file is a transcription from https://vanban.chinhphu.vn/?pageid=27160&docid=205104 and the information is accurate based on the content published there.</p>
+  <p><em>Recognizing tables encountered technical difficulties, so the layout and table content may not be completely accurate.</em></p>
+</div>
 
 ---
 

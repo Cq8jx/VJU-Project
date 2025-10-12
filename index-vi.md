@@ -109,11 +109,17 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
 
 ## Quy định của trường
 
-{% assign regs_vi = site.data.university_regulations_vi %}
-{% for doc in regs_vi %}
-- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
-{% endfor %}
-- [Xem toàn bộ tài liệu]({{ '/University Regulations/Vietnamese/' | relative_url }})
+{% assign regulations_vi = site.data.university_regulations_vi %}
+<details class="collection-toggle" open>
+  <summary>Danh mục quy định ({{ regulations_vi | size }})</summary>
+  <div class="collection-toggle__body">
+    <ul class="document-list">
+    {% for doc in regulations_vi %}
+      <li><a href="{{ doc.url | relative_url }}">{{ doc.id }} — {{ doc.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+</details>
 
 ## Báo cáo công khai 2025
 

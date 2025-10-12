@@ -17,8 +17,10 @@ version:
 - vi
 lang: en
 ---
-This file is a transcription of https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-tuyen-sinh-dai-hoc-chinh-quy-tai-Dai-hoc-Quoc-gia-Ha-Noi-19464/ and the authoritative information is based on the content published there.
-Table recognition faced technical difficulties, so the layout and content of the tables may not be completely accurate.
+<div class="source-note" role="note" aria-label="Source note">
+  <p><strong>Source note.</strong> This file is a transcription of https://ussh.vnu.edu.vn/vi/van-ban/detail/Ve-viec-sua-doi-bo-sung-mot-so-noi-dung-trong-Quy-che-tuyen-sinh-dai-hoc-chinh-quy-tai-Dai-hoc-Quoc-gia-Ha-Noi-19464/ and the authoritative information is based on the content published there.</p>
+  <p><em>Table recognition faced technical difficulties, so the layout and content of the tables may not be completely accurate.</em></p>
+</div>
 
 ---
 
