@@ -120,11 +120,12 @@ This site centralizes documentation for VNU – Vietnam-Japan University. Englis
 
 ## Public Report 2025
 
-- [DHVN-KT&DBCL-826 — Public Report for the 2024-2025 School Year]({{ '/Public Report 2025/English/DHVN-KT&DBCL-826 Public Report for the 2024-2025 School Year.html' | relative_url }})
-- [DHVN-QD-1592 — Budget Estimate Disclosure 2025 (English)]({{ '/Public Report 2025/English/DHVN-QD-1592 Budget Estimate Disclosure 2025 English.html' | relative_url }})
-- [DHVN-QD-1592 — Budget Estimate Disclosure 2025]({{ '/Public Report 2025/English/DHVN-QD-1592 Budget Estimate Disclosure 2025.html' | relative_url }})
-- [DHVN-QD-323 — Q1 2025 Budget Execution Disclosure (English)]({{ '/Public Report 2025/English/DHVN-QD-323 Q1 2025 Budget Execution Disclosure English.html' | relative_url }})
-- [DHVN-QD-323 — Q1 2025 Budget Execution Disclosure]({{ '/Public Report 2025/English/DHVN-QD-323 Q1 2025 Budget Execution Disclosure.html' | relative_url }})
+{% assign reports = site.pages | where: "category", "Public Report" %}
+{% assign reports = reports | where_exp: "doc", "doc.path contains '/Public Report 2025/English/'" %}
+{% assign reports = reports | sort: "id" %}
+{% for doc in reports %}
+- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+{% endfor %}
 
 ## Guides
 

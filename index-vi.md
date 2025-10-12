@@ -120,9 +120,12 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
 
 ## Báo cáo công khai 2025
 
-- [DHVN-KT&DBCL-826 Báo cáo công khai năm học 2024-2025]({{ '/Public Report 2025/Vietnamese/DHVN-KT&DBCL-826 Báo cáo công khai năm học 2024-2025_source.html' | relative_url }})
-- [DHVN-QD-1592 Công khai dự toán ngân sách năm 2025]({{ '/Public Report 2025/Vietnamese/DHVN-QD-1592 Công khai dự toán ngân sách năm 2025_source.html' | relative_url }})
-- [DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025]({{ '/Public Report 2025/Vietnamese/DHVN-QD-323 Công khai thực hiện dự toán Quý 1 năm 2025_source.html' | relative_url }})
+{% assign reports_vi = site.pages | where: "category", "Public Report" %}
+{% assign reports_vi = reports_vi | where_exp: "doc", "doc.path contains '/Public Report 2025/Vietnamese/'" %}
+{% assign reports_vi = reports_vi | sort: "id" %}
+{% for doc in reports_vi %}
+- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+{% endfor %}
 
 ## Hướng dẫn
 

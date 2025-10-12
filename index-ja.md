@@ -120,9 +120,12 @@ VNU – Vietnam-Japan University 関連の日本語資料にアクセスでき�
 
 ## 公開レポート 2025
 
-- [DHVN-KT&DBCL-826 2024-2025年度の公開レポート]({{ '/Public Report 2025/Japanese/DHVN-KT&DBCL-826 2024-2025年度の公開レポート.html' | relative_url }})
-- [DHVN-QD-1592 2025年度予算見積り公表]({{ '/Public Report 2025/Japanese/DHVN-QD-1592 2025年度予算見積り公表.html' | relative_url }})
-- [DHVN-QD-323 2025年第1四半期予算執行公表]({{ '/Public Report 2025/Japanese/DHVN-QD-323 2025年第1四半期予算執行公表.html' | relative_url }})
+{% assign reports_ja = site.pages | where: "category", "Public Report" %}
+{% assign reports_ja = reports_ja | where_exp: "doc", "doc.path contains '/Public Report 2025/Japanese/'" %}
+{% assign reports_ja = reports_ja | sort: "id" %}
+{% for doc in reports_ja %}
+- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+{% endfor %}
 
 ## ガイドライン
 
