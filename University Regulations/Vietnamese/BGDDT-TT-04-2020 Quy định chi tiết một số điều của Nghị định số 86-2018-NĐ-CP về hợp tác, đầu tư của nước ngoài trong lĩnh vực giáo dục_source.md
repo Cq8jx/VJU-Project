@@ -1,16 +1,21 @@
 ---
 id: BGDDT-TT-04-2020
-title: Quy định chi tiết một số điều của Nghị định số 86-2018-NĐ-CP về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục
+title: Quy định chi tiết một số điều của Nghị định số 86-2018-NĐ-CP về hợp tác, đầu
+  tư của nước ngoài trong lĩnh vực giáo dục
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
+version:
+- en
+- ja
+- source
+- vi
 ---
 Tệp này là bản chuyển văn bản từ https://chinhphu.vn/default.aspx?pageid=27160&docid=199525 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.

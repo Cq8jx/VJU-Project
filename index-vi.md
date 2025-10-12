@@ -1,5 +1,5 @@
 ---
-title: Tài liệu Dự án VJU (Tiếng Việt)
+title: Tài liệu Dự án VJU
 lang: vi
 layout: page
 permalink: /vi/
@@ -96,7 +96,7 @@ nav_title: Vietnamese
   <a href="{{ '/ja/' | relative_url }}">JA</a>
 </div>
 
-# Tài liệu Dự án VJU (Tiếng Việt)
+# Tài liệu Dự án VJU
 
 Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại học Việt Nhật – Đại học Quốc gia Hà Nội. Để xem bản tiếng Anh hoặc tiếng Nhật, vui lòng sử dụng liên kết chuyển ngữ phía trên.
 
@@ -111,13 +111,6 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
 ## Quy định của trường
 
 - [Xem danh sách tài liệu]({{ '/University Regulations/Vietnamese/' | relative_url }})
-
-<details class="collection-toggle">
-  <summary>Hiển thị danh sách ngay trên trang</summary>
-  <div class="collection-toggle__body">
-    {% include university-regulations-list.html lang_dir="Vietnamese" %}
-  </div>
-</details>
 
 ## Báo cáo công khai 2025
 

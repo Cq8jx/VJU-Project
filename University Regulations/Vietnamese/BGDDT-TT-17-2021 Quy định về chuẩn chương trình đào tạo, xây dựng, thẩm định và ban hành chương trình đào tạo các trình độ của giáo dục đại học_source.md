@@ -1,16 +1,21 @@
 ---
 id: BGDDT-TT-17-2021
-title: Quy định về chuẩn chương trình đào tạo, xây dựng, thẩm định và ban hành chương trình đào tạo các trình độ của giáo dục đại học
+title: Quy định về chuẩn chương trình đào tạo, xây dựng, thẩm định và ban hành chương
+  trình đào tạo các trình độ của giáo dục đại học
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
+version:
+- en
+- ja
+- source
+- vi
 ---
 Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=27160&docid=203478 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
@@ -304,5 +309,4 @@ Bước 5: Khảo sát ý kiến của các bên liên quan (nhà quản lý, gi
 Bước 6: Hoàn thiện dự thảo chuẩn chương trình đào tạo và khả năng áp dụng đối với loại nhân lực ngành đào tạo tại Việt Nam dựa vào kết quả khảo sát.
 
 Bước 7: Hoàn thiện dự thảo chuẩn chương trình đào tạo và báo cáo kết quả rà soát, nghiên cứu, phân tích nhu cầu năng lực loại nhân lực ngành đào tạo tại Việt Nam, trình Bộ Giáo dục và Đào tạo.
-
 

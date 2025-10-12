@@ -5,12 +5,16 @@ issuer: Trường Đại học Việt Nhật
 category: Public Report
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [public-report]
+tags:
+- public-report
+version:
+- en
+- ja
+- source
+- vi
 ---
 Tệp này là bản chuyển văn bản từ https://vju.vnu.edu.vn/dam-bao-chat-luong/thuc-hien-cong-khai-doi-voi-csgd-dai-hoc/dieu-kien-dam-bao-chat-luong/ và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.

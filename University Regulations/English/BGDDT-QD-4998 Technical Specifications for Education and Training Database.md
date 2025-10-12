@@ -5,8 +5,7 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: "/University Regulations/Source/BGDDT-QD-4998 Technical Specifications for Education and Training Database_source.pdf"
+version: [en, vi, ja, source]
 replaces: []
 replaced_by: []
 revision_history: []

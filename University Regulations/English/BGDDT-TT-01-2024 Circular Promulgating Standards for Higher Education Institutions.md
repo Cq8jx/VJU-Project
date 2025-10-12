@@ -5,8 +5,7 @@ issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: "/University Regulations/Source/BGDDT-TT-01-2024 Circular Promulgating Standards for Higher Education Institutions_source.pdf"
+version: [en, vi, ja, source]
 replaces: []
 replaced_by: []
 revision_history: []

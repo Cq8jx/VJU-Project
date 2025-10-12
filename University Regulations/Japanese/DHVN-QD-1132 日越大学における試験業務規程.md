@@ -5,12 +5,14 @@ issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
 status: active
-languages: [ja]
-source_pdf: ""
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
+version:
+- ja
+- source
 ---
 # 試験業務規程
 **（2025年10月1日付決定第1132/QĐ-ĐHVN号に添付）**

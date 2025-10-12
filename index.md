@@ -1,5 +1,5 @@
 ---
-title: VJU Project Documentation (English)
+title: VJU Project Documentation
 lang: en
 layout: page
 permalink: /
@@ -96,7 +96,7 @@ nav_title: English
   <a href="{{ '/ja/' | relative_url }}">JA</a>
 </div>
 
-# VJU Project Documentation (English)
+# VJU Project Documentation
 
 This site centralizes documentation for VNU – Vietnam-Japan University. English is the default language; use the links above to switch to Japanese or Vietnamese indexes.
 
@@ -111,13 +111,6 @@ This site centralizes documentation for VNU – Vietnam-Japan University. Englis
 ## University Regulations
 
 - [View documents]({{ '/University Regulations/English/' | relative_url }})
-
-<details class="collection-toggle">
-  <summary>Browse English documents inline</summary>
-  <div class="collection-toggle__body">
-    {% include university-regulations-list.html lang_dir="English" %}
-  </div>
-</details>
 
 ## Public Report 2025
 

@@ -1,5 +1,5 @@
 ---
-title: VJU プロジェクト文書（日本語）
+title: VJU プロジェクト文書
 lang: ja
 layout: page
 permalink: /ja/
@@ -96,7 +96,7 @@ nav_title: Japanese
   <strong>JA</strong>
 </div>
 
-# VJU プロジェクト文書（日本語）
+# VJU プロジェクト文書
 
 VNU – Vietnam-Japan University 関連の日本語資料にアクセスできます。英語版やベトナム語版を閲覧する場合は、上部の切替リンクを利用してください。
 
@@ -111,13 +111,6 @@ VNU – Vietnam-Japan University 関連の日本語資料にアクセスでき�
 ## 大学規程
 
 - [文書を確認する]({{ '/University Regulations/Japanese/' | relative_url }})
-
-<details class="collection-toggle">
-  <summary>ページ内で文書一覧を表示</summary>
-  <div class="collection-toggle__body">
-    {% include university-regulations-list.html lang_dir="Japanese" %}
-  </div>
-</details>
 
 ## 公開レポート 2025
 

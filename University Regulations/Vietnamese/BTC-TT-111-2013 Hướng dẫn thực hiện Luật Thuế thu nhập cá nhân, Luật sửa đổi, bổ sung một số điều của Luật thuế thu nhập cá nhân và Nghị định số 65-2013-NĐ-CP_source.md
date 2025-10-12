@@ -5,12 +5,16 @@ issuer: Bộ Tài chính
 category: University Regulations
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: ""
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [university-regulations]
+tags:
+- university-regulations
+version:
+- en
+- ja
+- source
+- vi
 ---
 Tệp này là bản chuyển văn bản từ https://vanban.chinhphu.vn/?pageid=27160&docid=169566 và thông tin chính xác dựa trên nội dung được công bố tại đó.
 Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.
@@ -2119,4 +2123,3 @@ Phụ lục: 02/PL-TNCN
 | 5 | Trên 27,25 trđ đến 42,25 trđ | (TNQĐ – 3,25 trđ)/0,75 |
 | 6 | Trên 42,25 trđ đến 61,85 trđ | (TNQĐ – 5,85 trđ)/0,7 |
 | 7 | Trên 61,85 trđ | (TNQĐ – 9,85 trđ)/0,65 |
-

@@ -5,12 +5,16 @@ issuer: Bộ Giáo dục và Đào tạo
 category: Quality Assurance
 issue_date: null
 status: active
-languages: [en, ja, vi]
-source_pdf: "../Source/BGDDT-TT-39-2020 Circular on Quality Standards for Distance Undergraduate Programs_source.pdf"
 replaces: []
 replaced_by: []
 revision_history: []
-tags: [quality-assurance]
+tags:
+- quality-assurance
+version:
+- en
+- ja
+- source
+- vi
 ---
 > Versions: [VI](../Vietnamese/BGDDT-TT-39-2020%20Quy%20%C4%91%E1%BB%8Bnh%20v%E1%BB%81%20ti%C3%AAu%20chu%E1%BA%A9n%20%C4%91%C3%A1nh%20gi%C3%A1%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%C3%A0o%20t%E1%BA%A1o%20t%E1%BB%AB%20xa%20tr%C3%ACnh%20%C4%91%E1%BB%99%20%C4%91%E1%BA%A1i%20h%E1%BB%8Dc_source.md) | [EN](../English/BGDDT-TT-39-2020%20Circular%20on%20Quality%20Standards%20for%20Distance%20Undergraduate%20Programs.md) | [JA](BGDDT-TT-39-2020%20%E9%81%A0%E9%9A%94%E5%A4%A7%E5%AD%A6%E8%AA%B2%E7%A8%8B%E8%B3%AA%E4%BF%9D%E8%A8%BC%E5%9F%BA%E6%BA%96%E9%80%9A%E9%81%94.md)
 
