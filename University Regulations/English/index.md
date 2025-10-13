@@ -12,10 +12,10 @@
 - [BTC-TT-111-2013](BTC-TT-111-2013%20Circular%20guiding%20the%20implementation%20of%20the%20Law%20on%20Personal%20Income%20Tax%2C%20its%20amendments%2C%20and%20Decree%2065-2013-ND-CP.html) — BTC-TT-111-2013 Circular guiding the implementation of the Law on Personal Income Tax, its amendments, and Decree 65-2013-ND-CP
 - [CP-ND-86-2021](CP-ND-86-2021%20Decree%20on%20Vietnamese%20Citizens%20Studying%2C%20Teaching%2C%20Conducting%20Scientific%20Research%2C%20and%20Academic%20Exchange%20Overseas.html) — CP-ND-86-2021 Decree on Vietnamese Citizens Studying, Teaching, Conducting Scientific Research, and Academic Exchange Overseas
 - [DHNN-TB-2184](DHNN-TB-2184%20Notification%20on%20Organizing%20the%20VNU-TESTS%20Foreign%20Language%20Assessment.html) — DHNN-TB-2184 Notification on Organizing the VNU-TESTS Foreign Language Assessment
-- [DHQGHN-QD-2459](DHQGHN-QD-2459%20Decision%20Amending%20and%20Supplementing%20the%20Regulation%20on%20Masters%20Training.html) — DHQGHN-QD-2459 Decision Amending and Supplementing the Regulation on Masters Training
+- [DHQGHN-QD-2459](DHQGHN-QD-2459%20Decision%20Amending%20the%20Master%27s%20Training%20Regulation%20%28DHQGHN-QD-3636%29.html) — DHQGHN-QD-2459 Decision Amending the Master's Training Regulation (DHQGHN-QD-3636)
 - [DHQGHN-QD-2486](DHQGHN-QD-2486%20Decision%20Amending%20and%20Supplementing%20the%20Regular%20Undergraduate%20Admission%20Regulation.html) — DHQGHN-QD-2486 Decision Amending and Supplementing the Regular Undergraduate Admission Regulation
 - [DHQGHN-QD-3626](DHQGHN-QD-3626%20Regulation%20on%20Undergraduate%20Training.html) — DHQGHN-QD-3626 Regulation on Undergraduate Training
-- [DHQGHN-QD-3636](DHQGHN-QD-3636%20Regulation%20on%20Master%27s%20Training.html) — DHQGHN-QD-3636 Regulation on Master's Training
+- [DHQGHN-QD-3636](DHQGHN-QD-3636%20Regulation%20on%20Master%27s%20Training%20%28Base%20Regulation%29.html) — DHQGHN-QD-3636 Regulation on Master's Training (Base Regulation)
 - [DHQGHN-QD-3638](DHQGHN-QD-3638%20Regulation%20on%20Doctoral%20Training.html) — DHQGHN-QD-3638 Regulation on Doctoral Training
 - [DHQGHN-QD-4455](DHQGHN-QD-4455%20Regulation%20on%20Management%20of%20Diplomas%20and%20Certificates.html) — DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates
 - [DHQGHN-QD-4618](DHQGHN-QD-4618%20Regulation%20on%20Management%20and%20Use%20of%20Scholarships.html) — DHQGHN-QD-4618 Regulation on Management and Use of Scholarships

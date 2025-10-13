@@ -1,7 +1,6 @@
 ---
 id: DHQGHN-QD-3636
-title: DHQGHN-QD-3636 Quyết định ban hành Quy chế đào tạo thạc sĩ tại Đại học Quốc
-  gia Hà Nội_source
+title: DHQGHN-QD-3636 Quy chế đào tạo thạc sĩ tại Đại học Quốc gia Hà Nội (Quy chế gốc)_source
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

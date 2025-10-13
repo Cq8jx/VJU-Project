@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-3636
-title: DHQGHN-QD-3636 Regulation on Master's Training
+title: DHQGHN-QD-3636 Regulation on Master's Training (Base Regulation)
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

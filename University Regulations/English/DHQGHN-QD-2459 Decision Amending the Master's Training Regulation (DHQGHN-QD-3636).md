@@ -1,7 +1,6 @@
 ---
 id: DHQGHN-QD-2459
-title: DHQGHN-QD-2459 Decision Amending and Supplementing the Regulation on Masters
-  Training
+title: DHQGHN-QD-2459 Decision Amending the Master's Training Regulation (DHQGHN-QD-3636)
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null
