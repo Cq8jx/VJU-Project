@@ -94,7 +94,14 @@ def write_index(language_dir: Path, documents: List[DocumentEntry]) -> None:
     lines = ["# Index", ""]
     for doc in documents:
         encoded_filename = quote(doc.filename)
-        lines.append(f"- [{doc.identifier}]({encoded_filename}) — {doc.title}")
+        suffix = doc.title
+        if doc.title.lower().startswith(doc.identifier.lower()):
+            suffix = doc.title[len(doc.identifier):].lstrip(" -—–")
+
+        line = f"- [{doc.identifier}]({encoded_filename})"
+        if suffix:
+            line += f" — {suffix}"
+        lines.append(line)
 
     lines.append("")
     index_path = language_dir / "index.md"
