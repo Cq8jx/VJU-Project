@@ -35,4 +35,4 @@
 - [DHVN-TB-1010](DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.md) — DHVN-TB-1010 Notification on Submission of English Language Certificates
 - [DHVN-TB-911](DHVN-TB-911%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024%20Cohort.md) — DHVN-TB-911 Notification on Submission of Foreign Language Certificates VJU2024 Cohort
 - [DHVN-TB-984](DHVN-TB-984%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2023%20Cohort.md) — DHVN-TB-984 Notification on Submission of Foreign Language Certificates VJU2023 Cohort
-- [ND-CP-24-2023](24-2023-ND-CP%20Decree%20prescribing%20base%20salary%20for%20cadres,%20civil%20servants,%20public%20employees%20and%20armed%20forces.md) — ND-CP-24-2023 Decree prescribing base salary for cadres, civil servants, public employees and armed forces
+- [ND-CP-24-2023](24-2023-ND-CP%20Decree%20prescribing%20base%20salary%20for%20cadres%2C%20civil%20servants%2C%20public%20employees%20and%20armed%20forces.md) — ND-CP-24-2023 Decree prescribing base salary for cadres, civil servants, public employees and armed forces
