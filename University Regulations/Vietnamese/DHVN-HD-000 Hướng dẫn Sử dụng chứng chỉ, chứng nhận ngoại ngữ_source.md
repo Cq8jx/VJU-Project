@@ -1,6 +1,6 @@
 ---
-id: DHVN-HD-XXX
-title: DHVN-HD-xxx Hướng dẫn Sử dụng chứng chỉ, chứng nhận ngoại ngữ_source
+id: DHVN-HD-000
+title: DHVN-HD-000 Hướng dẫn Sử dụng chứng chỉ, chứng nhận ngoại ngữ_source
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null
