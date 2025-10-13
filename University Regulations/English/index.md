@@ -3,16 +3,17 @@
 - [BGDDT-CV-2085](BGDDT-CV-2085%20Guidance%20on%20Self-Assessment%20and%20External%20Evaluation%20of%20Training%20Programs.md) — Guidance on Self-Assessment and External Evaluation of Training Programs
 - [BGDDT-CV-774](BGDDT-CV-774%20Official%20Letter%20on%20Adjusting%20Appendices%20of%20Official%20Letter%202085-QLCL-KDCLGD.md) — Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD
 - [BGDDT-QD-4998](BGDDT-QD-4998%20Technical%20Specifications%20for%20Education%20and%20Training%20Database.md) — Technical Specifications for Education and Training Database
-- [BGDDT-TT-01-2024](BGDDT-TT-01-2024%20Circular%20Promulgating%20Standards%20for%20Higher%20Education%20Institutions.md) — Circular Promulgating Standards for Higher Education Institutions
-- [BGDDT-TT-04-2020](BGDDT-TT-04-2020%20Circular%20Detailing%20Provisions%20of%20Decree%2086-2018-ND-CP%20on%20Foreign%20Cooperation%20and%20Investment%20in%20Education.md) — Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign Cooperation and Investment in Education
-- [BGDDT-TT-08-2021](BGDDT-TT-08-2021%20Regulation%20on%20Undergraduate%20Training.md) — Regulation on Undergraduate Training
-- [BGDDT-TT-17-2021](BGDDT-TT-17-2021%20Circular%20on%20Standards%20and%20Processes%20for%20Higher%20Education%20Programs.md) — Circular on Standards and Processes for Higher Education Programs
-- [BGDDT-TT-18-2021](BGDDT-TT-18-2021%20Regulations%20on%20Admission%20and%20Training%20for%20Doctoral%20Degrees.md) — Regulations on Admission and Training for Doctoral Degrees
-- [BGDDT-TT-23-2021](BGDDT-TT-23-2021%20Regulations%20on%20Master%27s%20Degree%20Enrollment%20and%20Training.md) — Regulations on Master's Degree Enrollment and Training
-- [BTC-TT-111-2013](BTC-TT-111-2013%20Circular%20guiding%20the%20implementation%20of%20the%20Law%20on%20Personal%20Income%20Tax%2C%20its%20amendments%2C%20and%20Decree%2065-2013-ND-CP.md) — Circular guiding the implementation of the Law on Personal Income Tax, its amendments, and Decree 65-2013-ND-CP
-- [CP-ND-86-2021](CP-ND-86-2021%20Decree%20on%20Vietnamese%20Citizens%20Studying%2C%20Teaching%2C%20Conducting%20Scientific%20Research%2C%20and%20Academic%20Exchange%20Overseas.md) — Decree on Vietnamese Citizens Studying, Teaching, Conducting Scientific Research, and Academic Exchange Overseas
+- [BGDDT-TT-2020-04](BGDDT-TT-2020-04%20Circular%20Detailing%20Provisions%20of%20Decree%2086-2018-ND-CP%20on%20Foreign%20Cooperation%20and%20Investment%20in%20Education.md) — Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign Cooperation and Investment in Education
+- [BGDDT-TT-2021-08](BGDDT-TT-2021-08%20Regulation%20on%20Undergraduate%20Training.md) — Regulation on Undergraduate Training
+- [BGDDT-TT-2021-17](BGDDT-TT-2021-17%20Circular%20on%20Standards%20and%20Processes%20for%20Higher%20Education%20Programs.md) — Circular on Standards and Processes for Higher Education Programs
+- [BGDDT-TT-2021-18](BGDDT-TT-2021-18%20Regulations%20on%20Admission%20and%20Training%20for%20Doctoral%20Degrees.md) — Regulations on Admission and Training for Doctoral Degrees
+- [BGDDT-TT-2021-23](BGDDT-TT-2021-23%20Regulations%20on%20Master%27s%20Degree%20Enrollment%20and%20Training.md) — Regulations on Master's Degree Enrollment and Training
+- [BGDDT-TT-2024-01](BGDDT-TT-2024-01%20Circular%20Promulgating%20Standards%20for%20Higher%20Education%20Institutions.md) — Circular Promulgating Standards for Higher Education Institutions
+- [BTC-TT-2013-111](BTC-TT-2013-111%20Circular%20guiding%20the%20implementation%20of%20the%20Law%20on%20Personal%20Income%20Tax%2C%20its%20amendments%2C%20and%20Decree%2065-2013-ND-CP.md) — Circular guiding the implementation of the Law on Personal Income Tax, its amendments, and Decree 65-2013-ND-CP
+- [CP-ND-2021-86](CP-ND-2021-86%20Decree%20on%20Vietnamese%20Citizens%20Studying%2C%20Teaching%2C%20Conducting%20Scientific%20Research%2C%20and%20Academic%20Exchange%20Overseas.md) — Decree on Vietnamese Citizens Studying, Teaching, Conducting Scientific Research, and Academic Exchange Overseas
+- [CP-ND-2023-24](CP-ND-2023-24%20Decree%20prescribing%20base%20salary%20for%20cadres%2C%20civil%20servants%2C%20public%20employees%20and%20armed%20forces.md) — Decree prescribing base salary for cadres, civil servants, public employees and armed forces
 - [DHNN-TB-2184](DHNN-TB-2184%20Notification%20on%20Organizing%20the%20VNU-TESTS%20Foreign%20Language%20Assessment.md) — Notification on Organizing the VNU-TESTS Foreign Language Assessment
-- [DHQGHN-QD-2459](DHQGHN-QD-2459%20Decision%20Amending%20the%20Master%27s%20Training%20Regulation%20%28DHQGHN-QD-3636%29.md) — Decision Amending the Master's Training Regulation (DHQGHN-QD-3636)
+- [DHQGHN-QD-2459](DHQGHN-QD-2459%20Decision%20Amending%20the%20Master%27s%20Training%20Regulation%20%28promulgated%20with%20DHQGHN-QD-3636%29.md) — Decision Amending the Master's Training Regulation (promulgated with DHQGHN-QD-3636)
 - [DHQGHN-QD-2486](DHQGHN-QD-2486%20Decision%20Amending%20and%20Supplementing%20the%20Regular%20Undergraduate%20Admission%20Regulation.md) — Decision Amending and Supplementing the Regular Undergraduate Admission Regulation
 - [DHQGHN-QD-3626](DHQGHN-QD-3626%20Regulation%20on%20Undergraduate%20Training.md) — Regulation on Undergraduate Training
 - [DHQGHN-QD-3636](DHQGHN-QD-3636%20Regulation%20on%20Master%27s%20Training%20%28Base%20Regulation%29.md) — Regulation on Master's Training (Base Regulation)
@@ -35,4 +36,3 @@
 - [DHVN-TB-1010](DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.md) — Notification on Submission of English Language Certificates
 - [DHVN-TB-911](DHVN-TB-911%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024%20Cohort.md) — Notification on Submission of Foreign Language Certificates VJU2024 Cohort
 - [DHVN-TB-984](DHVN-TB-984%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2023%20Cohort.md) — Notification on Submission of Foreign Language Certificates VJU2023 Cohort
-- [ND-CP-24-2023](24-2023-ND-CP%20Decree%20prescribing%20base%20salary%20for%20cadres%2C%20civil%20servants%2C%20public%20employees%20and%20armed%20forces.md) — Decree prescribing base salary for cadres, civil servants, public employees and armed forces
