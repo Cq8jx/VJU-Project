@@ -1,6 +1,7 @@
 ---
 id: DHVN-HD-259
-title: Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts
+title: DHVN-HD-259 Guidelines on Using Foreign Language Certificates for VJU2020 and
+  VJU2021 Cohorts
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

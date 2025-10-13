@@ -1,6 +1,6 @@
 ---
 id: DHNN-TB-2184
-title: Notification on Organizing the VNU-TESTS Foreign Language Assessment
+title: DHNN-TB-2184 Notification on Organizing the VNU-TESTS Foreign Language Assessment
 issuer: Trường Đại học Ngoại ngữ, ĐHQGHN
 category: University Regulations
 issue_date: null

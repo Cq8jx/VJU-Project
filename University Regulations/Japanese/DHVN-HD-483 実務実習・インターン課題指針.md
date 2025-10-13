@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-483
-title: 実務実習・インターン課題指針
+title: DHVN-HD-483 実務実習・インターン課題指針
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: BGDDT-QD-4998
-title: Technical Specifications for Education and Training Database
+title: BGDDT-QD-4998 Technical Specifications for Education and Training Database
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

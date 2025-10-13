@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-3626
-title: 学部教育に関する規則
+title: DHQGHN-QD-3626 学部教育に関する規則
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

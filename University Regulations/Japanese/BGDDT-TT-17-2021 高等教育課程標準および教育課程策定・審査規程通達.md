@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-17-2021
-title: 高等教育課程標準および教育課程策定・審査規程通達
+title: BGDDT-TT-17-2021 高等教育課程標準および教育課程策定・審査規程通達
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

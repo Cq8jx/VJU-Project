@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-17-2021
-title: Circular on Standards and Processes for Higher Education Programs
+title: BGDDT-TT-17-2021 Circular on Standards and Processes for Higher Education Programs
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-4618
-title: Regulation on Management and Use of Scholarships
+title: DHQGHN-QD-4618 Regulation on Management and Use of Scholarships
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

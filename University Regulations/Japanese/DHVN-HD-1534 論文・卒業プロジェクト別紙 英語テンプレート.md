@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-1534
-title: 論文・卒業プロジェクト別紙 英語テンプレート
+title: DHVN-HD-1534 論文・卒業プロジェクト別紙 英語テンプレート
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

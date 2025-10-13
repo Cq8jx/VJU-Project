@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-3636
-title: 修士課程に関する規則
+title: DHQGHN-QD-3636 修士課程に関する規則
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

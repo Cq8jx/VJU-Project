@@ -1,6 +1,6 @@
 ---
 id: DHVN-TB-1010
-title: Notification on Submission of English Language Certificates
+title: DHVN-TB-1010 Notification on Submission of English Language Certificates
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

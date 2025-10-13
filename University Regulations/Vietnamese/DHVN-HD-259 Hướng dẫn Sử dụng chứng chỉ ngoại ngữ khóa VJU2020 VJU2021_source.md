@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259
-title: Hướng dẫn Sử dụng chứng chỉ ngoại ngữ khóa VJU2020 VJU2021_source
+title: DHVN-HD-259 Hướng dẫn Sử dụng chứng chỉ ngoại ngữ khóa VJU2020 VJU2021_source
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

@@ -1,6 +1,7 @@
 ---
 id: BGDDT-CV-2085
-title: Guidance on Self-Assessment and External Evaluation of Training Programs
+title: BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training
+  Programs
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

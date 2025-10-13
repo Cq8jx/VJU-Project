@@ -1,7 +1,7 @@
 ---
 id: DHQGHN-QD-2486
-title: Quyết định sửa đổi, bổ sung Quy chế tuyển sinh đại học chính quy tại Đại học
-  Quốc gia Hà Nội_source
+title: DHQGHN-QD-2486 Quyết định sửa đổi, bổ sung Quy chế tuyển sinh đại học chính
+  quy tại Đại học Quốc gia Hà Nội_source
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHVN-QD-473
-title: 学術顧問業務規程
+title: DHVN-QD-473 学術顧問業務規程
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

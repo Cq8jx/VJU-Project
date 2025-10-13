@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-1534
-title: Guidelines for Theses and Graduation Projects
+title: DHVN-HD-1534 Guidelines for Theses and Graduation Projects
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

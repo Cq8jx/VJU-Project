@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-08-2021
-title: Thông tư ban hành Quy chế đào tạo trình độ đại học_source
+title: BGDDT-TT-08-2021 Thông tư ban hành Quy chế đào tạo trình độ đại học_source
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

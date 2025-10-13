@@ -1,6 +1,6 @@
 ---
 id: DHVN-QD-473
-title: Regulations on Academic Advisory Work
+title: DHVN-QD-473 Regulations on Academic Advisory Work
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-1534
-title: Thesis and Graduation Project Annex Templates - English Format
+title: DHVN-HD-1534 Thesis and Graduation Project Annex Templates - English Format
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

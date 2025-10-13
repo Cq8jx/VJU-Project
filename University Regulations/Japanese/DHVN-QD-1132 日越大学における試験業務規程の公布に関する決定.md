@@ -1,6 +1,6 @@
 ---
 id: DHVN-QD-1132
-title: 日越大学における試験業務規程の公布に関する決定
+title: DHVN-QD-1132 日越大学における試験業務規程の公布に関する決定
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

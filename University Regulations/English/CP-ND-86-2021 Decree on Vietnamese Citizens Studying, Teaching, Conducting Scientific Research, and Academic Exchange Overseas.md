@@ -1,7 +1,7 @@
 ---
 id: CP-ND-86-2021
-title: Decree on Vietnamese Citizens Studying, Teaching, Conducting Scientific Research,
-  and Academic Exchange Overseas
+title: CP-ND-86-2021 Decree on Vietnamese Citizens Studying, Teaching, Conducting
+  Scientific Research, and Academic Exchange Overseas
 issuer: Chính phủ
 category: University Regulations
 issue_date: null

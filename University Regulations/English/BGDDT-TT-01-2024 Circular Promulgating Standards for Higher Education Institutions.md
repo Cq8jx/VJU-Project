@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-01-2024
-title: Circular Promulgating Standards for Higher Education Institutions
+title: BGDDT-TT-01-2024 Circular Promulgating Standards for Higher Education Institutions
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

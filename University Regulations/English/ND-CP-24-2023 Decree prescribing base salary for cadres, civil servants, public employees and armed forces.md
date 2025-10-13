@@ -1,7 +1,7 @@
 ---
 id: ND-CP-24-2023
-title: Decree prescribing base salary for cadres, civil servants, public employees
-  and armed forces
+title: ND-CP-24-2023 Decree prescribing base salary for cadres, civil servants, public
+  employees and armed forces
 issuer: Chính phủ
 category: University Regulations
 issue_date: null

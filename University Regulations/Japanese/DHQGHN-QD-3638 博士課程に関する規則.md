@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-3638
-title: 博士課程に関する規則
+title: DHQGHN-QD-3638 博士課程に関する規則
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-2486
-title: 正規学部入学規程改正決定
+title: DHQGHN-QD-2486 正規学部入学規程改正決定
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

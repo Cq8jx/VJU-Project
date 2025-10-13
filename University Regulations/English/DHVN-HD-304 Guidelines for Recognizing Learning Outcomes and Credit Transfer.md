@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-304
-title: Guidelines for Recognizing Learning Outcomes and Credit Transfer
+title: DHVN-HD-304 Guidelines for Recognizing Learning Outcomes and Credit Transfer
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-23-2021
-title: Regulations on Master's Degree Enrollment and Training
+title: BGDDT-TT-23-2021 Regulations on Master's Degree Enrollment and Training
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null
