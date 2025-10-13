@@ -24,23 +24,53 @@ This file is a text transcription of the information published at https://vju.vn
 **[Annex 2.1]{.underline} :** Template for the outer cover, size A4
 *(210 x 297 mm)*
 
-![](media/image4.png){width="6.544202755905512in"
-height="9.327083333333333in"}
-
-![](media/image18.png){width="3.819444444444445e-2in"
-height="0.2861100174978128in"}
-
-![](media/image22.png){width="3.819444444444445e-2in"
-height="0.4041666666666667in"}
+<center>
+VIETNAM NATIONAL UNIVERSITY, HANOI<br>
+VIETNAM JAPAN UNIVERSITY<br>
+FACULTY OF ..................................<br>
+<i>(Font Times New Roman, 13pt)</i>
+<br><br><br>
+<b>Student's Full Name</b><br>
+<i>(font Times New Roman, 14pt, bold)</i>
+<br><br><br>
+<b>THESIS TITLE</b><br>
+<i>(Times New Roman font, 18pt, bold)</i>
+<br><br><br>
+<i>(Times New Roman font, 14pt)</i>
+<br>
+↓
+<br><br>
+Bachelor in ...&lt;Major&gt;<br>
+(Honors Program)
+<br><br><br><br><br>
+<i>(Times New Roman font, 14pt, bold)</i>
+<br><br>
+<b>Hanoi – 202..</b>
+</center>
 
 **[Annex 2.2]{.underline} :** Template for inner cover, size A ~4~ *(210
 x 297 mm)*
 
-![](media/image19.png){width="6.709420384951881in"
-height="9.304166666666667in"}
-
-![](media/image7.png){width="3.819444444444445e-2in"
-height="0.2861100174978128in"}
+<center>
+VIETNAM NATIONAL UNIVERSITY, HANOI<br>
+VIETNAM JAPAN UNIVERSITY<br>
+FACULTY OF ..................................<br>
+<i>(Font Times New Roman, 13pt)</i>
+<br><br><br>
+<b>Student's Full Name</b><br>
+<i>(font Times New Roman, 14pt, bold)</i>
+<br><br><br>
+<b>THESIS TITLE</b><br>
+<i>(Times New Roman font, 18pt, bold)</i>
+<br><br><br>
+Bachelor in ...&lt;Major&gt;<br>
+(Honors Program)
+<br><br><br><br>
+<b>Supervisor(s):</b> .................................<br>
+<i>(Times New Roman font, 14pt, bold)</i>
+<br><br><br><br><br>
+<b>Hanoi - 202..</b>
+</center>
 
 **[Annex 2.3:]{.underline} Guidelines for references**
 
@@ -174,16 +204,13 @@ adsorption, adsorption capacity.
 
 *3.1.1. Outer cover*
 
-![](media/image1.png){width="2.1180555555555554in"
 height="0.7951388888888888in"}
 
 VIETNAM JAPAN UNIVERSITY
 
 **FACULTY OF .............................................**
 
-![](media/image8.png){width="0.0in" height="1.3888888888888888e-2in"}
 
-![](media/image15.png){width="1.5972222222222223in"
 height="0.8680555555555556in"}
 
 **THESIS PROGRESS LOG**
@@ -299,9 +326,7 @@ VIETNAM NATIONAL UNIVERSITY, HANOI SOCIALIST REPUBLIC OF VIETNAM
 
 **VIETNAM JAPAN UNIVERSITY Independence -- Freedom -- Happiness**
 
-![](media/image17.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
-![](media/image16.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
 
 **REVIEW OF STUDENT LEARNING PROCESS**
@@ -333,7 +358,6 @@ made the following observations:
 
 > ( *Signature and full name* )
 >
-> ![](media/image9.png){width="2.000277777777778in"
 > height="8.333333333333333e-3in"}
 >
 > ^1^ ***Comments following suggestions below* :**
@@ -354,9 +378,7 @@ VIETNAM NATIONAL UNIVERSITY, HANOI SOCIALIST REPUBLIC OF VIETNAM
 
 **VIETNAM JAPAN UNIVERSITY Independence -- Freedom -- Happiness**
 
-![](media/image5.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
-![](media/image6.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
 
 **APPLICATION FOR THESIS DEFENSE**
@@ -395,9 +417,7 @@ VIETNAM NATIONAL UNIVERSITY, HANOI SOCIALIST REPUBLIC OF VIETNAM
 
 **VIETNAM JAPAN UNIVERSITY Independence -- Freedom -- Happiness**
 
-![](media/image2.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
-![](media/image3.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
 
 **UNDERGRADUATE THESIS REVIEW**
@@ -476,8 +496,6 @@ VIETNAM NATIONAL UNIVERSITY, HANOI SOCIALIST REPUBLIC OF VIETNAM
 
 **VIETNAM JAPAN UNIVERSITY Independence -- Freedom -- Happiness**
 
-![](media/image13.png){width="1.199912510936133e-2in"
-height="1.3888888888888888e-2in"}![](media/image23.png){width="0.0in"
 height="1.3888888888888888e-2in"}
 
 **EVALUATION SHEET OF UNDERGRADUATE THESIS DEFENSE**
@@ -557,8 +575,6 @@ VIETNAM NATIONAL UNIVERSITY, HANOI SOCIALIST REPUBLIC OF VIETNAM
 
 **VIETNAM JAPAN UNIVERSITY Independence -- Freedom -- Happiness**
 
-![](media/image12.png){width="1.199912510936133e-2in"
-height="1.3888888888888888e-2in"}![](media/image11.png){width="0.0in"
 height="1.3888888888888888e-2in"}
 
 **SUMMARY THE GRADING OF UNDERGRADUATE THESIS**
@@ -659,8 +675,6 @@ VIETNAM NATIONAL UNIVERSITY, HANOI SOCIALIST REPUBLIC OF VIETNAM
 
 **VIETNAM JAPAN UNIVERSITY Independence -- Freedom -- Happiness**
 
-![](media/image10.png){width="1.199912510936133e-2in"
-height="1.3888888888888888e-2in"}![](media/image21.png){width="0.0in"
 height="1.3888888888888888e-2in"}
 
 # *Hanoi, date month year 202\...*
@@ -728,8 +742,6 @@ VIETNAM NATIONAL UNIVERSITY, HANOI SOCIALIST REPUBLIC OF VIETNAM
 
 **VIETNAM JAPAN UNIVERSITY Independence -- Freedom -- Happiness**
 
-![](media/image20.png){width="1.199912510936133e-2in"
-height="1.3888888888888888e-2in"}![](media/image14.png){width="0.0in"
 height="1.3888888888888888e-2in"}
 
 # *Hanoi, date month year 202\...*

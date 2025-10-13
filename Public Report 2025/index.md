@@ -7,11 +7,8 @@ Documents in this directory publish annual financial and operational information
 
 ## English Transcriptions
 - [DHVN-KT&ĐBCL-826 Public Report for the 2024-2025 School Year](./English/DHVN-KT&DBCL-826%20Public%20Report%20for%20the%202024-2025%20School%20Year.html)
-- [DHVN-QĐ-323 Q1 2025 Budget Execution Disclosure (Annotated English Edition)](./English/DHVN-QD-323%20Q1%202025%20Budget%20Execution%20Disclosure%20English.html)
 - [DHVN-QĐ-323 Q1 2025 Budget Execution Disclosure](./English/DHVN-QD-323%20Q1%202025%20Budget%20Execution%20Disclosure.html)
-- [DHVN-QĐ-1592 Budget Estimate Disclosure 2025 (English Translation)](./English/DHVN-QD-1592%20Budget%20Estimate%20Disclosure%202025%20English.html)
 - [DHVN-QĐ-1592 Budget Estimate Disclosure 2025](./English/DHVN-QD-1592%20Budget%20Estimate%20Disclosure%202025.html)
-- [Naming analysis notes](./English/naming-analysis.html)
 
 ## Japanese Transcriptions
 - [DHVN-KT&ĐBCL-826 2024-2025年度の公開レポート](./Japanese/DHVN-KT&DBCL-826%202024-2025年度の公開レポート.html)

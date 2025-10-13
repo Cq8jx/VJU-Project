@@ -1,38 +1,38 @@
 # Index
 
-- [BGDDT-CV-2085](BGDDT-CV-2085%20Guidance%20on%20Self-Assessment%20and%20External%20Evaluation%20of%20Training%20Programs.html) — BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs
-- [BGDDT-CV-774](BGDDT-CV-774%20Official%20Letter%20on%20Adjusting%20Appendices%20of%20Official%20Letter%202085-QLCL-KDCLGD.html) — BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD
-- [BGDDT-QD-4998](BGDDT-QD-4998%20Technical%20Specifications%20for%20Education%20and%20Training%20Database.html) — BGDDT-QD-4998 Technical Specifications for Education and Training Database
-- [BGDDT-TT-01-2024](BGDDT-TT-01-2024%20Circular%20Promulgating%20Standards%20for%20Higher%20Education%20Institutions.html) — BGDDT-TT-01-2024 Circular Promulgating Standards for Higher Education Institutions
-- [BGDDT-TT-04-2020](BGDDT-TT-04-2020%20Circular%20Detailing%20Provisions%20of%20Decree%2086-2018-ND-CP%20on%20Foreign%20Cooperation%20and%20Investment%20in%20Education.html) — BGDDT-TT-04-2020 Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign Cooperation and Investment in Education
-- [BGDDT-TT-08-2021](BGDDT-TT-08-2021%20Regulation%20on%20Undergraduate%20Training.html) — BGDDT-TT-08-2021 Regulation on Undergraduate Training
-- [BGDDT-TT-17-2021](BGDDT-TT-17-2021%20Circular%20on%20Standards%20and%20Processes%20for%20Higher%20Education%20Programs.html) — BGDDT-TT-17-2021 Circular on Standards and Processes for Higher Education Programs
-- [BGDDT-TT-18-2021](BGDDT-TT-18-2021%20Regulations%20on%20Admission%20and%20Training%20for%20Doctoral%20Degrees.html) — BGDDT-TT-18-2021 Regulations on Admission and Training for Doctoral Degrees
-- [BGDDT-TT-23-2021](BGDDT-TT-23-2021%20Regulations%20on%20Master%27s%20Degree%20Enrollment%20and%20Training.html) — BGDDT-TT-23-2021 Regulations on Master's Degree Enrollment and Training
-- [BTC-TT-111-2013](BTC-TT-111-2013%20Circular%20guiding%20the%20implementation%20of%20the%20Law%20on%20Personal%20Income%20Tax%2C%20its%20amendments%2C%20and%20Decree%2065-2013-ND-CP.html) — BTC-TT-111-2013 Circular guiding the implementation of the Law on Personal Income Tax, its amendments, and Decree 65-2013-ND-CP
-- [CP-ND-86-2021](CP-ND-86-2021%20Decree%20on%20Vietnamese%20Citizens%20Studying%2C%20Teaching%2C%20Conducting%20Scientific%20Research%2C%20and%20Academic%20Exchange%20Overseas.html) — CP-ND-86-2021 Decree on Vietnamese Citizens Studying, Teaching, Conducting Scientific Research, and Academic Exchange Overseas
-- [DHNN-TB-2184](DHNN-TB-2184%20Notification%20on%20Organizing%20the%20VNU-TESTS%20Foreign%20Language%20Assessment.html) — DHNN-TB-2184 Notification on Organizing the VNU-TESTS Foreign Language Assessment
-- [DHQGHN-QD-2459](DHQGHN-QD-2459%20Decision%20Amending%20the%20Master%27s%20Training%20Regulation%20%28DHQGHN-QD-3636%29.html) — DHQGHN-QD-2459 Decision Amending the Master's Training Regulation (DHQGHN-QD-3636)
-- [DHQGHN-QD-2486](DHQGHN-QD-2486%20Decision%20Amending%20and%20Supplementing%20the%20Regular%20Undergraduate%20Admission%20Regulation.html) — DHQGHN-QD-2486 Decision Amending and Supplementing the Regular Undergraduate Admission Regulation
-- [DHQGHN-QD-3626](DHQGHN-QD-3626%20Regulation%20on%20Undergraduate%20Training.html) — DHQGHN-QD-3626 Regulation on Undergraduate Training
-- [DHQGHN-QD-3636](DHQGHN-QD-3636%20Regulation%20on%20Master%27s%20Training%20%28Base%20Regulation%29.html) — DHQGHN-QD-3636 Regulation on Master's Training (Base Regulation)
-- [DHQGHN-QD-3638](DHQGHN-QD-3638%20Regulation%20on%20Doctoral%20Training.html) — DHQGHN-QD-3638 Regulation on Doctoral Training
-- [DHQGHN-QD-4455](DHQGHN-QD-4455%20Regulation%20on%20Management%20of%20Diplomas%20and%20Certificates.html) — DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates
-- [DHQGHN-QD-4618](DHQGHN-QD-4618%20Regulation%20on%20Management%20and%20Use%20of%20Scholarships.html) — DHQGHN-QD-4618 Regulation on Management and Use of Scholarships
-- [DHQGHN-QD-5115](DHQGHN-QD-5115%20%5BSuperseded%20by%20DHQGHN-QD-3626-2022%5D%20Regulation%20on%20Undergraduate%20Training.html) — DHQGHN-QD-5115 [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training
-- [DHVN-HD-1534](DHVN-HD-1534%20Guidelines%20for%20Theses%20and%20Graduation%20Projects.html) — DHVN-HD-1534 Guidelines for Theses and Graduation Projects
-- [DHVN-HD-1534](DHVN-HD-1534%20Thesis%20and%20Graduation%20Project%20Annex%20Templates%20-%20English%20Format.html) — DHVN-HD-1534 Thesis and Graduation Project Annex Templates - English Format
-- [DHVN-HD-1534](DHVN-HD-1534%20Thesis%20and%20Graduation%20Project%20Annex%20Templates%20-%20Layout%20Guide.html) — DHVN-HD-1534 Thesis and Graduation Project Annex Templates - Layout Guide
-- [DHVN-HD-259](DHVN-HD-259%20Appendix%201%20Foreign%20Language%20Certificate%20Equivalency%20Table.html) — DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency Table
-- [DHVN-HD-259](DHVN-HD-259%20Appendix%202%20JLPT%20Authorization%20Letter%20Template.html) — DHVN-HD-259 Appendix 2 JLPT Authorization Letter Template
-- [DHVN-HD-259](DHVN-HD-259%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20for%20VJU2020%20and%20VJU2021%20Cohorts.html) — DHVN-HD-259 Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts
-- [DHVN-HD-304](DHVN-HD-304%20Guidelines%20for%20Recognizing%20Learning%20Outcomes%20and%20Credit%20Transfer.html) — DHVN-HD-304 Guidelines for Recognizing Learning Outcomes and Credit Transfer
-- [DHVN-HD-483](DHVN-HD-483%20Guidelines%20for%20Practical%20Internships%20and%20Internship%20Topics.html) — DHVN-HD-483 Guidelines for Practical Internships and Internship Topics
-- [DHVN-HD-000](DHVN-HD-000%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20and%20Certifications.html) — DHVN-HD-000 Guidelines on Using Foreign Language Certificates and Certifications
-- [DHVN-QD-1132](DHVN-QD-1132%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html) — DHVN-QD-1132 Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University
-- [DHVN-QD-1132](DHVN-QD-1132%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.html) — DHVN-QD-1132 Regulations on Examination Affairs of Vietnam Japan University
-- [DHVN-QD-473](DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.html) — DHVN-QD-473 Regulations on Academic Advisory Work
-- [DHVN-TB-1010](DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.html) — DHVN-TB-1010 Notification on Submission of English Language Certificates
-- [DHVN-TB-911](DHVN-TB-911%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024%20Cohort.html) — DHVN-TB-911 Notification on Submission of Foreign Language Certificates VJU2024 Cohort
-- [DHVN-TB-984](DHVN-TB-984%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2023%20Cohort.html) — DHVN-TB-984 Notification on Submission of Foreign Language Certificates VJU2023 Cohort
-- [ND-CP-24-2023](ND-CP-24-2023%20Decree%20prescribing%20base%20salary%20for%20cadres%2C%20civil%20servants%2C%20public%20employees%20and%20armed%20forces.html) — ND-CP-24-2023 Decree prescribing base salary for cadres, civil servants, public employees and armed forces
+- [BGDDT-CV-2085](BGDDT-CV-2085%20Guidance%20on%20Self-Assessment%20and%20External%20Evaluation%20of%20Training%20Programs.md) — BGDDT-CV-2085 Guidance on Self-Assessment and External Evaluation of Training Programs
+- [BGDDT-CV-774](BGDDT-CV-774%20Official%20Letter%20on%20Adjusting%20Appendices%20of%20Official%20Letter%202085-QLCL-KDCLGD.md) — BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD
+- [BGDDT-QD-4998](BGDDT-QD-4998%20Technical%20Specifications%20for%20Education%20and%20Training%20Database.md) — BGDDT-QD-4998 Technical Specifications for Education and Training Database
+- [BGDDT-TT-01-2024](BGDDT-TT-01-2024%20Circular%20Promulgating%20Standards%20for%20Higher%20Education%20Institutions.md) — BGDDT-TT-01-2024 Circular Promulgating Standards for Higher Education Institutions
+- [BGDDT-TT-04-2020](BGDDT-TT-04-2020%20Circular%20Detailing%20Provisions%20of%20Decree%2086-2018-ND-CP%20on%20Foreign%20Cooperation%20and%20Investment%20in%20Education.md) — BGDDT-TT-04-2020 Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign Cooperation and Investment in Education
+- [BGDDT-TT-08-2021](BGDDT-TT-08-2021%20Regulation%20on%20Undergraduate%20Training.md) — BGDDT-TT-08-2021 Regulation on Undergraduate Training
+- [BGDDT-TT-17-2021](BGDDT-TT-17-2021%20Circular%20on%20Standards%20and%20Processes%20for%20Higher%20Education%20Programs.md) — BGDDT-TT-17-2021 Circular on Standards and Processes for Higher Education Programs
+- [BGDDT-TT-18-2021](BGDDT-TT-18-2021%20Regulations%20on%20Admission%20and%20Training%20for%20Doctoral%20Degrees.md) — BGDDT-TT-18-2021 Regulations on Admission and Training for Doctoral Degrees
+- [BGDDT-TT-23-2021](BGDDT-TT-23-2021%20Regulations%20on%20Master%27s%20Degree%20Enrollment%20and%20Training.md) — BGDDT-TT-23-2021 Regulations on Master's Degree Enrollment and Training
+- [BTC-TT-111-2013](BTC-TT-111-2013%20Circular%20guiding%20the%20implementation%20of%20the%20Law%20on%20Personal%20Income%20Tax%2C%20its%20amendments%2C%20and%20Decree%2065-2013-ND-CP.md) — BTC-TT-111-2013 Circular guiding the implementation of the Law on Personal Income Tax, its amendments, and Decree 65-2013-ND-CP
+- [CP-ND-86-2021](CP-ND-86-2021%20Decree%20on%20Vietnamese%20Citizens%20Studying%2C%20Teaching%2C%20Conducting%20Scientific%20Research%2C%20and%20Academic%20Exchange%20Overseas.md) — CP-ND-86-2021 Decree on Vietnamese Citizens Studying, Teaching, Conducting Scientific Research, and Academic Exchange Overseas
+- [DHNN-TB-2184](DHNN-TB-2184%20Notification%20on%20Organizing%20the%20VNU-TESTS%20Foreign%20Language%20Assessment.md) — DHNN-TB-2184 Notification on Organizing the VNU-TESTS Foreign Language Assessment
+- [DHQGHN-QD-2459](DHQGHN-QD-2459%20Decision%20Amending%20the%20Master%27s%20Training%20Regulation%20%28DHQGHN-QD-3636%29.md) — DHQGHN-QD-2459 Decision Amending the Master's Training Regulation (DHQGHN-QD-3636)
+- [DHQGHN-QD-2486](DHQGHN-QD-2486%20Decision%20Amending%20and%20Supplementing%20the%20Regular%20Undergraduate%20Admission%20Regulation.md) — DHQGHN-QD-2486 Decision Amending and Supplementing the Regular Undergraduate Admission Regulation
+- [DHQGHN-QD-3626](DHQGHN-QD-3626%20Regulation%20on%20Undergraduate%20Training.md) — DHQGHN-QD-3626 Regulation on Undergraduate Training
+- [DHQGHN-QD-3636](DHQGHN-QD-3636%20Regulation%20on%20Master%27s%20Training%20%28Base%20Regulation%29.md) — DHQGHN-QD-3636 Regulation on Master's Training (Base Regulation)
+- [DHQGHN-QD-3638](DHQGHN-QD-3638%20Regulation%20on%20Doctoral%20Training.md) — DHQGHN-QD-3638 Regulation on Doctoral Training
+- [DHQGHN-QD-4455](DHQGHN-QD-4455%20Regulation%20on%20Management%20of%20Diplomas%20and%20Certificates.md) — DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates
+- [DHQGHN-QD-4618](DHQGHN-QD-4618%20Regulation%20on%20Management%20and%20Use%20of%20Scholarships.md) — DHQGHN-QD-4618 Regulation on Management and Use of Scholarships
+- [DHQGHN-QD-5115](DHQGHN-QD-5115%20%5BSuperseded%20by%20DHQGHN-QD-3626-2022%5D%20Regulation%20on%20Undergraduate%20Training.md) — DHQGHN-QD-5115 [Superseded by DHQGHN-QD-3626-2022] Regulation on Undergraduate Training
+- [DHVN-HD-000](DHVN-HD-000%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20and%20Certifications.md) — DHVN-HD-000 Guidelines on Using Foreign Language Certificates and Certifications
+- [DHVN-HD-1534](DHVN-HD-1534%20Guidelines%20for%20Theses%20and%20Graduation%20Projects.md) — DHVN-HD-1534 Guidelines for Theses and Graduation Projects
+- [DHVN-HD-1534](DHVN-HD-1534%20Thesis%20and%20Graduation%20Project%20Annex%20Templates%20-%20English%20Format.md) — DHVN-HD-1534 Thesis and Graduation Project Annex Templates - English Format
+- [DHVN-HD-1534](DHVN-HD-1534%20Thesis%20and%20Graduation%20Project%20Annex%20Templates%20-%20Layout%20Guide.md) — DHVN-HD-1534 Thesis and Graduation Project Annex Templates - Layout Guide
+- [DHVN-HD-259](DHVN-HD-259%20Appendix%201%20Foreign%20Language%20Certificate%20Equivalency%20Table.md) — DHVN-HD-259 Appendix 1 Foreign Language Certificate Equivalency Table
+- [DHVN-HD-259](DHVN-HD-259%20Appendix%202%20JLPT%20Authorization%20Letter%20Template.md) — DHVN-HD-259 Appendix 2 JLPT Authorization Letter Template
+- [DHVN-HD-259](DHVN-HD-259%20Guidelines%20on%20Using%20Foreign%20Language%20Certificates%20for%20VJU2020%20and%20VJU2021%20Cohorts.md) — DHVN-HD-259 Guidelines on Using Foreign Language Certificates for VJU2020 and VJU2021 Cohorts
+- [DHVN-HD-304](DHVN-HD-304%20Guidelines%20for%20Recognizing%20Learning%20Outcomes%20and%20Credit%20Transfer.md) — DHVN-HD-304 Guidelines for Recognizing Learning Outcomes and Credit Transfer
+- [DHVN-HD-483](DHVN-HD-483%20Guidelines%20for%20Practical%20Internships%20and%20Internship%20Topics.md) — DHVN-HD-483 Guidelines for Practical Internships and Internship Topics
+- [DHVN-QD-1132](DHVN-QD-1132%20Decision%20on%20the%20Promulgation%20of%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.md) — DHVN-QD-1132 Decision on the Promulgation of Regulations on Examination Affairs of Vietnam Japan University
+- [DHVN-QD-1132](DHVN-QD-1132%20Regulations%20on%20Examination%20Affairs%20of%20Vietnam%20Japan%20University.md) — DHVN-QD-1132 Regulations on Examination Affairs of Vietnam Japan University
+- [DHVN-QD-473](DHVN-QD-473%20Regulations%20on%20Academic%20Advisory%20Work.md) — DHVN-QD-473 Regulations on Academic Advisory Work
+- [DHVN-TB-1010](DHVN-TB-1010%20Notification%20on%20Submission%20of%20English%20Language%20Certificates.md) — DHVN-TB-1010 Notification on Submission of English Language Certificates
+- [DHVN-TB-911](DHVN-TB-911%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2024%20Cohort.md) — DHVN-TB-911 Notification on Submission of Foreign Language Certificates VJU2024 Cohort
+- [DHVN-TB-984](DHVN-TB-984%20Notification%20on%20Submission%20of%20Foreign%20Language%20Certificates%20VJU2023%20Cohort.md) — DHVN-TB-984 Notification on Submission of Foreign Language Certificates VJU2023 Cohort
+- [ND-CP-24-2023](24-2023-ND-CP%20Decree%20prescribing%20base%20salary%20for%20cadres,%20civil%20servants,%20public%20employees%20and%20armed%20forces.md) — ND-CP-24-2023 Decree prescribing base salary for cadres, civil servants, public employees and armed forces

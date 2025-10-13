@@ -18,3 +18,5 @@ defaults:
     values:
       nav_exclude: true
 markdown_ext: "md,markdown"
+titles_from_headings:
+  enabled: false

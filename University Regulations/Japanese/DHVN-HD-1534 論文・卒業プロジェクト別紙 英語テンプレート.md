@@ -21,26 +21,54 @@ lang: ja
 
 **別紙2：学部論文のフォーマット**
 
-**[付録2.1]{.underline} ：**外表紙テンプレート、サイズA4 *（210 x 297
-mm）*
+**[付録2.1]{.underline} ：**外表紙テンプレート、サイズA4 *（210 x 297 mm）*
 
-![](media/image4.png){width="6.544202755905512in"
-height="9.327083333333333in"}
+<center>
+VIETNAM NATIONAL UNIVERSITY, HANOI<br>
+VIETNAM JAPAN UNIVERSITY<br>
+FACULTY OF ..................................<br>
+<i>(Font Times New Roman, 13pt)</i>
+<br><br><br>
+<b>Student's Full Name</b><br>
+<i>(font Times New Roman, 14pt, bold)</i>
+<br><br><br>
+<b>THESIS TITLE</b><br>
+<i>(Times New Roman font, 18pt, bold)</i>
+<br><br><br>
+<i>(Times New Roman font, 14pt)</i>
+<br>
+↓
+<br><br>
+Bachelor in ...&lt;Major&gt;<br>
+(Honors Program)
+<br><br><br><br><br>
+<i>(Times New Roman font, 14pt, bold)</i>
+<br><br>
+<b>Hanoi – 202..</b>
+</center>
 
-![](media/image18.png){width="3.819444444444445e-2in"
-height="0.2861100174978128in"}
+**[付録2.2]{.underline} ：** 内表紙用テンプレート、サイズ~A4~ *（210×297mm）*
 
-![](media/image22.png){width="3.819444444444445e-2in"
-height="0.4041666666666667in"}
-
-**[付録2.2]{.underline} ：** 内表紙用テンプレート、サイズ~A4~
-*（210×297mm）*
-
-![](media/image19.png){width="6.709420384951881in"
-height="9.304166666666667in"}
-
-![](media/image7.png){width="3.819444444444445e-2in"
-height="0.2861100174978128in"}
+<center>
+VIETNAM NATIONAL UNIVERSITY, HANOI<br>
+VIETNAM JAPAN UNIVERSITY<br>
+FACULTY OF ..................................<br>
+<i>(Font Times New Roman, 13pt)</i>
+<br><br><br>
+<b>Student's Full Name</b><br>
+<i>(font Times New Roman, 14pt, bold)</i>
+<br><br><br>
+<b>THESIS TITLE</b><br>
+<i>(Times New Roman font, 18pt, bold)</i>
+<br><br><br>
+Bachelor in ...&lt;Major&gt;<br>
+(Honors Program)
+<br><br><br><br>
+<b>Supervisor(s):</b> .................................<br>
+<i>(Times New Roman font, 14pt, bold)</i>
+<br><br><br><br><br>
+<b>Hanoi - 202..</b>
+</center>
 
 **[付録2.3:]{.underline}参考文献のガイドライン**
 
@@ -157,16 +185,13 @@ mg/gで、ラングミュア吸着等温線に従いました。
 
 *3.1.1. 外カバー*
 
-![](media/image1.png){width="2.1180555555555554in"
 height="0.7951388888888888in"}
 
 日越大学
 
 **学部 ...................................................**
 
-![](media/image8.png){width="0.0in" height="1.3888888888888888e-2in"}
 
-![](media/image15.png){width="1.5972222222222223in"
 height="0.8680555555555556in"}
 
 **論文進捗記録**
@@ -256,9 +281,7 @@ height="0.8680555555555556in"}
 
 **日越大学 独立・自由・幸福**
 
-![](media/image17.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
-![](media/image16.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
 
 **学生の学習プロセスのレビュー**
@@ -285,7 +308,6 @@ height="1.0416666666666666e-2in"}
 
 > （*署名と氏名*）
 >
-> ![](media/image9.png){width="2.000277777777778in"
 > height="8.333333333333333e-3in"}
 >
 > ^1^***以下の提案に従ってコメントしてください*:**
@@ -303,9 +325,7 @@ height="1.0416666666666666e-2in"}
 
 **日越大学 独立・自由・幸福**
 
-![](media/image5.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
-![](media/image6.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
 
 **論文審査申請書**
@@ -340,9 +360,7 @@ height="1.0416666666666666e-2in"}
 
 **日越大学 独立・自由・幸福**
 
-![](media/image2.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
-![](media/image3.png){width="1.40625in"
 height="1.0416666666666666e-2in"}
 
 **学部論文審査**
@@ -411,8 +429,6 @@ height="1.0416666666666666e-2in"}
 
 **日越大学 独立・自由・幸福**
 
-![](media/image13.png){width="1.199912510936133e-2in"
-height="1.3888888888888888e-2in"}![](media/image23.png){width="0.0in"
 height="1.3888888888888888e-2in"}
 
 **学部論文審査評価シート**
@@ -478,8 +494,6 @@ height="1.3888888888888888e-2in"}
 
 **日越大学 独立・自由・幸福**
 
-![](media/image12.png){width="1.199912510936133e-2in"
-height="1.3888888888888888e-2in"}![](media/image11.png){width="0.0in"
 height="1.3888888888888888e-2in"}
 
 **学部論文の採点概要**
@@ -580,8 +594,6 @@ height="1.3888888888888888e-2in"}
 
 **日越大学 独立・自由・幸福**
 
-![](media/image10.png){width="1.199912510936133e-2in"
-height="1.3888888888888888e-2in"}![](media/image21.png){width="0.0in"
 height="1.3888888888888888e-2in"}
 
 # *ハノイ、日月年202\...*
@@ -645,8 +657,6 @@ height="1.3888888888888888e-2in"}
 
 **日越大学 独立・自由・幸福**
 
-![](media/image20.png){width="1.199912510936133e-2in"
-height="1.3888888888888888e-2in"}![](media/image14.png){width="0.0in"
 height="1.3888888888888888e-2in"}
 
 # *ハノイ、日月年202\...*
