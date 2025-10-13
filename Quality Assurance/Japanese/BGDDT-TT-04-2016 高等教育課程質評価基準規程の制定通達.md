@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-04-2016
-title: 通達
+title: BGDDT-TT-04-2016 高等教育課程質評価基準規程の制定通達
 issuer: Bộ Giáo dục và Đào tạo
 category: Quality Assurance
 issue_date: null

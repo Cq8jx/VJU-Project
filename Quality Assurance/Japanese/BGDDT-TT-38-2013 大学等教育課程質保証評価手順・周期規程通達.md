@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-38-2013
-title: 通達
+title: BGDDT-TT-38-2013 大学等教育課程質保証評価手順・周期規程通達
 issuer: Bộ Giáo dục và Đào tạo
 category: Quality Assurance
 issue_date: null

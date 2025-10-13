@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-39-2020
-title: 通達
+title: BGDDT-TT-39-2020 遠隔大学課程質保証基準通達
 issuer: Bộ Giáo dục và Đào tạo
 category: Quality Assurance
 issue_date: null
