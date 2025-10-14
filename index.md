@@ -100,6 +100,8 @@ nav_title: English
 
 This site centralizes related documents for VNU – Vietnam-Japan University. English is the default language; use the links above to switch to Vietnamese or Japanese indexes.
 
+This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.
+
 ## Quality Assurance
 
 {% assign qa_docs = site.data.quality_assurance_en %}

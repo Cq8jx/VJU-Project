@@ -100,6 +100,8 @@ nav_title: Vietnamese
 
 Trang này tổng hợp các tài liệu liên quan bằng tiếng Việt của Trường Đại học Việt Nhật – Đại học Quốc gia Hà Nội. Để xem bản tiếng Anh hoặc tiếng Nhật, vui lòng sử dụng liên kết chuyển ngữ phía trên.
 
+Trang này có thể xuất hiện các liên kết bị lỗi trong quá trình cập nhật. Nếu gặp tình trạng này, vui lòng truy cập kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng quy định.
+
 ## Đảm bảo chất lượng
 
 {% assign qa_docs_vi = site.data.quality_assurance_vi %}

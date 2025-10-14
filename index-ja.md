@@ -100,6 +100,8 @@ nav_title: Japanese
 
 VNU – Vietnam-Japan University 関連の日本語資料を集約しています。英語版やベトナム語版を閲覧する場合は、上部の切替リンクを利用してください。
 
+このページは更新作業などでリンクが切れていることがあります。その場合は https://github.com/Cq8jx/VJU-Project で各規程をご確認ください。
+
 ## 品質保証
 
 {% assign qa_docs_ja = site.data.quality_assurance_ja %}
