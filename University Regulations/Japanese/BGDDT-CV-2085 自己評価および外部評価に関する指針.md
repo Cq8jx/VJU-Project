@@ -1,6 +1,6 @@
 ---
 id: BGDDT-CV-2085
-title: BGDDT-CV-2085 自己評価および外部評価に関する指針
+title: 自己評価および外部評価に関する指針
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

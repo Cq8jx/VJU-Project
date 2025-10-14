@@ -1,6 +1,6 @@
 ---
 id: BGDDT-QD-4998
-title: BGDDT-QD-4998 教育訓練データベースに関する技術仕様
+title: 教育訓練データベースに関する技術仕様
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

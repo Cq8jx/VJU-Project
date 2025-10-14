@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-3638
-title: DHQGHN-QD-3638 Regulation on Doctoral Training
+title: Regulation on Doctoral Training
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

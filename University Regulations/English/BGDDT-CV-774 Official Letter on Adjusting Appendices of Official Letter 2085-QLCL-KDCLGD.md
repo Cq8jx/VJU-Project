@@ -1,6 +1,6 @@
 ---
 id: BGDDT-CV-774
-title: BGDDT-CV-774 Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD
+title: Official Letter on Adjusting Appendices of Official Letter 2085-QLCL-KDCLGD
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-2021-18
-title: BGDDT-TT-2021-18 Regulations on Admission and Training for Doctoral Degrees
+title: Regulations on Admission and Training for Doctoral Degrees
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

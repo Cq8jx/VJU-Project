@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-4618
-title: DHQGHN-QD-4618 奨学金の管理及び使用に関する規程
+title: 奨学金の管理及び使用に関する規程
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

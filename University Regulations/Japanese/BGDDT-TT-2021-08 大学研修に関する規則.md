@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-2021-08
-title: BGDDT-TT-2021-08 大学研修に関する規則
+title: 大学研修に関する規則
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-2021-08
-title: BGDDT-TT-2021-08 Regulation on Undergraduate Training
+title: Regulation on Undergraduate Training
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

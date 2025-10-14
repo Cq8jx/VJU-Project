@@ -1,6 +1,6 @@
 ---
 id: DHNN-TB-2184
-title: DHNN-TB-2184 VNU-TESTS実施計画通知
+title: VNU-TESTS実施計画通知
 issuer: Trường Đại học Ngoại ngữ, ĐHQGHN
 category: University Regulations
 issue_date: null

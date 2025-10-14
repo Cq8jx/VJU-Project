@@ -1,7 +1,7 @@
 ---
 id: DHVN-QD-1132
-title: DHVN-QD-1132 Decision on the Promulgation of Regulations on Examination Affairs
-  of Vietnam Japan University
+title: Decision on the Promulgation of Regulations on Examination Affairs of Vietnam
+  Japan University
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

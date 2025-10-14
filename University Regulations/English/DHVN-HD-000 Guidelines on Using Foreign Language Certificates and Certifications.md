@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-000
-title: DHVN-HD-000 Guidelines on Using Foreign Language Certificates and Certifications
+title: Guidelines on Using Foreign Language Certificates and Certifications
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

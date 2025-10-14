@@ -1,7 +1,7 @@
 ---
 id: BTC-TT-2013-111
-title: BTC-TT-2013-111 Circular guiding the implementation of the Law on Personal
-  Income Tax, its amendments, and Decree 65-2013-ND-CP
+title: Circular guiding the implementation of the Law on Personal Income Tax, its
+  amendments, and Decree 65-2013-ND-CP
 issuer: Bộ Tài chính
 category: University Regulations
 issue_date: null

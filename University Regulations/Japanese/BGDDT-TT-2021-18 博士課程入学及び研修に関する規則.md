@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-2021-18
-title: BGDDT-TT-2021-18 博士課程入学及び研修に関する規則
+title: 博士課程入学及び研修に関する規則
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

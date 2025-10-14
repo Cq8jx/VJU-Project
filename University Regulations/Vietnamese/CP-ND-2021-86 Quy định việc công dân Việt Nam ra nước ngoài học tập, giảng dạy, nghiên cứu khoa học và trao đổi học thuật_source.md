@@ -1,7 +1,7 @@
 ---
 id: CP-ND-2021-86
-title: CP-ND-2021-86 Quy định việc công dân Việt Nam ra nước ngoài học tập, giảng
-  dạy, nghiên cứu khoa học và trao đổi học thuật_source
+title: Quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu
+  khoa học và trao đổi học thuật_source
 issuer: Chính phủ
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-4455
-title: DHQGHN-QD-4455 卒業証書等の管理に関する規則
+title: 卒業証書等の管理に関する規則
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

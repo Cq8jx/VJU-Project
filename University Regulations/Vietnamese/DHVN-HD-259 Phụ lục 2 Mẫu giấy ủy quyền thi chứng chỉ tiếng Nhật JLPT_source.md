@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259
-title: DHVN-HD-259 Phụ lục 2 Mẫu giấy ủy quyền thi chứng chỉ tiếng Nhật JLPT_source
+title: Phụ lục 2 Mẫu giấy ủy quyền thi chứng chỉ tiếng Nhật JLPT_source
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

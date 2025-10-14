@@ -1,6 +1,6 @@
 ---
 id: BGDDT-TT-2024-01
-title: BGDDT-TT-2024-01 高等教育機関基準の制定通達
+title: 高等教育機関基準の制定通達
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

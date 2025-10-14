@@ -1,7 +1,7 @@
 ---
 id: BGDDT-TT-2021-17
-title: BGDDT-TT-2021-17 Quy định về chuẩn chương trình đào tạo, xây dựng, thẩm định
-  và ban hành chương trình đào tạo các trình độ của giáo dục đại học_source
+title: Quy định về chuẩn chương trình đào tạo, xây dựng, thẩm định và ban hành chương
+  trình đào tạo các trình độ của giáo dục đại học_source
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

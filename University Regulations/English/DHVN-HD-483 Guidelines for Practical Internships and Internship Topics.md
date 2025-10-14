@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-483
-title: DHVN-HD-483 Guidelines for Practical Internships and Internship Topics
+title: Guidelines for Practical Internships and Internship Topics
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

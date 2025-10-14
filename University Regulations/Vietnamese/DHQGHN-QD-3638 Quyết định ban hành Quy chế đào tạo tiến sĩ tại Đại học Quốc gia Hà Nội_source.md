@@ -1,7 +1,6 @@
 ---
 id: DHQGHN-QD-3638
-title: DHQGHN-QD-3638 Quyết định ban hành Quy chế đào tạo tiến sĩ tại Đại học Quốc
-  gia Hà Nội_source
+title: Quyết định ban hành Quy chế đào tạo tiến sĩ tại Đại học Quốc gia Hà Nội_source
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

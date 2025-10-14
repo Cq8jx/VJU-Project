@@ -1,7 +1,6 @@
 ---
 id: BGDDT-QD-4998
-title: BGDDT-QD-4998 Quy định kỹ thuật về dữ liệu của cơ sở dữ liệu giáo dục và đào
-  tạo_source
+title: Quy định kỹ thuật về dữ liệu của cơ sở dữ liệu giáo dục và đào tạo_source
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

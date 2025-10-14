@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259
-title: DHVN-HD-259 付録1 外国語証明書換算表
+title: 付録1 外国語証明書換算表
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

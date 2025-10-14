@@ -1,6 +1,6 @@
 ---
 id: DHVN-TB-1010
-title: DHVN-TB-1010 英語証明書提出通知 VJU2025
+title: 英語証明書提出通知 VJU2025
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

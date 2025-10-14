@@ -1,6 +1,6 @@
 ---
 id: DHVN-TB-911
-title: DHVN-TB-911 外国語証明書提出通知 VJU2024
+title: 外国語証明書提出通知 VJU2024
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

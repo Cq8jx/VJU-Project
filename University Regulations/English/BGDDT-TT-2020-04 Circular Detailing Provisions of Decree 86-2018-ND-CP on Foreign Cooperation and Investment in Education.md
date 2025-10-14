@@ -1,7 +1,7 @@
 ---
 id: BGDDT-TT-2020-04
-title: BGDDT-TT-2020-04 Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign
-  Cooperation and Investment in Education
+title: Circular Detailing Provisions of Decree 86-2018-ND-CP on Foreign Cooperation
+  and Investment in Education
 issuer: Bộ Giáo dục và Đào tạo
 category: University Regulations
 issue_date: null

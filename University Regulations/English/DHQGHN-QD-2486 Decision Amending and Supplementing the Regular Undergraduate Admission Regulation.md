@@ -1,7 +1,6 @@
 ---
 id: DHQGHN-QD-2486
-title: DHQGHN-QD-2486 Decision Amending and Supplementing the Regular Undergraduate
-  Admission Regulation
+title: Decision Amending and Supplementing the Regular Undergraduate Admission Regulation
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

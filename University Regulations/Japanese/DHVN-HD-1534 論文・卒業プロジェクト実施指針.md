@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-1534
-title: DHVN-HD-1534 論文・卒業プロジェクト実施指針
+title: 論文・卒業プロジェクト実施指針
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

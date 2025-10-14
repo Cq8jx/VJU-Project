@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-4455
-title: DHQGHN-QD-4455 Regulation on Management of Diplomas and Certificates
+title: Regulation on Management of Diplomas and Certificates
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-259
-title: DHVN-HD-259 Appendix 2 JLPT Authorization Letter Template
+title: Appendix 2 JLPT Authorization Letter Template
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

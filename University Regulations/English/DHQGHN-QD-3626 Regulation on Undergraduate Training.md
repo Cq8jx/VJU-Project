@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-3626
-title: DHQGHN-QD-3626 Regulation on Undergraduate Training
+title: Regulation on Undergraduate Training
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHVN-HD-1534
-title: DHVN-HD-1534 Phụ lục biểu mẫu khóa luận tiếng Anh_source
+title: Phụ lục biểu mẫu khóa luận tiếng Anh_source
 issuer: Trường Đại học Việt Nhật
 category: University Regulations
 issue_date: null

@@ -1,6 +1,6 @@
 ---
 id: DHQGHN-QD-2459
-title: DHQGHN-QD-2459 修士課程教育規程改正決定（DHQGHN-QD-3636で公布された規程を改正する決定）
+title: 修士課程教育規程改正決定（DHQGHN-QD-3636で公布された規程を改正する決定）
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null

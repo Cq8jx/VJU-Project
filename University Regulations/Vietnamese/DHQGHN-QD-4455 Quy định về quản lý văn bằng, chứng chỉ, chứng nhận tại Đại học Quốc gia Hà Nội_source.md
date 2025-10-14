@@ -1,7 +1,7 @@
 ---
 id: DHQGHN-QD-4455
-title: DHQGHN-QD-4455 Quy định về quản lý văn bằng, chứng chỉ, chứng nhận tại Đại
-  học Quốc gia Hà Nội_source
+title: Quy định về quản lý văn bằng, chứng chỉ, chứng nhận tại Đại học Quốc gia Hà
+  Nội_source
 issuer: Đại học Quốc gia Hà Nội
 category: University Regulations
 issue_date: null
