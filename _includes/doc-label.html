@@ -21,4 +21,7 @@
 {% elsif doc_title == '' %}
   {% assign display_title = '' %}
 {% endif %}
-{{ doc_id }}{% if display_title != '' %} — {{ display_title }}{% endif %}
+{% capture doc_label -%}
+{{- doc_id -}}{% if display_title != '' %} — {{ display_title }}{% endif %}
+{%- endcapture %}
+{{- doc_label -}}

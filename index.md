@@ -98,7 +98,7 @@ nav_title: English
 
 # Related Documents
 
-This site centralizes related documents for VNU – Vietnam-Japan University. English is the default language; use the links above to switch to Japanese or Vietnamese indexes.
+This site centralizes related documents for VNU – Vietnam-Japan University. English is the default language; use the links above to switch to Vietnamese or Japanese indexes.
 
 ## Quality Assurance
 
