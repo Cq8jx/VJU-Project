@@ -1,5 +1,5 @@
 ---
-title: Tài liệu Dự án VJU
+title: Tài liệu liên quan
 lang: vi
 layout: page
 permalink: /vi/
@@ -96,15 +96,15 @@ nav_title: Vietnamese
   <a href="{{ '/ja/' | relative_url }}">JA</a>
 </div>
 
-# Tài liệu Dự án VJU
+# Tài liệu liên quan
 
-Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại học Việt Nhật – Đại học Quốc gia Hà Nội. Để xem bản tiếng Anh hoặc tiếng Nhật, vui lòng sử dụng liên kết chuyển ngữ phía trên.
+Trang này tổng hợp các tài liệu liên quan bằng tiếng Việt của Trường Đại học Việt Nhật – Đại học Quốc gia Hà Nội. Để xem bản tiếng Anh hoặc tiếng Nhật, vui lòng sử dụng liên kết chuyển ngữ phía trên.
 
 ## Đảm bảo chất lượng
 
 {% assign qa_docs_vi = site.data.quality_assurance_vi %}
 {% for doc in qa_docs_vi %}
-- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## Quy định của trường
@@ -115,7 +115,7 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
   <div class="collection-toggle__body">
     <ul class="document-list">
     {% for doc in regulations_vi %}
-      <li><a href="{{ doc.url | relative_url }}">{{ doc.id }} — {{ doc.title }}</a></li>
+      <li><a href="{{ doc.url | relative_url }}">{% include doc-label.html doc=doc %}</a></li>
     {% endfor %}
     </ul>
   </div>
@@ -125,7 +125,7 @@ Trang này tổng hợp các tài liệu tiếng Việt của Trường Đại h
 
 {% assign reports_vi = site.data.public_report_2025_vi %}
 {% for doc in reports_vi %}
-- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## Hướng dẫn

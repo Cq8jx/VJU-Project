@@ -1,5 +1,5 @@
 ---
-title: VJU プロジェクト文書
+title: 関連資料（日本語）
 lang: ja
 layout: page
 permalink: /ja/
@@ -96,15 +96,15 @@ nav_title: Japanese
   <strong>JA</strong>
 </div>
 
-# VJU プロジェクト文書
+# 関連資料（日本語）
 
-VNU – Vietnam-Japan University 関連の日本語資料にアクセスできます。英語版やベトナム語版を閲覧する場合は、上部の切替リンクを利用してください。
+VNU – Vietnam-Japan University 関連の日本語資料を集約しています。英語版やベトナム語版を閲覧する場合は、上部の切替リンクを利用してください。
 
 ## 品質保証
 
 {% assign qa_docs_ja = site.data.quality_assurance_ja %}
 {% for doc in qa_docs_ja %}
-- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## 大学規程
@@ -115,7 +115,7 @@ VNU – Vietnam-Japan University 関連の日本語資料にアクセスでき�
   <div class="collection-toggle__body">
     <ul class="document-list">
     {% for doc in regulations_ja %}
-      <li><a href="{{ doc.url | relative_url }}">{{ doc.id }} — {{ doc.title }}</a></li>
+      <li><a href="{{ doc.url | relative_url }}">{% include doc-label.html doc=doc %}</a></li>
     {% endfor %}
     </ul>
   </div>
@@ -125,7 +125,7 @@ VNU – Vietnam-Japan University 関連の日本語資料にアクセスでき�
 
 {% assign reports_ja = site.data.public_report_2025_ja %}
 {% for doc in reports_ja %}
-- [{{ doc.id }} — {{ doc.title }}]({{ doc.url | relative_url }})
+- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## ガイドライン
