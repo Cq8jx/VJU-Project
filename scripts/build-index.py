@@ -34,7 +34,7 @@ LANGUAGE_MAP: Dict[str, str] = {
 class DocumentEntry:
     identifier: str
     title: str
-    filename: str
+    filename: str  # HTML filename for link targets
     url: str
 
 
@@ -75,12 +75,13 @@ def build_document_list(base_dir: Path, language: str) -> List[DocumentEntry]:
         identifier = str(front.get("id", path.stem))
         title = str(front.get("title", path.stem))
 
-        relative_url = f"/University Regulations/{language}/{path.name}"
+        html_name = f"{path.stem}.html"
+        relative_url = f"/University Regulations/{language}/{html_name}"
         docs.append(
             DocumentEntry(
                 identifier=identifier,
                 title=title,
-                filename=path.name,
+                filename=html_name,
                 url=relative_url,
             )
         )
