@@ -1,31 +1,31 @@
-{% assign doc_id = include.doc.id | default: '' %}
-{% assign doc_title = include.doc.title | default: '' %}
-{% assign display_title = doc_title %}
-{% if doc_id != '' and doc_title != '' %}
-  {% assign id_length = doc_id | size %}
-  {% assign title_prefix = doc_title | slice: 0, id_length %}
-  {% if title_prefix == doc_id %}
-    {% assign doc_title_length = doc_title | size %}
-    {% assign display_title = doc_title | slice: id_length, doc_title_length %}
-    {% assign display_title = display_title | strip %}
-    {% if display_title != '' %}
-      {% assign display_title = display_title | replace_first: '— ', '' %}
-      {% assign display_title = display_title | replace_first: '– ', '' %}
-      {% assign display_title = display_title | replace_first: '- ', '' %}
-      {% assign display_title = display_title | replace_first: '—', '' %}
-      {% assign display_title = display_title | replace_first: '–', '' %}
-      {% assign display_title = display_title | replace_first: '-', '' %}
-      {% assign display_title = display_title | strip %}
-    {% endif %}
-  {% endif %}
-{% elsif doc_title == '' %}
-  {% assign display_title = '' %}
-{% endif %}
-{% if doc_id == '' %}
-  {% assign doc_label = display_title %}
-{% elsif display_title == '' %}
-  {% assign doc_label = doc_id %}
-{% else %}
-  {% assign doc_label = doc_id | append: ' — ' | append: display_title %}
-{% endif %}
+{%- assign doc_id = include.doc.id | default: '' -%}
+{%- assign doc_title = include.doc.title | default: '' -%}
+{%- assign display_title = doc_title -%}
+{%- if doc_id != '' and doc_title != '' -%}
+  {%- assign id_length = doc_id | size -%}
+  {%- assign title_prefix = doc_title | slice: 0, id_length -%}
+  {%- if title_prefix == doc_id -%}
+    {%- assign doc_title_length = doc_title | size -%}
+    {%- assign display_title = doc_title | slice: id_length, doc_title_length -%}
+    {%- assign display_title = display_title | strip -%}
+    {%- if display_title != '' -%}
+      {%- assign display_title = display_title | replace_first: '— ', '' -%}
+      {%- assign display_title = display_title | replace_first: '– ', '' -%}
+      {%- assign display_title = display_title | replace_first: '- ', '' -%}
+      {%- assign display_title = display_title | replace_first: '—', '' -%}
+      {%- assign display_title = display_title | replace_first: '–', '' -%}
+      {%- assign display_title = display_title | replace_first: '-', '' -%}
+      {%- assign display_title = display_title | strip -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- elsif doc_title == '' -%}
+  {%- assign display_title = '' -%}
+{%- endif -%}
+{%- if doc_id == '' -%}
+  {%- assign doc_label = display_title -%}
+{%- elsif display_title == '' -%}
+  {%- assign doc_label = doc_id -%}
+{%- else -%}
+  {%- assign doc_label = doc_id | append: ' — ' | append: display_title -%}
+{%- endif -%}
 {{- doc_label | strip -}}
