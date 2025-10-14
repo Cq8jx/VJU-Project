@@ -104,7 +104,7 @@ This site centralizes related documents for VNU – Vietnam-Japan University. En
 
 {% assign qa_docs = site.data.quality_assurance_en %}
 {% for doc in qa_docs %}
-- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
+- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## University Regulations
@@ -115,7 +115,7 @@ This site centralizes related documents for VNU – Vietnam-Japan University. En
   <div class="collection-toggle__body">
     <ul class="document-list">
     {% for doc in regulations %}
-      <li><a href="{{ doc.url | relative_url }}">{% include doc-label.html doc=doc %}</a></li>
+      <li><a href="{{ doc.url | relative_url }}">{%- include doc-label.html doc=doc -%}</a></li>
     {% endfor %}
     </ul>
   </div>
@@ -125,7 +125,7 @@ This site centralizes related documents for VNU – Vietnam-Japan University. En
 
 {% assign report_docs = site.data.public_report_2025_en %}
 {% for doc in report_docs %}
-- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
+- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## Guides

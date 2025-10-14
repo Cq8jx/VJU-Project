@@ -104,7 +104,7 @@ Trang này tổng hợp các tài liệu liên quan bằng tiếng Việt của 
 
 {% assign qa_docs_vi = site.data.quality_assurance_vi %}
 {% for doc in qa_docs_vi %}
-- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
+- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## Quy định của trường
@@ -115,7 +115,7 @@ Trang này tổng hợp các tài liệu liên quan bằng tiếng Việt của 
   <div class="collection-toggle__body">
     <ul class="document-list">
     {% for doc in regulations_vi %}
-      <li><a href="{{ doc.url | relative_url }}">{% include doc-label.html doc=doc %}</a></li>
+      <li><a href="{{ doc.url | relative_url }}">{%- include doc-label.html doc=doc -%}</a></li>
     {% endfor %}
     </ul>
   </div>
@@ -125,7 +125,7 @@ Trang này tổng hợp các tài liệu liên quan bằng tiếng Việt của 
 
 {% assign reports_vi = site.data.public_report_2025_vi %}
 {% for doc in reports_vi %}
-- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
+- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## Hướng dẫn

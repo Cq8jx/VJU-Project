@@ -9,7 +9,7 @@
 <ul class="document-list">
   {% for doc in regs %}
   <li>
-    <a href="{{ doc.url | relative_url }}">{% include doc-label.html doc=doc %}</a>
+    <a href="{{ doc.url | relative_url }}">{%- include doc-label.html doc=doc -%}</a>
   </li>
   {% endfor %}
 </ul>

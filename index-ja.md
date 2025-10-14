@@ -104,7 +104,7 @@ VNU – Vietnam-Japan University 関連の日本語資料を集約していま�
 
 {% assign qa_docs_ja = site.data.quality_assurance_ja %}
 {% for doc in qa_docs_ja %}
-- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
+- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## 大学規程
@@ -115,7 +115,7 @@ VNU – Vietnam-Japan University 関連の日本語資料を集約していま�
   <div class="collection-toggle__body">
     <ul class="document-list">
     {% for doc in regulations_ja %}
-      <li><a href="{{ doc.url | relative_url }}">{% include doc-label.html doc=doc %}</a></li>
+      <li><a href="{{ doc.url | relative_url }}">{%- include doc-label.html doc=doc -%}</a></li>
     {% endfor %}
     </ul>
   </div>
@@ -125,7 +125,7 @@ VNU – Vietnam-Japan University 関連の日本語資料を集約していま�
 
 {% assign reports_ja = site.data.public_report_2025_ja %}
 {% for doc in reports_ja %}
-- [{% include doc-label.html doc=doc %}]({{ doc.url | relative_url }})
+- [{%- include doc-label.html doc=doc -%}]({{ doc.url | relative_url }})
 {% endfor %}
 
 ## ガイドライン
