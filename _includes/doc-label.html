@@ -21,7 +21,11 @@
 {% elsif doc_title == '' %}
   {% assign display_title = '' %}
 {% endif %}
-{% capture doc_label -%}
-{{- doc_id -}}{% if display_title != '' %} — {{ display_title }}{% endif %}
-{%- endcapture %}
-{{- doc_label -}}
+{% if doc_id == '' %}
+  {% assign doc_label = display_title %}
+{% elsif display_title == '' %}
+  {% assign doc_label = doc_id %}
+{% else %}
+  {% assign doc_label = doc_id | append: ' — ' | append: display_title %}
+{% endif %}
+{{- doc_label | strip -}}
