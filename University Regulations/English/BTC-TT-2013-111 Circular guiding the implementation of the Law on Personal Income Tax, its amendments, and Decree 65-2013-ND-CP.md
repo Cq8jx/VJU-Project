@@ -23,6 +23,10 @@ lang: en
   <p><em>Layout and table contents may deviate from the official gazette because of technical limitations during recognition.</em></p>
 </div>
 
+<div class="source-note" role="note" aria-label="Link notice">
+  <p><strong>Link availability.</strong> This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.</p>
+</div>
+
 *Note: The present translation covers Article 1. Remaining provisions will be translated in a subsequent update.*
 
 ---

@@ -22,6 +22,10 @@ lang: vi
   <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
 </div>
 
+<div class="source-note" role="note" aria-label="Thông báo liên kết">
+  <p><strong>Thông báo liên kết.</strong> Trong quá trình cập nhật, trang này có thể tạm thời xuất hiện liên kết lỗi. Khi gặp trường hợp đó, vui lòng truy cập trực tiếp kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng văn bản.</p>
+</div>
+
 **Phụ lục 2: Bố cục khóa luận và đồ án tốt nghiệp**
 
 **[Phụ lục 2.1]{.underline} :** Mẫu bìa ngoài khóa luận có in chữ nhũ, khổ ~A4~ *(210 x 297 mm)*

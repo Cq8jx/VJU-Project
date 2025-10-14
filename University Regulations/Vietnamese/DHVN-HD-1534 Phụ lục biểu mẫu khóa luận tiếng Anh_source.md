@@ -22,6 +22,10 @@ lang: vi
   <p><em>Việc nhận dạng bảng gặp khó khăn về mặt kỹ thuật nên bố cục và nội dung bảng có thể không hoàn toàn chính xác.</em></p>
 </div>
 
+<div class="source-note" role="note" aria-label="Thông báo liên kết">
+  <p><strong>Thông báo liên kết.</strong> Trong quá trình cập nhật, trang này có thể tạm thời xuất hiện liên kết lỗi. Khi gặp trường hợp đó, vui lòng truy cập trực tiếp kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng văn bản.</p>
+</div>
+
 **Phụ lục 2: Định dạng khóa luận đại học**
 
 <em>Mẫu trình bày giữ nguyên tiếng Anh theo biểu mẫu gốc.</em>

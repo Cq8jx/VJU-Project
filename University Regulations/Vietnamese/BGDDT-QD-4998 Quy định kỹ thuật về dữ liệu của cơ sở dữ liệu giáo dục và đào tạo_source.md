@@ -23,6 +23,9 @@ lang: vi
   <p><em>Do tài liệu gốc chứa một lượng lớn các bảng quy định kỹ thuật chi tiết, để có thông tin đầy đủ và chính xác nhất, vui lòng tham khảo trực tiếp tại trang web chính thức đã nêu.</em></p>
 </div>
 
+<div class="source-note" role="note" aria-label="Thông báo liên kết">
+  <p><strong>Thông báo liên kết.</strong> Trong quá trình cập nhật, trang này có thể tạm thời xuất hiện liên kết lỗi. Khi gặp trường hợp đó, vui lòng truy cập trực tiếp kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng văn bản.</p>
+</div>
 
 ---
 

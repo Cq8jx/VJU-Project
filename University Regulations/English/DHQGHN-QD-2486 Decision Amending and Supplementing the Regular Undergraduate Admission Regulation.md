@@ -22,6 +22,10 @@ lang: en
   <p><em>Table recognition faced technical difficulties, so the layout and content of the tables may not be completely accurate.</em></p>
 </div>
 
+<div class="source-note" role="note" aria-label="Link notice">
+  <p><strong>Link availability.</strong> This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.</p>
+</div>
+
 ---
 
 **VIETNAM NATIONAL UNIVERSITY, HANOI**

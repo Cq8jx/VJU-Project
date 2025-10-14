@@ -22,6 +22,10 @@ lang: ja
   <p><em>表の認識には技術的な困難があったため、表のレイアウトおよび内容が完全に正確でない場合があります。</em></p>
 </div>
 
+<div class="source-note" role="note" aria-label="リンク注意">
+  <p><strong>リンク注意。</strong> このページは更新作業中のため一時的にリンク切れが発生する場合があります。その際は https://github.com/Cq8jx/VJU-Project のリポジトリを直接参照し、各規程ファイルをご確認ください。</p>
+</div>
+
 ---
 
 **ベトナム国家大学ハノイ校**

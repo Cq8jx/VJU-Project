@@ -16,7 +16,14 @@ version:
 - vi
 lang: en
 ---
-This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.
+<div class="source-note" role="note" aria-label="Source note">
+  <p><strong>Source note.</strong> This file is a text transcription of the information published at https://vju.vnu.edu.vn/tai-lieu-va-huong-dan/, and the authoritative content is the version available there.</p>
+  <p><em>Table recognition encountered technical limitations; table layouts may not be fully accurate.</em></p>
+</div>
+
+<div class="source-note" role="note" aria-label="Link notice">
+  <p><strong>Link availability.</strong> This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.</p>
+</div>
 
 **Vietnam National University, Hanoi** **VIETNAM-JAPAN UNIVERSITY**
 

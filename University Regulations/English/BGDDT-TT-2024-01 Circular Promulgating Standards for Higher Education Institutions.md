@@ -17,8 +17,14 @@ tags:
 - university-regulations
 lang: en
 ---
-This file is a text transcription of the information published at https://chinhphu.vn/?pageid=27160&docid=209786&classid=1, and the authoritative content is the version available there.
-Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.
+<div class="source-note" role="note" aria-label="Source note">
+  <p><strong>Source note.</strong> This file is a text transcription of the information published at https://chinhphu.vn/?pageid=27160&docid=209786&classid=1, and the authoritative content is the version available there.</p>
+  <p><em>Table recognition is technically challenging, so table layouts and contents may not be perfectly accurate.</em></p>
+</div>
+
+<div class="source-note" role="note" aria-label="Link notice">
+  <p><strong>Link availability.</strong> This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.</p>
+</div>
 
 ---
 

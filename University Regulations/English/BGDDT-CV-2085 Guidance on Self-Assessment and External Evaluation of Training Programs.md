@@ -23,6 +23,10 @@ lang: en
   <p><em>The source material contains many detailed technical specifications, so please consult the cited official website directly for the most complete and accurate information.</em></p>
 </div>
 
+<div class="source-note" role="note" aria-label="Link notice">
+  <p><strong>Link availability.</strong> This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.</p>
+</div>
+
 ---
 
 ### **MINISTRY OF EDUCATION AND TRAINING**

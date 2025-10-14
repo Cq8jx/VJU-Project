@@ -23,6 +23,9 @@ lang: vi
   <p><em>**Lưu ý hiệu lực:** Quy chế này đã hết hiệu lực và được thay thế bởi Quy chế đào tạo đại học ban hành kèm theo Quyết định số 3626/QĐ-ĐHQGHN ngày 21 tháng 10 năm 2022.</em></p>
 </div>
 
+<div class="source-note" role="note" aria-label="Thông báo liên kết">
+  <p><strong>Thông báo liên kết.</strong> Trong quá trình cập nhật, trang này có thể tạm thời xuất hiện liên kết lỗi. Khi gặp trường hợp đó, vui lòng truy cập trực tiếp kho lưu trữ tại https://github.com/Cq8jx/VJU-Project để xem từng văn bản.</p>
+</div>
 
 ---
 

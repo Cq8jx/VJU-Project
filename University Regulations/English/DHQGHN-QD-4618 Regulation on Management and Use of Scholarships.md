@@ -17,8 +17,14 @@ version:
 - vi
 lang: en
 ---
-This file is based on https://ussh.vnu.edu.vn/vi/van-ban/detail/Quy-dinh-ve-cong-tac-quan-ly-va-su-dung-hoc-bong-tai-Dai-hoc-Quoc-gia-Ha-Noi-19468/, and its contents rely on the information published on that website.
-Because of technical challenges in recognizing tables, table layouts and contents may not be entirely accurate.
+<div class="source-note" role="note" aria-label="Source note">
+  <p><strong>Source note.</strong> This file is based on https://ussh.vnu.edu.vn/vi/van-ban/detail/Quy-dinh-ve-cong-tac-quan-ly-va-su-dung-hoc-bong-tai-Dai-hoc-Quoc-gia-Ha-Noi-19468/, and its contents rely on the information published on that website.</p>
+  <p><em>Because of technical challenges in recognizing tables, table layouts and contents may not be entirely accurate.</em></p>
+</div>
+
+<div class="source-note" role="note" aria-label="Link notice">
+  <p><strong>Link availability.</strong> This page may temporarily contain broken links while updates are in progress. If that happens, please refer directly to the repository at https://github.com/Cq8jx/VJU-Project to access each regulation file.</p>
+</div>
 
 ---
 
