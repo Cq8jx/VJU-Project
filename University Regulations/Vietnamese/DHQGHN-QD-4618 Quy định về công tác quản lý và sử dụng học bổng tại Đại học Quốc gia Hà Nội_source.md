@@ -1,15 +1,9 @@
 ---
 id: DHQGHN-QD-4618
 title: Quy định về công tác quản lý và sử dụng học bổng tại Đại học Quốc gia Hà Nội_source
-issuer: Đại học Quốc gia Hà Nội
+issuer: Vietnam National University, Hanoi
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
