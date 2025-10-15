@@ -1,15 +1,9 @@
 ---
 id: DHQGHN-QD-3638
 title: Regulation on Doctoral Training
-issuer: Đại học Quốc gia Hà Nội
+issuer: Vietnam National University, Hanoi
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
