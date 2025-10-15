@@ -1,15 +1,9 @@
 ---
 id: DHQGHN-QD-3626
 title: 学部教育に関する規則
-issuer: Đại học Quốc gia Hà Nội
+issuer: Vietnam National University, Hanoi
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
