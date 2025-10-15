@@ -1,15 +1,9 @@
 ---
 id: DHQGHN-QD-2486
 title: 正規学部入学規程改正決定
-issuer: Đại học Quốc gia Hà Nội
+issuer: Vietnam National University, Hanoi
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
