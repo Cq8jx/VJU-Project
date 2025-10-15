@@ -1,15 +1,9 @@
 ---
 id: BGDDT-CV-774
 title: 公文2085-QLCL-KDCLGD付属書の調整に関する公文
-issuer: Bộ Giáo dục và Đào tạo
+issuer: Ministry of Education and Training
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
