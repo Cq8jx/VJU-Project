@@ -1,15 +1,9 @@
 ---
 id: DHQGHN-QD-4455
 title: Regulation on Management of Diplomas and Certificates
-issuer: Đại học Quốc gia Hà Nội
+issuer: Vietnam National University, Hanoi
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
