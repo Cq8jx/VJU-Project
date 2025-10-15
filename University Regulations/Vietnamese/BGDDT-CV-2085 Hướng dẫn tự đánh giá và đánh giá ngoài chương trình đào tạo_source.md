@@ -1,15 +1,9 @@
 ---
 id: BGDDT-CV-2085
 title: Hướng dẫn tự đánh giá và đánh giá ngoài chương trình đào tạo_source
-issuer: Bộ Giáo dục và Đào tạo
+issuer: Ministry of Education and Training
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
