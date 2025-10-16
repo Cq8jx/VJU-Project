@@ -1,15 +1,9 @@
 ---
-id: DHVN-HD-259
+id: DHVN-HD-259 Annex 1.
 title: Phụ lục 1 Bảng tham chiếu quy đổi chứng chỉ ngoại ngữ_source
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja

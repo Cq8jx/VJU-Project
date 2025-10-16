@@ -1,15 +1,9 @@
 ---
-id: DHVN-HD-259
+id: DHVN-HD-259 Annex 1.
 title: 付録1 外国語証明書換算表
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
