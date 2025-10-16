@@ -1,16 +1,12 @@
 ---
 id: DHVN-QD-1132
 title: Về việc ban hành Quy định về công tác khảo thí của Trường Đại học Việt Nhật_source
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
+- en
+- ja
 - source
 - vi
 lang: vi

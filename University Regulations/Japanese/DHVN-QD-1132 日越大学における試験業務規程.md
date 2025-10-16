@@ -1,18 +1,14 @@
 ---
 id: DHVN-QD-1132
 title: 日越大学における試験業務規程
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
+- en
 - ja
 - source
+- vi
 lang: ja
 ---
 # 試験業務規程
