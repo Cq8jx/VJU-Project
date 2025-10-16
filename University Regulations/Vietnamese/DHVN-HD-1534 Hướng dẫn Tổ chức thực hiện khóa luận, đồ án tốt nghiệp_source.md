@@ -1,15 +1,9 @@
 ---
 id: DHVN-HD-1534
 title: Hướng dẫn Tổ chức thực hiện khóa luận, đồ án tốt nghiệp_source
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja

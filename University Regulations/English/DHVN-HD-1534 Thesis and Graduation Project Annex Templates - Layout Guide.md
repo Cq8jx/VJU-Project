@@ -1,15 +1,9 @@
 ---
 id: DHVN-HD-1534
 title: Thesis and Graduation Project Annex Templates - Layout Guide
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
