@@ -1,19 +1,14 @@
 ---
 id: DHVN-HD-000
 title: 外国語証明書活用指針 VJU2022以降
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
 - vi
+- source
 lang: ja
 ---
 <div class="source-note" role="note" aria-label="出典メモ">

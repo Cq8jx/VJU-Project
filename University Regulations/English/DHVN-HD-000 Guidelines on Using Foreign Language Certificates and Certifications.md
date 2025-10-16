@@ -1,19 +1,14 @@
 ---
 id: DHVN-HD-000
 title: Guidelines on Using Foreign Language Certificates and Certifications
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
 - vi
+- source
 lang: en
 ---
 <div class="source-note" role="note" aria-label="Source note">
