@@ -1,15 +1,9 @@
 ---
 id: DHVN-HD-304
 title: 学習成果認定・単位互換指針
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
