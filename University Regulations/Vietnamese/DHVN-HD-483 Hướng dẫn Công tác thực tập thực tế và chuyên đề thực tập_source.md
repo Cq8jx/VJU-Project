@@ -1,15 +1,9 @@
 ---
 id: DHVN-HD-483
 title: Hướng dẫn Công tác thực tập thực tế và chuyên đề thực tập_source
-issuer: Trường Đại học Việt Nhật
+issuer: VNU – Vietnam-Japan University
 category: University Regulations
-issue_date: null
-status: active
-replaces: []
-replaced_by: []
-revision_history: []
-tags:
-- university-regulations
+status: Official
 version:
 - en
 - ja
