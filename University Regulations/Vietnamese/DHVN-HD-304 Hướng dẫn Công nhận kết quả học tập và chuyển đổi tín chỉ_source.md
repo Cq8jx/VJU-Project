@@ -1,9 +1,15 @@
 ---
 id: DHVN-HD-304
 title: Hướng dẫn Công nhận kết quả học tập và chuyển đổi tín chỉ_source
-issuer: VNU – Vietnam-Japan University
+issuer: Trường Đại học Việt Nhật
 category: University Regulations
-status: Official
+issue_date: null
+status: active
+replaces: []
+replaced_by: []
+revision_history: []
+tags:
+- university-regulations
 version:
 - en
 - ja
